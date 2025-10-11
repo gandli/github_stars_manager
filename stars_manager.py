@@ -102,11 +102,11 @@ def fetch_starred_repos_sorted_asc(
 
 
 # --------- Zhipu AI analysis (OpenAI-style) ---------
-ZHIPU_BASE_URL = os.environ.get("ZHIPU_BASE_URL", "https://open.bigmodel.cn/api/paas/v4/")
+BASE_URL = os.environ.get("ZHIPU_BASE_URL")
 
 
-# --------- Fixed categories ---------
-ALLOWED_CATEGORIES = [
+# --------- Categories configuration (flexible) ---------
+DEFAULT_ALLOWED_CATEGORIES = [
     "Web应用",
     "移动应用",
     "桌面应用",
@@ -122,8 +122,66 @@ ALLOWED_CATEGORIES = [
     "数据分析",
 ]
 
+DEFAULT_CATEGORY_RULES: Dict[str, List[str]] = {
+    "Web应用": [
+        "web", "http", "rest", "frontend", "backend", "website", "spa",
+        "vue", "react", "svelte", "nextjs", "nuxt",
+    ],
+    "移动应用": ["android", "ios", "mobile", "apk", "react native", "flutter", "cordova"],
+    "桌面应用": ["desktop", "electron", "qt", "gtk", "win32", "macos", "wxwidgets"],
+    "数据库": ["database", "db", "sql", "nosql", "postgres", "mysql", "mongodb", "redis", "cassandra", "sqlite"],
+    "AI/机器学习": ["machine learning", "ml", "ai", "deep learning", "transformer", "llm", "pytorch", "tensorflow", "keras"],
+    "开发工具": ["dev", "developer", "sdk", "library", "framework", "build", "compile", "cli", "lint", "ci", "testing", "tool"],
+    "安全工具": ["security", "vuln", "pentest", "penetration", "exploit", "auth", "encryption", "ssl", "xss", "cve"],
+    "游戏": ["game", "gaming", "unity", "unreal", "godot"],
+    "设计工具": ["design", "ui", "ux", "figma", "sketch", "graphics", "svg", "illustration"],
+    "效率工具": ["productivity", "todo", "note", "task", "calendar", "automation", "workflow"],
+    "教育学习": ["education", "learn", "learning", "tutorial", "course", "teaching", "docs", "examples"],
+    "社交网络": ["social", "network", "chat", "messaging", "community", "forum", "sns"],
+    "数据分析": ["data analysis", "analytics", "bi", "pandas", "numpy", "visualization", "chart", "plot"],
+}
 
-def classify_category_by_keywords(repo: Dict[str, Any]) -> Optional[str]:
+def load_categories(file_path: Optional[str] = None, env_key: str = "CATEGORIES") -> List[str]:
+    """Load allowed categories from file (JSON array) or env (comma-separated)."""
+    cats: List[str] = []
+    if not file_path:
+        file_path = os.environ.get("CATEGORIES_FILE")
+    if file_path and os.path.exists(file_path):
+        try:
+            with open(file_path, "r", encoding="utf-8") as f:
+                data = json.load(f)
+                if isinstance(data, list):
+                    cats = [str(x).strip() for x in data if str(x).strip()]
+        except Exception:
+            cats = []
+    if not cats:
+        env_val = os.environ.get(env_key)
+        if env_val:
+            cats = [x.strip() for x in env_val.split(",") if x.strip()]
+    if not cats:
+        cats = DEFAULT_ALLOWED_CATEGORIES
+    return cats
+
+def load_category_rules(file_path: Optional[str] = None) -> Dict[str, List[str]]:
+    """Load category keyword rules from JSON mapping {category: [keywords...]}."""
+    if not file_path:
+        file_path = os.environ.get("CATEGORY_RULES_FILE")
+    if file_path and os.path.exists(file_path):
+        try:
+            with open(file_path, "r", encoding="utf-8") as f:
+                data = json.load(f)
+                if isinstance(data, dict):
+                    rules: Dict[str, List[str]] = {}
+                    for cat, words in data.items():
+                        if isinstance(words, list):
+                            rules[str(cat)] = [str(w).lower() for w in words]
+                    return rules
+        except Exception:
+            pass
+    return DEFAULT_CATEGORY_RULES
+
+
+def classify_category_by_keywords(repo: Dict[str, Any], category_rules: Dict[str, List[str]]) -> Optional[str]:
     text = " ".join(
         [
             str(repo.get("repo_full_name") or ""),
@@ -131,48 +189,26 @@ def classify_category_by_keywords(repo: Dict[str, Any]) -> Optional[str]:
             " ".join(repo.get("topics", []) or []),
         ]
     ).lower()
-
-    def has_any(words: List[str]) -> bool:
-        return any(w in text for w in words)
-
-    if has_any(["web", "http", "rest", "frontend", "backend", "website", "spa", "vue", "react", "svelte", "nextjs", "nuxt"]):
-        return "Web应用"
-    if has_any(["android", "ios", "mobile", "apk", "react native", "flutter", "cordova"]):
-        return "移动应用"
-    if has_any(["desktop", "electron", "qt", "gtk", "win32", "macos", "wxwidgets"]):
-        return "桌面应用"
-    if has_any(["database", "db", "sql", "nosql", "postgres", "mysql", "mongodb", "redis", "cassandra", "sqlite"]):
-        return "数据库"
-    if has_any(["machine learning", "ml", "ai", "deep learning", "transformer", "llm", "pytorch", "tensorflow", "keras"]):
-        return "AI/机器学习"
-    if has_any(["dev", "developer", "sdk", "library", "framework", "build", "compile", "cli", "lint", "ci", "testing", "tool"]):
-        return "开发工具"
-    if has_any(["security", "vuln", "pentest", "penetration", "exploit", "auth", "encryption", "ssl", "xss", "cve"]):
-        return "安全工具"
-    if has_any(["game", "gaming", "unity", "unreal", "godot"]):
-        return "游戏"
-    if has_any(["design", "ui", "ux", "figma", "sketch", "graphics", "svg", "illustration"]):
-        return "设计工具"
-    if has_any(["productivity", "todo", "note", "task", "calendar", "automation", "workflow"]):
-        return "效率工具"
-    if has_any(["education", "learn", "learning", "tutorial", "course", "teaching", "docs", "examples"]):
-        return "教育学习"
-    if has_any(["social", "network", "chat", "messaging", "community", "forum", "sns"]):
-        return "社交网络"
-    if has_any(["data analysis", "analytics", "bi", "pandas", "numpy", "visualization", "chart", "plot"]):
-        return "数据分析"
+    for cat, words in category_rules.items():
+        for w in words:
+            if w in text:
+                return cat
     return None
 
 
-def normalize_category(candidate: Optional[str], repo: Dict[str, Any]) -> str:
-    if candidate in ALLOWED_CATEGORIES:
+def normalize_category(
+    candidate: Optional[str],
+    repo: Dict[str, Any],
+    allowed_categories: List[str],
+    category_rules: Dict[str, List[str]],
+    default_category: str = "开发工具",
+) -> str:
+    if candidate in allowed_categories:
         return candidate
-    # Try heuristic mapping
-    mapped = classify_category_by_keywords(repo)
-    if mapped:
+    mapped = classify_category_by_keywords(repo, category_rules)
+    if mapped and mapped in allowed_categories:
         return mapped
-    # Default fallback
-    return "开发工具"
+    return default_category
 
 
 def parse_json_content(content: Optional[str]) -> Dict[str, Any]:
@@ -215,6 +251,7 @@ def analyze_with_zhipu(
     repo: Dict[str, Any],
     model: str = "glm-4",
     timeout: int = 60,
+    allowed_categories: Optional[List[str]] = None,
 ) -> Dict[str, Any]:
     """Call ZHIPU AI to get category/tags/summary for a repo.
     If api_key is None or call fails, return a fallback analysis.
@@ -229,10 +266,11 @@ def analyze_with_zhipu(
         base_result["summary"] = "ZHIPU_API_KEY 未设置，跳过分析。"
         return base_result
 
+    cats = allowed_categories or DEFAULT_ALLOWED_CATEGORIES
     prompt = (
         "你是一位资深开源项目分类助手。"
         "请根据仓库名称、简介和主题，给出简洁的中文摘要，并从以下固定分类中严格选择一个作为类别："
-        f"{', '.join(ALLOWED_CATEGORIES)}。"
+        f"{', '.join(cats)}。"
         "提供3-6个标签。只返回严格的 JSON（不要包含反引号或额外文本）："
         "category（以上列表之一，字符串），tags（字符串数组），summary（不超过120字）。"
     )
@@ -244,7 +282,7 @@ def analyze_with_zhipu(
         "topics": repo.get("topics", []),
     }
     try:
-        client = OpenAI(api_key=api_key, base_url=ZHIPU_BASE_URL)
+        client = OpenAI(api_key=api_key, base_url=BASE_URL)
         completion = client.chat.completions.create(
             model=model,
             messages=[
@@ -268,7 +306,7 @@ def analyze_with_zhipu(
             tags = [tags]
         if not isinstance(tags, list):
             tags = []
-        category = normalize_category(category, repo)
+        # Normalization is handled by caller with configured rules
         return {"category": category, "tags": tags, "summary": summary}
     except Exception as e:
         base_result["summary"] = f"ZHIPU 调用异常: {e}"
@@ -370,14 +408,67 @@ def merge_all_formats(output_dir: str) -> None:
     write_markdown(md_path, rows)
 
 
+def merge_with_new_rows(output_dir: str, new_rows: List[Dict[str, Any]]) -> None:
+    """Merge analyzed rows directly into results_all.* without creating part files."""
+    merged_json = os.path.join(output_dir, "results_all.json")
+    all_rows: Dict[str, Dict[str, Any]] = {}
+    # Load existing merged if present
+    if os.path.exists(merged_json):
+        try:
+            with open(merged_json, "r", encoding="utf-8") as f:
+                for row in json.load(f):
+                    all_rows[unique_key(row)] = row
+        except Exception:
+            pass
+
+    # Add new rows (override by unique key)
+    for row in new_rows:
+        all_rows[unique_key(row)] = row
+
+    rows = list(all_rows.values())
+    rows.sort(key=lambda r: r.get("starred_at") or "")
+    write_json(merged_json, rows)
+    write_csv(os.path.join(output_dir, "results_all.csv"), rows)
+    write_markdown(os.path.join(output_dir, "results_all.md"), rows)
+
+
 # --------- Main batch execution ---------
 def main() -> None:
     parser = argparse.ArgumentParser(description="GitHub Star 项目分类、标签与摘要生成")
     parser.add_argument("--batch-size", type=int, default=10, help="每次处理的项目数量")
     parser.add_argument("--output-dir", type=str, default="outputs", help="输出目录")
-    parser.add_argument("--model", type=str, default=os.environ.get("ZHIPU_MODEL", "glm-4"), help="ZHIPU AI 模型名称")
+    parser.add_argument(
+        "--model",
+        type=str,
+        default=os.environ.get("ZHIPU_MODEL", "glm-4"),
+        help="ZHIPU AI 模型名称",
+    )
     parser.add_argument("--per-page", type=int, default=100, help="GitHub API 每页大小")
     parser.add_argument("--sleep", type=float, default=0.6, help="每次分析间隔秒数")
+    parser.add_argument(
+        "--base-url",
+        type=str,
+        default=None,
+        help="ZHIPU/OpenAI 风格 API 基础地址，优先于环境变量",
+    )
+    parser.add_argument(
+        "--categories-file",
+        type=str,
+        default=os.environ.get("CATEGORIES_FILE"),
+        help="分类列表文件（JSON数组），可覆盖默认分类",
+    )
+    parser.add_argument(
+        "--category-rules-file",
+        type=str,
+        default=os.environ.get("CATEGORY_RULES_FILE"),
+        help="分类关键词规则文件（JSON对象），用于本地映射",
+    )
+    parser.add_argument(
+        "--default-category",
+        type=str,
+        default=os.environ.get("DEFAULT_CATEGORY", "开发工具"),
+        help="无法匹配时的默认分类",
+    )
     args = parser.parse_args()
 
     load_env()
@@ -389,6 +480,19 @@ def main() -> None:
         )
         sys.exit(1)
     zhipu_api_key = os.environ.get("ZHIPU_API_KEY")
+
+    # Resolve BASE_URL from CLI or environment (supports .env)
+    global BASE_URL
+    BASE_URL = (
+        args.base_url
+        or os.environ.get("ZHIPU_BASE_URL")
+        or BASE_URL
+        or "https://open.bigmodel.cn/api/paas/v4/"
+    )
+
+    # Load configurable categories and rules
+    allowed_categories = load_categories(args.categories_file)
+    category_rules = load_category_rules(args.category_rules_file)
 
     ensure_output_dir(args.output_dir)
 
@@ -412,35 +516,42 @@ def main() -> None:
 
     if not to_process:
         print("没有可处理的新项目，或者已到列表末尾。")
-        # 仍尝试合并，保证最终文件存在
+        # 如已有合并文件则保持；如存在旧的 part 文件，兼容性合并一次
+        if os.path.exists(os.path.join(args.output_dir, "results_all.json")):
+            return
         merge_all_formats(args.output_dir)
         return
 
     analyzed_rows: List[Dict[str, Any]] = []
     now_iso = datetime.now(timezone.utc).isoformat()
     for repo in to_process:
-        analysis = analyze_with_zhipu(zhipu_api_key, repo, model=args.model)
+        analysis = analyze_with_zhipu(
+            zhipu_api_key,
+            repo,
+            model=args.model,
+            allowed_categories=allowed_categories,
+        )
+        normalized_cat = normalize_category(
+            analysis.get("category"),
+            repo,
+            allowed_categories,
+            category_rules,
+            default_category=args.default_category,
+        )
         row = {
             **repo,
-            **analysis,
+            "category": normalized_cat,
+            "tags": analysis.get("tags", []),
+            "summary": analysis.get("summary", ""),
             "analyzed_at": now_iso,
         }
         analyzed_rows.append(row)
         time.sleep(args.sleep)
 
-    # Write part files named by timestamp
-    ts = datetime.now().strftime("%Y%m%d_%H%M%S")
-    json_part = os.path.join(args.output_dir, f"results_part_{ts}.json")
-    csv_part = os.path.join(args.output_dir, f"results_part_{ts}.csv")
-    md_part = os.path.join(args.output_dir, f"results_part_{ts}.md")
-    write_json(json_part, analyzed_rows)
-    write_csv(csv_part, analyzed_rows)
-    write_markdown(md_part, analyzed_rows)
-
-    # Merge & dedupe into results_all.*
-    merge_all_formats(args.output_dir)
+    # 直接合并到 results_all.*
+    merge_with_new_rows(args.output_dir, analyzed_rows)
     print(
-        f"批次完成：{len(analyzed_rows)} 项。输出：\n- {json_part}\n- {csv_part}\n- {md_part}\n并已更新合并文件：results_all.*"
+        f"批次完成：{len(analyzed_rows)} 项。已更新合并文件：outputs/results_all.*"
     )
 
 

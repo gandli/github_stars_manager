@@ -24,17 +24,16 @@
       "tutorial"
     ],
     "starred_at": "2021-06-09T03:38:10Z",
-    "category": "人工智能与机器学习",
+    "category": "AI/机器学习",
     "tags": [
       "计算机视觉",
-      "实战教程",
+      "实战演练",
+      "学习平台",
       "电子书",
-      "PyTorch",
-      "深度学习",
-      "算法应用"
+      "PyTorch"
     ],
-    "summary": "一个集成了《计算机视觉实战演练：算法与应用》中文电子书、源码和在线互动学习平台的仓库，适合想要深入学习计算机视觉的读者。",
-    "analyzed_at": "2025-10-11T15:03:02.223501+00:00"
+    "summary": "一个集在线互动代码运行、中文电子书、源码及社区交流于一体的计算机视觉闭环学习平台，适合深度学习和计算机视觉初学者及专业人士。",
+    "analyzed_at": "2025-10-11T15:31:41.150678+00:00"
   },
   {
     "repo_full_name": "alibaba/butterfly",
@@ -61,7 +60,7 @@
       "vue"
     ],
     "starred_at": "2021-06-09T03:39:52Z",
-    "category": "前端开发",
+    "category": "开发工具",
     "tags": [
       "流程图",
       "React",
@@ -70,8 +69,8 @@
       "DAG",
       "可视化"
     ],
-    "summary": "Butterfly 是一个专注于流程布局领域的 JavaScript/React/Vue2 图表库，支持流程图、思维导图等多种图表类型。",
-    "analyzed_at": "2025-10-11T15:03:02.223501+00:00"
+    "summary": "Butterfly 是一个基于 JavaScript 的流程图组件库，专注于流程布局领域，支持 React 和 Vue2，适用于创建 BPMN 和 DAG 图表。",
+    "analyzed_at": "2025-10-11T15:31:41.150678+00:00"
   },
   {
     "repo_full_name": "sfyc23/EverydayWechat",
@@ -91,17 +90,16 @@
       "wechat"
     ],
     "starred_at": "2021-06-09T03:40:00Z",
-    "category": "社交工具",
+    "category": "效率工具",
     "tags": [
       "微信",
       "自动回复",
       "机器人",
-      "日常功能",
-      "Python",
-      "AI"
+      "群助手",
+      "定时消息"
     ],
-    "summary": "EverydayWechat是一个基于Python的微信助手，能够定时发送定制消息给好友，自动回复信息，并提供群助手功能，包括垃圾分类、天气查询等实用工具。",
-    "analyzed_at": "2025-10-11T15:03:02.223501+00:00"
+    "summary": "基于Python的微信助手，支持每日定时发送定制消息，自动回复好友，以及提供群助手功能，包括垃圾分类、天气查询等实用工具。",
+    "analyzed_at": "2025-10-11T15:31:41.150678+00:00"
   },
   {
     "repo_full_name": "sivel/speedtest-cli",
@@ -115,16 +113,16 @@
       "speedtest"
     ],
     "starred_at": "2021-06-09T11:28:35Z",
-    "category": "网络诊断与测试",
+    "category": "开发工具",
     "tags": [
-      "Python",
-      "命令行工具",
-      "网络速度测试",
       "带宽测试",
+      "命令行工具",
+      "网络速度",
+      "Python库",
       "speedtest"
     ],
-    "summary": "sivel/speedtest-cli 是一个使用 speedtest.net 进行互联网带宽测试的命令行接口，用 Python 编写，方便快速诊断网络性能。",
-    "analyzed_at": "2025-10-11T15:03:02.223501+00:00"
+    "summary": "用于通过speedtest.net测试网络带宽的命令行界面，采用Python编写，方便集成到其他脚本或工具中。",
+    "analyzed_at": "2025-10-11T15:31:41.150678+00:00"
   },
   {
     "repo_full_name": "opencv/opencv",
@@ -139,16 +137,15 @@
       "opencv"
     ],
     "starred_at": "2021-06-09T11:28:37Z",
-    "category": "计算机视觉",
+    "category": "AI/机器学习",
     "tags": [
-      "C++",
+      "计算机视觉",
       "图像处理",
       "深度学习",
-      "开源库",
-      "OpenCV"
+      "C++"
     ],
-    "summary": "OpenCV是一个开源的计算机视觉库，广泛应用于图像处理、计算机视觉以及深度学习等领域，支持多种编程语言和平台。",
-    "analyzed_at": "2025-10-11T15:03:02.223501+00:00"
+    "summary": "OpenCV是一个开源的计算机视觉库，广泛应用于图像处理、计算机视觉和深度学习领域，支持多种编程语言，以C++为主。",
+    "analyzed_at": "2025-10-11T15:31:41.150678+00:00"
   },
   {
     "repo_full_name": "dynamicwebpaige/thinking-in-data",
@@ -165,16 +162,16 @@
       "vscode-extension"
     ],
     "starred_at": "2021-06-09T11:28:38Z",
-    "category": "数据科学工具",
+    "category": "开发工具",
     "tags": [
-      "数据可视化",
-      "VS Code扩展",
-      "数据理解",
+      "数据科学",
+      "可视化",
       "机器学习",
-      "数据交互"
+      "VS Code",
+      "扩展包"
     ],
-    "summary": "一个VS Code扩展包，旨在帮助用户可视化、理解和与数据交互，提升数据科学工作流的效率。",
-    "analyzed_at": "2025-10-11T15:03:02.223501+00:00"
+    "summary": "一个VS Code扩展包，帮助用户可视化、理解和交互数据，提升数据科学工作流的效率。",
+    "analyzed_at": "2025-10-11T15:31:41.150678+00:00"
   },
   {
     "repo_full_name": "ionic-team/ionic-framework",
@@ -201,18 +198,17 @@
       "webcomponents"
     ],
     "starred_at": "2021-06-09T11:28:40Z",
-    "category": "前端开发",
+    "category": "开发工具",
     "tags": [
       "跨平台",
+      "前端框架",
       "移动开发",
-      "UI框架",
-      "渐进式Web应用",
+      "Web组件",
       "Angular",
-      "React",
-      "Vue"
+      "React"
     ],
-    "summary": "Ionic Framework是一个强大的跨平台UI工具包，使用HTML、CSS和JavaScript构建具有原生质量的iOS、Android和渐进式Web应用。",
-    "analyzed_at": "2025-10-11T15:03:02.223501+00:00"
+    "summary": "Ionic Framework是一个强大的跨平台UI工具包，使用HTML、CSS和JavaScript构建具有原生质量的iOS、Android和渐进式Web应用程序。",
+    "analyzed_at": "2025-10-11T15:31:41.150678+00:00"
   },
   {
     "repo_full_name": "tabixio/tabix",
@@ -231,16 +227,16 @@
       "tabix"
     ],
     "starred_at": "2021-06-09T11:28:47Z",
-    "category": "商业智能",
+    "category": "数据库",
     "tags": [
-      "数据可视化",
+      "商业智能",
       "数据分析",
       "SQL查询",
       "ClickHouse",
       "仪表板"
     ],
-    "summary": "Tabix.io 是一个商业智能工具，提供用户界面用于数据分析和可视化，支持SQL查询，与ClickHouse集成，帮助用户构建交互式仪表板。",
-    "analyzed_at": "2025-10-11T15:03:02.223501+00:00"
+    "summary": "Tabix.io的用户界面，提供基于BI的业务智能和数据可视化功能，支持SQL查询和ClickHouse数据库的仪表板制作。",
+    "analyzed_at": "2025-10-11T15:31:41.150678+00:00"
   },
   {
     "repo_full_name": "ant-design/ant-design",
@@ -257,17 +253,16 @@
       "ui-library"
     ],
     "starred_at": "2021-06-09T11:32:33Z",
-    "category": "前端开发",
+    "category": "设计工具",
     "tags": [
       "Ant Design",
       "React",
       "TypeScript",
       "UI库",
-      "设计系统",
       "企业级"
     ],
-    "summary": "ant-design是一个企业级的UI设计语言和React UI库，提供了一套高质量的组件和设计规范，适用于中大型项目中使用，支持TypeScript。",
-    "analyzed_at": "2025-10-11T15:03:02.223501+00:00"
+    "summary": "ant-design是一个企业级UI设计语言和React UI库，提供了一套高质量的组件和设计规范，便于开发高效、美观的Web应用。",
+    "analyzed_at": "2025-10-11T15:31:41.150678+00:00"
   },
   {
     "repo_full_name": "LinDaiDai/bpmn-chinese-document",
@@ -279,16 +274,15 @@
       "javascript"
     ],
     "starred_at": "2021-06-09T11:33:46Z",
-    "category": "教育文档",
+    "category": "开发工具",
     "tags": [
       "bpmn.js",
       "中文文档",
-      "前端",
-      "JavaScript",
-      "流程图"
+      "流程图",
+      "JavaScript"
     ],
-    "summary": "该项目是关于bpmn.js的详尽中文教材和文档，旨在帮助开发者更好地理解和使用bpmn.js这一JavaScript流程图绘制库。",
-    "analyzed_at": "2025-10-11T15:03:02.223501+00:00"
+    "summary": "该项目提供全网最详细的bpmn.js中文教材和文档，旨在帮助开发者更好地理解和应用bpmn.js进行流程图设计。",
+    "analyzed_at": "2025-10-11T15:31:41.150678+00:00"
   },
   {
     "repo_full_name": "Zainking/LearningPixi",
@@ -305,17 +299,17 @@
       "toturial"
     ],
     "starred_at": "2021-06-09T11:33:59Z",
-    "category": "教育",
+    "category": "教育学习",
     "tags": [
       "Pixi",
-      "中文教程",
+      "教程",
+      "中文版",
       "入门",
-      "前端",
-      "JavaScript",
-      "图形渲染"
+      "WebGL",
+      "图形"
     ],
-    "summary": "Zainking/LearningPixi 是一个提供 Pixi.js 图形渲染库的中文入门教程，旨在帮助中文用户快速掌握 Pixi.js 的基础知识。",
-    "analyzed_at": "2025-10-11T15:04:59.446317+00:00"
+    "summary": "这是一个关于Pixi.js的中文教程，旨在帮助初学者快速上手WebGL图形渲染引擎。",
+    "analyzed_at": "2025-10-11T15:32:33.423707+00:00"
   },
   {
     "repo_full_name": "nuxt/todomvc",
@@ -330,16 +324,16 @@
       "web-app"
     ],
     "starred_at": "2021-06-09T11:42:38Z",
-    "category": "前端框架与库",
+    "category": "Web应用",
     "tags": [
       "Nuxt.js",
       "TodoMVC",
-      "Vue.js",
-      "通用渲染",
-      "Web应用"
+      "Vue",
+      "示例",
+      "全栈"
     ],
-    "summary": "该仓库是使用Nuxt.js实现的TodoMVC示例，展示了Nuxt.js在构建通用Vue.js Web应用方面的应用。",
-    "analyzed_at": "2025-10-11T15:04:59.446317+00:00"
+    "summary": "基于Nuxt.js的TodoMVC示例项目，展示了Vue.js在构建现代Web应用方面的应用，具有服务器端渲染和通用性特点。",
+    "analyzed_at": "2025-10-11T15:32:33.423707+00:00"
   },
   {
     "repo_full_name": "benyasin/vue3-demo",
@@ -361,7 +355,7 @@
       "vuex4"
     ],
     "starred_at": "2021-06-09T11:42:41Z",
-    "category": "前端框架",
+    "category": "开发工具",
     "tags": [
       "Vue3",
       "响应式API",
@@ -370,8 +364,8 @@
       "TypeScript",
       "Vite"
     ],
-    "summary": "该仓库展示了Vue3的新特性，包括响应式API、组合式API等，并通过TodoMVC示例进行演示，使用TypeScript和Vite构建。",
-    "analyzed_at": "2025-10-11T15:04:59.446317+00:00"
+    "summary": "该仓库展示了Vue3的新特性，包括响应式API、组合式API等，并通过TodoMVC示例进行了演示，使用TypeScript和Vite构建。",
+    "analyzed_at": "2025-10-11T15:32:33.423707+00:00"
   },
   {
     "repo_full_name": "artberri/todomvp",
@@ -386,7 +380,7 @@
       "vue"
     ],
     "starred_at": "2021-06-09T11:42:43Z",
-    "category": "前端框架",
+    "category": "开发工具",
     "tags": [
       "MVP",
       "TodoMVC",
@@ -395,8 +389,8 @@
       "React",
       "Angular"
     ],
-    "summary": "一个无框架的MVP模式实现，使用TypeScript编写，并在Vue、React和Angular中实现视图的TodoMVC应用。",
-    "analyzed_at": "2025-10-11T15:04:59.446317+00:00"
+    "summary": "使用TypeScript实现的无框架MVP版TodoMVC应用，视图部分分别采用Vue、React和Angular实现",
+    "analyzed_at": "2025-10-11T15:32:33.423707+00:00"
   },
   {
     "repo_full_name": "mdn/todo-vue",
@@ -410,16 +404,15 @@
       "vuejs"
     ],
     "starred_at": "2021-06-09T11:42:45Z",
-    "category": "前端开发",
+    "category": "Web应用",
     "tags": [
       "Vue",
       "待办事项",
-      "示例应用",
-      "前端框架",
-      "教程"
+      "示例",
+      "前端框架"
     ],
-    "summary": "使用Vue框架构建的待办事项示例应用程序，适合作为Vue入门学习和实践的项目。",
-    "analyzed_at": "2025-10-11T15:04:59.446317+00:00"
+    "summary": "使用Vue框架构建的待办事项应用程序示例，提供了Web应用开发的实践案例。",
+    "analyzed_at": "2025-10-11T15:32:33.423707+00:00"
   },
   {
     "repo_full_name": "tastejs/todomvc",
@@ -428,17 +421,16 @@
     "description": "Helping you select a JavaScript framework - Todo apps for React.js, Angular, Vue and many more",
     "topics": [],
     "starred_at": "2021-06-09T11:42:47Z",
-    "category": "前端框架比较",
+    "category": "开发工具",
     "tags": [
       "JavaScript",
+      "框架选择",
       "React.js",
       "Angular",
-      "Vue",
-      "Todo应用",
-      "框架选择"
+      "Vue"
     ],
-    "summary": "tastejs/todomvc 是一个用于比较不同JavaScript框架的项目，提供了React.js、Angular、Vue等框架实现的Todo应用示例，帮助开发者选择合适的框架。",
-    "analyzed_at": "2025-10-11T15:04:59.446317+00:00"
+    "summary": "TodoMVC帮助开发者选择合适的JavaScript框架，提供了React.js、Angular、Vue等框架的Todo应用示例。",
+    "analyzed_at": "2025-10-11T15:32:33.423707+00:00"
   },
   {
     "repo_full_name": "NervJS/nerv-redux-todomvc",
@@ -447,15 +439,15 @@
     "description": "TodoMVC example using Nerv and Redux",
     "topics": [],
     "starred_at": "2021-06-09T11:42:49Z",
-    "category": "前端框架与库",
+    "category": "开发工具",
     "tags": [
+      "TodoMVC",
       "Nerv",
       "Redux",
-      "TodoMVC",
-      "示例项目"
+      "示例"
     ],
-    "summary": "该仓库提供了一个使用Nerv和Redux实现的TodoMVC示例，旨在展示前端应用的状态管理及构建方式。",
-    "analyzed_at": "2025-10-11T15:04:59.446317+00:00"
+    "summary": "使用Nerv和Redux实现的TodoMVC示例项目，为开发者提供参考和启发。",
+    "analyzed_at": "2025-10-11T15:32:33.423707+00:00"
   },
   {
     "repo_full_name": "CharlieLau/todolist-vue3",
@@ -467,15 +459,15 @@
       "vue3-demo"
     ],
     "starred_at": "2021-06-09T11:42:52Z",
-    "category": "前端开发",
+    "category": "效率工具",
     "tags": [
       "Vue3",
       "TodoMVC",
-      "示例项目",
-      "设计"
+      "任务管理",
+      "前端"
     ],
-    "summary": "基于Vue3的TodoList应用，遵循TodoMVC模式，展示现代前端设计实践。",
-    "analyzed_at": "2025-10-11T15:04:59.446317+00:00"
+    "summary": "基于Vue3的待办事项列表应用，简洁的设计，帮助用户管理日常任务。",
+    "analyzed_at": "2025-10-11T15:32:33.423707+00:00"
   },
   {
     "repo_full_name": "docker/awesome-compose",
@@ -491,13 +483,12 @@
     "category": "开发工具",
     "tags": [
       "Docker",
-      "Docker Compose",
       "示例",
-      "模板",
+      "Compose",
       "配置"
     ],
-    "summary": "docker/awesome-compose 是一个包含各种 Docker Compose 示例的精选列表，旨在帮助开发者快速搭建和配置基于 Docker 的应用环境。",
-    "analyzed_at": "2025-10-11T15:04:59.446317+00:00"
+    "summary": "docker/awesome-compose 是一个包含各种 Docker Compose 示例的仓库，旨在帮助开发者快速掌握和使用 Docker Compose。",
+    "analyzed_at": "2025-10-11T15:32:33.423707+00:00"
   },
   {
     "repo_full_name": "docker/getting-started",
@@ -506,282 +497,14 @@
     "description": "Getting started with Docker",
     "topics": [],
     "starred_at": "2021-06-09T11:43:13Z",
-    "category": "教育",
+    "category": "开发工具",
     "tags": [
       "Docker",
-      "入门",
-      "教程",
-      "容器化"
+      "容器",
+      "入门教程",
+      "部署"
     ],
-    "summary": "Docker入门教程，帮助初学者快速掌握Docker基础知识和使用方法，开启容器化技术之旅。",
-    "analyzed_at": "2025-10-11T15:04:59.446317+00:00"
-  },
-  {
-    "repo_full_name": "nicolaka/netshoot",
-    "owner": "nicolaka",
-    "html_url": "https://github.com/nicolaka/netshoot",
-    "description": "a Docker + Kubernetes network trouble-shooting swiss-army container",
-    "topics": [
-      "containers",
-      "docker",
-      "kubernetes",
-      "network",
-      "network-namespace",
-      "troubleshooting"
-    ],
-    "starred_at": "2021-06-09T11:43:14Z",
-    "category": "Uncategorized",
-    "tags": [],
-    "summary": "ZHIPU 调用异常: Expecting value: line 1 column 1 (char 0)",
-    "analyzed_at": "2025-10-11T15:17:17.979310+00:00"
-  },
-  {
-    "repo_full_name": "quackduck/devzat",
-    "owner": "quackduck",
-    "html_url": "https://github.com/quackduck/devzat",
-    "description": "The devs are over here at devzat, chat over SSH!",
-    "topics": [
-      "chat",
-      "devchat",
-      "developer-chat",
-      "devzat",
-      "slack",
-      "social",
-      "ssh",
-      "ssh-chat",
-      "unicorns"
-    ],
-    "starred_at": "2021-06-10T10:01:48Z",
-    "category": "Uncategorized",
-    "tags": [],
-    "summary": "ZHIPU 调用异常: Expecting value: line 1 column 1 (char 0)",
-    "analyzed_at": "2025-10-11T15:17:17.979310+00:00"
-  },
-  {
-    "repo_full_name": "brianegan/flutter_architecture_samples",
-    "owner": "brianegan",
-    "html_url": "https://github.com/brianegan/flutter_architecture_samples",
-    "description": "TodoMVC for Flutter",
-    "topics": [
-      "dart",
-      "flutter",
-      "redux"
-    ],
-    "starred_at": "2021-06-10T10:36:29Z",
-    "category": "Uncategorized",
-    "tags": [],
-    "summary": "ZHIPU 调用异常: Expecting value: line 1 column 1 (char 0)",
-    "analyzed_at": "2025-10-11T15:17:17.979310+00:00"
-  },
-  {
-    "repo_full_name": "jaysoo/todomvc-redux-react-typescript",
-    "owner": "jaysoo",
-    "html_url": "https://github.com/jaysoo/todomvc-redux-react-typescript",
-    "description": "TodoMVC example using Redux, React, and Typescript",
-    "topics": [],
-    "starred_at": "2021-06-10T10:37:31Z",
-    "category": "Uncategorized",
-    "tags": [],
-    "summary": "ZHIPU 调用异常: Expecting value: line 1 column 1 (char 0)",
-    "analyzed_at": "2025-10-11T15:17:17.979310+00:00"
-  },
-  {
-    "repo_full_name": "sharkdp/bat",
-    "owner": "sharkdp",
-    "html_url": "https://github.com/sharkdp/bat",
-    "description": "A cat(1) clone with wings.",
-    "topics": [
-      "cli",
-      "command-line",
-      "git",
-      "hacktoberfest",
-      "rust",
-      "syntax-highlighting",
-      "terminal",
-      "tool"
-    ],
-    "starred_at": "2021-06-10T10:56:09Z",
-    "category": "Uncategorized",
-    "tags": [],
-    "summary": "ZHIPU 调用异常: Expecting value: line 1 column 1 (char 0)",
-    "analyzed_at": "2025-10-11T15:17:17.979310+00:00"
-  },
-  {
-    "repo_full_name": "supabase/supabase",
-    "owner": "supabase",
-    "html_url": "https://github.com/supabase/supabase",
-    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-    "topics": [
-      "ai",
-      "alternative",
-      "auth",
-      "database",
-      "deno",
-      "embeddings",
-      "example",
-      "firebase",
-      "nextjs",
-      "oauth2",
-      "pgvector",
-      "postgis",
-      "postgres",
-      "postgresql",
-      "postgrest",
-      "realtime",
-      "supabase",
-      "vectors",
-      "websockets"
-    ],
-    "starred_at": "2021-06-10T14:17:48Z",
-    "category": "数据库",
-    "tags": [
-      "PostgreSQL",
-      "实时",
-      "认证",
-      "Web应用",
-      "AI集成"
-    ],
-    "summary": "Supabase是一个基于PostgreSQL的开发平台，提供专用的Postgres数据库，支持构建Web、移动和AI应用程序，具备实时功能和认证系统。",
-    "analyzed_at": "2025-10-11T15:18:40.338062+00:00"
-  },
-  {
-    "repo_full_name": "Mayandev/hacker-feeds-cli",
-    "owner": "Mayandev",
-    "html_url": "https://github.com/Mayandev/hacker-feeds-cli",
-    "description": "📰 A command line tool for Hacker News、 Product Hunt、 GitHub Trending 、Reddit and V2EX feeds.",
-    "topics": [
-      "github",
-      "hacker-news",
-      "product-hunt",
-      "reddit",
-      "trending",
-      "v2ex"
-    ],
-    "starred_at": "2021-06-11T04:54:10Z",
-    "category": "开发工具",
-    "tags": [
-      "命令行工具",
-      "Hacker News",
-      "Product Hunt",
-      "GitHub Trending",
-      "Reddit",
-      "V2EX"
-    ],
-    "summary": "一个命令行工具，用于获取Hacker News、Product Hunt、GitHub Trending、Reddit和V2EX的最新动态和趋势。",
-    "analyzed_at": "2025-10-11T15:19:25.814060+00:00"
-  },
-  {
-    "repo_full_name": "yihong0618/GitHubPoster",
-    "owner": "yihong0618",
-    "html_url": "https://github.com/yihong0618/GitHubPoster",
-    "description": "Make everything a GitHub svg poster and Skyline!",
-    "topics": [
-      "bilibili",
-      "dota2",
-      "duolingo",
-      "github-svg-poster",
-      "gitlab",
-      "gpx",
-      "kindle",
-      "leetcode",
-      "shanbay",
-      "skyline",
-      "strava",
-      "twitter",
-      "wakatime",
-      "xhr",
-      "youtube"
-    ],
-    "starred_at": "2021-06-11T04:54:17Z",
-    "category": "开发工具",
-    "tags": [
-      "GitHub",
-      "SVG",
-      "海报生成",
-      "Skyline",
-      "数据可视化"
-    ],
-    "summary": "GitHubPoster可以将各种数据制作成GitHub风格的SVG海报和天际线图，支持多种数据源如Bilibili、Dota2、Duolingo等。",
-    "analyzed_at": "2025-10-11T15:19:25.814060+00:00"
-  },
-  {
-    "repo_full_name": "ConnorAtherton/loaders.css",
-    "owner": "ConnorAtherton",
-    "html_url": "https://github.com/ConnorAtherton/loaders.css",
-    "description": "Delightful, performance-focused pure css loading animations.",
-    "topics": [],
-    "starred_at": "2021-06-11T10:56:59Z",
-    "category": "开发工具",
-    "tags": [
-      "CSS",
-      "加载动画",
-      "性能优化",
-      "前端"
-    ],
-    "summary": "专注于性能的纯CSS加载动画库，为Web应用提供精美的加载效果。",
-    "analyzed_at": "2025-10-11T15:19:25.814060+00:00"
-  },
-  {
-    "repo_full_name": "mawww/kakoune",
-    "owner": "mawww",
-    "html_url": "https://github.com/mawww/kakoune",
-    "description": "mawww's experiment for a better code editor",
-    "topics": [
-      "c-plus-plus",
-      "console-application",
-      "kakoune",
-      "modal-editing",
-      "text-editor",
-      "vim"
-    ],
-    "starred_at": "2021-06-11T10:57:33Z",
-    "category": "开发工具",
-    "tags": [
-      "C++",
-      "控制台应用",
-      "Kakoune",
-      "模态编辑",
-      "文本编辑器",
-      "Vim"
-    ],
-    "summary": "mawww开发的一个实验性文本编辑器项目，旨在提供更好的代码编辑体验，采用C++编写，支持模态编辑等特性，类似于Vim。",
-    "analyzed_at": "2025-10-11T15:19:25.814060+00:00"
-  },
-  {
-    "repo_full_name": "mockoon/mockoon",
-    "owner": "mockoon",
-    "html_url": "https://github.com/mockoon/mockoon",
-    "description": "Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.",
-    "topics": [
-      "api",
-      "application",
-      "desktop",
-      "electron",
-      "mock",
-      "mock-api",
-      "mock-data",
-      "mock-server",
-      "mocking",
-      "mocking-server",
-      "mocking-utility",
-      "openapi",
-      "openapi3",
-      "prototyping",
-      "rest",
-      "rest-api",
-      "server",
-      "swagger"
-    ],
-    "starred_at": "2021-06-11T10:58:41Z",
-    "category": "开发工具",
-    "tags": [
-      "API",
-      "模拟",
-      "本地",
-      "Electron",
-      "原型设计"
-    ],
-    "summary": "Mockoon 是一个开源的本地模拟 API 工具，无需远程部署和账户，支持 OpenAPI 3，是快速进行 REST API 原型设计的便捷选择。",
-    "analyzed_at": "2025-10-11T15:19:25.814060+00:00"
+    "summary": "Docker入门教程，帮助初学者快速掌握容器化技术，实现应用部署。",
+    "analyzed_at": "2025-10-11T15:32:33.423707+00:00"
   }
 ]
