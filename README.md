@@ -38,10 +38,10 @@ uv run python stars_manager.py --batch-size 10
 ### 配置 .env（零依赖加载）
 在项目根目录创建 `.env`：
 ```env
-GITHUB_TOKEN=ghp_xxx
-ZHIPU_API_KEY=xxx
-ZHIPU_BASE_URL=https://open.bigmodel.cn/api/paas/v4/
-ZHIPU_MODEL=glm-4.5-flash
+GH_TOKEN=ghp_xxx
+API_KEY=xxx
+BASE_URL=https://open.bigmodel.cn/api/paas/v4/
+MODEL=glm-4.5-flash
 
 # 可选：分类配置
 CATEGORIES_FILE=c:/path/to/categories.json
@@ -86,8 +86,8 @@ python stars_manager.py --batch-size 20 --base-url https://open.bigmodel.cn/api/
   - `workflow_dispatch`（手动，支持输入 `batch_size`、`sleep`、`model`）
   - `schedule`（每天 `UTC 03:00` 自动运行）
 - 机密与变量（仓库 Settings → Secrets and variables → Actions）：
-  - Secrets：`GH_STAR_TOKEN`（读取 Star 列表的 PAT）、`ZHIPU_API_KEY`（智谱 API Key）
-  - Variables（可选）：`ZHIPU_BASE_URL`、`ZHIPU_MODEL`
+  - Secrets：`GH_STAR_TOKEN`（读取 Star 列表的 PAT）、`API_KEY`（智谱 API Key）
+  - Variables（可选）：`BASE_URL`、`MODEL`
 - 执行：安装依赖 → 运行脚本 → 若 `outputs/` 变更则自动提交（`Update results_all via CI`）。
 
 ## 常见问题

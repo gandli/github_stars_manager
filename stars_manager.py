@@ -102,7 +102,7 @@ def fetch_starred_repos_sorted_asc(
 
 
 # --------- Zhipu AI analysis (OpenAI-style) ---------
-BASE_URL = os.environ.get("ZHIPU_BASE_URL")
+BASE_URL = os.environ.get("BASE_URL")
 
 
 # --------- Categories configuration (flexible) ---------
@@ -263,7 +263,7 @@ def analyze_with_zhipu(
     }
 
     if not api_key:
-        base_result["summary"] = "ZHIPU_API_KEY 未设置，跳过分析。"
+        base_result["summary"] = "API_KEY 未设置，跳过分析。"
         return base_result
 
     cats = allowed_categories or DEFAULT_ALLOWED_CATEGORIES
@@ -440,7 +440,7 @@ def main() -> None:
     parser.add_argument(
         "--model",
         type=str,
-        default=os.environ.get("ZHIPU_MODEL", "glm-4"),
+        default=os.environ.get("MODEL", "glm-4"),
         help="ZHIPU AI 模型名称",
     )
     parser.add_argument("--per-page", type=int, default=100, help="GitHub API 每页大小")
@@ -479,13 +479,13 @@ def main() -> None:
             "错误：未设置 GH_TOKEN。请在 .env 或环境变量中配置。", file=sys.stderr
         )
         sys.exit(1)
-    zhipu_api_key = os.environ.get("ZHIPU_API_KEY")
+    API_KEY = os.environ.get("API_KEY")
 
     # Resolve BASE_URL from CLI or environment (supports .env)
     global BASE_URL
     BASE_URL = (
         args.base_url
-        or os.environ.get("ZHIPU_BASE_URL")
+        or os.environ.get("BASE_URL")
         or BASE_URL
         or "https://open.bigmodel.cn/api/paas/v4/"
     )
@@ -526,7 +526,7 @@ def main() -> None:
     now_iso = datetime.now(timezone.utc).isoformat()
     for repo in to_process:
         analysis = analyze_with_zhipu(
-            zhipu_api_key,
+            API_KEY,
             repo,
             model=args.model,
             allowed_categories=allowed_categories,

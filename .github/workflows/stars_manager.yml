@@ -42,18 +42,18 @@ jobs:
           # Personal token to read user's starred repos
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           # Zhipu/OpenAI-style API key
-          ZHIPU_API_KEY: ${{ secrets.ZHIPU_API_KEY }}
+          API_KEY: ${{ secrets.API_KEY }}
           # Optional base url and model via repo variables (or rely on script defaults)
-          ZHIPU_BASE_URL: ${{ vars.ZHIPU_BASE_URL }}
-          ZHIPU_MODEL: ${{ vars.ZHIPU_MODEL }}
+          BASE_URL: ${{ vars.BASE_URL }}
+          MODEL: ${{ vars.MODEL }}
         run: |
           BS="${{ github.event.inputs.batch_size }}"
           SL="${{ github.event.inputs.sleep }}"
           MODEL_INPUT="${{ github.event.inputs.model }}"
           [ -z "$BS" ] && BS=50
           [ -z "$SL" ] && SL=0.2
-          echo "Running with batch-size=$BS sleep=$SL model=${MODEL_INPUT:-$ZHIPU_MODEL}"
-          python stars_manager.py --batch-size "$BS" --sleep "$SL" --model "${MODEL_INPUT:-$ZHIPU_MODEL}"
+          echo "Running with batch-size=$BS sleep=$SL model=${MODEL_INPUT:-$MODEL}"
+          python stars_manager.py --batch-size "$BS" --sleep "$SL" --model "${MODEL_INPUT:-$MODEL}"
 
       - name: Commit outputs if changed
         run: |
