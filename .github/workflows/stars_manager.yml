@@ -40,7 +40,7 @@ jobs:
       - name: Run stars_manager.py
         env:
           # Personal token to read user's starred repos
-          GH_TOKEN: ${{ secrets.GH_STAR_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           # Zhipu/OpenAI-style API key
           ZHIPU_API_KEY: ${{ secrets.ZHIPU_API_KEY }}
           # Optional base url and model via repo variables (or rely on script defaults)
