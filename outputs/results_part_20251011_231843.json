@@ -1,0 +1,40 @@
+[
+  {
+    "repo_full_name": "supabase/supabase",
+    "owner": "supabase",
+    "html_url": "https://github.com/supabase/supabase",
+    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+    "topics": [
+      "ai",
+      "alternative",
+      "auth",
+      "database",
+      "deno",
+      "embeddings",
+      "example",
+      "firebase",
+      "nextjs",
+      "oauth2",
+      "pgvector",
+      "postgis",
+      "postgres",
+      "postgresql",
+      "postgrest",
+      "realtime",
+      "supabase",
+      "vectors",
+      "websockets"
+    ],
+    "starred_at": "2021-06-10T14:17:48Z",
+    "category": "数据库",
+    "tags": [
+      "PostgreSQL",
+      "实时",
+      "认证",
+      "Web应用",
+      "AI集成"
+    ],
+    "summary": "Supabase是一个基于PostgreSQL的开发平台，提供专用的Postgres数据库，支持构建Web、移动和AI应用程序，具备实时功能和认证系统。",
+    "analyzed_at": "2025-10-11T15:18:40.338062+00:00"
+  }
+]

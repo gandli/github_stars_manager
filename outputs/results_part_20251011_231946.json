@@ -1,0 +1,142 @@
+[
+  {
+    "repo_full_name": "Mayandev/hacker-feeds-cli",
+    "owner": "Mayandev",
+    "html_url": "https://github.com/Mayandev/hacker-feeds-cli",
+    "description": "📰 A command line tool for Hacker News、 Product Hunt、 GitHub Trending 、Reddit and V2EX feeds.",
+    "topics": [
+      "github",
+      "hacker-news",
+      "product-hunt",
+      "reddit",
+      "trending",
+      "v2ex"
+    ],
+    "starred_at": "2021-06-11T04:54:10Z",
+    "category": "开发工具",
+    "tags": [
+      "命令行工具",
+      "Hacker News",
+      "Product Hunt",
+      "GitHub Trending",
+      "Reddit",
+      "V2EX"
+    ],
+    "summary": "一个命令行工具，用于获取Hacker News、Product Hunt、GitHub Trending、Reddit和V2EX的最新动态和趋势。",
+    "analyzed_at": "2025-10-11T15:19:25.814060+00:00"
+  },
+  {
+    "repo_full_name": "yihong0618/GitHubPoster",
+    "owner": "yihong0618",
+    "html_url": "https://github.com/yihong0618/GitHubPoster",
+    "description": "Make everything a GitHub svg poster and Skyline!",
+    "topics": [
+      "bilibili",
+      "dota2",
+      "duolingo",
+      "github-svg-poster",
+      "gitlab",
+      "gpx",
+      "kindle",
+      "leetcode",
+      "shanbay",
+      "skyline",
+      "strava",
+      "twitter",
+      "wakatime",
+      "xhr",
+      "youtube"
+    ],
+    "starred_at": "2021-06-11T04:54:17Z",
+    "category": "开发工具",
+    "tags": [
+      "GitHub",
+      "SVG",
+      "海报生成",
+      "Skyline",
+      "数据可视化"
+    ],
+    "summary": "GitHubPoster可以将各种数据制作成GitHub风格的SVG海报和天际线图，支持多种数据源如Bilibili、Dota2、Duolingo等。",
+    "analyzed_at": "2025-10-11T15:19:25.814060+00:00"
+  },
+  {
+    "repo_full_name": "ConnorAtherton/loaders.css",
+    "owner": "ConnorAtherton",
+    "html_url": "https://github.com/ConnorAtherton/loaders.css",
+    "description": "Delightful, performance-focused pure css loading animations.",
+    "topics": [],
+    "starred_at": "2021-06-11T10:56:59Z",
+    "category": "开发工具",
+    "tags": [
+      "CSS",
+      "加载动画",
+      "性能优化",
+      "前端"
+    ],
+    "summary": "专注于性能的纯CSS加载动画库，为Web应用提供精美的加载效果。",
+    "analyzed_at": "2025-10-11T15:19:25.814060+00:00"
+  },
+  {
+    "repo_full_name": "mawww/kakoune",
+    "owner": "mawww",
+    "html_url": "https://github.com/mawww/kakoune",
+    "description": "mawww's experiment for a better code editor",
+    "topics": [
+      "c-plus-plus",
+      "console-application",
+      "kakoune",
+      "modal-editing",
+      "text-editor",
+      "vim"
+    ],
+    "starred_at": "2021-06-11T10:57:33Z",
+    "category": "开发工具",
+    "tags": [
+      "C++",
+      "控制台应用",
+      "Kakoune",
+      "模态编辑",
+      "文本编辑器",
+      "Vim"
+    ],
+    "summary": "mawww开发的一个实验性文本编辑器项目，旨在提供更好的代码编辑体验，采用C++编写，支持模态编辑等特性，类似于Vim。",
+    "analyzed_at": "2025-10-11T15:19:25.814060+00:00"
+  },
+  {
+    "repo_full_name": "mockoon/mockoon",
+    "owner": "mockoon",
+    "html_url": "https://github.com/mockoon/mockoon",
+    "description": "Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.",
+    "topics": [
+      "api",
+      "application",
+      "desktop",
+      "electron",
+      "mock",
+      "mock-api",
+      "mock-data",
+      "mock-server",
+      "mocking",
+      "mocking-server",
+      "mocking-utility",
+      "openapi",
+      "openapi3",
+      "prototyping",
+      "rest",
+      "rest-api",
+      "server",
+      "swagger"
+    ],
+    "starred_at": "2021-06-11T10:58:41Z",
+    "category": "开发工具",
+    "tags": [
+      "API",
+      "模拟",
+      "本地",
+      "Electron",
+      "原型设计"
+    ],
+    "summary": "Mockoon 是一个开源的本地模拟 API 工具，无需远程部署和账户，支持 OpenAPI 3，是快速进行 REST API 原型设计的便捷选择。",
+    "analyzed_at": "2025-10-11T15:19:25.814060+00:00"
+  }
+]

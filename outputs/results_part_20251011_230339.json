@@ -1,0 +1,293 @@
+[
+  {
+    "repo_full_name": "Charmve/computer-vision-in-action",
+    "owner": "Charmve",
+    "html_url": "https://github.com/Charmve/computer-vision-in-action",
+    "description": "A computer vision closed-loop learning platform where code can be run interactively online. 学习闭环《计算机视觉实战演练：算法与应用》中文电子书、源码、读者交流社区（持续更新中 ...） 📘 在线电子书 https://charmve.github.io/computer-vision-in-action/   👇项目主页",
+    "topics": [
+      "books",
+      "charmve",
+      "colab-notebook",
+      "computer-vision",
+      "computer-vision-algorithms",
+      "deep-learning",
+      "deep-learning-tutorial",
+      "handbook",
+      "in-action",
+      "ipynb",
+      "jupyter-notebook",
+      "machine-learning",
+      "neural-network",
+      "notebook",
+      "pytorch",
+      "transformer",
+      "tutorial"
+    ],
+    "starred_at": "2021-06-09T03:38:10Z",
+    "category": "人工智能与机器学习",
+    "tags": [
+      "计算机视觉",
+      "实战教程",
+      "电子书",
+      "PyTorch",
+      "深度学习",
+      "算法应用"
+    ],
+    "summary": "一个集成了《计算机视觉实战演练：算法与应用》中文电子书、源码和在线互动学习平台的仓库，适合想要深入学习计算机视觉的读者。",
+    "analyzed_at": "2025-10-11T15:03:02.223501+00:00"
+  },
+  {
+    "repo_full_name": "alibaba/butterfly",
+    "owner": "alibaba",
+    "html_url": "https://github.com/alibaba/butterfly",
+    "description": "🦋Butterfly，A JavaScript/React/Vue2 Diagramming library which concentrate on flow layout field.    (基于JavaScript/React/Vue2的流程图组件)",
+    "topics": [
+      "bpmn",
+      "butterfly",
+      "connectivity",
+      "dag",
+      "diagram",
+      "diagramming",
+      "edge",
+      "flow",
+      "flow-dag",
+      "flow-layout",
+      "flowchart",
+      "mindmap",
+      "react",
+      "svg",
+      "tree",
+      "treemap-diagram",
+      "vue"
+    ],
+    "starred_at": "2021-06-09T03:39:52Z",
+    "category": "前端开发",
+    "tags": [
+      "流程图",
+      "React",
+      "Vue",
+      "BPMN",
+      "DAG",
+      "可视化"
+    ],
+    "summary": "Butterfly 是一个专注于流程布局领域的 JavaScript/React/Vue2 图表库，支持流程图、思维导图等多种图表类型。",
+    "analyzed_at": "2025-10-11T15:03:02.223501+00:00"
+  },
+  {
+    "repo_full_name": "sfyc23/EverydayWechat",
+    "owner": "sfyc23",
+    "html_url": "https://github.com/sfyc23/EverydayWechat",
+    "description": "微信助手：1.每日定时给好友（女友）发送定制消息。2.机器人自动回复好友。3.群助手功能（例如：查询垃圾分类、天气、日历、电影实时票房、快递物流、PM2.5等）",
+    "topics": [
+      "ai",
+      "autoreply",
+      "bot",
+      "chat",
+      "chatbot",
+      "itchat",
+      "python",
+      "python3",
+      "tuling",
+      "wechat"
+    ],
+    "starred_at": "2021-06-09T03:40:00Z",
+    "category": "社交工具",
+    "tags": [
+      "微信",
+      "自动回复",
+      "机器人",
+      "日常功能",
+      "Python",
+      "AI"
+    ],
+    "summary": "EverydayWechat是一个基于Python的微信助手，能够定时发送定制消息给好友，自动回复信息，并提供群助手功能，包括垃圾分类、天气查询等实用工具。",
+    "analyzed_at": "2025-10-11T15:03:02.223501+00:00"
+  },
+  {
+    "repo_full_name": "sivel/speedtest-cli",
+    "owner": "sivel",
+    "html_url": "https://github.com/sivel/speedtest-cli",
+    "description": "Command line interface for testing internet bandwidth using speedtest.net",
+    "topics": [
+      "python",
+      "python-library",
+      "python-script",
+      "speedtest"
+    ],
+    "starred_at": "2021-06-09T11:28:35Z",
+    "category": "网络诊断与测试",
+    "tags": [
+      "Python",
+      "命令行工具",
+      "网络速度测试",
+      "带宽测试",
+      "speedtest"
+    ],
+    "summary": "sivel/speedtest-cli 是一个使用 speedtest.net 进行互联网带宽测试的命令行接口，用 Python 编写，方便快速诊断网络性能。",
+    "analyzed_at": "2025-10-11T15:03:02.223501+00:00"
+  },
+  {
+    "repo_full_name": "opencv/opencv",
+    "owner": "opencv",
+    "html_url": "https://github.com/opencv/opencv",
+    "description": "Open Source Computer Vision Library",
+    "topics": [
+      "c-plus-plus",
+      "computer-vision",
+      "deep-learning",
+      "image-processing",
+      "opencv"
+    ],
+    "starred_at": "2021-06-09T11:28:37Z",
+    "category": "计算机视觉",
+    "tags": [
+      "C++",
+      "图像处理",
+      "深度学习",
+      "开源库",
+      "OpenCV"
+    ],
+    "summary": "OpenCV是一个开源的计算机视觉库，广泛应用于图像处理、计算机视觉以及深度学习等领域，支持多种编程语言和平台。",
+    "analyzed_at": "2025-10-11T15:03:02.223501+00:00"
+  },
+  {
+    "repo_full_name": "dynamicwebpaige/thinking-in-data",
+    "owner": "dynamicwebpaige",
+    "html_url": "https://github.com/dynamicwebpaige/thinking-in-data",
+    "description": "A VS Code extension pack to help users visualize, understand, and interact with data.",
+    "topics": [
+      "data",
+      "data-science",
+      "datascience",
+      "machinelearning",
+      "visualization",
+      "vscode",
+      "vscode-extension"
+    ],
+    "starred_at": "2021-06-09T11:28:38Z",
+    "category": "数据科学工具",
+    "tags": [
+      "数据可视化",
+      "VS Code扩展",
+      "数据理解",
+      "机器学习",
+      "数据交互"
+    ],
+    "summary": "一个VS Code扩展包，旨在帮助用户可视化、理解和与数据交互，提升数据科学工作流的效率。",
+    "analyzed_at": "2025-10-11T15:03:02.223501+00:00"
+  },
+  {
+    "repo_full_name": "ionic-team/ionic-framework",
+    "owner": "ionic-team",
+    "html_url": "https://github.com/ionic-team/ionic-framework",
+    "description": "A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.",
+    "topics": [
+      "angular",
+      "capacitor",
+      "framework",
+      "frontend",
+      "ionic",
+      "ios",
+      "javascript",
+      "material-design",
+      "mobile",
+      "pwa",
+      "react",
+      "stencil",
+      "stenciljs",
+      "typescript",
+      "vue",
+      "web",
+      "webcomponents"
+    ],
+    "starred_at": "2021-06-09T11:28:40Z",
+    "category": "前端开发",
+    "tags": [
+      "跨平台",
+      "移动开发",
+      "UI框架",
+      "渐进式Web应用",
+      "Angular",
+      "React",
+      "Vue"
+    ],
+    "summary": "Ionic Framework是一个强大的跨平台UI工具包，使用HTML、CSS和JavaScript构建具有原生质量的iOS、Android和渐进式Web应用。",
+    "analyzed_at": "2025-10-11T15:03:02.223501+00:00"
+  },
+  {
+    "repo_full_name": "tabixio/tabix",
+    "owner": "tabixio",
+    "html_url": "https://github.com/tabixio/tabix",
+    "description": "Tabix.io UI",
+    "topics": [
+      "bi",
+      "business-intelligence",
+      "businessintelligence",
+      "clickhouse",
+      "dashboard",
+      "data-analysis",
+      "data-visualization",
+      "sql-query",
+      "tabix"
+    ],
+    "starred_at": "2021-06-09T11:28:47Z",
+    "category": "商业智能",
+    "tags": [
+      "数据可视化",
+      "数据分析",
+      "SQL查询",
+      "ClickHouse",
+      "仪表板"
+    ],
+    "summary": "Tabix.io 是一个商业智能工具，提供用户界面用于数据分析和可视化，支持SQL查询，与ClickHouse集成，帮助用户构建交互式仪表板。",
+    "analyzed_at": "2025-10-11T15:03:02.223501+00:00"
+  },
+  {
+    "repo_full_name": "ant-design/ant-design",
+    "owner": "ant-design",
+    "html_url": "https://github.com/ant-design/ant-design",
+    "description": "An enterprise-class UI design language and React UI library",
+    "topics": [
+      "ant-design",
+      "antd",
+      "design-systems",
+      "react",
+      "typescript",
+      "ui-kit",
+      "ui-library"
+    ],
+    "starred_at": "2021-06-09T11:32:33Z",
+    "category": "前端开发",
+    "tags": [
+      "Ant Design",
+      "React",
+      "TypeScript",
+      "UI库",
+      "设计系统",
+      "企业级"
+    ],
+    "summary": "ant-design是一个企业级的UI设计语言和React UI库，提供了一套高质量的组件和设计规范，适用于中大型项目中使用，支持TypeScript。",
+    "analyzed_at": "2025-10-11T15:03:02.223501+00:00"
+  },
+  {
+    "repo_full_name": "LinDaiDai/bpmn-chinese-document",
+    "owner": "LinDaiDai",
+    "html_url": "https://github.com/LinDaiDai/bpmn-chinese-document",
+    "description": "📒  全网最详bpmn.js中文教材/文档",
+    "topics": [
+      "bpmn-js",
+      "javascript"
+    ],
+    "starred_at": "2021-06-09T11:33:46Z",
+    "category": "教育文档",
+    "tags": [
+      "bpmn.js",
+      "中文文档",
+      "前端",
+      "JavaScript",
+      "流程图"
+    ],
+    "summary": "该项目是关于bpmn.js的详尽中文教材和文档，旨在帮助开发者更好地理解和使用bpmn.js这一JavaScript流程图绘制库。",
+    "analyzed_at": "2025-10-11T15:03:02.223501+00:00"
+  }
+]
