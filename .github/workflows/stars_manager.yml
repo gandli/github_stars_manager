@@ -6,7 +6,7 @@ on:
       batch_size:
         description: Batch size per run
         required: false
-        default: "50"
+        default: "10"
       sleep:
         description: Sleep seconds between analyses
         required: false
@@ -14,7 +14,7 @@ on:
       model:
         description: ZHIPU model name (defaults to repo variable)
         required: false
-        default: ""
+        default: "glm-4.5-flash"
   schedule:
     - cron: "0 3 * * *" # Run daily at 03:00 UTC
 
@@ -40,7 +40,7 @@ jobs:
       - name: Run stars_manager.py
         env:
           # Personal token to read user's starred repos
-          GITHUB_TOKEN: ${{ secrets.GH_STAR_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_STAR_TOKEN }}
           # Zhipu/OpenAI-style API key
           ZHIPU_API_KEY: ${{ secrets.ZHIPU_API_KEY }}
           # Optional base url and model via repo variables (or rely on script defaults)

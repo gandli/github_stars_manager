@@ -473,10 +473,10 @@ def main() -> None:
 
     load_env()
 
-    github_token = os.environ.get("GITHUB_TOKEN")
-    if not github_token:
+    GH_TOKEN = os.environ.get("GH_TOKEN")
+    if not GH_TOKEN:
         print(
-            "错误：未设置 GITHUB_TOKEN。请在 .env 或环境变量中配置。", file=sys.stderr
+            "错误：未设置 GH_TOKEN。请在 .env 或环境变量中配置。", file=sys.stderr
         )
         sys.exit(1)
     zhipu_api_key = os.environ.get("ZHIPU_API_KEY")
@@ -508,7 +508,7 @@ def main() -> None:
             pass
 
     to_process = fetch_starred_repos_sorted_asc(
-        token=github_token,
+        token=GH_TOKEN,
         per_page=args.per_page,
         needed_unprocessed=args.batch_size,
         processed_keys=processed_keys,
