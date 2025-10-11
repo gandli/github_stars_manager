@@ -12,3 +12,13 @@
 | [tabixio/tabix](https://github.com/tabixio/tabix) | 数据分析 | 数据分析, 商业智能, 数据可视化, 仪表盘, SQL查询 | Tabix.io是一个商业智能UI工具，提供数据分析和可视化功能，支持ClickHouse数据库和SQL查询，帮助用户创建交互式仪表盘。 | 2021-06-09T11:28:47Z |
 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | 设计工具 | ant-design, UI库, React, 设计系统, TypeScript | Ant Design是一个企业级的UI设计语言和React UI组件库，提供高质量的设计系统和丰富的交互组件，帮助开发者快速构建美观且一致的用户界面。 | 2021-06-09T11:32:33Z |
 | [LinDaiDai/bpmn-chinese-document](https://github.com/LinDaiDai/bpmn-chinese-document) | 开发工具 | bpmn-js, javascript, 流程图, 文档, 教程 | 这是一个关于bpmn.js的中文教材和文档，提供了详细的流程图建模教程，是开发者学习BPMN(业务流程模型和符号)的宝贵资源。 | 2021-06-09T11:33:46Z |
+| [Zainking/LearningPixi](https://github.com/Zainking/LearningPixi) | 教育学习 | 中文教程, PixiJS, 入门指南, JavaScript | 这是一个PixiJS的中文教程项目，为中文用户提供Pixi 2D渲染库的学习资源，适合初学者入门。 | 2021-06-09T11:33:59Z |
+| [nuxt/todomvc](https://github.com/nuxt/todomvc) | Web应用 | nuxt, todomvc, vue, web-app, 示例 | Nuxt.js实现的TodoMVC示例应用，展示了如何使用Nuxt框架构建现代化的待办事项列表应用，包含服务器端渲染功能。 | 2021-06-09T11:42:38Z |
+| [benyasin/vue3-demo](https://github.com/benyasin/vue3-demo) | Web应用 | Vue3, 前端开发, 示例项目, TypeScript, 组合式API | 这是一个Vue 3新特性示例项目，展示了响应式API、组合式API等Vue 3核心功能，并通过TodoMVC应用进行实践。项目使用TypeScript和Vite构建，适合学习Vue 3的开发者参考。 | 2021-06-09T11:42:41Z |
+| [artberri/todomvp](https://github.com/artberri/todomvp) | Web应用 | angular, vue, typescript, mvp, todomvc | 这是一个使用TypeScript实现的TodoMVC应用，采用MVP架构模式，并提供了使用Vue、React和Angular三种不同框架实现的视图层。该项目展示了如何在不使用特定框架的情况下构建MVP应用。 | 2021-06-09T11:42:43Z |
+| [mdn/todo-vue](https://github.com/mdn/todo-vue) | Web应用 | Vue.js, 待办事项, 前端开发, 示例项目, MDN | 这是一个使用Vue.js框架构建的待办事项应用示例，由MDN(Mozilla开发者网络)提供，适合学习Vue.js基础知识和前端开发实践。 | 2021-06-09T11:42:45Z |
+| [tastejs/todomvc](https://github.com/tastejs/todomvc) | 开发工具 | JavaScript, 前端框架, 示例项目, React, Angular, Vue | TodoMVC是一个展示项目，通过使用不同JavaScript框架（如React、Angular、Vue等）实现的相同Todo应用示例，帮助开发者比较和选择适合的前端框架。 | 2021-06-09T11:42:47Z |
+| [NervJS/nerv-redux-todomvc](https://github.com/NervJS/nerv-redux-todomvc) | Web应用 | 前端, JavaScript, React, Redux, 示例项目 | 这是一个使用Nerv（类React库）和Redux状态管理库实现的TodoMVC示例项目，展示了如何构建一个简单的待办事项列表Web应用。 | 2021-06-09T11:42:49Z |
+| [CharlieLau/todolist-vue3](https://github.com/CharlieLau/todolist-vue3) | Web应用 | 待办事项, Vue3, 前端开发, 任务管理, JavaScript | 这是一个使用Vue 3框架开发的待办事项列表应用，遵循TodoMVC规范，展示了Vue 3的基本用法和组件化开发思想。 | 2021-06-09T11:42:52Z |
+| [docker/awesome-compose](https://github.com/docker/awesome-compose) | 开发工具 | awesome, awesome-list, docker-compose, 容器化, DevOps, 部署 | 这是一个Docker Compose示例集合，提供了各种应用程序的容器化配置样本，帮助开发者快速搭建和部署多容器应用环境。 | 2021-06-09T11:43:11Z |
+| [docker/getting-started](https://github.com/docker/getting-started) | 开发工具 | 容器化, DevOps, 云计算, 微服务, 部署工具 | Docker入门教程，帮助开发者快速学习容器化技术，掌握Docker基本概念和操作，提升应用部署效率。 | 2021-06-09T11:43:13Z |
