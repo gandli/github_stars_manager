@@ -1,0 +1,68 @@
+name: Stars Manager CI
+
+on:
+  workflow_dispatch:
+    inputs:
+      batch_size:
+        description: Batch size per run
+        required: false
+        default: "50"
+      sleep:
+        description: Sleep seconds between analyses
+        required: false
+        default: "0.2"
+      model:
+        description: ZHIPU model name (defaults to repo variable)
+        required: false
+        default: ""
+  schedule:
+    - cron: "0 3 * * *" # Run daily at 03:00 UTC
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # allow commit/push back to repo
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests openai
+
+      - name: Run stars_manager.py
+        env:
+          # Personal token to read user's starred repos
+          GITHUB_TOKEN: ${{ secrets.GH_STAR_TOKEN }}
+          # Zhipu/OpenAI-style API key
+          ZHIPU_API_KEY: ${{ secrets.ZHIPU_API_KEY }}
+          # Optional base url and model via repo variables (or rely on script defaults)
+          ZHIPU_BASE_URL: ${{ vars.ZHIPU_BASE_URL }}
+          ZHIPU_MODEL: ${{ vars.ZHIPU_MODEL }}
+        run: |
+          BS="${{ github.event.inputs.batch_size }}"
+          SL="${{ github.event.inputs.sleep }}"
+          MODEL_INPUT="${{ github.event.inputs.model }}"
+          [ -z "$BS" ] && BS=50
+          [ -z "$SL" ] && SL=0.2
+          echo "Running with batch-size=$BS sleep=$SL model=${MODEL_INPUT:-$ZHIPU_MODEL}"
+          python stars_manager.py --batch-size "$BS" --sleep "$SL" --model "${MODEL_INPUT:-$ZHIPU_MODEL}"
+
+      - name: Commit outputs if changed
+        run: |
+          git config user.name "${{ github.actor }}"
+          git config user.email "${{ github.actor }}@users.noreply.github.com"
+          if [[ -n $(git status --porcelain outputs/) ]]; then
+            git add outputs/
+            git commit -m "Update results_all via CI [skip ci]"
+            git push
+          else
+            echo "No changes to commit."
+          fi
