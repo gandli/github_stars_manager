@@ -1,4 +1,4 @@
-# GitHub Stars Manager
+# GitHub Stars Manager [![Stars Manager CI](https://github.com/gandli/github_stars_manager/actions/workflows/stars_manager.yml/badge.svg)](https://github.com/gandli/github_stars_manager/actions/workflows/stars_manager.yml)
 
 一个用于批量获取 GitHub 已加星仓库，并通过 Zhipu（OpenAI 风格 API）进行分类、打标签与摘要生成的脚本。支持按加星时间升序处理、断点续跑、去重合并，并输出到 JSON / CSV / Markdown。
 
