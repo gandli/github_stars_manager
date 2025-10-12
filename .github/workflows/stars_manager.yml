@@ -40,12 +40,12 @@ jobs:
       - name: Run stars_manager.py
         env:
           # Personal token to read user's starred repos
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN || vars.GH_TOKEN }}
           # Zhipu/OpenAI-style API key
-          API_KEY: ${{ secrets.API_KEY }}
+          API_KEY: ${{ secrets.API_KEY || vars.API_KEY }}
           # Optional base url and model via repo variables (or rely on script defaults)
-          BASE_URL: ${{ vars.BASE_URL }}
-          MODEL: ${{ vars.MODEL }}
+          BASE_URL: ${{ secrets.BASE_URL || vars.BASE_URL }}
+          MODEL: ${{ secrets.MODEL || vars.MODEL }}
         run: |
           BS="${{ github.event.inputs.batch_size }}"
           SL="${{ github.event.inputs.sleep }}"
