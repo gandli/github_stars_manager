@@ -285,5 +285,1223 @@
     ],
     "summary": "这是一个关于bpmn.js的中文文档项目，提供了详细的教程和说明，帮助开发者学习和使用这个业务流程建模和符号的JavaScript库。",
     "analyzed_at": "2025-10-12T06:43:41.358955+00:00"
+  },
+  {
+    "repo_full_name": "Zainking/LearningPixi",
+    "owner": "Zainking",
+    "html_url": "https://github.com/Zainking/LearningPixi",
+    "description": "⚡️Pixi教程中文版",
+    "topics": [
+      "chinese",
+      "chinese-simplified",
+      "chinese-translation",
+      "getting-started",
+      "pixi",
+      "pixi-js",
+      "toturial"
+    ],
+    "starred_at": "2021-06-09T11:33:59Z",
+    "category": "开发工具",
+    "tags": [
+      "Pixi.js",
+      "教程",
+      "中文",
+      "入门"
+    ],
+    "summary": "Pixi.js的中文教程资源，帮助开发者快速入门这个2D渲染库，适合创建游戏和交互式Web内容。",
+    "analyzed_at": "2025-10-13T03:37:16.111002+00:00"
+  },
+  {
+    "repo_full_name": "nuxt/todomvc",
+    "owner": "nuxt",
+    "html_url": "https://github.com/nuxt/todomvc",
+    "description": "Nuxt.js TodoMVC Example",
+    "topics": [
+      "nuxt",
+      "todomvc",
+      "universal",
+      "vue",
+      "web-app"
+    ],
+    "starred_at": "2021-06-09T11:42:38Z",
+    "category": "Web应用",
+    "tags": [
+      "nuxt",
+      "vue",
+      "web-app",
+      "todomvc",
+      "universal"
+    ],
+    "summary": "这是一个基于Nuxt.js框架的TodoMVC示例项目，展示了如何使用Vue.js构建通用Web应用，实现了经典的待办事项管理功能。",
+    "analyzed_at": "2025-10-13T03:37:16.111002+00:00"
+  },
+  {
+    "repo_full_name": "benyasin/vue3-demo",
+    "owner": "benyasin",
+    "html_url": "https://github.com/benyasin/vue3-demo",
+    "description": "💡 vue3新特性示例: 响应式API、组合式API、TodoMVC",
+    "topics": [
+      "composition-api",
+      "demo",
+      "proxy",
+      "reactive",
+      "todomvc",
+      "typescript",
+      "vite",
+      "vue-router4",
+      "vue3",
+      "vue3-demo",
+      "vue3-typescript",
+      "vuex4"
+    ],
+    "starred_at": "2021-06-09T11:42:41Z",
+    "category": "Web应用",
+    "tags": [
+      "Vue3",
+      "前端开发",
+      "TypeScript",
+      "示例项目",
+      "组合式API"
+    ],
+    "summary": "这是一个Vue 3新特性示例项目，展示了响应式API、组合式API的实现，并通过TodoMVC应用演示了这些特性在实践中的应用。",
+    "analyzed_at": "2025-10-13T03:37:16.111002+00:00"
+  },
+  {
+    "repo_full_name": "artberri/todomvp",
+    "owner": "artberri",
+    "html_url": "https://github.com/artberri/todomvp",
+    "description": "Frameworkless MVP implementation of the TodoMVC app using Typescript with views implemented in Vue, React and Angular",
+    "topics": [
+      "angular",
+      "mvp",
+      "todomvc",
+      "typescript",
+      "vue"
+    ],
+    "starred_at": "2021-06-09T11:42:43Z",
+    "category": "Web应用",
+    "tags": [
+      "TypeScript",
+      "Vue",
+      "React",
+      "Angular",
+      "MVP",
+      "TodoMVC"
+    ],
+    "summary": "这是一个不使用框架的MVP实现的TodoMVC应用，使用Typescript开发，并分别使用Vue、React和Angular实现了视图。该项目展示了如何用不同前端框架构建相同的应用。",
+    "analyzed_at": "2025-10-13T03:37:16.111002+00:00"
+  },
+  {
+    "repo_full_name": "mdn/todo-vue",
+    "owner": "mdn",
+    "html_url": "https://github.com/mdn/todo-vue",
+    "description": "Sample todo app built with the Vue framework",
+    "topics": [
+      "mdn",
+      "todo",
+      "vue",
+      "vuejs"
+    ],
+    "starred_at": "2021-06-09T11:42:45Z",
+    "category": "Web应用",
+    "tags": [
+      "Vue.js",
+      "待办事项",
+      "示例项目",
+      "前端",
+      "学习资源",
+      "MDN"
+    ],
+    "summary": "这是一个使用Vue框架构建的待办事项应用示例，适合开发者学习Vue.js的基本用法和组件开发。",
+    "analyzed_at": "2025-10-13T03:37:16.111002+00:00"
+  },
+  {
+    "repo_full_name": "tastejs/todomvc",
+    "owner": "tastejs",
+    "html_url": "https://github.com/tastejs/todomvc",
+    "description": "Helping you select a JavaScript framework - Todo apps for React.js, Angular, Vue and many more",
+    "topics": [],
+    "starred_at": "2021-06-09T11:42:47Z",
+    "category": "开发工具",
+    "tags": [
+      "JavaScript",
+      "前端框架",
+      "框架比较",
+      "Todo应用",
+      "教程"
+    ],
+    "summary": "TodoMVC是一个项目集合，展示了使用不同JavaScript框架（如React、Angular、Vue等）实现的待办事项应用，帮助开发者比较和选择适合的前端框架。",
+    "analyzed_at": "2025-10-13T03:37:16.111002+00:00"
+  },
+  {
+    "repo_full_name": "NervJS/nerv-redux-todomvc",
+    "owner": "NervJS",
+    "html_url": "https://github.com/NervJS/nerv-redux-todomvc",
+    "description": "TodoMVC example using Nerv and Redux",
+    "topics": [],
+    "starred_at": "2021-06-09T11:42:49Z",
+    "category": "Web应用",
+    "tags": [
+      "前端框架",
+      "状态管理",
+      "示例项目",
+      "React",
+      "JavaScript"
+    ],
+    "summary": "这是一个使用Nerv框架和Redux状态管理库实现的TodoMVC示例项目，展示了如何构建一个简单的Web待办事项应用。",
+    "analyzed_at": "2025-10-13T03:37:16.111002+00:00"
+  },
+  {
+    "repo_full_name": "CharlieLau/todolist-vue3",
+    "owner": "CharlieLau",
+    "html_url": "https://github.com/CharlieLau/todolist-vue3",
+    "description": "设计",
+    "topics": [
+      "todomvc",
+      "vue3-demo"
+    ],
+    "starred_at": "2021-06-09T11:42:52Z",
+    "category": "Web应用",
+    "tags": [
+      "待办事项",
+      "Vue3",
+      "前端",
+      "示例项目",
+      "响应式设计"
+    ],
+    "summary": "这是一个使用Vue 3框架开发的待办事项列表应用，作为前端示例项目展示响应式设计和组件化开发。",
+    "analyzed_at": "2025-10-13T03:37:16.111002+00:00"
+  },
+  {
+    "repo_full_name": "docker/awesome-compose",
+    "owner": "docker",
+    "html_url": "https://github.com/docker/awesome-compose",
+    "description": "Awesome Docker Compose samples",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "docker-compose"
+    ],
+    "starred_at": "2021-06-09T11:43:11Z",
+    "category": "开发工具",
+    "tags": [
+      "awesome",
+      "awesome-list",
+      "docker-compose",
+      "容器化",
+      "DevOps",
+      "示例"
+    ],
+    "summary": "Docker Compose精选示例集合，提供各种应用场景的配置模板，帮助开发者快速搭建和部署多容器Docker应用。",
+    "analyzed_at": "2025-10-13T03:37:16.111002+00:00"
+  },
+  {
+    "repo_full_name": "docker/getting-started",
+    "owner": "docker",
+    "html_url": "https://github.com/docker/getting-started",
+    "description": "Getting started with Docker",
+    "topics": [],
+    "starred_at": "2021-06-09T11:43:13Z",
+    "category": "开发工具",
+    "tags": [
+      "容器化",
+      "开发环境",
+      "部署工具",
+      "Docker",
+      "开发者工具",
+      "基础教程"
+    ],
+    "summary": "Docker入门教程，帮助开发者快速了解容器化技术的基础知识，学习如何使用Docker构建、部署和管理应用程序，提高开发效率和环境一致性。",
+    "analyzed_at": "2025-10-13T03:37:16.111002+00:00"
+  },
+  {
+    "repo_full_name": "nicolaka/netshoot",
+    "owner": "nicolaka",
+    "html_url": "https://github.com/nicolaka/netshoot",
+    "description": "a Docker + Kubernetes network trouble-shooting swiss-army container",
+    "topics": [
+      "containers",
+      "docker",
+      "kubernetes",
+      "network",
+      "network-namespace",
+      "troubleshooting"
+    ],
+    "starred_at": "2021-06-09T11:43:14Z",
+    "category": "开发工具",
+    "tags": [
+      "容器技术",
+      "Docker",
+      "Kubernetes",
+      "网络",
+      "故障排除"
+    ],
+    "summary": "Netshoot是一个Docker和Kubernetes网络故障排除的瑞士军刀式容器工具集，提供网络命名空间管理和网络诊断功能，帮助开发者快速定位和解决容器环境中的网络问题。",
+    "analyzed_at": "2025-10-13T03:37:16.111002+00:00"
+  },
+  {
+    "repo_full_name": "quackduck/devzat",
+    "owner": "quackduck",
+    "html_url": "https://github.com/quackduck/devzat",
+    "description": "The devs are over here at devzat, chat over SSH!",
+    "topics": [
+      "chat",
+      "devchat",
+      "developer-chat",
+      "devzat",
+      "slack",
+      "social",
+      "ssh",
+      "ssh-chat",
+      "unicorns"
+    ],
+    "starred_at": "2021-06-10T10:01:48Z",
+    "category": "开发工具",
+    "tags": [
+      "chat",
+      "devchat",
+      "ssh",
+      "social",
+      "developer-chat"
+    ],
+    "summary": "Devzat是一个通过SSH协议运行的聊天平台，专为开发者设计。用户可以通过SSH客户端加入聊天室，进行实时交流。它提供了一个轻量级、安全的开发者交流环境。",
+    "analyzed_at": "2025-10-13T03:37:16.111002+00:00"
+  },
+  {
+    "repo_full_name": "brianegan/flutter_architecture_samples",
+    "owner": "brianegan",
+    "html_url": "https://github.com/brianegan/flutter_architecture_samples",
+    "description": "TodoMVC for Flutter",
+    "topics": [
+      "dart",
+      "flutter",
+      "redux"
+    ],
+    "starred_at": "2021-06-10T10:36:29Z",
+    "category": "移动应用",
+    "tags": [
+      "dart",
+      "flutter",
+      "redux",
+      "架构",
+      "示例",
+      "移动开发"
+    ],
+    "summary": "Flutter架构示例项目，基于TodoMVC实现，展示了如何使用Flutter框架和Redux状态管理库构建移动应用。",
+    "analyzed_at": "2025-10-13T03:37:16.111002+00:00"
+  },
+  {
+    "repo_full_name": "jaysoo/todomvc-redux-react-typescript",
+    "owner": "jaysoo",
+    "html_url": "https://github.com/jaysoo/todomvc-redux-react-typescript",
+    "description": "TodoMVC example using Redux, React, and Typescript",
+    "topics": [],
+    "starred_at": "2021-06-10T10:37:31Z",
+    "category": "Web应用",
+    "tags": [
+      "React",
+      "Redux",
+      "TypeScript",
+      "TodoMVC",
+      "前端开发",
+      "示例项目"
+    ],
+    "summary": "这是一个使用Redux状态管理、React组件和TypeScript类型系统构建的TodoMVC示例项目，展示了现代前端开发的最佳实践。",
+    "analyzed_at": "2025-10-13T03:37:16.111002+00:00"
+  },
+  {
+    "repo_full_name": "sharkdp/bat",
+    "owner": "sharkdp",
+    "html_url": "https://github.com/sharkdp/bat",
+    "description": "A cat(1) clone with wings.",
+    "topics": [
+      "cli",
+      "command-line",
+      "git",
+      "hacktoberfest",
+      "rust",
+      "syntax-highlighting",
+      "terminal",
+      "tool"
+    ],
+    "starred_at": "2021-06-10T10:56:09Z",
+    "category": "开发工具",
+    "tags": [
+      "命令行工具",
+      "语法高亮",
+      "终端工具",
+      "Rust开发"
+    ],
+    "summary": "bat是一个用Rust编写的命令行工具，是cat命令的增强版，提供语法高亮功能，适合在终端中查看和比较代码文件。",
+    "analyzed_at": "2025-10-13T03:37:16.111002+00:00"
+  },
+  {
+    "repo_full_name": "supabase/supabase",
+    "owner": "supabase",
+    "html_url": "https://github.com/supabase/supabase",
+    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+    "topics": [
+      "ai",
+      "alternative",
+      "auth",
+      "database",
+      "deno",
+      "embeddings",
+      "example",
+      "firebase",
+      "nextjs",
+      "oauth2",
+      "pgvector",
+      "postgis",
+      "postgres",
+      "postgresql",
+      "postgrest",
+      "realtime",
+      "supabase",
+      "vectors",
+      "websockets"
+    ],
+    "starred_at": "2021-06-10T14:17:48Z",
+    "category": "数据库",
+    "tags": [
+      "数据库",
+      "AI",
+      "开发工具",
+      "实时功能",
+      "认证",
+      "向量数据库"
+    ],
+    "summary": "Supabase是一个Postgres开发平台，提供专用数据库服务，支持构建Web、移动和AI应用。集成了认证、实时功能和向量数据库等特性，是Firebase的开源替代方案。",
+    "analyzed_at": "2025-10-13T03:37:16.111002+00:00"
+  },
+  {
+    "repo_full_name": "Mayandev/hacker-feeds-cli",
+    "owner": "Mayandev",
+    "html_url": "https://github.com/Mayandev/hacker-feeds-cli",
+    "description": "📰 A command line tool for Hacker News、 Product Hunt、 GitHub Trending 、Reddit and V2EX feeds.",
+    "topics": [
+      "github",
+      "hacker-news",
+      "product-hunt",
+      "reddit",
+      "trending",
+      "v2ex"
+    ],
+    "starred_at": "2021-06-11T04:54:10Z",
+    "category": "开发工具",
+    "tags": [
+      "hacker-news",
+      "github",
+      "cli",
+      "reddit",
+      "v2ex"
+    ],
+    "summary": "hacker-feeds-cli是一个命令行工具，聚合Hacker News、Product Hunt、GitHub趋势、Reddit和V2EX等平台的最新内容，帮助开发者一站式获取技术社区动态。",
+    "analyzed_at": "2025-10-13T03:37:16.111002+00:00"
+  },
+  {
+    "repo_full_name": "yihong0618/GitHubPoster",
+    "owner": "yihong0618",
+    "html_url": "https://github.com/yihong0618/GitHubPoster",
+    "description": "Make everything a GitHub svg poster and Skyline!",
+    "topics": [
+      "bilibili",
+      "dota2",
+      "duolingo",
+      "github-svg-poster",
+      "gitlab",
+      "gpx",
+      "kindle",
+      "leetcode",
+      "shanbay",
+      "skyline",
+      "strava",
+      "twitter",
+      "wakatime",
+      "xhr",
+      "youtube"
+    ],
+    "starred_at": "2021-06-11T04:54:17Z",
+    "category": "开发工具",
+    "tags": [
+      "github-svg-poster",
+      "skyline",
+      "数据可视化",
+      "活动展示"
+    ],
+    "summary": "GitHubPoster是一个将各种平台活动数据转换为GitHub风格SVG海报和Skyline可视化的开发工具，支持B站、LeetCode、Strava等多平台数据展示。",
+    "analyzed_at": "2025-10-13T03:37:16.111002+00:00"
+  },
+  {
+    "repo_full_name": "ConnorAtherton/loaders.css",
+    "owner": "ConnorAtherton",
+    "html_url": "https://github.com/ConnorAtherton/loaders.css",
+    "description": "Delightful, performance-focused pure css loading animations.",
+    "topics": [],
+    "starred_at": "2021-06-11T10:56:59Z",
+    "category": "开发工具",
+    "tags": [
+      "CSS动画",
+      "加载动画",
+      "前端开发",
+      "性能优化",
+      "网页组件",
+      "UI元素"
+    ],
+    "summary": "loaders.css是一个专注于性能的纯CSS加载动画库，提供多种精美且高效的加载效果，无需JavaScript即可实现，帮助开发者提升用户体验。",
+    "analyzed_at": "2025-10-13T03:37:16.111002+00:00"
+  },
+  {
+    "repo_full_name": "mawww/kakoune",
+    "owner": "mawww",
+    "html_url": "https://github.com/mawww/kakoune",
+    "description": "mawww's experiment for a better code editor",
+    "topics": [
+      "c-plus-plus",
+      "console-application",
+      "kakoune",
+      "modal-editing",
+      "text-editor",
+      "vim"
+    ],
+    "starred_at": "2021-06-11T10:57:33Z",
+    "category": "开发工具",
+    "tags": [
+      "文本编辑器",
+      "模态编辑",
+      "类Vim",
+      "C++开发",
+      "控制台应用"
+    ],
+    "summary": "Kakoune是一个用C++编写的模态文本编辑器，受Vim启发但重新设计了编辑模式，旨在提供更高效的代码编辑体验。",
+    "analyzed_at": "2025-10-13T03:37:16.111002+00:00"
+  },
+  {
+    "repo_full_name": "mockoon/mockoon",
+    "owner": "mockoon",
+    "html_url": "https://github.com/mockoon/mockoon",
+    "description": "Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.",
+    "topics": [
+      "api",
+      "application",
+      "desktop",
+      "electron",
+      "mock",
+      "mock-api",
+      "mock-data",
+      "mock-server",
+      "mocking",
+      "mocking-server",
+      "mocking-utility",
+      "openapi",
+      "openapi3",
+      "prototyping",
+      "rest",
+      "rest-api",
+      "server",
+      "swagger"
+    ],
+    "starred_at": "2021-06-11T10:58:41Z",
+    "category": "开发工具",
+    "tags": [
+      "mock-api",
+      "api",
+      "desktop",
+      "electron",
+      "mock-server",
+      "openapi"
+    ],
+    "summary": "Mockoon是一个简单快速的本地API模拟工具，无需远程部署或注册账户。它支持OpenAPI和Swagger规范，帮助开发者轻松创建和管理API模拟服务，适用于原型开发和测试。",
+    "analyzed_at": "2025-10-13T03:37:16.111002+00:00"
+  },
+  {
+    "repo_full_name": "lan-tianxiang/jd_shell",
+    "owner": "lan-tianxiang",
+    "html_url": "https://github.com/lan-tianxiang/jd_shell",
+    "description": "Node网页开发工具",
+    "topics": [
+      "docker",
+      "jd",
+      "jd-base",
+      "jd-scripts",
+      "linux",
+      "loon",
+      "lxk0301",
+      "scripts"
+    ],
+    "starred_at": "2021-06-11T11:01:50Z",
+    "category": "开发工具",
+    "tags": [
+      "Node.js",
+      "Docker",
+      "脚本",
+      "Linux"
+    ],
+    "summary": "jd_shell是一个基于Node.js的网页开发工具，支持Docker部署，可在Linux环境下运行，提供脚本功能，方便开发者快速构建网页应用。",
+    "analyzed_at": "2025-10-13T03:37:16.111002+00:00"
+  },
+  {
+    "repo_full_name": "actionsflow/actionsflow-workflow-default",
+    "owner": "actionsflow",
+    "html_url": "https://github.com/actionsflow/actionsflow-workflow-default",
+    "description": "Actionsflow workflow template repository. The best Zapier/IFTTT free alternative for developers to automate your workflows based on Github actions",
+    "topics": [
+      "actionsflow",
+      "automate",
+      "workflow"
+    ],
+    "starred_at": "2021-06-13T05:26:57Z",
+    "category": "开发工具",
+    "tags": [
+      "自动化",
+      "工作流",
+      "GitHub Actions",
+      "集成",
+      "开发者工具"
+    ],
+    "summary": "Actionsflow是一个基于GitHub Actions的工作流自动化工具，为开发者提供类似Zapier/IFTTT的免费替代方案，帮助自动化各种工作流程。",
+    "analyzed_at": "2025-10-13T03:37:16.111002+00:00"
+  },
+  {
+    "repo_full_name": "sablejs/sablejs",
+    "owner": "sablejs",
+    "html_url": "https://github.com/sablejs/sablejs",
+    "description": "🏖️ The safer and faster ECMA5.1 interpreter written by JavaScript",
+    "topics": [
+      "compiler",
+      "ecma5",
+      "interpreter",
+      "javascript",
+      "opcode",
+      "sandbox"
+    ],
+    "starred_at": "2021-06-13T12:09:57Z",
+    "category": "开发工具",
+    "tags": [
+      "JavaScript",
+      "解释器",
+      "编译器",
+      "沙盒"
+    ],
+    "summary": "SableJS是一个用JavaScript编写的更安全、更快的ECMA5.1解释器，提供沙盒环境执行JavaScript代码，适合需要安全执行JS代码的场景。",
+    "analyzed_at": "2025-10-13T03:37:16.111002+00:00"
+  },
+  {
+    "repo_full_name": "lfb/nodejs-koa-blog",
+    "owner": "lfb",
+    "html_url": "https://github.com/lfb/nodejs-koa-blog",
+    "description": "基于 Node.js Koa2 实战开发的一套完整的博客项目网站",
+    "topics": [
+      "blog",
+      "element-ui",
+      "koa",
+      "koa2",
+      "koa2-vue",
+      "mysql",
+      "node",
+      "node-blog",
+      "nodejs",
+      "nuxtjs",
+      "nuxtjs-project",
+      "vue",
+      "vuejs"
+    ],
+    "starred_at": "2021-06-13T12:10:03Z",
+    "category": "Web应用",
+    "tags": [
+      "blog",
+      "nodejs",
+      "vue",
+      "koa2",
+      "web",
+      "mysql"
+    ],
+    "summary": "这是一个基于Node.js Koa2和Vue.js开发的完整博客系统，使用MySQL存储数据，集成了Element UI组件库，可作为Web应用开发的参考实例。",
+    "analyzed_at": "2025-10-13T03:37:16.111002+00:00"
+  },
+  {
+    "repo_full_name": "vuejs/vue",
+    "owner": "vuejs",
+    "html_url": "https://github.com/vuejs/vue",
+    "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core",
+    "topics": [
+      "framework",
+      "frontend",
+      "javascript",
+      "vue"
+    ],
+    "starred_at": "2021-06-13T12:10:06Z",
+    "category": "Web应用",
+    "tags": [
+      "前端框架",
+      "JavaScript",
+      "渐进式框架",
+      "组件化",
+      "MVVM"
+    ],
+    "summary": "Vue是一个流行的渐进式JavaScript前端框架，专注于构建用户界面，采用组件化开发模式，支持MVVM架构，易于学习和集成。",
+    "analyzed_at": "2025-10-13T03:37:16.111002+00:00"
+  },
+  {
+    "repo_full_name": "facebook/react",
+    "owner": "facebook",
+    "html_url": "https://github.com/facebook/react",
+    "description": "The library for web and native user interfaces.",
+    "topics": [
+      "declarative",
+      "frontend",
+      "javascript",
+      "library",
+      "react",
+      "ui"
+    ],
+    "starred_at": "2021-06-13T12:10:08Z",
+    "category": "Web应用",
+    "tags": [
+      "前端开发",
+      "JavaScript",
+      "UI库",
+      "声明式编程",
+      "React"
+    ],
+    "summary": "React是由Facebook开发的用于构建Web和原生用户界面的JavaScript库。它采用组件化架构和声明式编程范式，使开发者能够高效创建交互式UI。",
+    "analyzed_at": "2025-10-13T03:37:16.111002+00:00"
+  },
+  {
+    "repo_full_name": "trekhleb/javascript-algorithms",
+    "owner": "trekhleb",
+    "html_url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "topics": [
+      "algorithm",
+      "algorithms",
+      "computer-science",
+      "data-structures",
+      "interview",
+      "interview-preparation",
+      "javascript",
+      "javascript-algorithms"
+    ],
+    "starred_at": "2021-06-13T12:10:14Z",
+    "category": "开发工具",
+    "tags": [
+      "算法",
+      "数据结构",
+      "JavaScript",
+      "计算机科学",
+      "面试准备"
+    ],
+    "summary": "这是一个JavaScript实现的算法与数据结构集合，包含详细解释和相关阅读链接。适合开发者学习计算机科学基础知识和准备技术面试。",
+    "analyzed_at": "2025-10-13T03:37:16.111002+00:00"
+  },
+  {
+    "repo_full_name": "d3/d3",
+    "owner": "d3",
+    "html_url": "https://github.com/d3/d3",
+    "description": "Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:",
+    "topics": [
+      "chart",
+      "charts",
+      "d3",
+      "data-visualization",
+      "svg",
+      "visualization"
+    ],
+    "starred_at": "2021-06-13T12:10:16Z",
+    "category": "开发工具",
+    "tags": [
+      "数据可视化",
+      "图表",
+      "D3.js",
+      "SVG",
+      "可视化工具"
+    ],
+    "summary": "D3是一个强大的JavaScript数据可视化库，通过SVG、Canvas和HTML将数据转化为交互式图表和可视化效果，广泛应用于数据分析和展示领域。",
+    "analyzed_at": "2025-10-13T03:37:16.111002+00:00"
+  },
+  {
+    "repo_full_name": "facebook/react-native",
+    "owner": "facebook",
+    "html_url": "https://github.com/facebook/react-native",
+    "description": "A framework for building native applications using React",
+    "topics": [
+      "android",
+      "app-framework",
+      "cross-platform",
+      "ios",
+      "mobile",
+      "mobile-development",
+      "react",
+      "react-native"
+    ],
+    "starred_at": "2021-06-13T12:10:19Z",
+    "category": "移动应用",
+    "tags": [
+      "跨平台开发",
+      "React框架",
+      "移动应用开发",
+      "原生应用",
+      "iOS开发",
+      "Android开发"
+    ],
+    "summary": "React Native是一个使用React构建原生移动应用的框架，支持iOS和Android双平台，允许开发者使用JavaScript编写高性能的原生应用，实现一次开发多平台运行。",
+    "analyzed_at": "2025-10-13T03:37:16.111002+00:00"
+  },
+  {
+    "repo_full_name": "axios/axios",
+    "owner": "axios",
+    "html_url": "https://github.com/axios/axios",
+    "description": "Promise based HTTP client for the browser and node.js",
+    "topics": [
+      "hacktoberfest",
+      "http-client",
+      "javascript",
+      "nodejs",
+      "promise"
+    ],
+    "starred_at": "2021-06-13T12:10:24Z",
+    "category": "开发工具",
+    "tags": [
+      "http-client",
+      "javascript",
+      "nodejs",
+      "promise"
+    ],
+    "summary": "axios是一个基于Promise的HTTP客户端库，专为浏览器和Node.js设计。它简化了HTTP请求的处理，提供了简洁的API和强大的功能，是前端和后端开发中常用的网络请求工具。",
+    "analyzed_at": "2025-10-13T03:37:16.111002+00:00"
+  },
+  {
+    "repo_full_name": "nodejs/node",
+    "owner": "nodejs",
+    "html_url": "https://github.com/nodejs/node",
+    "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+    "topics": [
+      "javascript",
+      "js",
+      "linux",
+      "macos",
+      "mit",
+      "node",
+      "nodejs",
+      "runtime",
+      "windows"
+    ],
+    "starred_at": "2021-06-13T12:10:28Z",
+    "category": "开发工具",
+    "tags": [
+      "javascript",
+      "nodejs",
+      "runtime",
+      "开发工具"
+    ],
+    "summary": "Node.js是一个基于Chrome V8引擎的JavaScript运行时环境，允许开发者使用JavaScript构建服务器端和网络应用程序，支持跨平台运行。",
+    "analyzed_at": "2025-10-13T03:37:16.111002+00:00"
+  },
+  {
+    "repo_full_name": "daniel-dx/ncgen",
+    "owner": "daniel-dx",
+    "html_url": "https://github.com/daniel-dx/ncgen",
+    "description": "🍋 A very nice code generator，scaffolding tool",
+    "topics": [
+      "generator",
+      "scaffolding"
+    ],
+    "starred_at": "2021-06-13T12:10:35Z",
+    "category": "开发工具",
+    "tags": [
+      "代码生成",
+      "脚手架",
+      "开发效率",
+      "自动化"
+    ],
+    "summary": "ncgen是一个简洁高效的代码生成器，提供脚手架功能，帮助开发者快速创建项目结构和基础代码，提升开发效率。",
+    "analyzed_at": "2025-10-13T03:37:16.111002+00:00"
+  },
+  {
+    "repo_full_name": "pseudoyu/chumu-food",
+    "owner": "pseudoyu",
+    "html_url": "https://github.com/pseudoyu/chumu-food",
+    "description": "微信小程序：吃什么吖",
+    "topics": [
+      "javasscript",
+      "wechat-mini-program"
+    ],
+    "starred_at": "2021-06-13T12:10:38Z",
+    "category": "移动应用",
+    "tags": [
+      "微信小程序",
+      "餐饮推荐",
+      "决策辅助",
+      "JavaScript",
+      "生活工具"
+    ],
+    "summary": "这是一个帮助用户决定'吃什么'的微信小程序，通过提供餐饮推荐功能，解决日常用餐选择困难的问题。",
+    "analyzed_at": "2025-10-13T03:37:16.111002+00:00"
+  },
+  {
+    "repo_full_name": "segmentio/evergreen",
+    "owner": "segmentio",
+    "html_url": "https://github.com/segmentio/evergreen",
+    "description": "🌲 Evergreen React UI Framework by Segment",
+    "topics": [
+      "component-library",
+      "design-systems",
+      "evergreen",
+      "react",
+      "segment",
+      "ui",
+      "ui-components"
+    ],
+    "starred_at": "2021-06-13T12:10:47Z",
+    "category": "设计工具",
+    "tags": [
+      "组件库",
+      "设计系统",
+      "React",
+      "UI组件",
+      "前端框架"
+    ],
+    "summary": "这是一个由Segment公司开发的React UI框架，提供可重用的UI组件和设计系统，帮助开发者构建一致的用户界面。",
+    "analyzed_at": "2025-10-13T03:37:16.111002+00:00"
+  },
+  {
+    "repo_full_name": "github/github-elements",
+    "owner": "github",
+    "html_url": "https://github.com/github/github-elements",
+    "description": "GitHub's Web Component collection.",
+    "topics": [
+      "element-collection",
+      "web-components"
+    ],
+    "starred_at": "2021-06-13T12:10:50Z",
+    "category": "开发工具",
+    "tags": [
+      "web-components",
+      "element-collection",
+      "github",
+      "frontend",
+      "ui-components"
+    ],
+    "summary": "GitHub官方的Web组件集合，提供可重用的UI元素，帮助开发者构建现代化的Web界面。这些组件遵循Web标准，易于集成到各种项目中。",
+    "analyzed_at": "2025-10-13T03:37:16.111002+00:00"
+  },
+  {
+    "repo_full_name": "a-wing/webrtc-book-cn",
+    "owner": "a-wing",
+    "html_url": "https://github.com/a-wing/webrtc-book-cn",
+    "description": "中文翻译 《 Real-Time Communication with WebRTC 》",
+    "topics": [
+      "book",
+      "webrtc"
+    ],
+    "starred_at": "2021-06-13T12:10:52Z",
+    "category": "Web应用",
+    "tags": [
+      "webrtc",
+      "book",
+      "实时通信",
+      "web开发",
+      "音视频通信",
+      "中文翻译"
+    ],
+    "summary": "这是一本关于WebRTC实时通信技术的中文翻译书籍，介绍了WebRTC的基础概念、API使用和实际应用，适合Web开发者和对实时通信技术感兴趣的学习者。",
+    "analyzed_at": "2025-10-13T03:37:16.111002+00:00"
+  },
+  {
+    "repo_full_name": "octokatherine/readme.so",
+    "owner": "octokatherine",
+    "html_url": "https://github.com/octokatherine/readme.so",
+    "description": "An online drag-and-drop editor to easily build READMEs",
+    "topics": [
+      "markdown",
+      "nextjs",
+      "react",
+      "tailwindcss"
+    ],
+    "starred_at": "2021-06-13T12:10:54Z",
+    "category": "Web应用",
+    "tags": [
+      "markdown",
+      "编辑器",
+      "文档工具",
+      "在线工具",
+      "拖放"
+    ],
+    "summary": "readme.so是一个在线拖放编辑器，专为轻松构建项目README文件设计。它提供直观的界面，让用户无需编写代码即可创建专业的文档页面。",
+    "analyzed_at": "2025-10-13T03:37:16.111002+00:00"
+  },
+  {
+    "repo_full_name": "iamkun/dayjs",
+    "owner": "iamkun",
+    "html_url": "https://github.com/iamkun/dayjs",
+    "description": "⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API",
+    "topics": [
+      "date",
+      "date-formatting",
+      "datetime",
+      "dayjs",
+      "moment",
+      "time"
+    ],
+    "starred_at": "2021-06-13T12:10:56Z",
+    "category": "开发工具",
+    "tags": [
+      "日期处理",
+      "时间格式化",
+      "日期时间",
+      "轻量级库",
+      "Moment.js替代"
+    ],
+    "summary": "Day.js是一个仅2KB的轻量级JavaScript日期时间处理库，作为Moment.js的现代替代品，提供相同的API但更小的体积和不可变的数据操作。",
+    "analyzed_at": "2025-10-13T03:37:16.111002+00:00"
+  },
+  {
+    "repo_full_name": "catdad/canvas-confetti",
+    "owner": "catdad",
+    "html_url": "https://github.com/catdad/canvas-confetti",
+    "description": "🎉 performant confetti animation in the browser",
+    "topics": [
+      "animation",
+      "burst",
+      "canvas",
+      "canvas-confetti",
+      "confetti",
+      "fireworks",
+      "hacktoberfest",
+      "jsdelivr",
+      "particles",
+      "snow"
+    ],
+    "starred_at": "2021-06-13T12:10:59Z",
+    "category": "Web应用",
+    "tags": [
+      "animation",
+      "canvas",
+      "confetti",
+      "fireworks",
+      "particles"
+    ],
+    "summary": "这是一个轻量级的JavaScript库，用于在网页中创建高性能的五彩纸屑动画效果。基于Canvas实现，支持多种动画样式如烟花、粒子等，可轻松集成到任何Web项目中。",
+    "analyzed_at": "2025-10-13T03:37:16.111002+00:00"
+  },
+  {
+    "repo_full_name": "0voice/from_coder_to_expert",
+    "owner": "0voice",
+    "html_url": "https://github.com/0voice/from_coder_to_expert",
+    "description": "2021年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT",
+    "topics": [],
+    "starred_at": "2021-06-13T12:40:04Z",
+    "category": "教育学习",
+    "tags": [
+      "职业发展",
+      "程序员成长",
+      "技术管理",
+      "CTO",
+      "学习资源"
+    ],
+    "summary": "分享程序员从初级到CTO的职业发展路径和经验，包含企业内部PDF与PPT等学习资源，助力技术人才专业成长。",
+    "analyzed_at": "2025-10-13T03:37:16.111002+00:00"
+  },
+  {
+    "repo_full_name": "0xDkd/auxpi",
+    "owner": "0xDkd",
+    "html_url": "https://github.com/0xDkd/auxpi",
+    "description": "🍭 集合多家 API 的新一代图床",
+    "topics": [
+      "api",
+      "baidu-image",
+      "cdnjs",
+      "element-ui",
+      "go",
+      "golang",
+      "image-store",
+      "mdui",
+      "rest-api",
+      "vue",
+      "weibo-image"
+    ],
+    "starred_at": "2021-06-13T12:40:06Z",
+    "category": "Web应用",
+    "tags": [
+      "image-store",
+      "api",
+      "vue",
+      "go"
+    ],
+    "summary": "这是一个集成了多家API的新一代图床服务，使用Go语言开发后端，Vue构建前端界面，支持百度、微博等多家平台的图片上传与管理。",
+    "analyzed_at": "2025-10-13T03:37:16.111002+00:00"
+  },
+  {
+    "repo_full_name": "0xGG/crossnote-app",
+    "owner": "0xGG",
+    "html_url": "https://github.com/0xGG/crossnote-app",
+    "description": "📝 An interesting markdown note taking application",
+    "topics": [
+      "git",
+      "markdown",
+      "note",
+      "notebook",
+      "notebooks",
+      "notes"
+    ],
+    "starred_at": "2021-06-13T12:40:08Z",
+    "category": "效率工具",
+    "tags": [
+      "笔记应用",
+      "Markdown",
+      "Git集成",
+      "笔记本",
+      "文档管理"
+    ],
+    "summary": "Crossnote是一款基于Markdown的笔记应用，支持Git集成，帮助用户高效创建、管理和同步笔记内容，适合需要结构化记录的个人和团队使用。",
+    "analyzed_at": "2025-10-13T03:37:16.111002+00:00"
+  },
+  {
+    "repo_full_name": "0xGG/welcome-notebook",
+    "owner": "0xGG",
+    "html_url": "https://github.com/0xGG/welcome-notebook",
+    "description": "Welcome to Crossnote",
+    "topics": [],
+    "starred_at": "2021-06-13T12:40:10Z",
+    "category": "开发工具",
+    "tags": [
+      "笔记应用",
+      "文档工具",
+      "欢迎页面",
+      "入门指南"
+    ],
+    "summary": "这是一个名为Crossnote的笔记应用的欢迎页面或入门指南，帮助新用户快速了解和使用该工具。",
+    "analyzed_at": "2025-10-13T03:37:16.111002+00:00"
+  },
+  {
+    "repo_full_name": "1377283509/CampusShooting",
+    "owner": "1377283509",
+    "html_url": "https://github.com/1377283509/CampusShooting",
+    "description": "校拍",
+    "topics": [],
+    "starred_at": "2021-06-13T12:40:12Z",
+    "category": "移动应用",
+    "tags": [
+      "校园",
+      "摄影",
+      "拍摄",
+      "记录",
+      "生活"
+    ],
+    "summary": "校拍是一个校园拍摄应用，帮助学生记录校园生活，拍摄校园活动，分享校园美好瞬间。",
+    "analyzed_at": "2025-10-13T03:37:16.111002+00:00"
+  },
+  {
+    "repo_full_name": "1c7/Crash-Course-Computer-Science-Chinese",
+    "owner": "1c7",
+    "html_url": "https://github.com/1c7/Crash-Course-Computer-Science-Chinese",
+    "description": "（播放量 457 万）计算机速成课 （完整 40集）",
+    "topics": [
+      "computer-science",
+      "crash-course",
+      "cs"
+    ],
+    "starred_at": "2021-06-13T12:40:14Z",
+    "category": "教育学习",
+    "tags": [
+      "计算机科学",
+      "教育课程",
+      "视频教程",
+      "入门学习",
+      "技术科普"
+    ],
+    "summary": "这是一个中文版的计算机科学速成课程，包含40集完整内容，旨在帮助学习者快速掌握计算机科学基础知识，适合初学者入门学习。",
+    "analyzed_at": "2025-10-13T03:37:16.111002+00:00"
+  },
+  {
+    "repo_full_name": "233boy/v2ray",
+    "owner": "233boy",
+    "html_url": "https://github.com/233boy/v2ray",
+    "description": "最好用的 V2Ray 一键安装脚本 & 管理脚本",
+    "topics": [
+      "shell-script",
+      "v2ray",
+      "vmess"
+    ],
+    "starred_at": "2021-06-13T12:40:15Z",
+    "category": "安全工具",
+    "tags": [
+      "网络代理",
+      "脚本工具",
+      "隐私保护",
+      "网络安全"
+    ],
+    "summary": "V2Ray一键安装与管理脚本，提供简单易用的命令行界面，帮助用户快速搭建和配置V2Ray代理服务，保护网络隐私。",
+    "analyzed_at": "2025-10-13T03:37:16.111002+00:00"
+  },
+  {
+    "repo_full_name": "252860883/ArtQRCode",
+    "owner": "252860883",
+    "html_url": "https://github.com/252860883/ArtQRCode",
+    "description": ":crystal_ball:艺术二维码生成工具（Art QRcode productivity tool ）",
+    "topics": [
+      "qrcode",
+      "vue",
+      "vuerouter"
+    ],
+    "starred_at": "2021-06-13T12:40:21Z",
+    "category": "Web应用",
+    "tags": [
+      "二维码",
+      "Vue",
+      "生成器",
+      "工具",
+      "艺术"
+    ],
+    "summary": "这是一个基于Vue开发的艺术二维码生成工具，用户可以创建个性化的艺术风格二维码，提高二维码的视觉吸引力，同时保持扫描功能。",
+    "analyzed_at": "2025-10-13T03:37:16.111002+00:00"
+  },
+  {
+    "repo_full_name": "2dust/v2rayN",
+    "owner": "2dust",
+    "html_url": "https://github.com/2dust/v2rayN",
+    "description": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others",
+    "topics": [
+      "proxy",
+      "shadowsocks",
+      "socks5",
+      "trojan",
+      "v2fly",
+      "v2ray",
+      "vless",
+      "vmess",
+      "windows",
+      "xray",
+      "xtls"
+    ],
+    "starred_at": "2021-06-13T12:40:22Z",
+    "category": "安全工具",
+    "tags": [
+      "代理",
+      "网络工具",
+      "跨平台",
+      "隐私保护",
+      "网络安全"
+    ],
+    "summary": "v2rayN是一个跨平台的GUI客户端，支持Windows、Linux和macOS系统，兼容Xray、sing-box等多种代理协议，提供便捷的网络代理和隐私保护功能。",
+    "analyzed_at": "2025-10-13T03:37:16.111002+00:00"
+  },
+  {
+    "repo_full_name": "0matgal0/AutoMono",
+    "owner": "0matgal0",
+    "html_url": "https://github.com/0matgal0/AutoMono",
+    "description": "Programming font derived from Roboto Mono (with a hint of Monaco, SF Mono, Gotham & Futura)",
+    "topics": [],
+    "starred_at": "2021-06-13T12:40:24Z",
+    "category": "设计工具",
+    "tags": [
+      "字体",
+      "编程字体",
+      "设计",
+      "开发工具",
+      "字体设计"
+    ],
+    "summary": "AutoMono是一款基于Roboto Mono的编程字体，融合了Monaco、SF Mono、Gotham和Futura等字体的特点，为开发者提供舒适的编程体验。",
+    "analyzed_at": "2025-10-13T03:37:16.111002+00:00"
   }
 ]
