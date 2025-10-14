@@ -16,7 +16,7 @@ on:
         required: false
         default: "glm-4.5-flash"
   schedule:
-    - cron: "0 3 * * *" # Run daily at 03:00 UTC
+    - cron: "0 19 * * *" # Run daily at 03:00 UTC
 
 jobs:
   run:
