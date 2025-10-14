@@ -1503,5 +1503,1239 @@
     ],
     "summary": "AutoMono是一款基于Roboto Mono的编程字体，融合了Monaco、SF Mono、Gotham和Futura等字体的特点，为开发者提供舒适的编程体验。",
     "analyzed_at": "2025-10-13T03:37:16.111002+00:00"
+  },
+  {
+    "repo_full_name": "nightscout/cgm-remote-monitor",
+    "owner": "nightscout",
+    "html_url": "https://github.com/nightscout/cgm-remote-monitor",
+    "description": "nightscout web monitor",
+    "topics": [],
+    "starred_at": "2021-06-13T12:49:17Z",
+    "category": "Web应用",
+    "tags": [
+      "医疗健康",
+      "血糖监测",
+      "远程监控",
+      "健康追踪",
+      "糖尿病管理"
+    ],
+    "summary": "Nightscout CGM远程监控系统是一个基于Web的血糖监测数据可视化平台，允许患者和医护人员远程查看连续血糖监测数据，帮助糖尿病患者更好地管理健康状况。",
+    "analyzed_at": "2025-10-14T19:18:34.357443+00:00"
+  },
+  {
+    "repo_full_name": "jackfrued/Python-100-Days",
+    "owner": "jackfrued",
+    "html_url": "https://github.com/jackfrued/Python-100-Days",
+    "description": "Python - 100天从新手到大师",
+    "topics": [],
+    "starred_at": "2021-06-13T12:49:20Z",
+    "category": "教育学习",
+    "tags": [
+      "编程学习",
+      "Python",
+      "教程",
+      "入门指南",
+      "技能提升"
+    ],
+    "summary": "这是一个100天的Python学习计划，从基础到高级，帮助学习者在100天内从Python新手成长为编程高手。",
+    "analyzed_at": "2025-10-14T19:18:34.357443+00:00"
+  },
+  {
+    "repo_full_name": "dotnet/maui",
+    "owner": "dotnet",
+    "html_url": "https://github.com/dotnet/maui",
+    "description": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
+    "topics": [
+      "android",
+      "desktop",
+      "dotnet",
+      "hacktoberfest",
+      "ios",
+      "maccatalyst",
+      "maui",
+      "microsoft",
+      "mobile",
+      "multi-platform",
+      "user-interface",
+      "winui",
+      "winui3"
+    ],
+    "starred_at": "2021-06-13T13:21:51Z",
+    "category": "移动应用",
+    "tags": [
+      "dotnet",
+      "multi-platform",
+      "mobile",
+      "desktop",
+      "user-interface",
+      "maui"
+    ],
+    "summary": ".NET MAUI是一个跨平台应用UI框架，支持使用.NET技术构建移动、平板和桌面设备上的原生应用。它整合了之前的Xamarin.Forms和Windows UI技术，实现了真正的跨平台开发体验。",
+    "analyzed_at": "2025-10-14T19:18:34.357443+00:00"
+  },
+  {
+    "repo_full_name": "cointop-sh/cointop",
+    "owner": "cointop-sh",
+    "html_url": "https://github.com/cointop-sh/cointop",
+    "description": "A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀 by @miguelmota",
+    "topics": [
+      "bitcoin",
+      "blockchain",
+      "cli",
+      "coin",
+      "coingecko",
+      "coinmarketcap",
+      "command-line",
+      "console",
+      "cryptocurrency",
+      "digital-currency",
+      "ethereum",
+      "go",
+      "golang",
+      "holdings",
+      "homebrew",
+      "linux",
+      "macos",
+      "monitoring",
+      "portfolio",
+      "terminal"
+    ],
+    "starred_at": "2021-06-13T13:21:57Z",
+    "category": "效率工具",
+    "tags": [
+      "cryptocurrency",
+      "terminal",
+      "portfolio",
+      "monitoring",
+      "command-line"
+    ],
+    "summary": "cointop是一个快速轻量的终端UI应用，专为跟踪加密货币而设计。它提供交互式界面，支持比特币、以太坊等多种数字货币，帮助用户实时监控和管理加密货币投资组合。",
+    "analyzed_at": "2025-10-14T19:18:34.357443+00:00"
+  },
+  {
+    "repo_full_name": "recommenders-team/recommenders",
+    "owner": "recommenders-team",
+    "html_url": "https://github.com/recommenders-team/recommenders",
+    "description": "Best Practices on Recommendation Systems",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "data-science",
+      "deep-learning",
+      "jupyter-notebook",
+      "kubernetes",
+      "machine-learning",
+      "operationalization",
+      "python",
+      "ranking",
+      "rating",
+      "recommendation",
+      "recommendation-algorithm",
+      "recommendation-engine",
+      "recommendation-system",
+      "recommender",
+      "tutorial"
+    ],
+    "starred_at": "2021-06-13T13:21:59Z",
+    "category": "AI/机器学习",
+    "tags": [
+      "推荐系统",
+      "机器学习",
+      "深度学习",
+      "数据科学",
+      "Python",
+      "推荐算法"
+    ],
+    "summary": "该项目提供了构建推荐系统的最佳实践，涵盖推荐算法、排名和评分系统，使用Python和深度学习技术实现，适合数据科学家和机器学习工程师参考。",
+    "analyzed_at": "2025-10-14T19:18:34.357443+00:00"
+  },
+  {
+    "repo_full_name": "magic-wormhole/magic-wormhole",
+    "owner": "magic-wormhole",
+    "html_url": "https://github.com/magic-wormhole/magic-wormhole",
+    "description": "get things from one computer to another, safely",
+    "topics": [],
+    "starred_at": "2021-06-13T13:22:07Z",
+    "category": "开发工具",
+    "tags": [
+      "文件传输",
+      "安全传输",
+      "命令行工具",
+      "跨平台",
+      "端到端加密"
+    ],
+    "summary": "Magic Wormhole是一个安全、简单的命令行工具，用于在计算机之间传输文件。它使用端到端加密确保数据安全传输，无需复杂的配置，适合开发者快速安全地分享文件。",
+    "analyzed_at": "2025-10-14T19:18:34.357443+00:00"
+  },
+  {
+    "repo_full_name": "371854496/flask-vue-xcx-",
+    "owner": "371854496",
+    "html_url": "https://github.com/371854496/flask-vue-xcx-",
+    "description": "电商齐全系统包含 flask+pc端商家管理后台+小程序客户端+mysql",
+    "topics": [],
+    "starred_at": "2021-06-13T13:22:34Z",
+    "category": "Web应用",
+    "tags": [
+      "电商",
+      "Flask",
+      "Vue",
+      "小程序",
+      "后台管理",
+      "MySQL"
+    ],
+    "summary": "这是一个基于Flask和Vue的电商系统，包含PC端商家管理后台和小程序客户端，使用MySQL作为数据库。",
+    "analyzed_at": "2025-10-14T19:18:34.357443+00:00"
+  },
+  {
+    "repo_full_name": "2fps/recorder",
+    "owner": "2fps",
+    "html_url": "https://github.com/2fps/recorder",
+    "description": "html5 js 浏览器 web端录音",
+    "topics": [
+      "audio",
+      "html5",
+      "javascript",
+      "lu-yin",
+      "mp3",
+      "pcm",
+      "recorder",
+      "typescript",
+      "wav",
+      "web",
+      "webaudio"
+    ],
+    "starred_at": "2021-06-13T13:22:36Z",
+    "category": "Web应用",
+    "tags": [
+      "音频录制",
+      "HTML5",
+      "JavaScript",
+      "Web Audio",
+      "浏览器工具"
+    ],
+    "summary": "2fps/recorder 是一个基于HTML5和JavaScript的浏览器端录音工具，支持MP3、PCM、WAV等多种音频格式。它利用Web Audio API实现Web端录音功能，适用于需要在浏览器中进行音频录制的场景。",
+    "analyzed_at": "2025-10-14T19:18:34.357443+00:00"
+  },
+  {
+    "repo_full_name": "4U6U57/wsl-open",
+    "owner": "4U6U57",
+    "html_url": "https://github.com/4U6U57/wsl-open",
+    "description": "Open files with xdg-open on Bash for Windows in Windows applications. Read only mirror from GitLab, see link :point_right:",
+    "topics": [
+      "linux",
+      "windows-subsystem",
+      "wsl",
+      "xdg-open"
+    ],
+    "starred_at": "2021-06-13T13:22:38Z",
+    "category": "开发工具",
+    "tags": [
+      "WSL工具",
+      "跨平台",
+      "文件管理",
+      "开发辅助",
+      "Windows集成"
+    ],
+    "summary": "这是一个在Windows Subsystem for Linux (WSL)环境中使用的工具，允许通过xdg-open命令在Windows应用程序中打开文件，提高了开发者在Windows和Linux之间切换时的效率。",
+    "analyzed_at": "2025-10-14T19:18:34.357443+00:00"
+  },
+  {
+    "repo_full_name": "521xueweihan/GitHub520",
+    "owner": "521xueweihan",
+    "html_url": "https://github.com/521xueweihan/GitHub520",
+    "description": ":kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）",
+    "topics": [
+      "dns",
+      "github",
+      "hosts"
+    ],
+    "starred_at": "2021-06-13T13:22:40Z",
+    "category": "开发工具",
+    "tags": [
+      "dns",
+      "github",
+      "hosts",
+      "网络优化",
+      "加速"
+    ],
+    "summary": "GitHub520是一个无需安装的工具，通过修改DNS和hosts文件解决GitHub访问时图片加载失败和加载慢的问题，提升开发者使用GitHub的体验。",
+    "analyzed_at": "2025-10-14T19:18:34.357443+00:00"
+  },
+  {
+    "repo_full_name": "521xueweihan/HelloGitHub",
+    "owner": "521xueweihan",
+    "html_url": "https://github.com/521xueweihan/HelloGitHub",
+    "description": ":octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "topics": [
+      "awesome",
+      "github",
+      "hellogithub",
+      "python"
+    ],
+    "starred_at": "2021-06-13T13:22:43Z",
+    "category": "开发工具",
+    "tags": [
+      "开发资源",
+      "项目发现",
+      "GitHub精选",
+      "入门指南",
+      "开发学习"
+    ],
+    "summary": "这是一个分享GitHub上有趣、入门级开源项目的资源集合，帮助开发者发现和学习优质代码。",
+    "analyzed_at": "2025-10-14T19:18:34.357443+00:00"
+  },
+  {
+    "repo_full_name": "52cik/github-hans",
+    "owner": "52cik",
+    "html_url": "https://github.com/52cik/github-hans",
+    "description": "[废弃] {官方中文马上就来了} GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)",
+    "topics": [],
+    "starred_at": "2021-06-13T13:22:45Z",
+    "category": "开发工具",
+    "tags": [
+      "汉化",
+      "GitHub",
+      "插件",
+      "界面本地化",
+      "浏览器扩展"
+    ],
+    "summary": "这是一个GitHub汉化插件，旨在将GitHub界面中文化，方便中文用户使用。不过项目已标记为废弃，因为官方中文版本即将推出。",
+    "analyzed_at": "2025-10-14T19:18:34.357443+00:00"
+  },
+  {
+    "repo_full_name": "5A59/fun-comment",
+    "owner": "5A59",
+    "html_url": "https://github.com/5A59/fun-comment",
+    "description": "You can add ascii image or ascii font in comments.",
+    "topics": [],
+    "starred_at": "2021-06-13T13:22:47Z",
+    "category": "开发工具",
+    "tags": [
+      "ASCII艺术",
+      "文本处理",
+      "评论增强",
+      "字体生成",
+      "图像转换"
+    ],
+    "summary": "fun-comment是一个允许用户在评论中添加ASCII图像或ASCII字体的工具。它可以增强文本评论的表现力，使评论更加生动有趣。适用于需要丰富文本表达的场景。",
+    "analyzed_at": "2025-10-14T19:18:34.357443+00:00"
+  },
+  {
+    "repo_full_name": "649453932/Chinese-Text-Classification-Pytorch",
+    "owner": "649453932",
+    "html_url": "https://github.com/649453932/Chinese-Text-Classification-Pytorch",
+    "description": "中文文本分类，TextCNN，TextRNN，FastText，TextRCNN，BiLSTM_Attention，DPCNN，Transformer，基于pytorch，开箱即用。",
+    "topics": [],
+    "starred_at": "2021-06-13T13:22:49Z",
+    "category": "AI/机器学习",
+    "tags": [
+      "文本分类",
+      "深度学习",
+      "自然语言处理",
+      "PyTorch",
+      "中文处理"
+    ],
+    "summary": "这是一个基于PyTorch的中文文本分类项目，实现了TextCNN、TextRNN、FastText、TextRCNN、BiLSTM_Attention、DPCNN和Transformer等多种模型，开箱即用。",
+    "analyzed_at": "2025-10-14T19:18:34.357443+00:00"
+  },
+  {
+    "repo_full_name": "6tail/lunar-javascript",
+    "owner": "6tail",
+    "html_url": "https://github.com/6tail/lunar-javascript",
+    "description": "日历、公历(阳历)、农历(阴历、老黄历)、佛历、道历，支持节假日、星座、儒略日、干支、生肖、节气、节日、彭祖百忌、每日宜忌、吉神宜趋凶煞宜忌、吉神(喜神/福神/财神/阳贵神/阴贵神)方位、胎神方位、冲煞、纳音、星宿、八字、五行、十神、建除十二值星、青龙名堂等十二神、黄道黑道日及吉凶等。lunar is a calendar library for Solar and Chinese Lunar.",
+    "topics": [
+      "calendar",
+      "javascript",
+      "lunar"
+    ],
+    "starred_at": "2021-06-13T13:23:07Z",
+    "category": "开发工具",
+    "tags": [
+      "日历",
+      "历法转换",
+      "JavaScript库",
+      "传统历法",
+      "日期计算"
+    ],
+    "summary": "这是一个功能丰富的JavaScript日历库，支持公历、农历、佛历、道历等多种历法，提供节假日、节气、干支、生肖等传统历法计算功能。",
+    "analyzed_at": "2025-10-14T19:18:34.357443+00:00"
+  },
+  {
+    "repo_full_name": "71yuu/YMall",
+    "owner": "71yuu",
+    "html_url": "https://github.com/71yuu/YMall",
+    "description": "基于 SSM + VUE 的 B2C 电商项目",
+    "topics": [],
+    "starred_at": "2021-06-13T13:23:09Z",
+    "category": "Web应用",
+    "tags": [
+      "电商",
+      "Vue.js",
+      "SSM",
+      "B2C",
+      "电子商务"
+    ],
+    "summary": "这是一个基于SSM框架和Vue.js构建的B2C电子商务平台，提供完整的在线购物体验。",
+    "analyzed_at": "2025-10-14T19:18:34.357443+00:00"
+  },
+  {
+    "repo_full_name": "7kms/react-illustration-series",
+    "owner": "7kms",
+    "html_url": "https://github.com/7kms/react-illustration-series",
+    "description": "图解react源码, 用大量配图的方式, 致力于将react原理表述清楚.",
+    "topics": [
+      "fiber",
+      "hook",
+      "react",
+      "synthetic-events"
+    ],
+    "starred_at": "2021-06-13T13:23:23Z",
+    "category": "Web应用",
+    "tags": [
+      "React",
+      "Fiber",
+      "Hook",
+      "源码解析",
+      "图解"
+    ],
+    "summary": "这是一个通过大量配图图解React源码的项目，主要讲解React Fiber架构、Hook机制和合成事件等核心原理，帮助开发者深入理解React的工作机制。",
+    "analyzed_at": "2025-10-14T19:18:34.357443+00:00"
+  },
+  {
+    "repo_full_name": "80maker/vuepress-theme-maker",
+    "owner": "80maker",
+    "html_url": "https://github.com/80maker/vuepress-theme-maker",
+    "description": "🐉 A  flat and clean Blog Theme for VuePress site  | 一款多配置、简约风的VuePress 博客主题. ",
+    "topics": [
+      "blog",
+      "theme",
+      "theme-blog",
+      "vuepress",
+      "vuepress-blog",
+      "vuepress-theme"
+    ],
+    "starred_at": "2021-06-13T13:23:26Z",
+    "category": "开发工具",
+    "tags": [
+      "blog",
+      "theme",
+      "vuepress",
+      "开发工具"
+    ],
+    "summary": "一款多配置、简约风格的VuePress博客主题，提供扁平化设计，帮助开发者快速搭建个人博客网站。",
+    "analyzed_at": "2025-10-14T19:18:34.357443+00:00"
+  },
+  {
+    "repo_full_name": "839Studio/Novel-Coronavirus-Updates",
+    "owner": "839Studio",
+    "html_url": "https://github.com/839Studio/Novel-Coronavirus-Updates",
+    "description": "新增确诊新型冠状病毒肺炎统计数据（每日更新）",
+    "topics": [],
+    "starred_at": "2021-06-13T13:23:27Z",
+    "category": "数据分析",
+    "tags": [
+      "疫情数据",
+      "统计信息",
+      "新冠病毒",
+      "数据更新",
+      "健康监测",
+      "公共卫生"
+    ],
+    "summary": "这是一个新型冠状病毒肺炎统计数据仓库，每日更新新增确诊数据，为公众提供疫情实时信息，支持数据分析和趋势研究。",
+    "analyzed_at": "2025-10-14T19:18:34.357443+00:00"
+  },
+  {
+    "repo_full_name": "abhisheknaiidu/awesome-github-profile-readme",
+    "owner": "abhisheknaiidu",
+    "html_url": "https://github.com/abhisheknaiidu/awesome-github-profile-readme",
+    "description": "😎 A curated list of awesome GitHub Profile which updates in real time ",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "github",
+      "github-profile-readme",
+      "github-readme",
+      "portfolio",
+      "profile-readme"
+    ],
+    "starred_at": "2021-06-13T13:23:31Z",
+    "category": "开发工具",
+    "tags": [
+      "awesome-list",
+      "github",
+      "github-profile-readme",
+      "portfolio",
+      "profile-readme"
+    ],
+    "summary": "这是一个实时更新的精选GitHub个人资料README列表，为开发者提供创建出色GitHub个人资料的灵感和模板。",
+    "analyzed_at": "2025-10-14T19:18:34.357443+00:00"
+  },
+  {
+    "repo_full_name": "abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard",
+    "owner": "abuanwar072",
+    "html_url": "https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard",
+    "description": "Responsive Admin Panel or Dashboard using Flutter",
+    "topics": [
+      "app",
+      "dashboard",
+      "dashboard-templates",
+      "flutter",
+      "web"
+    ],
+    "starred_at": "2021-06-13T13:23:33Z",
+    "category": "Web应用",
+    "tags": [
+      "dashboard",
+      "flutter",
+      "web",
+      "app",
+      "dashboard-templates"
+    ],
+    "summary": "这是一个使用Flutter框架构建的响应式管理面板或仪表板，可用于Web应用的管理界面，提供跨平台兼容性。",
+    "analyzed_at": "2025-10-14T19:18:34.357443+00:00"
+  },
+  {
+    "repo_full_name": "abusetelegram/xixi-haha",
+    "owner": "abusetelegram",
+    "html_url": "https://github.com/abusetelegram/xixi-haha",
+    "description": "📖 习语大集合",
+    "topics": [
+      "fission",
+      "hitokoto",
+      "lambda",
+      "node",
+      "president",
+      "xi-jin-ping",
+      "xjp"
+    ],
+    "starred_at": "2021-06-13T13:23:35Z",
+    "category": "开发工具",
+    "tags": [],
+    "summary": "ZHIPU 调用异常: Error code: 400 - {'contentFilter': [{'level': 1, 'role': 'user'}], 'error': {'code': '1301', 'message': '系统检测到输入或生成内容可能包含不安全或敏感内容，请您避免输入易产生敏感内容的提示语，感谢您的配合。'}}",
+    "analyzed_at": "2025-10-14T19:18:34.357443+00:00"
+  },
+  {
+    "repo_full_name": "aceld/golang",
+    "owner": "aceld",
+    "html_url": "https://github.com/aceld/golang",
+    "description": "《Golang修养之路》本书针对Golang专题性热门技术深入理解，修养在Golang领域深入话题，脱胎换骨。",
+    "topics": [],
+    "starred_at": "2021-06-13T13:23:51Z",
+    "category": "开发工具",
+    "tags": [
+      "Go语言",
+      "编程语言",
+      "技术书籍",
+      "代码优化",
+      "深入理解"
+    ],
+    "summary": "《Golang修养之路》是一本专注于Go语言深入理解的技术书籍，涵盖Go语言的热门专题技术，帮助开发者在Go语言领域提升技能，实现技术突破。",
+    "analyzed_at": "2025-10-14T19:18:34.357443+00:00"
+  },
+  {
+    "repo_full_name": "acidanthera/OpenCorePkg",
+    "owner": "acidanthera",
+    "html_url": "https://github.com/acidanthera/OpenCorePkg",
+    "description": "OpenCore bootloader",
+    "topics": [
+      "opencore"
+    ],
+    "starred_at": "2021-06-13T13:23:52Z",
+    "category": "开发工具",
+    "tags": [
+      "引导加载程序",
+      "开源",
+      "固件",
+      "启动管理",
+      "系统工具",
+      "macOS"
+    ],
+    "summary": "OpenCorePkg是一个开源的引导加载程序，专为macOS系统设计，提供了灵活的启动配置选项和高级功能，支持多种硬件平台，是macOS黑苹果社区的重要工具。",
+    "analyzed_at": "2025-10-14T19:18:34.357443+00:00"
+  },
+  {
+    "repo_full_name": "acmesh-official/acme.sh",
+    "owner": "acmesh-official",
+    "html_url": "https://github.com/acmesh-official/acme.sh",
+    "description": "A pure Unix shell script implementing ACME client protocol",
+    "topics": [
+      "acme",
+      "acme-client",
+      "acme-protocol",
+      "ash",
+      "bash",
+      "buypass",
+      "certbot",
+      "letsencrypt",
+      "posix",
+      "posix-sh",
+      "shell",
+      "zerossl"
+    ],
+    "starred_at": "2021-06-13T13:23:54Z",
+    "category": "开发工具",
+    "tags": [
+      "SSL证书",
+      "ACME协议",
+      "Let's Encrypt",
+      "Shell脚本",
+      "自动化"
+    ],
+    "summary": "acme.sh是一个用纯Unix shell脚本实现的ACME客户端协议工具，用于自动化获取和管理SSL/TLS证书。支持Let's Encrypt等多个证书颁发机构，简化网站HTTPS证书的申请和更新流程。",
+    "analyzed_at": "2025-10-14T19:18:34.357443+00:00"
+  },
+  {
+    "repo_full_name": "acrlakshman/profileio",
+    "owner": "acrlakshman",
+    "html_url": "https://github.com/acrlakshman/profileio",
+    "description": "Static site and resume generator from YAML based profile for students and researchers. Generates ready to deploy branches via github actions.",
+    "topics": [
+      "netlify",
+      "profile",
+      "reactjs",
+      "researchers",
+      "resume",
+      "resume-creator",
+      "static-site-generator",
+      "students",
+      "yaml"
+    ],
+    "starred_at": "2021-06-13T13:23:55Z",
+    "category": "Web应用",
+    "tags": [
+      "静态网站生成器",
+      "简历生成器",
+      "YAML配置",
+      "ReactJS",
+      "GitHub Actions",
+      "学生/研究人员"
+    ],
+    "summary": "ProfileIO是一个基于YAML配置的静态网站和简历生成器，专为学生和研究人员设计。使用ReactJS构建，可通过GitHub Actions自动生成可部署的分支，简化个人简历和作品集网站创建流程。",
+    "analyzed_at": "2025-10-14T19:18:34.357443+00:00"
+  },
+  {
+    "repo_full_name": "actions-cool/issues-helper",
+    "owner": "actions-cool",
+    "html_url": "https://github.com/actions-cool/issues-helper",
+    "description": "🤖 A GitHub Action easily helps you automatically manage issues. Welcome to try.",
+    "topics": [
+      "actions",
+      "helper",
+      "issue",
+      "issue-labels",
+      "issues"
+    ],
+    "starred_at": "2021-06-13T13:23:56Z",
+    "category": "开发工具",
+    "tags": [
+      "GitHub Actions",
+      "自动化",
+      "问题管理",
+      "开发工具",
+      "仓库管理"
+    ],
+    "summary": "这是一个GitHub Action工具，可帮助开发者自动管理GitHub仓库中的issues，包括标签设置和分类处理，提高项目管理效率。",
+    "analyzed_at": "2025-10-14T19:18:34.357443+00:00"
+  },
+  {
+    "repo_full_name": "actions/starter-workflows",
+    "owner": "actions",
+    "html_url": "https://github.com/actions/starter-workflows",
+    "description": "Accelerating new GitHub Actions workflows ",
+    "topics": [
+      "actions"
+    ],
+    "starred_at": "2021-06-13T13:24:22Z",
+    "category": "开发工具",
+    "tags": [
+      "GitHub Actions",
+      "工作流程",
+      "自动化",
+      "CI/CD",
+      "开发工具"
+    ],
+    "summary": "GitHub Actions入门工作流程集合，帮助开发者快速创建和配置自动化工作流程，简化持续集成和持续部署流程。",
+    "analyzed_at": "2025-10-14T19:18:34.357443+00:00"
+  },
+  {
+    "repo_full_name": "adam-golab/react-developer-roadmap",
+    "owner": "adam-golab",
+    "html_url": "https://github.com/adam-golab/react-developer-roadmap",
+    "description": "Roadmap to becoming a React developer",
+    "topics": [],
+    "starred_at": "2021-06-13T13:24:24Z",
+    "category": "教育学习",
+    "tags": [
+      "React",
+      "学习路径",
+      "前端开发",
+      "技术路线图",
+      "开发指南"
+    ],
+    "summary": "这是一个React开发者的学习路线图，为想要成为React开发者的人提供了清晰的学习路径和技能发展指南，涵盖了从基础到高级的各个阶段。",
+    "analyzed_at": "2025-10-14T19:18:34.357443+00:00"
+  },
+  {
+    "repo_full_name": "ADD-SP/ngx_waf",
+    "owner": "ADD-SP",
+    "html_url": "https://github.com/ADD-SP/ngx_waf",
+    "description": "Handy, High performance, ModSecurity compatible Nginx firewall module & 方便、高性能、兼容 ModSecurity 的 Nginx 防火墙模块",
+    "topics": [
+      "captcha",
+      "hcaptcha",
+      "modsecurity",
+      "modsecurity-nginx",
+      "nginx",
+      "nginx-modules",
+      "openresty",
+      "recaptcha",
+      "waf",
+      "web-application-firewall"
+    ],
+    "starred_at": "2021-06-13T13:24:26Z",
+    "category": "安全工具",
+    "tags": [
+      "web-application-firewall",
+      "nginx",
+      "modsecurity",
+      "waf",
+      "captcha"
+    ],
+    "summary": "这是一个高性能、兼容ModSecurity的Nginx防火墙模块，提供Web应用安全防护和验证码功能。",
+    "analyzed_at": "2025-10-14T19:18:34.357443+00:00"
+  },
+  {
+    "repo_full_name": "adityatelange/hugo-PaperMod",
+    "owner": "adityatelange",
+    "html_url": "https://github.com/adityatelange/hugo-PaperMod",
+    "description": " A fast, clean, responsive Hugo theme.",
+    "topics": [
+      "blog",
+      "blog-theme",
+      "clean",
+      "fast",
+      "feature-rich",
+      "grayscale",
+      "high-performance",
+      "hugo",
+      "hugo-blog-theme",
+      "hugo-theme",
+      "mit-license",
+      "multilingual",
+      "papermod",
+      "portfolio",
+      "theme",
+      "well-documented"
+    ],
+    "starred_at": "2021-06-13T13:24:28Z",
+    "category": "Web应用",
+    "tags": [
+      "blog-theme",
+      "hugo-theme",
+      "fast",
+      "clean",
+      "portfolio"
+    ],
+    "summary": "这是一个快速、干净、响应式的Hugo主题，适用于博客和作品集网站，具有多语言支持和丰富的功能。",
+    "analyzed_at": "2025-10-14T19:18:34.357443+00:00"
+  },
+  {
+    "repo_full_name": "ahmadawais/corona-cli",
+    "owner": "ahmadawais",
+    "html_url": "https://github.com/ahmadawais/corona-cli",
+    "description": "🦠 Track the Coronavirus disease (COVID-19) in the command line. Worldwide for all countries, for one country, and the US States. Fast response time (< 100ms). https://x.com/MrAhmadAwais",
+    "topics": [
+      "corona",
+      "coronavirus",
+      "coronavirus-analysis",
+      "coronavirus-info",
+      "coronavirus-real-time",
+      "coronavirus-tracking",
+      "covid-19",
+      "visualization"
+    ],
+    "starred_at": "2021-06-13T13:24:30Z",
+    "category": "数据分析",
+    "tags": [
+      "疫情追踪",
+      "命令行工具",
+      "数据可视化",
+      "COVID-19",
+      "实时数据"
+    ],
+    "summary": "这是一个命令行工具，用于快速跟踪全球COVID-19疫情数据，支持查看全球、特定国家和美国各州的疫情信息，响应时间小于100毫秒。",
+    "analyzed_at": "2025-10-14T19:18:34.357443+00:00"
+  },
+  {
+    "repo_full_name": "Airmole/ShellBox",
+    "owner": "Airmole",
+    "html_url": "https://github.com/Airmole/ShellBox",
+    "description": "贝壳小盒子Wechat微信小程序，高校微信小程序，集课表查询、成绩查询、电费查询、图书查询等功能于一体。",
+    "topics": [],
+    "starred_at": "2021-06-13T13:25:06Z",
+    "category": "移动应用",
+    "tags": [
+      "微信小程序",
+      "高校服务",
+      "教育工具",
+      "查询工具",
+      "学生助手"
+    ],
+    "summary": "贝壳小盒子是一款面向高校学生的微信小程序，整合了课表查询、成绩查询、电费查询、图书查询等多种校园服务功能，为学生提供便捷的校园生活管理工具。",
+    "analyzed_at": "2025-10-14T19:18:34.357443+00:00"
+  },
+  {
+    "repo_full_name": "ajeetdsouza/zoxide",
+    "owner": "ajeetdsouza",
+    "html_url": "https://github.com/ajeetdsouza/zoxide",
+    "description": "A smarter cd command. Supports all major shells.",
+    "topics": [
+      "autojump",
+      "bash",
+      "cli",
+      "command-line",
+      "command-line-tool",
+      "elvish",
+      "fasd",
+      "fish",
+      "fish-shell",
+      "fzf",
+      "hacktoberfest",
+      "jump",
+      "nushell",
+      "powershell",
+      "rust",
+      "shell",
+      "xonsh",
+      "xontrib",
+      "z",
+      "zsh"
+    ],
+    "starred_at": "2021-06-13T13:25:08Z",
+    "category": "开发工具",
+    "tags": [
+      "命令行工具",
+      "Shell增强",
+      "目录跳转",
+      "Rust开发",
+      "效率工具"
+    ],
+    "summary": "zoxide是一个智能的cd命令替代工具，支持所有主流shell。它通过学习用户的使用习惯，提供更快速的目录导航功能，显著提升命令行操作效率。",
+    "analyzed_at": "2025-10-14T19:18:34.357443+00:00"
+  },
+  {
+    "repo_full_name": "algolia/docsearch",
+    "owner": "algolia",
+    "html_url": "https://github.com/algolia/docsearch",
+    "description": ":blue_book: The easiest way to add search to your documentation.",
+    "topics": [
+      "algolia",
+      "docsearch",
+      "documentation",
+      "javascript",
+      "react",
+      "search",
+      "typescript"
+    ],
+    "starred_at": "2021-06-13T13:25:10Z",
+    "category": "开发工具",
+    "tags": [
+      "文档搜索",
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Algolia"
+    ],
+    "summary": "Docsearch是Algolia提供的文档搜索解决方案，可轻松为技术文档添加强大的搜索功能。支持JavaScript/TypeScript，与React框架集成，帮助开发者提升文档用户体验。",
+    "analyzed_at": "2025-10-14T19:18:34.357443+00:00"
+  },
+  {
+    "repo_full_name": "AlDanial/cloc",
+    "owner": "AlDanial",
+    "html_url": "https://github.com/AlDanial/cloc",
+    "description": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
+    "topics": [
+      "cloc",
+      "count-lines",
+      "programming-language"
+    ],
+    "starred_at": "2021-06-13T13:25:11Z",
+    "category": "开发工具",
+    "tags": [
+      "代码统计",
+      "开发工具",
+      "编程语言分析",
+      "代码分析",
+      "代码度量"
+    ],
+    "summary": "cloc是一个跨平台的代码行数统计工具，能够统计多种编程语言的空白行、注释行和实际代码行数，帮助开发者进行代码度量分析。",
+    "analyzed_at": "2025-10-14T19:18:34.357443+00:00"
+  },
+  {
+    "repo_full_name": "alaskasquirrel/Chinese-Podcasts",
+    "owner": "alaskasquirrel",
+    "html_url": "https://github.com/alaskasquirrel/Chinese-Podcasts",
+    "description": "播客 🎧 编程、设计、Vlog、音乐、访谈、博客...",
+    "topics": [
+      "china",
+      "chinese",
+      "chinese-podcasts",
+      "podcast"
+    ],
+    "starred_at": "2021-06-13T13:25:13Z",
+    "category": "教育学习",
+    "tags": [
+      "播客",
+      "中文",
+      "资源集合",
+      "编程",
+      "设计"
+    ],
+    "summary": "这是一个中文播客资源集合，收录了编程、设计、Vlog、音乐、访谈等多种类型的播客内容，为中文用户提供丰富的音频学习资源。",
+    "analyzed_at": "2025-10-14T19:18:34.357443+00:00"
+  },
+  {
+    "repo_full_name": "aksakalli/gtop",
+    "owner": "aksakalli",
+    "html_url": "https://github.com/aksakalli/gtop",
+    "description": "System monitoring dashboard for terminal",
+    "topics": [
+      "command-line",
+      "monitoring",
+      "nodejs",
+      "system-monitoring",
+      "top",
+      "tui"
+    ],
+    "starred_at": "2021-06-13T13:25:14Z",
+    "category": "开发工具",
+    "tags": [
+      "command-line",
+      "monitoring",
+      "system-monitoring",
+      "top"
+    ],
+    "summary": "gtop是一个基于终端的系统监控仪表板，使用Node.js开发。它提供了类似top的系统监控功能，但以图形化界面展示在终端中，帮助开发者实时监控系统资源使用情况。",
+    "analyzed_at": "2025-10-14T19:18:34.357443+00:00"
+  },
+  {
+    "repo_full_name": "altercation/solarized",
+    "owner": "altercation",
+    "html_url": "https://github.com/altercation/solarized",
+    "description": "precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes",
+    "topics": [],
+    "starred_at": "2021-06-13T13:25:37Z",
+    "category": "开发工具",
+    "tags": [
+      "颜色方案",
+      "终端主题",
+      "Vim主题",
+      "深色模式",
+      "浅色模式"
+    ],
+    "summary": "Solarized是一个精确的颜色方案，为多个应用程序（如终端、vim等）提供深色和浅色模式，帮助开发者创建舒适的编程环境。",
+    "analyzed_at": "2025-10-14T19:18:34.357443+00:00"
+  },
+  {
+    "repo_full_name": "alibaba/x-render",
+    "owner": "alibaba",
+    "html_url": "https://github.com/alibaba/x-render",
+    "description": "🚴‍♀️ Very easy to use process form table chart solution. 很易用的流程 / 表单 / 表格 / 图表解决方案",
+    "topics": [
+      "ant",
+      "ant-design",
+      "chart",
+      "form",
+      "formrender",
+      "javascript",
+      "json-schema",
+      "list",
+      "react",
+      "table",
+      "typescript",
+      "webpack",
+      "widget"
+    ],
+    "starred_at": "2021-06-13T13:25:39Z",
+    "category": "开发工具",
+    "tags": [
+      "表单",
+      "表格",
+      "图表",
+      "React",
+      "开发工具"
+    ],
+    "summary": "阿里巴巴开源的x-render是一个易用的流程/表单/表格/图表解决方案，基于React和TypeScript开发，支持JSON Schema，可与Ant Design无缝集成，帮助开发者快速构建复杂的前端表单和数据展示组件。",
+    "analyzed_at": "2025-10-14T19:18:34.357443+00:00"
+  },
+  {
+    "repo_full_name": "alibaba/tengine",
+    "owner": "alibaba",
+    "html_url": "https://github.com/alibaba/tengine",
+    "description": "A distribution of Nginx with some advanced features",
+    "topics": [
+      "http3",
+      "ingress",
+      "nginx",
+      "quic",
+      "tengine"
+    ],
+    "starred_at": "2021-06-13T13:25:40Z",
+    "category": "Web应用",
+    "tags": [
+      "nginx",
+      "http3",
+      "quic",
+      "ingress",
+      "tengine"
+    ],
+    "summary": "Tengine是阿里巴巴基于Nginx开发的高性能Web服务器和反向代理，增加了HTTP/3、QUIC等协议支持，适用于构建高性能的Web应用和API网关。",
+    "analyzed_at": "2025-10-14T19:18:34.357443+00:00"
+  },
+  {
+    "repo_full_name": "alibaba/lightproxy",
+    "owner": "alibaba",
+    "html_url": "https://github.com/alibaba/lightproxy",
+    "description": "💎 Cross platform Web debugging proxy",
+    "topics": [
+      "chrome",
+      "debug",
+      "devtools",
+      "electron",
+      "light",
+      "lightproxy",
+      "proxy",
+      "typescript",
+      "whistle"
+    ],
+    "starred_at": "2021-06-13T13:25:42Z",
+    "category": "开发工具",
+    "tags": [
+      "调试",
+      "代理",
+      "开发工具",
+      "跨平台",
+      "TypeScript"
+    ],
+    "summary": "Lightproxy是阿里巴巴开发的跨平台Web调试代理工具，支持Chrome和Electron环境，使用TypeScript开发，为开发者提供强大的网络请求调试和分析功能。",
+    "analyzed_at": "2025-10-14T19:18:34.357443+00:00"
+  },
+  {
+    "repo_full_name": "alibaba/ice",
+    "owner": "alibaba",
+    "html_url": "https://github.com/alibaba/ice",
+    "description": "🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）",
+    "topics": [
+      "framework",
+      "icejs",
+      "microfrontends",
+      "mpa",
+      "nodejs",
+      "react",
+      "react-router",
+      "serverless",
+      "spa",
+      "ssr",
+      "typescript",
+      "vite",
+      "webpack"
+    ],
+    "starred_at": "2021-06-13T13:25:44Z",
+    "category": "Web应用",
+    "tags": [
+      "framework",
+      "react",
+      "microfrontends",
+      "spa",
+      "ssr",
+      "typescript"
+    ],
+    "summary": "ice.js 是阿里巴巴开源的基于 React 的渐进式应用框架，支持单页面应用、多页面应用和服务端渲染等多种模式，特别适合构建微前端架构的现代 Web 应用。",
+    "analyzed_at": "2025-10-14T19:18:34.357443+00:00"
+  },
+  {
+    "repo_full_name": "alibaba/hooks",
+    "owner": "alibaba",
+    "html_url": "https://github.com/alibaba/hooks",
+    "description": "A high-quality & reliable React Hooks library.   https://alibaba.github.io/hooks/",
+    "topics": [
+      "ahooks",
+      "hooks-library",
+      "react",
+      "react-hooks",
+      "umi-hooks"
+    ],
+    "starred_at": "2021-06-13T13:25:45Z",
+    "category": "开发工具",
+    "tags": [
+      "React",
+      "Hooks",
+      "前端",
+      "组件库",
+      "开发工具"
+    ],
+    "summary": "阿里巴巴出品的高质量React Hooks库，提供稳定可靠的Hooks解决方案，帮助开发者更高效地构建React应用。",
+    "analyzed_at": "2025-10-14T19:18:34.357443+00:00"
+  },
+  {
+    "repo_full_name": "alibaba/ChatUI",
+    "owner": "alibaba",
+    "html_url": "https://github.com/alibaba/ChatUI",
+    "description": "The UI design language and React library for Conversational UI",
+    "topics": [
+      "chat",
+      "chatbot",
+      "react",
+      "ui"
+    ],
+    "starred_at": "2021-06-13T13:25:47Z",
+    "category": "Web应用",
+    "tags": [
+      "chat",
+      "chatbot",
+      "react",
+      "ui",
+      "conversational-ui",
+      "frontend"
+    ],
+    "summary": "ChatUI是阿里巴巴推出的对话式UI设计语言和React库，专为构建聊天和聊天机器人界面而设计，提供丰富的组件和设计规范。",
+    "analyzed_at": "2025-10-14T19:18:34.357443+00:00"
+  },
+  {
+    "repo_full_name": "Alvin9999/new-pac",
+    "owner": "Alvin9999",
+    "html_url": "https://github.com/Alvin9999/new-pac",
+    "description": "翻墙-科学上网、自由上网、免费科学上网、免费翻墙、fanqiang、油管youtube/视频下载、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载、youtube油管镜像/免翻墙网站、美区apple id共享账号、翻墙-科学上网-梯子",
+    "topics": [
+      "brook",
+      "clash",
+      "fanqiang",
+      "free-ss",
+      "free-ssr",
+      "hysteria",
+      "naiveproxy",
+      "shadowsocks",
+      "shadowsocksr",
+      "sing-box",
+      "ss",
+      "ssr",
+      "trojan",
+      "v2ray",
+      "vless",
+      "vmess",
+      "vpn",
+      "xray",
+      "youtube"
+    ],
+    "starred_at": "2021-06-13T13:26:09Z",
+    "category": "移动应用",
+    "tags": [],
+    "summary": "ZHIPU 调用异常: Error code: 400 - {'contentFilter': [{'level': 2, 'role': 'user'}], 'error': {'code': '1301', 'message': '系统检测到输入或生成内容可能包含不安全或敏感内容，请您避免输入易产生敏感内容的提示语，感谢您的配合。'}}",
+    "analyzed_at": "2025-10-14T19:18:34.357443+00:00"
+  },
+  {
+    "repo_full_name": "AmazingRise/hugo-theme-diary",
+    "owner": "AmazingRise",
+    "html_url": "https://github.com/AmazingRise/hugo-theme-diary",
+    "description": "Moments piled up. A Hugo theme ported from SumiMakito/hexo-theme-Journal.",
+    "topics": [],
+    "starred_at": "2021-06-13T13:26:11Z",
+    "category": "Web应用",
+    "tags": [
+      "静态网站",
+      "Hugo",
+      "主题",
+      "博客",
+      "网站模板"
+    ],
+    "summary": "Hugo Diary主题，从Hexo Journal主题移植而来，适合创建个人博客或日记风格的静态网站。",
+    "analyzed_at": "2025-10-14T19:18:34.357443+00:00"
+  },
+  {
+    "repo_full_name": "andreiw/RaspberryPiPkg",
+    "owner": "andreiw",
+    "html_url": "https://github.com/andreiw/RaspberryPiPkg",
+    "description": "DEPRECATED - DO NOT USE |  Go here instead ->",
+    "topics": [
+      "64-bit",
+      "aarch64",
+      "arm",
+      "arm-linux",
+      "arm64",
+      "armv8",
+      "firmware",
+      "freebsd",
+      "opensuse",
+      "raspberry-pi-3",
+      "raspberry-pi-uefi",
+      "raspberrypi",
+      "rpi",
+      "rpi3",
+      "ubuntu-arm",
+      "uefi",
+      "win10",
+      "windows-10",
+      "windows-on-arm"
+    ],
+    "starred_at": "2021-06-13T13:26:13Z",
+    "category": "开发工具",
+    "tags": [
+      "树莓派",
+      "ARM架构",
+      "固件",
+      "UEFI",
+      "多系统支持"
+    ],
+    "summary": "已弃用的树莓派软件包项目，支持ARM架构、固件和UEFI，兼容Windows、Ubuntu、FreeBSD和openSUSE等操作系统。",
+    "analyzed_at": "2025-10-14T19:18:34.357443+00:00"
+  },
+  {
+    "repo_full_name": "android-hacker/VirtualXposed",
+    "owner": "android-hacker",
+    "html_url": "https://github.com/android-hacker/VirtualXposed",
+    "description": "A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.",
+    "topics": [
+      "android",
+      "aop",
+      "hook",
+      "non-root",
+      "xposed"
+    ],
+    "starred_at": "2021-06-13T13:26:15Z",
+    "category": "移动应用",
+    "tags": [
+      "Android",
+      "Xposed",
+      "Hook",
+      "Non-root"
+    ],
+    "summary": "VirtualXposed是一个无需root即可使用Xposed框架的Android应用，允许用户在不解锁引导加载程序或修改系统镜像的情况下，通过AOP和Hook技术实现系统级功能定制。",
+    "analyzed_at": "2025-10-14T19:18:34.357443+00:00"
+  },
+  {
+    "repo_full_name": "AngelMonica126/GraphicAlgorithm",
+    "owner": "AngelMonica126",
+    "html_url": "https://github.com/AngelMonica126/GraphicAlgorithm",
+    "description": ":octopus: :octopus:图形学论文实现",
+    "topics": [
+      "graph-algorithms",
+      "graphic",
+      "graphics-engine",
+      "graphics-library",
+      "graphics-programming",
+      "papers",
+      "reflective-shadow-maps"
+    ],
+    "starred_at": "2021-06-13T13:26:34Z",
+    "category": "开发工具",
+    "tags": [
+      "图形学算法",
+      "图形引擎",
+      "图形库",
+      "图形编程",
+      "论文实现"
+    ],
+    "summary": "这是一个图形学论文实现项目，包含了多种图形学算法的实现，如图形引擎、图形库和反射阴影映射等技术。该项目为图形学研究和开发提供了实用的代码参考。",
+    "analyzed_at": "2025-10-14T19:18:34.357443+00:00"
   }
 ]
