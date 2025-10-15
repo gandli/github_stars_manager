@@ -2737,5 +2737,1211 @@
     ],
     "summary": "这是一个图形学论文实现项目，包含了多种图形学算法的实现，如图形引擎、图形库和反射阴影映射等技术。该项目为图形学研究和开发提供了实用的代码参考。",
     "analyzed_at": "2025-10-14T19:18:34.357443+00:00"
+  },
+  {
+    "repo_full_name": "vbenjs/vue-vben-admin",
+    "owner": "vbenjs",
+    "html_url": "https://github.com/vbenjs/vue-vben-admin",
+    "description": "A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!",
+    "topics": [
+      "admin-template",
+      "ant-design",
+      "element-plus",
+      "monorepo",
+      "naive-ui",
+      "shadcn-ui",
+      "tsx",
+      "typescript",
+      "vben",
+      "vite",
+      "vite-template",
+      "vue-router",
+      "vue3",
+      "vuex"
+    ],
+    "starred_at": "2021-06-13T13:26:35Z",
+    "category": "Web应用",
+    "tags": [
+      "admin-template",
+      "vue3",
+      "typescript",
+      "vite",
+      "shadcn-ui"
+    ],
+    "summary": "这是一个基于Vue3、Shadcn UI、Vite和TypeScript构建的现代化管理面板模板，采用Monorepo架构，提供快速开发体验。",
+    "analyzed_at": "2025-10-15T19:18:51.505727+00:00"
+  },
+  {
+    "repo_full_name": "ankitects/anki",
+    "owner": "ankitects",
+    "html_url": "https://github.com/ankitects/anki",
+    "description": "Anki is a smart spaced repetition flashcard program",
+    "topics": [],
+    "starred_at": "2021-06-13T13:26:37Z",
+    "category": "教育学习",
+    "tags": [
+      "记忆卡片",
+      "间隔重复",
+      "学习工具",
+      "语言学习",
+      "记忆辅助",
+      "自学"
+    ],
+    "summary": "Anki是一款智能间隔重复记忆卡片程序，通过科学的时间间隔安排帮助用户高效记忆信息。广泛应用于语言学习、医学知识记忆等领域，支持多平台使用，是个人知识管理的强大工具。",
+    "analyzed_at": "2025-10-15T19:18:51.505727+00:00"
+  },
+  {
+    "repo_full_name": "aniftyco/awesome-tailwindcss",
+    "owner": "aniftyco",
+    "html_url": "https://github.com/aniftyco/awesome-tailwindcss",
+    "description": "😎 Awesome things related to Tailwind CSS",
+    "topics": [
+      "apps",
+      "awesome",
+      "awesome-list",
+      "css",
+      "postcss",
+      "resources",
+      "tailwind",
+      "tailwindcss",
+      "websites"
+    ],
+    "starred_at": "2021-06-13T13:26:38Z",
+    "category": "开发工具",
+    "tags": [
+      "CSS框架",
+      "前端开发",
+      "资源集合",
+      "UI设计",
+      "开发工具"
+    ],
+    "summary": "这是一个精选的Tailwind CSS资源列表，收集了与Tailwind CSS相关的优秀工具、框架、模板和网站，帮助开发者快速找到提升前端开发效率的资源。",
+    "analyzed_at": "2025-10-15T19:18:51.505727+00:00"
+  },
+  {
+    "repo_full_name": "anhkgg/SuperWeChatPC",
+    "owner": "anhkgg",
+    "html_url": "https://github.com/anhkgg/SuperWeChatPC",
+    "description": "超级微信电脑客户端，支持多开、防消息撤销、语音消息备份...开放WeChatSDK",
+    "topics": [
+      "anti-revoke",
+      "multi-open",
+      "wechat"
+    ],
+    "starred_at": "2021-06-13T13:26:40Z",
+    "category": "桌面应用",
+    "tags": [
+      "微信客户端",
+      "多开功能",
+      "防消息撤销",
+      "语音备份",
+      "即时通讯"
+    ],
+    "summary": "SuperWeChatPC是一款增强版微信电脑客户端，提供多开账号、防消息撤销、语音消息备份等功能，并开放WeChatSDK供开发者使用，提升微信桌面体验。",
+    "analyzed_at": "2025-10-15T19:18:51.505727+00:00"
+  },
+  {
+    "repo_full_name": "ant-design/react-tutorial",
+    "owner": "ant-design",
+    "html_url": "https://github.com/ant-design/react-tutorial",
+    "description": "基于 umi 的 Ant Design 实战教程配套代码 https://www.yuque.com/ant-design/course",
+    "topics": [],
+    "starred_at": "2021-06-13T13:27:02Z",
+    "category": "教育学习",
+    "tags": [
+      "React",
+      "Ant Design",
+      "前端开发",
+      "教程",
+      "umi"
+    ],
+    "summary": "这是一个基于 umi 框架的 Ant Design 实战教程配套代码仓库，旨在帮助开发者学习如何使用 Ant Design 组件库构建 React 应用。",
+    "analyzed_at": "2025-10-15T19:18:51.505727+00:00"
+  },
+  {
+    "repo_full_name": "antonmedv/fx",
+    "owner": "antonmedv",
+    "html_url": "https://github.com/antonmedv/fx",
+    "description": "Terminal JSON viewer & processor",
+    "topics": [
+      "cli",
+      "command-line",
+      "json",
+      "tui"
+    ],
+    "starred_at": "2021-06-13T13:27:03Z",
+    "category": "开发工具",
+    "tags": [
+      "cli",
+      "command-line",
+      "",
+      "tui",
+      "terminal",
+      "developer-tool"
+    ],
+    "summary": "fx是一款终端JSON查看器和处理器，提供简洁的命令行界面，方便开发者快速查看和处理JSON数据。支持多种操作，如过滤、转换和格式化，是开发者的实用工具。",
+    "analyzed_at": "2025-10-15T19:18:51.505727+00:00"
+  },
+  {
+    "repo_full_name": "antvis/L7",
+    "owner": "antvis",
+    "html_url": "https://github.com/antvis/L7",
+    "description": "🌎 Large-scale WebGL-powered Geospatial Data Visualization analysis engine.",
+    "topics": [
+      "3d",
+      "amap",
+      "antv",
+      "data-visualization",
+      "geojson",
+      "geospatial",
+      "gis",
+      "javascript",
+      "map",
+      "mapbox",
+      "maps",
+      "point",
+      "polygon",
+      "webgl"
+    ],
+    "starred_at": "2021-06-13T13:27:04Z",
+    "category": "数据分析",
+    "tags": [
+      "data-visualization",
+      "geospatial",
+      "gis",
+      "map",
+      "webgl"
+    ],
+    "summary": "L7是一个基于WebGL的大规模地理空间数据可视化分析引擎，支持地图、GIS数据处理和3D可视化，适用于地理信息分析和数据可视化场景。",
+    "analyzed_at": "2025-10-15T19:18:51.505727+00:00"
+  },
+  {
+    "repo_full_name": "antfu/awesome-cn-cafe-web",
+    "owner": "antfu",
+    "html_url": "https://github.com/antfu/awesome-cn-cafe-web",
+    "description": "☕️ Web App for Awesome CN Café",
+    "topics": [
+      "awesome-list",
+      "cafe",
+      "map",
+      "mapbox",
+      "reactivue",
+      "shops",
+      "vite"
+    ],
+    "starred_at": "2021-06-13T13:27:06Z",
+    "category": "Web应用",
+    "tags": [
+      "咖啡厅",
+      "地图",
+      "商店",
+      "列表",
+      "Web应用"
+    ],
+    "summary": "这是一个Web应用，用于展示和导航中国的咖啡厅信息，可能包含地图功能，帮助用户查找附近的咖啡店。",
+    "analyzed_at": "2025-10-15T19:18:51.505727+00:00"
+  },
+  {
+    "repo_full_name": "ant-move/Vant-Aliapp",
+    "owner": "ant-move",
+    "html_url": "https://github.com/ant-move/Vant-Aliapp",
+    "description": "支付宝小程序版本 Vant 组件库。",
+    "topics": [
+      "alipay",
+      "antmove",
+      "components",
+      "miniprogram",
+      "vant",
+      "vant-weapp"
+    ],
+    "starred_at": "2021-06-13T13:27:07Z",
+    "category": "开发工具",
+    "tags": [
+      "小程序开发",
+      "组件库",
+      "前端开发",
+      "移动应用开发",
+      "UI组件"
+    ],
+    "summary": "Vant-Aliapp是支付宝小程序版本的Vant组件库，提供丰富的UI组件，帮助开发者快速构建支付宝小程序界面。",
+    "analyzed_at": "2025-10-15T19:18:51.505727+00:00"
+  },
+  {
+    "repo_full_name": "ant-move/Antmove",
+    "owner": "ant-move",
+    "html_url": "https://github.com/ant-move/Antmove",
+    "description": "小程序转换器，基于支付宝/微信小程序， 轻松地转换成其它平台的小程序。",
+    "topics": [
+      "alipay-miniapp",
+      "baidu-miniprogram",
+      "components",
+      "framework",
+      "miniprogram",
+      "tool",
+      "toutiao-miniprogram",
+      "wechat",
+      "wechat-mini-program"
+    ],
+    "starred_at": "2021-06-13T13:27:09Z",
+    "category": "开发工具",
+    "tags": [
+      "小程序",
+      "工具",
+      "框架",
+      "微信",
+      "支付宝"
+    ],
+    "summary": "Antmove是一个跨平台小程序转换工具，支持将支付宝和微信小程序轻松转换为百度、头条等其他平台的小程序，帮助开发者实现一次开发多端部署。",
+    "analyzed_at": "2025-10-15T19:18:51.505727+00:00"
+  },
+  {
+    "repo_full_name": "antvis/wx-f2",
+    "owner": "antvis",
+    "html_url": "https://github.com/antvis/wx-f2",
+    "description": "F2 的微信小程序",
+    "topics": [
+      "antv",
+      "charts",
+      "f2",
+      "miniprogram",
+      "visualization",
+      "webchat",
+      "wei-xin",
+      "weixin"
+    ],
+    "starred_at": "2021-06-13T13:27:30Z",
+    "category": "开发工具",
+    "tags": [
+      "微信小程序",
+      "图表",
+      "可视化",
+      "F2",
+      "AntV"
+    ],
+    "summary": "wx-f2是AntV F2图表库的微信小程序版本，为开发者提供在微信小程序中创建数据可视化的能力，支持多种图表类型和交互效果。",
+    "analyzed_at": "2025-10-15T19:18:51.505727+00:00"
+  },
+  {
+    "repo_full_name": "anycodes/AI_Album",
+    "owner": "anycodes",
+    "html_url": "https://github.com/anycodes/AI_Album",
+    "description": "一款运行在Serverless架构上的基于人工智能的相册小程序",
+    "topics": [],
+    "starred_at": "2021-06-13T13:27:31Z",
+    "category": "移动应用",
+    "tags": [
+      "AI",
+      "相册",
+      "小程序",
+      "Serverless",
+      "云服务",
+      "图像处理"
+    ],
+    "summary": "AI_Album是一款基于人工智能的相册小程序，采用Serverless架构，提供智能图像识别与管理功能，用户可轻松创建、分享和搜索照片。",
+    "analyzed_at": "2025-10-15T19:18:51.505727+00:00"
+  },
+  {
+    "repo_full_name": "anycodes/GoServerless",
+    "owner": "anycodes",
+    "html_url": "https://github.com/anycodes/GoServerless",
+    "description": "一个部署在Serverless架构上的公众号，使用Python开发",
+    "topics": [],
+    "starred_at": "2021-06-13T13:27:32Z",
+    "category": "Web应用",
+    "tags": [
+      "Serverless",
+      "Python",
+      "公众号",
+      "微信",
+      "云服务"
+    ],
+    "summary": "GoServerless是一个基于Serverless架构的公众号应用，使用Python开发。该项目简化了在云平台上部署公众号服务的流程，使开发者能够快速构建和扩展公众号功能。",
+    "analyzed_at": "2025-10-15T19:18:51.505727+00:00"
+  },
+  {
+    "repo_full_name": "anyant/rssant",
+    "owner": "anyant",
+    "html_url": "https://github.com/anyant/rssant",
+    "description": "蚁阅 - 让 RSS 更好用，轻松订阅你喜欢的博客和资讯",
+    "topics": [
+      "rss"
+    ],
+    "starred_at": "2021-06-13T13:27:34Z",
+    "category": "Web应用",
+    "tags": [
+      "rss",
+      "阅读器",
+      "订阅",
+      "博客",
+      "资讯",
+      "信息聚合"
+    ],
+    "summary": "蚁阅是一个RSS阅读器应用，旨在让RSS订阅更加便捷。用户可以轻松订阅喜欢的博客和资讯，获取最新内容。它提供了简洁高效的阅读体验，帮助用户聚合和管理来自不同来源的信息。",
+    "analyzed_at": "2025-10-15T19:18:51.505727+00:00"
+  },
+  {
+    "repo_full_name": "anvaka/city-roads",
+    "owner": "anvaka",
+    "html_url": "https://github.com/anvaka/city-roads",
+    "description": "Visualization of all roads within any city",
+    "topics": [],
+    "starred_at": "2021-06-13T13:27:35Z",
+    "category": "Web应用",
+    "tags": [
+      "可视化",
+      "地图",
+      "城市规划",
+      "数据可视化",
+      "地理信息系统"
+    ],
+    "summary": "city-roads是一个城市道路可视化工具，能够展示任何城市中的所有道路网络。它通过直观的图形界面帮助用户理解城市道路结构，可用于城市规划、地理研究或数据可视化项目。",
+    "analyzed_at": "2025-10-15T19:18:51.505727+00:00"
+  },
+  {
+    "repo_full_name": "anuraghazra/github-readme-stats",
+    "owner": "anuraghazra",
+    "html_url": "https://github.com/anuraghazra/github-readme-stats",
+    "description": ":zap: Dynamically generated stats for your github readmes",
+    "topics": [
+      "dynamic",
+      "profile-readme",
+      "readme-generator",
+      "readme-stats",
+      "serverless"
+    ],
+    "starred_at": "2021-06-13T13:27:37Z",
+    "category": "开发工具",
+    "tags": [
+      "GitHub统计",
+      "个人资料美化",
+      "动态生成",
+      "README生成器",
+      "无服务器"
+    ],
+    "summary": "这是一个动态生成GitHub个人资料README统计信息的工具，可以帮助开发者创建美观且信息丰富的个人资料页面，支持多种自定义选项和实时更新。",
+    "analyzed_at": "2025-10-15T19:18:51.505727+00:00"
+  },
+  {
+    "repo_full_name": "apache/echarts",
+    "owner": "apache",
+    "html_url": "https://github.com/apache/echarts",
+    "description": "Apache ECharts is a powerful, interactive charting and data visualization library for browser",
+    "topics": [
+      "apache",
+      "canvas",
+      "charting-library",
+      "charts",
+      "data-visualization",
+      "data-viz",
+      "echarts",
+      "svg",
+      "visualization"
+    ],
+    "starred_at": "2021-06-13T13:27:58Z",
+    "category": "开发工具",
+    "tags": [
+      "数据可视化",
+      "图表库",
+      "交互式",
+      "Apache",
+      "SVG",
+      "Canvas"
+    ],
+    "summary": "Apache ECharts是一个强大的交互式图表和数据可视化库，专为浏览器设计。它支持多种图表类型，提供丰富的配置选项，帮助开发者创建美观且功能强大的数据可视化界面。",
+    "analyzed_at": "2025-10-15T19:18:51.505727+00:00"
+  },
+  {
+    "repo_full_name": "Apress/def-guide-to-html5",
+    "owner": "Apress",
+    "html_url": "https://github.com/Apress/def-guide-to-html5",
+    "description": "Source code for 'The Definitive Guide to HTML5' by Adam Freeman",
+    "topics": [],
+    "starred_at": "2021-06-13T13:28:00Z",
+    "category": "Web应用",
+    "tags": [
+      "HTML5",
+      "Web开发",
+      "前端",
+      "教程",
+      "编程",
+      "Apress"
+    ],
+    "summary": "Adam Freeman所著《HTML5权威指南》的源代码仓库，包含HTML5示例和代码，适合Web开发者学习和参考。",
+    "analyzed_at": "2025-10-15T19:18:51.505727+00:00"
+  },
+  {
+    "repo_full_name": "sav7ng/WeHalo",
+    "owner": "sav7ng",
+    "html_url": "https://github.com/sav7ng/WeHalo",
+    "description": "WeHalo 简约风 的微信小程序版博客:sparkles:",
+    "topics": [
+      "blog",
+      "halo",
+      "iview-weapp",
+      "javascript",
+      "wechat-mini-program",
+      "wehalo"
+    ],
+    "starred_at": "2021-06-13T13:28:01Z",
+    "category": "Web应用",
+    "tags": [
+      "博客",
+      "微信小程序",
+      "JavaScript",
+      "Halo",
+      "iView WeApp"
+    ],
+    "summary": "WeHalo是一个简约风格的微信小程序博客应用，基于JavaScript开发，使用iView WeApp框架构建。它为Halo博客系统提供了移动端展示方案，用户可以通过微信小程序访问博客内容。",
+    "analyzed_at": "2025-10-15T19:18:51.505727+00:00"
+  },
+  {
+    "repo_full_name": "arcthur/react-book-examples",
+    "owner": "arcthur",
+    "html_url": "https://github.com/arcthur/react-book-examples",
+    "description": "深入 React 技术栈一书中示例",
+    "topics": [],
+    "starred_at": "2021-06-13T13:28:03Z",
+    "category": "开发工具",
+    "tags": [
+      "React",
+      "前端开发",
+      "JavaScript",
+      "示例代码",
+      "技术书籍",
+      "学习资源"
+    ],
+    "summary": "这是一个'深入React技术栈'一书的示例代码库，包含了书中讲解的React相关实践案例，适合React开发者学习和参考。",
+    "analyzed_at": "2025-10-15T19:18:51.505727+00:00"
+  },
+  {
+    "repo_full_name": "applenob/Cpp_Primer_Practice",
+    "owner": "applenob",
+    "html_url": "https://github.com/applenob/Cpp_Primer_Practice",
+    "description": "搞定C++:punch:。C++ Primer 中文版第5版学习仓库，包括笔记和课后练习答案。",
+    "topics": [],
+    "starred_at": "2021-06-13T13:28:04Z",
+    "category": "教育学习",
+    "tags": [
+      "编程语言",
+      "C++",
+      "学习资源",
+      "笔记",
+      "练习题",
+      "教程"
+    ],
+    "summary": "这个仓库是C++ Primer中文版第5版的学习资源，包含详细的学习笔记和课后练习答案，帮助读者系统学习C++编程语言。",
+    "analyzed_at": "2025-10-15T19:18:51.505727+00:00"
+  },
+  {
+    "repo_full_name": "swiftlang/swift",
+    "owner": "swiftlang",
+    "html_url": "https://github.com/swiftlang/swift",
+    "description": "The Swift Programming Language",
+    "topics": [],
+    "starred_at": "2021-06-13T13:28:06Z",
+    "category": "开发工具",
+    "tags": [
+      "编程语言",
+      "iOS开发",
+      "macOS开发",
+      "开发工具",
+      "跨平台"
+    ],
+    "summary": "Swift是由Apple开发的现代编程语言，用于构建iOS、macOS、watchOS和tvOS应用程序。它结合了C和Objective-C的优点，并添加了现代编程语言的特性，如闭包、泛型和类型安全。",
+    "analyzed_at": "2025-10-15T19:18:51.505727+00:00"
+  },
+  {
+    "repo_full_name": "apollographql/apollo-server",
+    "owner": "apollographql",
+    "html_url": "https://github.com/apollographql/apollo-server",
+    "description": "🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.",
+    "topics": [
+      "apollographql",
+      "express",
+      "express-graphql",
+      "graphql",
+      "graphql-schema",
+      "graphql-server",
+      "hapi",
+      "koa",
+      "node",
+      "resolvers",
+      "restify"
+    ],
+    "starred_at": "2021-06-13T13:28:08Z",
+    "category": "开发工具",
+    "tags": [
+      "graphql",
+      "node",
+      "API",
+      "服务器"
+    ],
+    "summary": "Apollo Server是一个符合规范的JavaScript GraphQL服务器实现，支持Express、Hapi、Koa等多种Node.js框架，采用schema-first开发方式，适合生产环境使用。",
+    "analyzed_at": "2025-10-15T19:18:51.505727+00:00"
+  },
+  {
+    "repo_full_name": "arleyGuoLei/wx-words-pk",
+    "owner": "arleyGuoLei",
+    "html_url": "https://github.com/arleyGuoLei/wx-words-pk",
+    "description": "微信小程序云开发 「 单词天天斗 」，单词对战游戏，支持好友对战、随机匹配、人机对战等，单词 毕业设计",
+    "topics": [
+      "wechat-app",
+      "wechat-mini-program",
+      "wxapp"
+    ],
+    "starred_at": "2021-06-13T13:29:21Z",
+    "category": "游戏",
+    "tags": [
+      "微信小程序",
+      "单词游戏",
+      "对战游戏",
+      "教育学习",
+      "云开发"
+    ],
+    "summary": "这是一个基于微信小程序云开发的单词对战游戏，支持好友对战、随机匹配和人机对战等多种模式，适合用于英语单词学习和娱乐。",
+    "analyzed_at": "2025-10-15T19:18:51.505727+00:00"
+  },
+  {
+    "repo_full_name": "ascoders/weekly",
+    "owner": "ascoders",
+    "html_url": "https://github.com/ascoders/weekly",
+    "description": "前端精读周刊。帮你理解最前沿、实用的技术。",
+    "topics": [
+      "awesome",
+      "frontend",
+      "weekly"
+    ],
+    "starred_at": "2021-06-13T13:29:22Z",
+    "category": "开发工具",
+    "tags": [
+      "前端开发",
+      "技术周刊",
+      "学习资源",
+      "技术分享"
+    ],
+    "summary": "这是一个专注于前端技术的精读周刊，帮助开发者理解最前沿、实用的前端技术知识，是前端开发者的学习资源。",
+    "analyzed_at": "2025-10-15T19:18:51.505727+00:00"
+  },
+  {
+    "repo_full_name": "Ash258/GenericBucket",
+    "owner": "Ash258",
+    "html_url": "https://github.com/Ash258/GenericBucket",
+    "description": "Deprecated. Use https://github.com/shovel-org/GenericBucket",
+    "topics": [
+      "scoop",
+      "scoop-bucket",
+      "shovel",
+      "shovel-bucket"
+    ],
+    "starred_at": "2021-06-13T13:29:23Z",
+    "category": "开发工具",
+    "tags": [
+      "scoop",
+      "scoop-bucket",
+      "shovel",
+      "shovel-bucket"
+    ],
+    "summary": "这个仓库是一个已弃用的软件包存储库，用于Windows系统的scoop和shovel包管理器。用户应迁移到shovel-org/GenericBucket仓库。",
+    "analyzed_at": "2025-10-15T19:18:51.505727+00:00"
+  },
+  {
+    "repo_full_name": "artifacthub/hub",
+    "owner": "artifacthub",
+    "html_url": "https://github.com/artifacthub/hub",
+    "description": "Find, install and publish Cloud Native packages",
+    "topics": [
+      "cloud-native",
+      "cncf",
+      "kubernetes",
+      "packages"
+    ],
+    "starred_at": "2021-06-13T13:29:45Z",
+    "category": "开发工具",
+    "tags": [
+      "云原生",
+      "包管理",
+      "Kubernetes",
+      "CNCF",
+      "软件分发"
+    ],
+    "summary": "Artifact Hub是一个云原生软件包管理中心，用户可以在此查找、安装和发布符合CNCF标准的云原生软件包，特别支持Kubernetes生态系统。",
+    "analyzed_at": "2025-10-15T19:18:51.505727+00:00"
+  },
+  {
+    "repo_full_name": "Ash258/Shovel-Ash258",
+    "owner": "Ash258",
+    "html_url": "https://github.com/Ash258/Shovel-Ash258",
+    "description": "Personal Shovel bucket with a wide variety of applications of all kinds.",
+    "topics": [
+      "shovel",
+      "shovel-bucket"
+    ],
+    "starred_at": "2021-06-13T13:30:17Z",
+    "category": "开发工具",
+    "tags": [
+      "工具集",
+      "资源库",
+      "开发工具",
+      "实用程序",
+      "代码片段"
+    ],
+    "summary": "这是一个个人收集的多样化应用程序工具集，包含各种类型的应用程序和资源，为开发者提供便捷的工具箱。",
+    "analyzed_at": "2025-10-15T19:18:51.505727+00:00"
+  },
+  {
+    "repo_full_name": "shovel-org/Windows-JetBrains-Bucket",
+    "owner": "shovel-org",
+    "html_url": "https://github.com/shovel-org/Windows-JetBrains-Bucket",
+    "description": "All JetBrains Utilities and IDEs",
+    "topics": [
+      "shovel",
+      "shovel-bucket"
+    ],
+    "starred_at": "2021-06-13T13:30:19Z",
+    "category": "开发工具",
+    "tags": [
+      "开发工具",
+      "IDE",
+      "JetBrains",
+      "Windows",
+      "软件集合"
+    ],
+    "summary": "这是一个Windows平台上的JetBrains工具和IDE的集合，包含了各种开发环境和实用工具，方便开发者一站式获取和使用JetBrains全家桶产品。",
+    "analyzed_at": "2025-10-15T19:18:51.505727+00:00"
+  },
+  {
+    "repo_full_name": "shovel-org/Windows-Sysinternals-Bucket",
+    "owner": "shovel-org",
+    "html_url": "https://github.com/shovel-org/Windows-Sysinternals-Bucket",
+    "description": "Shovel bucket containing all Sysinternals tools as separate manifests.",
+    "topics": [
+      "shovel",
+      "shovel-bucket"
+    ],
+    "starred_at": "2021-06-13T13:30:21Z",
+    "category": "开发工具",
+    "tags": [
+      "系统工具",
+      "Windows",
+      "诊断",
+      "管理工具",
+      "实用程序",
+      "Sysinternals"
+    ],
+    "summary": "这是一个包含所有Sysinternals工具作为独立清单的Shovel存储桶，提供Windows系统诊断、监控和故障排除工具集合，帮助开发人员和系统管理员高效管理Windows系统。",
+    "analyzed_at": "2025-10-15T19:18:51.505727+00:00"
+  },
+  {
+    "repo_full_name": "astralapp/astral",
+    "owner": "astralapp",
+    "html_url": "https://github.com/astralapp/astral",
+    "description": "Organize Your GitHub Stars With Ease",
+    "topics": [
+      "github",
+      "organize",
+      "stars",
+      "tags"
+    ],
+    "starred_at": "2021-06-13T13:30:23Z",
+    "category": "效率工具",
+    "tags": [
+      "GitHub",
+      "组织",
+      "星标",
+      "标签"
+    ],
+    "summary": "Astral是一款帮助用户轻松整理和管理GitHub星标项目的效率工具。通过标签系统，用户可以更好地组织和分类自己的GitHub收藏，提高项目管理效率。",
+    "analyzed_at": "2025-10-15T19:18:51.505727+00:00"
+  },
+  {
+    "repo_full_name": "atlassian/react-beautiful-dnd",
+    "owner": "atlassian",
+    "html_url": "https://github.com/atlassian/react-beautiful-dnd",
+    "description": "Beautiful and accessible drag and drop for lists with React",
+    "topics": [
+      "dnd",
+      "drag",
+      "drag-and-drop",
+      "react",
+      "reordering",
+      "sortable"
+    ],
+    "starred_at": "2021-06-13T13:30:25Z",
+    "category": "开发工具",
+    "tags": [
+      "react",
+      "drag-and-drop",
+      "dnd",
+      "reordering"
+    ],
+    "summary": "这是一个由Atlassian开发的React拖放库，提供美观且无障碍的列表拖放功能，支持重新排序和排序操作，适用于各种需要拖放交互的Web应用。",
+    "analyzed_at": "2025-10-15T19:18:51.505727+00:00"
+  },
+  {
+    "repo_full_name": "attr-encrypted/attr_encrypted",
+    "owner": "attr-encrypted",
+    "html_url": "https://github.com/attr-encrypted/attr_encrypted",
+    "description": "Generates attr_accessors that encrypt and decrypt attributes",
+    "topics": [],
+    "starred_at": "2021-06-13T13:30:27Z",
+    "category": "开发工具",
+    "tags": [
+      "加密",
+      "Ruby",
+      "Rails",
+      "数据安全",
+      "属性访问器"
+    ],
+    "summary": "一个Ruby库，为Rails应用提供加密属性访问器，使数据在存储前自动加密，读取时自动解密，增强应用安全性。",
+    "analyzed_at": "2025-10-15T19:18:51.505727+00:00"
+  },
+  {
+    "repo_full_name": "auth0/auth0.js",
+    "owner": "auth0",
+    "html_url": "https://github.com/auth0/auth0.js",
+    "description": "Auth0 headless browser sdk",
+    "topics": [
+      "auth0",
+      "authentication",
+      "authorization",
+      "browser",
+      "dx-sdk",
+      "javascript",
+      "jwt",
+      "login",
+      "oauth2",
+      "sdk"
+    ],
+    "starred_at": "2021-06-13T13:30:29Z",
+    "category": "开发工具",
+    "tags": [
+      "身份验证",
+      "授权",
+      "JavaScript",
+      "OAuth2",
+      "SDK"
+    ],
+    "summary": "Auth0.js是一个JavaScript SDK，为浏览器应用提供身份验证和授权功能，支持OAuth2、JWT等标准协议，简化开发者的集成工作。",
+    "analyzed_at": "2025-10-15T19:18:51.505727+00:00"
+  },
+  {
+    "repo_full_name": "Authing/authing-js-sdk",
+    "owner": "Authing",
+    "html_url": "https://github.com/Authing/authing-js-sdk",
+    "description": "🖥 Authing SDK for JavaScript, Miniprogram",
+    "topics": [
+      "authentication",
+      "authing",
+      "js-sdk",
+      "jwt",
+      "miniprogram-auth"
+    ],
+    "starred_at": "2021-06-13T13:30:31Z",
+    "category": "开发工具",
+    "tags": [
+      "认证",
+      "JavaScript",
+      "SDK",
+      "小程序",
+      "JWT"
+    ],
+    "summary": "这是一个JavaScript认证SDK，支持小程序身份验证，提供JWT令牌管理功能，帮助开发者快速集成用户认证系统。",
+    "analyzed_at": "2025-10-15T19:18:51.505727+00:00"
+  },
+  {
+    "repo_full_name": "AutoPiano/AutoPiano",
+    "owner": "AutoPiano",
+    "html_url": "https://github.com/AutoPiano/AutoPiano",
+    "description": "🎹 自由钢琴 AutoPiano - Simple & Elegant Piano Online",
+    "topics": [
+      "anti-996",
+      "audio-player",
+      "entertainment",
+      "instruments",
+      "music",
+      "piano",
+      "relax"
+    ],
+    "starred_at": "2021-06-13T13:30:33Z",
+    "category": "Web应用",
+    "tags": [
+      "音乐",
+      "钢琴",
+      "音频播放器",
+      "娱乐",
+      "乐器"
+    ],
+    "summary": "AutoPiano是一款简洁优雅的在线钢琴应用，提供自由演奏体验，适合音乐爱好者和放松使用。",
+    "analyzed_at": "2025-10-15T19:18:51.505727+00:00"
+  },
+  {
+    "repo_full_name": "avajs/ava",
+    "owner": "avajs",
+    "html_url": "https://github.com/avajs/ava",
+    "description": "Node.js test runner that lets you develop with confidence 🚀",
+    "topics": [
+      "assert",
+      "async",
+      "async-functions",
+      "ava",
+      "cli",
+      "cli-app",
+      "concurrency",
+      "javascript",
+      "node",
+      "nodejs",
+      "performance",
+      "tap",
+      "tdd",
+      "test-framework",
+      "test-runner",
+      "testing",
+      "unicorns",
+      "unit-testing"
+    ],
+    "starred_at": "2021-06-13T13:30:35Z",
+    "category": "开发工具",
+    "tags": [
+      "测试框架",
+      "测试运行器",
+      "单元测试",
+      "JavaScript",
+      "Node.js",
+      "TDD"
+    ],
+    "summary": "AVA是一个高性能的Node.js测试运行器，支持并发测试，帮助开发者以自信的心态进行JavaScript和Node.js项目的测试。它简洁快速，适合现代开发流程。",
+    "analyzed_at": "2025-10-15T19:18:51.505727+00:00"
+  },
+  {
+    "repo_full_name": "awesome-selfhosted/awesome-selfhosted",
+    "owner": "awesome-selfhosted",
+    "html_url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "cloud",
+      "free-software",
+      "hosting",
+      "privacy",
+      "self-hosted",
+      "selfhosted"
+    ],
+    "starred_at": "2021-06-13T13:30:37Z",
+    "category": "Web应用",
+    "tags": [
+      "自托管",
+      "免费软件",
+      "托管",
+      "隐私",
+      "云"
+    ],
+    "summary": "awesome-selfhosted是一个精选列表，收集了可在自己服务器上托管的免费软件网络服务和Web应用，旨在帮助用户实现数据自主控制和隐私保护。",
+    "analyzed_at": "2025-10-15T19:18:51.505727+00:00"
+  },
+  {
+    "repo_full_name": "axel-download-accelerator/axel",
+    "owner": "axel-download-accelerator",
+    "html_url": "https://github.com/axel-download-accelerator/axel",
+    "description": "Lightweight CLI download accelerator",
+    "topics": [
+      "accelerate",
+      "downloader",
+      "hacktoberfest",
+      "light",
+      "lightweight"
+    ],
+    "starred_at": "2021-06-13T13:30:40Z",
+    "category": "开发工具",
+    "tags": [
+      "下载加速",
+      "命令行工具",
+      "轻量级",
+      "下载器"
+    ],
+    "summary": "AXEL是一款轻量级命令行下载加速器，支持多线程下载，可显著提高大文件下载速度，适合开发者和系统管理员使用。",
+    "analyzed_at": "2025-10-15T19:18:51.505727+00:00"
+  },
+  {
+    "repo_full_name": "ayuer/shanghai_house_knowledge",
+    "owner": "ayuer",
+    "html_url": "https://github.com/ayuer/shanghai_house_knowledge",
+    "description": "2020年11月在上海买房经历总结出来的买房购房做的一些功课分享给大家，技术人帮助技术人，希望对大家有所帮助。",
+    "topics": [],
+    "starred_at": "2021-06-13T13:30:57Z",
+    "category": "教育学习",
+    "tags": [
+      "房产知识",
+      "买房经验",
+      "上海房产",
+      "技术人分享",
+      "购房指南"
+    ],
+    "summary": "上海买房经验总结与知识分享，包含购房流程、注意事项和实用建议，由技术人写给技术人，帮助在上海有购房需求的人群了解市场并做出明智决策。",
+    "analyzed_at": "2025-10-15T19:18:51.505727+00:00"
+  },
+  {
+    "repo_full_name": "b2nil/taro-ui-vue3",
+    "owner": "b2nil",
+    "html_url": "https://github.com/b2nil/taro-ui-vue3",
+    "description": "采用 Vue 3.0 重写的 Taro UI 组件库",
+    "topics": [
+      "taro",
+      "taro-ui",
+      "taro-ui-vue3",
+      "taro-ui-vue3-next",
+      "taro-vue3-next"
+    ],
+    "starred_at": "2021-06-13T13:31:00Z",
+    "category": "开发工具",
+    "tags": [
+      "组件库",
+      "Vue3",
+      "Taro",
+      "多端开发",
+      "UI框架"
+    ],
+    "summary": "这是一个基于Vue 3.0重写的Taro UI组件库，为Taro框架提供了一套完整的UI组件，支持多端应用开发，包括小程序、H5、React Native等平台。",
+    "analyzed_at": "2025-10-15T19:18:51.505727+00:00"
+  },
+  {
+    "repo_full_name": "babarot/enhancd",
+    "owner": "babarot",
+    "html_url": "https://github.com/babarot/enhancd",
+    "description": ":rocket: A next-generation cd command with your interactive filter",
+    "topics": [
+      "autojump",
+      "bash",
+      "cd",
+      "cli",
+      "command-line-interface",
+      "command-line-tool",
+      "fasd",
+      "fuzzy-search",
+      "fzf",
+      "fzf-scripts",
+      "jump",
+      "shell",
+      "shell-extension",
+      "shell-scripts",
+      "z",
+      "zplug",
+      "zsh"
+    ],
+    "starred_at": "2021-06-13T13:31:01Z",
+    "category": "开发工具",
+    "tags": [
+      "命令行工具",
+      "Shell增强",
+      "模糊搜索",
+      "目录跳转",
+      "交互式"
+    ],
+    "summary": "这是一个增强cd命令的开发工具，提供交互式过滤功能，支持模糊搜索，让目录导航更加高效便捷。",
+    "analyzed_at": "2025-10-15T19:18:51.505727+00:00"
+  },
+  {
+    "repo_full_name": "babel/gulp-babel",
+    "owner": "babel",
+    "html_url": "https://github.com/babel/gulp-babel",
+    "description": "Gulp plugin for Babel",
+    "topics": [
+      "babel",
+      "gulp-plugin"
+    ],
+    "starred_at": "2021-06-13T13:31:54Z",
+    "category": "开发工具",
+    "tags": [
+      "babel",
+      "gulp-plugin",
+      "javascript",
+      "transpiler",
+      "build-tool",
+      "frontend"
+    ],
+    "summary": "Gulp-Babel是一个Gulp插件，允许开发者在Gulp工作流中使用Babel编译器转换JavaScript代码。它支持ES6+语法转换为向后兼容版本，简化前端开发流程，提高代码可维护性。",
+    "analyzed_at": "2025-10-15T19:18:51.505727+00:00"
+  },
+  {
+    "repo_full_name": "backstopmedia/deep-learning-browser",
+    "owner": "backstopmedia",
+    "html_url": "https://github.com/backstopmedia/deep-learning-browser",
+    "description": "Official repository of the book \"Deep learning in the browser\" published by Bleeding Edge Press August 2018. Find here all of the source code of the demos!",
+    "topics": [
+      "book",
+      "browser",
+      "deep-learning",
+      "javascript",
+      "neural-network",
+      "tensorflow",
+      "tensorflowjs",
+      "tfjs",
+      "web",
+      "webgl"
+    ],
+    "starred_at": "2021-06-13T13:31:58Z",
+    "category": "AI/机器学习",
+    "tags": [
+      "深度学习",
+      "浏览器",
+      "JavaScript",
+      "神经网络",
+      "TensorFlow.js"
+    ],
+    "summary": "这是《浏览器中的深度学习》书籍的官方仓库，包含使用JavaScript和TensorFlow.js在浏览器中实现深度学习演示的源代码。",
+    "analyzed_at": "2025-10-15T19:18:51.505727+00:00"
+  },
+  {
+    "repo_full_name": "baidu/amis",
+    "owner": "baidu",
+    "html_url": "https://github.com/baidu/amis",
+    "description": "前端低代码框架，通过 JSON 配置就能生成各种页面。",
+    "topics": [
+      "admin",
+      "frontend",
+      "frontend-framework",
+      "json",
+      "low-code",
+      "low-code-development-platform",
+      "lowcode",
+      "no-code"
+    ],
+    "starred_at": "2021-06-13T13:32:00Z",
+    "category": "开发工具",
+    "tags": [
+      "前端",
+      "低代码",
+      "JSON配置",
+      "开发平台",
+      "框架"
+    ],
+    "summary": "百度AMIS是一个前端低代码框架，允许开发者通过简单的JSON配置快速生成各种页面，大大提高了前端开发效率，特别适合管理系统和后台界面开发。",
+    "analyzed_at": "2025-10-15T19:18:51.505727+00:00"
+  },
+  {
+    "repo_full_name": "bailicangdu/node-elm",
+    "owner": "bailicangdu",
+    "html_url": "https://github.com/bailicangdu/node-elm",
+    "description": "Backend system based on node.js + Mongodb.  基于 node.js + Mongodb 构建的后台系统",
+    "topics": [
+      "express",
+      "mongodb",
+      "mongoose",
+      "node"
+    ],
+    "starred_at": "2021-06-13T13:32:04Z",
+    "category": "Web应用",
+    "tags": [
+      "express",
+      "mongodb",
+      "mongoose",
+      "node"
+    ],
+    "summary": "基于Node.js和MongoDB构建的后台系统，使用Express框架和Mongoose ORM，提供Web应用的后端服务。",
+    "analyzed_at": "2025-10-15T19:18:51.505727+00:00"
+  },
+  {
+    "repo_full_name": "bailicangdu/vue2-manage",
+    "owner": "bailicangdu",
+    "html_url": "https://github.com/bailicangdu/vue2-manage",
+    "description": "A admin template based on vue + element-ui. 基于vue + element-ui的后台管理系统基于 vue + element-ui 的后台管理系统",
+    "topics": [
+      "element-ui",
+      "less",
+      "vue",
+      "vue-cli",
+      "vue-router",
+      "vuex",
+      "webpack"
+    ],
+    "starred_at": "2021-06-13T13:32:07Z",
+    "category": "Web应用",
+    "tags": [
+      "Vue.js",
+      "Element UI",
+      "后台管理",
+      "前端框架",
+      "模板",
+      "Web开发"
+    ],
+    "summary": "这是一个基于Vue 2和Element UI构建的后台管理系统模板，集成了Vue Router、Vuex等Vue生态系统工具，使用Webpack构建，Less作为CSS预处理器，适合快速开发企业级后台管理系统。",
+    "analyzed_at": "2025-10-15T19:18:51.505727+00:00"
+  },
+  {
+    "repo_full_name": "baimingxuan/vue-admin-design",
+    "owner": "baimingxuan",
+    "html_url": "https://github.com/baimingxuan/vue-admin-design",
+    "description": "基于vue + elementUI的管理系统模板",
+    "topics": [
+      "axios",
+      "echarts",
+      "element-ui",
+      "es6",
+      "mavoneditor",
+      "vue",
+      "vue-cli",
+      "vue-count-to",
+      "vue-router",
+      "vuedraggable",
+      "vuex",
+      "wangeditor",
+      "webpack"
+    ],
+    "starred_at": "2021-06-13T13:32:08Z",
+    "category": "Web应用",
+    "tags": [
+      "Vue.js",
+      "前端框架",
+      "管理系统",
+      "Element UI",
+      "前端模板"
+    ],
+    "summary": "这是一个基于Vue.js和Element UI构建的管理系统模板，提供了快速开发Web应用后台的能力，集成了多种前端工具和组件。",
+    "analyzed_at": "2025-10-15T19:18:51.505727+00:00"
+  },
+  {
+    "repo_full_name": "bannedbook/fanqiang",
+    "owner": "bannedbook",
+    "html_url": "https://github.com/bannedbook/fanqiang",
+    "description": "翻墙-科学上网",
+    "topics": [
+      "brook",
+      "daze",
+      "fanqiang",
+      "goflyway",
+      "lightsocks",
+      "proxy",
+      "psiphon",
+      "shadowsocks",
+      "ssr",
+      "trojan",
+      "v2ray"
+    ],
+    "starred_at": "2021-06-13T13:32:10Z",
+    "category": "数据库",
+    "tags": [],
+    "summary": "ZHIPU 调用异常: Error code: 400 - {'contentFilter': [{'level': 1, 'role': 'assistant'}], 'error': {'code': '1301', 'message': '系统检测到输入或生成内容可能包含不安全或敏感内容，请您避免输入易产生敏感内容的提示语，感谢您的配合。'}}",
+    "analyzed_at": "2025-10-15T19:18:51.505727+00:00"
+  },
+  {
+    "repo_full_name": "barry-ran/QtScrcpy",
+    "owner": "barry-ran",
+    "html_url": "https://github.com/barry-ran/QtScrcpy",
+    "description": "Android real-time display control software",
+    "topics": [
+      "android",
+      "qt"
+    ],
+    "starred_at": "2021-06-13T13:32:12Z",
+    "category": "桌面应用",
+    "tags": [
+      "Android",
+      "Qt",
+      "屏幕控制",
+      "实时显示",
+      "设备管理"
+    ],
+    "summary": "QtScrcpy是一个基于Qt框架开发的Android实时显示控制软件，允许用户在电脑上实时查看和控制Android设备屏幕，提供便捷的设备管理和操作体验。",
+    "analyzed_at": "2025-10-15T19:18:51.505727+00:00"
   }
 ]
