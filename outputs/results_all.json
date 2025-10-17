@@ -5157,5 +5157,1180 @@
     ],
     "summary": "基于Angular开发的财务管理Web应用，使用ng-alain和ng-zorro构建用户界面。",
     "analyzed_at": "2025-10-16T19:17:30.583921+00:00"
+  },
+  {
+    "repo_full_name": "cattyhouse/oc-guide",
+    "owner": "cattyhouse",
+    "html_url": "https://github.com/cattyhouse/oc-guide",
+    "description": "使用OpenCore安装黑苹果",
+    "topics": [],
+    "starred_at": "2021-06-13T13:36:26Z",
+    "category": "开发工具",
+    "tags": [
+      "黑苹果",
+      "OpenCore",
+      "macOS",
+      "系统引导",
+      "硬件兼容"
+    ],
+    "summary": "这是一个关于使用OpenCore引导加载程序在非苹果硬件上安装macOS（黑苹果）的详细指南，帮助用户解决硬件兼容性和系统配置问题。",
+    "analyzed_at": "2025-10-17T19:18:24.228178+00:00"
+  },
+  {
+    "repo_full_name": "CavinCao/mini-blog",
+    "owner": "CavinCao",
+    "html_url": "https://github.com/CavinCao/mini-blog",
+    "description": "mini-blog是一款基于云开发的博客小程序，该小程序完全不依赖任何后端服务，无需自己的网站、服务器、域名等资源，只需要自行注册小程序账号即可。",
+    "topics": [
+      "blog",
+      "wechat",
+      "xiaochengxu"
+    ],
+    "starred_at": "2021-06-13T13:36:28Z",
+    "category": "移动应用",
+    "tags": [
+      "blog",
+      "wechat",
+      "小程序",
+      "云开发",
+      "无后端"
+    ],
+    "summary": "mini-blog是一款基于云开发的博客小程序，无需后端服务、网站、服务器或域名，只需注册小程序账号即可使用。",
+    "analyzed_at": "2025-10-17T19:18:24.228178+00:00"
+  },
+  {
+    "repo_full_name": "ccding/wechat-forwarding",
+    "owner": "ccding",
+    "html_url": "https://github.com/ccding/wechat-forwarding",
+    "description": "在微信群之间转发消息",
+    "topics": [],
+    "starred_at": "2021-06-13T13:36:29Z",
+    "category": "社交网络",
+    "tags": [
+      "微信",
+      "消息转发",
+      "社交工具",
+      "群组管理",
+      "自动化"
+    ],
+    "summary": "这是一个用于在微信群之间转发消息的工具，可以帮助用户更高效地管理群聊信息，实现跨群消息共享和传播。",
+    "analyzed_at": "2025-10-17T19:18:24.228178+00:00"
+  },
+  {
+    "repo_full_name": "CCExtractor/vardbg",
+    "owner": "CCExtractor",
+    "html_url": "https://github.com/CCExtractor/vardbg",
+    "description": "A simple Python debugger and profiler that generates animated visualizations of program flow, useful for algorithm learning.",
+    "topics": [
+      "debugger",
+      "flow",
+      "gci",
+      "gci2019",
+      "hacktoberfest",
+      "profiler",
+      "python",
+      "video",
+      "visualization"
+    ],
+    "starred_at": "2021-06-13T13:36:59Z",
+    "category": "开发工具",
+    "tags": [
+      "调试器",
+      "性能分析",
+      "可视化",
+      "Python",
+      "算法学习"
+    ],
+    "summary": "这是一个简单的Python调试器和性能分析器，能够生成程序流程的动画可视化，特别适合用于算法学习和理解程序执行过程。",
+    "analyzed_at": "2025-10-17T19:18:24.228178+00:00"
+  },
+  {
+    "repo_full_name": "cehui0303/Tmall_Tickets",
+    "owner": "cehui0303",
+    "html_url": "https://github.com/cehui0303/Tmall_Tickets",
+    "description": "天猫超市茅台抢票功能",
+    "topics": [],
+    "starred_at": "2021-06-13T13:37:00Z",
+    "category": "开发工具",
+    "tags": [
+      "抢票",
+      "自动化",
+      "天猫",
+      "茅台",
+      "脚本",
+      "电商"
+    ],
+    "summary": "天猫超市茅台抢票功能，帮助用户自动抢购茅台酒，提高抢票成功率。",
+    "analyzed_at": "2025-10-17T19:18:24.228178+00:00"
+  },
+  {
+    "repo_full_name": "coder/code-server",
+    "owner": "coder",
+    "html_url": "https://github.com/coder/code-server",
+    "description": "VS Code in the browser",
+    "topics": [
+      "browser-ide",
+      "dev-tools",
+      "development-environment",
+      "ide",
+      "remote-work",
+      "vscode",
+      "vscode-remote"
+    ],
+    "starred_at": "2021-06-13T13:37:02Z",
+    "category": "开发工具",
+    "tags": [
+      "IDE",
+      "开发环境",
+      "远程工作",
+      "VS Code"
+    ],
+    "summary": "code-server是将VS Code带到浏览器的工具，让开发者无需本地安装即可通过浏览器使用VS Code进行代码编写和开发，支持远程工作环境。",
+    "analyzed_at": "2025-10-17T19:18:24.228178+00:00"
+  },
+  {
+    "repo_full_name": "cdoco/common-regex",
+    "owner": "cdoco",
+    "html_url": "https://github.com/cdoco/common-regex",
+    "description": ":jack_o_lantern: 常用正则表达式 - 收集一些在平时项目开发中经常用到的正则表达式。",
+    "topics": [
+      "common-regex",
+      "regex",
+      "regex-validator",
+      "regexp"
+    ],
+    "starred_at": "2021-06-13T13:37:03Z",
+    "category": "开发工具",
+    "tags": [
+      "正则表达式",
+      "正则验证",
+      "开发工具",
+      "代码片段"
+    ],
+    "summary": "这是一个收集常用正则表达式的开源项目，旨在为开发者提供日常开发中经常使用的正则表达式集合，帮助提高开发效率。",
+    "analyzed_at": "2025-10-17T19:18:24.228178+00:00"
+  },
+  {
+    "repo_full_name": "cderv/r-bucket",
+    "owner": "cderv",
+    "html_url": "https://github.com/cderv/r-bucket",
+    "description": "Personal scoop bucket I use as an R user and software engineer",
+    "topics": [
+      "rstats",
+      "rstudio",
+      "scoop",
+      "scoop-bucket",
+      "texlive",
+      "texlive-distribution"
+    ],
+    "starred_at": "2021-06-13T13:37:05Z",
+    "category": "开发工具",
+    "tags": [
+      "rstats",
+      "rstudio",
+      "scoop",
+      "scoop-bucket",
+      "texlive"
+    ],
+    "summary": "这是一个个人scoop bucket，主要包含R语言和TeX Live相关的软件包，供R用户和软件工程师使用。",
+    "analyzed_at": "2025-10-17T19:18:24.228178+00:00"
+  },
+  {
+    "repo_full_name": "cesiumlab/2019-nCoV-3d",
+    "owner": "cesiumlab",
+    "html_url": "https://github.com/cesiumlab/2019-nCoV-3d",
+    "description": "新型冠状病毒疫情数据三维可视化",
+    "topics": [],
+    "starred_at": "2021-06-13T13:37:06Z",
+    "category": "数据分析",
+    "tags": [
+      "数据可视化",
+      "疫情数据",
+      "三维展示",
+      "地理信息",
+      "公共卫生",
+      "数据分析"
+    ],
+    "summary": "这是一个新型冠状病毒疫情数据三维可视化项目，通过三维地图展示疫情数据分布，帮助用户直观了解疫情地理分布情况。",
+    "analyzed_at": "2025-10-17T19:18:24.228178+00:00"
+  },
+  {
+    "repo_full_name": "chai2010/advanced-go-programming-book",
+    "owner": "chai2010",
+    "html_url": "https://github.com/chai2010/advanced-go-programming-book",
+    "description": ":books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)",
+    "topics": [
+      "asm",
+      "book",
+      "cgo",
+      "cloud",
+      "go",
+      "golang",
+      "programming-language",
+      "rpc",
+      "web"
+    ],
+    "starred_at": "2021-06-13T13:37:32Z",
+    "category": "教育学习",
+    "tags": [
+      "book",
+      "programming-language",
+      "go",
+      "cgo",
+      "rpc",
+      "web"
+    ],
+    "summary": "《Go语言高级编程》开源图书，深入讲解CGO、Go汇编语言、RPC实现、Protobuf插件、Web框架和分布式系统等高级主题，适合有一定Go基础的开发者进阶学习。",
+    "analyzed_at": "2025-10-17T19:18:24.228178+00:00"
+  },
+  {
+    "repo_full_name": "charleslo1/weapp-cookie",
+    "owner": "charleslo1",
+    "html_url": "https://github.com/charleslo1/weapp-cookie",
+    "description": "一行代码让微信、头条、百度、支付宝小程序支持 cookie，兼容 uni-app 🍪🚀 One line of code allows weapp to support cookie（wx weixin wxapp cookie）",
+    "topics": [],
+    "starred_at": "2021-06-13T13:37:34Z",
+    "category": "开发工具",
+    "tags": [
+      "小程序",
+      "Cookie",
+      "微信开发",
+      "开发工具",
+      "跨平台"
+    ],
+    "summary": "这是一个让微信、头条、百度、支付宝小程序支持cookie的轻量级工具库，只需一行代码即可集成，兼容uni-app，简化小程序开发中的cookie处理。",
+    "analyzed_at": "2025-10-17T19:18:24.228178+00:00"
+  },
+  {
+    "repo_full_name": "charmbracelet/glow",
+    "owner": "charmbracelet",
+    "html_url": "https://github.com/charmbracelet/glow",
+    "description": "Render markdown on the CLI, with pizzazz! 💅🏻",
+    "topics": [
+      "cli",
+      "excitement",
+      "hacktoberfest",
+      "markdown"
+    ],
+    "starred_at": "2021-06-13T13:37:36Z",
+    "category": "开发工具",
+    "tags": [
+      "cli",
+      "markdown",
+      "markdown-viewer",
+      "terminal-tool"
+    ],
+    "summary": "Glow是一个命令行Markdown渲染器，提供美观的界面和丰富的功能，让开发者可以在终端中轻松查看和预览Markdown文件。",
+    "analyzed_at": "2025-10-17T19:18:24.228178+00:00"
+  },
+  {
+    "repo_full_name": "charmbracelet/lipgloss",
+    "owner": "charmbracelet",
+    "html_url": "https://github.com/charmbracelet/lipgloss",
+    "description": "Style definitions for nice terminal layouts 👄",
+    "topics": [
+      "cli",
+      "go",
+      "golang",
+      "hacktoberfest",
+      "layout",
+      "style",
+      "tui"
+    ],
+    "starred_at": "2021-06-13T13:37:37Z",
+    "category": "开发工具",
+    "tags": [
+      "cli",
+      "go",
+      "layout",
+      "style",
+      "tui"
+    ],
+    "summary": "lipgloss是一个Go语言编写的终端样式库，为开发者提供简洁的API来创建美观的终端用户界面(TUI)和布局。它支持颜色、边框、对齐等多种样式功能，帮助构建专业的命令行应用程序。",
+    "analyzed_at": "2025-10-17T19:18:24.228178+00:00"
+  },
+  {
+    "repo_full_name": "ChartsCSS/charts.css",
+    "owner": "ChartsCSS",
+    "html_url": "https://github.com/ChartsCSS/charts.css",
+    "description": "Open source CSS framework for data visualization.",
+    "topics": [
+      "chart",
+      "charts",
+      "css",
+      "css-framework",
+      "data-visualization",
+      "html",
+      "scss",
+      "ui-components",
+      "visualization"
+    ],
+    "starred_at": "2021-06-13T13:37:38Z",
+    "category": "数据分析",
+    "tags": [
+      "图表",
+      "CSS框架",
+      "数据可视化",
+      "HTML",
+      "UI组件"
+    ],
+    "summary": "ChartsCSS是一个开源的CSS框架，专门用于数据可视化。它提供了简单易用的类来创建各种类型的图表，无需JavaScript，只需HTML和CSS即可实现美观的数据展示。",
+    "analyzed_at": "2025-10-17T19:18:24.228178+00:00"
+  },
+  {
+    "repo_full_name": "chawyehsu/dorado",
+    "owner": "chawyehsu",
+    "html_url": "https://github.com/chawyehsu/dorado",
+    "description": "🐟 Yet Another bucket for lovely Scoop",
+    "topics": [
+      "blockchain",
+      "devtools",
+      "scoop",
+      "scoop-apps",
+      "scoop-bucket",
+      "toolchain",
+      "windows"
+    ],
+    "starred_at": "2021-06-13T13:37:39Z",
+    "category": "开发工具",
+    "tags": [
+      "开发工具",
+      "包管理",
+      "Windows",
+      "工具链"
+    ],
+    "summary": "这是一个Scoop包管理器的扩展存储库，提供Windows平台上的开发工具和应用程序安装脚本。",
+    "analyzed_at": "2025-10-17T19:18:24.228178+00:00"
+  },
+  {
+    "repo_full_name": "chakra-ui/chakra-ui",
+    "owner": "chakra-ui",
+    "html_url": "https://github.com/chakra-ui/chakra-ui",
+    "description": "Chakra UI is a component system for building SaaS products with speed ⚡️",
+    "topics": [
+      "a11y",
+      "accessible",
+      "ark-ui",
+      "chakra-ui",
+      "component",
+      "css-in-js",
+      "dark-mode",
+      "design-system",
+      "react",
+      "react-components",
+      "reactjs",
+      "styled",
+      "ui-components",
+      "ui-library",
+      "uikit",
+      "wai-aria"
+    ],
+    "starred_at": "2021-06-13T13:37:41Z",
+    "category": "Web应用",
+    "tags": [
+      "react",
+      "component",
+      "ui-components",
+      "design-system",
+      "a11y",
+      "dark-mode"
+    ],
+    "summary": "Chakra UI是一个基于React的现代化UI组件库，专为快速构建SaaS产品设计。提供可访问性支持、暗黑模式和完整的设计系统，帮助开发者高效创建美观且功能丰富的Web应用。",
+    "analyzed_at": "2025-10-17T19:18:24.228178+00:00"
+  },
+  {
+    "repo_full_name": "water8394/flink-recommandSystem-demo",
+    "owner": "water8394",
+    "html_url": "https://github.com/water8394/flink-recommandSystem-demo",
+    "description": ":helicopter::rocket:基于Flink实现的商品实时推荐系统。flink统计商品热度，放入redis缓存，分析日志信息，将画像标签和实时记录放入Hbase。在用户发起推荐请求后，根据用户画像重排序热度榜，并结合协同过滤和标签两个推荐模块为新生成的榜单的每一个产品添加关联产品，最后返回新的用户列表。",
+    "topics": [
+      "flink",
+      "flink-examples",
+      "flink-hbase",
+      "flink-kafka",
+      "flink-redis",
+      "recommand",
+      "recommander-system"
+    ],
+    "starred_at": "2021-06-13T13:38:59Z",
+    "category": "AI/机器学习",
+    "tags": [
+      "flink",
+      "推荐系统",
+      "实时计算",
+      "大数据",
+      "机器学习"
+    ],
+    "summary": "这是一个基于Flink的商品实时推荐系统，通过分析用户行为和商品热度，结合协同过滤和标签推荐技术，为用户提供个性化商品推荐。",
+    "analyzed_at": "2025-10-17T19:18:24.228178+00:00"
+  },
+  {
+    "repo_full_name": "chefyuan/algorithm-base",
+    "owner": "chefyuan",
+    "html_url": "https://github.com/chefyuan/algorithm-base",
+    "description": "一位酷爱做饭的程序员，立志用动画将算法说的通俗易懂。我的面试网站 www.chengxuchu.com",
+    "topics": [
+      "algorithms",
+      "base",
+      "interview-practice",
+      "interview-questions",
+      "java",
+      "leetcode",
+      "offer",
+      "programmers"
+    ],
+    "starred_at": "2021-06-13T13:39:01Z",
+    "category": "教育学习",
+    "tags": [
+      "算法学习",
+      "面试准备",
+      "动画教学",
+      "Java",
+      "LeetCode"
+    ],
+    "summary": "这是一个用动画形式讲解算法的教育项目，帮助程序员通过直观的动画理解复杂算法，提升面试能力。",
+    "analyzed_at": "2025-10-17T19:18:24.228178+00:00"
+  },
+  {
+    "repo_full_name": "chellel/dashboard-project",
+    "owner": "chellel",
+    "html_url": "https://github.com/chellel/dashboard-project",
+    "description": "基于Vue.js+express+echarts开发可视化大屏数据展示项目，大屏以深色背景为主。",
+    "topics": [],
+    "starred_at": "2021-06-13T13:39:04Z",
+    "category": "Web应用",
+    "tags": [
+      "数据可视化",
+      "Vue.js",
+      "大屏展示",
+      "深色主题",
+      "ECharts",
+      "Express"
+    ],
+    "summary": "基于Vue.js、Express和ECharts开发的数据可视化大屏项目，采用深色背景设计，用于展示各类数据信息，适合企业监控中心等场景使用。",
+    "analyzed_at": "2025-10-17T19:18:24.228178+00:00"
+  },
+  {
+    "repo_full_name": "chengpeiquan/learning-vue3",
+    "owner": "chengpeiquan",
+    "html_url": "https://github.com/chengpeiquan/learning-vue3",
+    "description": "超过 230w+ 阅读人次的《Vue3 入门指南与实战案例》，关于前端工程化开发的基础知识点，以及 TypeScript 、 Vue 3 、 Pinia 的入门学习指南。",
+    "topics": [
+      "learning-vue3",
+      "vue",
+      "vue-3",
+      "vue-cli",
+      "vue3",
+      "vue3-typescript",
+      "vuejs"
+    ],
+    "starred_at": "2021-06-13T13:39:06Z",
+    "category": "开发工具",
+    "tags": [
+      "Vue3",
+      "前端开发",
+      "TypeScript",
+      "学习指南",
+      "实战案例",
+      "Vue.js"
+    ],
+    "summary": "这是一份拥有超过230万阅读人次的Vue3入门指南与实战案例，涵盖前端工程化基础知识，以及TypeScript、Vue3和Pinia的入门学习教程。",
+    "analyzed_at": "2025-10-17T19:18:24.228178+00:00"
+  },
+  {
+    "repo_full_name": "chenshenhai/koa2-note",
+    "owner": "chenshenhai",
+    "html_url": "https://github.com/chenshenhai/koa2-note",
+    "description": "《Koa2进阶学习笔记》已完结🎄🎄🎄",
+    "topics": [
+      "course-notes",
+      "koa",
+      "koa2",
+      "koa2-course",
+      "koajs",
+      "nodejs"
+    ],
+    "starred_at": "2021-06-13T13:39:08Z",
+    "category": "教育学习",
+    "tags": [
+      "Node.js",
+      "Koa",
+      "Web开发",
+      "学习笔记",
+      "课程"
+    ],
+    "summary": "这是一个关于Koa2框架的进阶学习笔记项目，已完结，适合Node.js开发者学习Koa2框架的知识点和实践技巧。",
+    "analyzed_at": "2025-10-17T19:18:24.228178+00:00"
+  },
+  {
+    "repo_full_name": "chenvan/lib_taro",
+    "owner": "chenvan",
+    "html_url": "https://github.com/chenvan/lib_taro",
+    "description": "图书借阅小程序",
+    "topics": [
+      "library",
+      "react",
+      "taro",
+      "weapp"
+    ],
+    "starred_at": "2021-06-13T13:39:10Z",
+    "category": "移动应用",
+    "tags": [
+      "图书借阅",
+      "小程序",
+      "React",
+      "Taro"
+    ],
+    "summary": "lib_taro是一个基于Taro框架开发的图书借阅微信小程序，使用React构建。它为用户提供便捷的图书借阅管理功能，包括图书查询、借阅记录管理等。",
+    "analyzed_at": "2025-10-17T19:18:24.228178+00:00"
+  },
+  {
+    "repo_full_name": "chf007/action-wechat-work",
+    "owner": "chf007",
+    "html_url": "https://github.com/chf007/action-wechat-work",
+    "description": "🚀 GitHub Action that sends a WeChat Work notification. ",
+    "topics": [
+      "action",
+      "actions",
+      "chat",
+      "github",
+      "wechat",
+      "wechat-work"
+    ],
+    "starred_at": "2021-06-13T13:39:13Z",
+    "category": "开发工具",
+    "tags": [
+      "GitHub Action",
+      "企业微信",
+      "通知",
+      "自动化",
+      "集成"
+    ],
+    "summary": "这是一个GitHub Action，用于在GitHub工作流程中发送企业微信通知，实现开发状态和事件的即时通讯。",
+    "analyzed_at": "2025-10-17T19:18:24.228178+00:00"
+  },
+  {
+    "repo_full_name": "Chikage0o0/Linux-NetSpeed",
+    "owner": "Chikage0o0",
+    "html_url": "https://github.com/Chikage0o0/Linux-NetSpeed",
+    "description": "将Linux现常用的网络加速集成在一起",
+    "topics": [
+      "bbr",
+      "bbrmod"
+    ],
+    "starred_at": "2021-06-13T13:39:15Z",
+    "category": "开发工具",
+    "tags": [
+      "网络加速",
+      "BBR",
+      "Linux优化",
+      "网络性能",
+      "系统工具"
+    ],
+    "summary": "Linux-NetSpeed是一个集成多种网络加速技术的工具，主要包含BBR等Linux常用网络加速方案，帮助用户提升网络传输速度和稳定性。",
+    "analyzed_at": "2025-10-17T19:18:24.228178+00:00"
+  },
+  {
+    "repo_full_name": "chinanf-boy/awesome-hacking",
+    "owner": "chinanf-boy",
+    "html_url": "https://github.com/chinanf-boy/awesome-hacking",
+    "description": "🇨🇳翻译: Hacking 教程, 工具🔧 and 资源 👍精选列表  ❤️校对 ✅",
+    "topics": [
+      "awesome",
+      "hack",
+      "zh"
+    ],
+    "starred_at": "2021-06-13T13:39:17Z",
+    "category": "安全工具",
+    "tags": [
+      "安全工具",
+      "黑客教程",
+      "网络安全",
+      "渗透测试",
+      "信息安全"
+    ],
+    "summary": "这是一个精选的黑客教程、工具和资源列表，主要包含中文内容。涵盖了网络安全、渗透测试等相关领域的实用资源和学习材料，适合对信息安全感兴趣的学习者和从业者。",
+    "analyzed_at": "2025-10-17T19:18:24.228178+00:00"
+  },
+  {
+    "repo_full_name": "chinanf-boy/awesome-vscode-zh",
+    "owner": "chinanf-boy",
+    "html_url": "https://github.com/chinanf-boy/awesome-vscode-zh",
+    "description": "🇨🇳翻译: <awesome-vscode> 🎨令人愉快的VS Code包和资源的精选列表 ❤️ 校对 ✅",
+    "topics": [
+      "awesome",
+      "vscode",
+      "zh"
+    ],
+    "starred_at": "2021-06-13T13:39:19Z",
+    "category": "开发工具",
+    "tags": [
+      "开发工具",
+      "代码编辑器",
+      "VS Code",
+      "资源集合",
+      "中文"
+    ],
+    "summary": "这是一个VS Code包和资源的精选中文翻译列表，为中文用户提供VS Code扩展和工具的精选集合。",
+    "analyzed_at": "2025-10-17T19:18:24.228178+00:00"
+  },
+  {
+    "repo_full_name": "chinanf-boy/bat-zh",
+    "owner": "chinanf-boy",
+    "html_url": "https://github.com/chinanf-boy/bat-zh",
+    "description": "🇨🇳翻译: <bat> 一个`cat(1)`克隆与语法高亮和Git集成 ❤️ 校对 ✅",
+    "topics": [
+      "cat",
+      "docs",
+      "git",
+      "rust",
+      "zh"
+    ],
+    "starred_at": "2021-06-13T13:39:21Z",
+    "category": "开发工具",
+    "tags": [
+      "命令行工具",
+      "文件查看器",
+      "语法高亮",
+      "Git集成",
+      "中文翻译",
+      "Rust开发"
+    ],
+    "summary": "bat-zh是bat命令行工具的中文翻译项目，bat是一个类似cat的增强版文件查看器，提供语法高亮和Git集成功能。该项目帮助中文用户更好地理解和使用这个高效的开发工具。",
+    "analyzed_at": "2025-10-17T19:18:24.228178+00:00"
+  },
+  {
+    "repo_full_name": "chinanf-boy/fd-zh",
+    "owner": "chinanf-boy",
+    "html_url": "https://github.com/chinanf-boy/fd-zh",
+    "description": "🇨🇳翻译: <fd> 一种简单,快速和用户友好的 >find< 替代方案 ❤️ 校对 ✅",
+    "topics": [
+      "docs",
+      "find",
+      "rust",
+      "zh"
+    ],
+    "starred_at": "2021-06-13T13:39:24Z",
+    "category": "开发工具",
+    "tags": [
+      "命令行工具",
+      "文件搜索",
+      "Rust",
+      "开发工具",
+      "中文"
+    ],
+    "summary": "这是一个用Rust编写的中文版'fd'工具，作为传统'find'命令的替代方案，提供简单、快速和用户友好的文件搜索功能。",
+    "analyzed_at": "2025-10-17T19:18:24.228178+00:00"
+  },
+  {
+    "repo_full_name": "chinanf-boy/mdBook-zh",
+    "owner": "chinanf-boy",
+    "html_url": "https://github.com/chinanf-boy/mdBook-zh",
+    "description": "中文翻译:<mdBook> 一个从 Markdown 文件创建现代在线书籍的实用程序 :heart: 更新 ✅ 2022-1-8",
+    "topics": [
+      "docs",
+      "mdbook",
+      "rust",
+      "zh"
+    ],
+    "starred_at": "2021-06-13T13:39:28Z",
+    "category": "开发工具",
+    "tags": [
+      "文档工具",
+      "Markdown",
+      "在线书籍",
+      "Rust",
+      "中文翻译"
+    ],
+    "summary": "mdBook-zh 是 mdBook 的中文翻译版本，一个从 Markdown 文件创建现代在线书籍的实用工具，帮助开发者轻松构建美观的在线文档和书籍。",
+    "analyzed_at": "2025-10-17T19:18:24.228178+00:00"
+  },
+  {
+    "repo_full_name": "chinanf-boy/react-beautiful-dnd-zh",
+    "owner": "chinanf-boy",
+    "html_url": "https://github.com/chinanf-boy/react-beautiful-dnd-zh",
+    "description": " 🇨🇳翻译: react-beautiful-dnd 文档 ❤️ 更新 ✅",
+    "topics": [
+      "react",
+      "zh"
+    ],
+    "starred_at": "2021-06-13T13:39:30Z",
+    "category": "开发工具",
+    "tags": [
+      "react",
+      "翻译",
+      "文档",
+      "拖放",
+      "开发工具"
+    ],
+    "summary": "这是一个将 react-beautiful-dnd（React 拖放库）文档翻译成中文的开源项目，旨在帮助中文开发者更好地理解和使用该库。",
+    "analyzed_at": "2025-10-17T19:18:24.228178+00:00"
+  },
+  {
+    "repo_full_name": "chinanf-boy/react-from-zero",
+    "owner": "chinanf-boy",
+    "html_url": "https://github.com/chinanf-boy/react-from-zero",
+    "description": "🇨🇳翻译: React 简单 (至少99% ES2015 ) 例子🌰 ❤ 校对 ✔",
+    "topics": [
+      "transalte",
+      "zh"
+    ],
+    "starred_at": "2021-06-13T13:39:33Z",
+    "category": "教育学习",
+    "tags": [
+      "React",
+      "前端开发",
+      "中文翻译",
+      "教程",
+      "JavaScript"
+    ],
+    "summary": "这是一个将React简单示例翻译成中文的项目，使用ES2015语法，帮助中文用户学习React框架。",
+    "analyzed_at": "2025-10-17T19:18:24.228178+00:00"
+  },
+  {
+    "repo_full_name": "chinanf-boy/react-grid-layout-zh",
+    "owner": "chinanf-boy",
+    "html_url": "https://github.com/chinanf-boy/react-grid-layout-zh",
+    "description": "中文翻译:<STRML/react-grid-layout> 网格布局(grid layout)系统，但专为 React 服务 :heart: ✅",
+    "topics": [
+      "grid",
+      "react",
+      "zh"
+    ],
+    "starred_at": "2021-06-13T13:39:35Z",
+    "category": "开发工具",
+    "tags": [
+      "grid",
+      "react",
+      "zh",
+      "layout",
+      "frontend",
+      "component"
+    ],
+    "summary": "这是一个React的网格布局系统的中文翻译版本，专为React应用提供灵活的网格布局功能，帮助开发者轻松创建响应式界面。",
+    "analyzed_at": "2025-10-17T19:18:24.228178+00:00"
+  },
+  {
+    "repo_full_name": "chinanf-boy/TypeScript-Vue-Starter",
+    "owner": "chinanf-boy",
+    "html_url": "https://github.com/chinanf-boy/TypeScript-Vue-Starter",
+    "description": "🇨🇳翻译: 官方 TypeScript和Vue 的 入门模板 ❤️校对 ✅",
+    "topics": [
+      "node",
+      "ts",
+      "zh"
+    ],
+    "starred_at": "2021-06-13T13:39:37Z",
+    "category": "开发工具",
+    "tags": [
+      "TypeScript",
+      "Vue",
+      "模板",
+      "入门",
+      "中文",
+      "Node.js"
+    ],
+    "summary": "这是一个官方TypeScript和Vue入门模板的中文翻译版本，为开发者提供快速开始项目的脚手架，包含TypeScript和Vue的基础配置和示例代码。",
+    "analyzed_at": "2025-10-17T19:18:24.228178+00:00"
+  },
+  {
+    "repo_full_name": "chinese-poetry/chinese-poetry",
+    "owner": "chinese-poetry",
+    "html_url": "https://github.com/chinese-poetry/chinese-poetry",
+    "description": "The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。",
+    "topics": [
+      "chinese",
+      "chinese-poetry",
+      "ci",
+      "json",
+      "poetry",
+      "tangshi"
+    ],
+    "starred_at": "2021-06-13T13:39:39Z",
+    "category": "数据库",
+    "tags": [
+      "中国诗词",
+      "古诗词",
+      "唐诗",
+      "宋诗",
+      "词",
+      "数据库"
+    ],
+    "summary": "这是一个最全面的中华古诗词数据库，收录了唐宋两朝近一万四千位诗人的约5.5万首唐诗和26万首宋诗，以及两宋时期1564位词人的21050首词。",
+    "analyzed_at": "2025-10-17T19:18:24.228178+00:00"
+  },
+  {
+    "repo_full_name": "chipsenkbeil/zsh-notes",
+    "owner": "chipsenkbeil",
+    "html_url": "https://github.com/chipsenkbeil/zsh-notes",
+    "description": "Plugin extracted from my zshrc to provide a quick notes editing experience in zsh.",
+    "topics": [],
+    "starred_at": "2021-06-13T13:39:41Z",
+    "category": "开发工具",
+    "tags": [
+      "zsh插件",
+      "命令行工具",
+      "笔记管理",
+      "开发效率",
+      "终端增强"
+    ],
+    "summary": "这是一个zsh插件，从作者的zshrc中提取，旨在为zsh环境提供快速笔记编辑功能。开发者可以直接在终端中便捷地创建和编辑笔记，提高工作效率。",
+    "analyzed_at": "2025-10-17T19:18:24.228178+00:00"
+  },
+  {
+    "repo_full_name": "chjj/blessed",
+    "owner": "chjj",
+    "html_url": "https://github.com/chjj/blessed",
+    "description": "A high-level terminal interface library for node.js.",
+    "topics": [],
+    "starred_at": "2021-06-13T13:39:43Z",
+    "category": "开发工具",
+    "tags": [
+      "终端",
+      "Node.js",
+      "UI库",
+      "命令行",
+      "开发工具"
+    ],
+    "summary": "Blessed是一个Node.js的高级终端界面库，允许开发者构建功能丰富的终端用户界面和命令行应用，提供类似GUI的交互体验。",
+    "analyzed_at": "2025-10-17T19:18:24.228178+00:00"
+  },
+  {
+    "repo_full_name": "chocolatey/choco",
+    "owner": "chocolatey",
+    "html_url": "https://github.com/chocolatey/choco",
+    "description": "Chocolatey - the package manager for Windows",
+    "topics": [
+      "c-sharp",
+      "chocolatey",
+      "hacktoberfest",
+      "package-management",
+      "package-manager",
+      "package-manager-tool",
+      "powershell",
+      "software",
+      "software-management",
+      "softwareautomation",
+      "windows",
+      "windows-server"
+    ],
+    "starred_at": "2021-06-13T13:39:45Z",
+    "category": "开发工具",
+    "tags": [
+      "package-manager",
+      "windows",
+      "c-sharp",
+      "powershell",
+      "software-management",
+      "package-management"
+    ],
+    "summary": "Chocolatey是Windows平台的软件包管理器，使用C#开发，支持PowerShell命令。它简化了Windows软件的安装、更新和管理过程，提供了自动化软件部署的能力。",
+    "analyzed_at": "2025-10-17T19:18:24.228178+00:00"
+  },
+  {
+    "repo_full_name": "chokcoco/iCSS",
+    "owner": "chokcoco",
+    "html_url": "https://github.com/chokcoco/iCSS",
+    "description": "不止于 CSS",
+    "topics": [
+      "css",
+      "css3"
+    ],
+    "starred_at": "2021-06-13T13:39:47Z",
+    "category": "开发工具",
+    "tags": [
+      "css",
+      "css3",
+      "前端开发",
+      "样式设计",
+      "web开发"
+    ],
+    "summary": "iCSS是一个专注于CSS的前端开发工具，提供CSS相关的技巧、教程和资源，帮助开发者更好地理解和应用CSS技术，提升网页设计和开发能力。",
+    "analyzed_at": "2025-10-17T19:18:24.228178+00:00"
+  },
+  {
+    "repo_full_name": "chubin/wttr.in",
+    "owner": "chubin",
+    "html_url": "https://github.com/chubin/wttr.in",
+    "description": ":partly_sunny: The right way to check the weather",
+    "topics": [
+      "ascii-art",
+      "curl",
+      "terminal",
+      "weather",
+      "weather-api",
+      "weather-app",
+      "weather-information"
+    ],
+    "starred_at": "2021-06-13T13:39:54Z",
+    "category": "开发工具",
+    "tags": [
+      "天气",
+      "终端",
+      "命令行工具",
+      "API"
+    ],
+    "summary": "这是一个简洁的命令行天气查询工具，通过ASCII艺术形式展示天气信息，支持curl等工具直接调用，提供便捷的终端天气查询服务。",
+    "analyzed_at": "2025-10-17T19:18:24.228178+00:00"
+  },
+  {
+    "repo_full_name": "chuyun/taro-plugin-canvas",
+    "owner": "chuyun",
+    "html_url": "https://github.com/chuyun/taro-plugin-canvas",
+    "description": "基于 Taro 框架的微信小程序 canvas 绘图组件，封装了常用的操作，通过配置的方式生成分享图片",
+    "topics": [],
+    "starred_at": "2021-06-13T13:39:56Z",
+    "category": "开发工具",
+    "tags": [
+      "小程序开发",
+      "Canvas",
+      "Taro",
+      "绘图组件",
+      "微信小程序",
+      "图片生成"
+    ],
+    "summary": "这是一个基于 Taro 框架的微信小程序 canvas 绘图组件，封装了常用操作，通过配置方式生成分享图片，简化了小程序中的图片绘制功能。",
+    "analyzed_at": "2025-10-17T19:18:24.228178+00:00"
+  },
+  {
+    "repo_full_name": "zxwk1998/vue-admin-better",
+    "owner": "zxwk1998",
+    "html_url": "https://github.com/zxwk1998/vue-admin-better",
+    "description": "🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro ",
+    "topics": [
+      "admin",
+      "admin-dashboard",
+      "admin-template",
+      "ant-design",
+      "ant-design-vue",
+      "axios",
+      "element",
+      "element-plus",
+      "element-ui",
+      "spring-boot",
+      "vite",
+      "vue",
+      "vue-admin",
+      "vue-cli",
+      "vue-element-admin",
+      "vue-template",
+      "vue3",
+      "vue3-admin",
+      "vue3-composition-api",
+      "vuejs"
+    ],
+    "starred_at": "2021-06-13T13:39:58Z",
+    "category": "Web应用",
+    "tags": [
+      "vue-admin",
+      "vue3",
+      "admin-dashboard",
+      "element-plus",
+      "ant-design-vue",
+      "vue-template"
+    ],
+    "summary": "这是一个基于Vue 3的后台管理系统模板，集成了Element Plus和Ant Design Vue等UI框架，提供了完整的管理界面解决方案，适合快速构建企业级Web应用。",
+    "analyzed_at": "2025-10-17T19:18:24.228178+00:00"
+  },
+  {
+    "repo_full_name": "latentcat/qrbtf",
+    "owner": "latentcat",
+    "html_url": "https://github.com/latentcat/qrbtf",
+    "description": "AI & parametric QR code generator. AI & 参数化二维码生成器。https://qrbtf.com",
+    "topics": [
+      "art-qr",
+      "art-qr-code",
+      "art-qrcode",
+      "generator",
+      "qr",
+      "qr-code",
+      "qr-codes",
+      "qrcode",
+      "qrcode-generator"
+    ],
+    "starred_at": "2021-06-13T13:40:00Z",
+    "category": "Web应用",
+    "tags": [
+      "二维码生成",
+      "AI工具",
+      "参数化设计",
+      "艺术二维码",
+      "在线工具"
+    ],
+    "summary": "这是一个结合AI技术的参数化二维码生成器，用户可以通过参数化设计创建独特的艺术风格二维码。提供在线服务，支持多种自定义选项，将实用性与艺术性相结合。",
+    "analyzed_at": "2025-10-17T19:18:24.228178+00:00"
+  },
+  {
+    "repo_full_name": "cjbassi/gotop",
+    "owner": "cjbassi",
+    "html_url": "https://github.com/cjbassi/gotop",
+    "description": "A terminal based graphical activity monitor inspired by gtop and vtop",
+    "topics": [
+      "go",
+      "golang",
+      "linux",
+      "mouse",
+      "osx",
+      "terminal",
+      "tui"
+    ],
+    "starred_at": "2021-06-13T13:40:02Z",
+    "category": "效率工具",
+    "tags": [
+      "系统监视",
+      "终端工具",
+      "Go语言",
+      "跨平台",
+      "TUI界面"
+    ],
+    "summary": "gotop是一个基于终端的图形化系统资源监视工具，使用Go语言开发，支持Linux和macOS。它提供直观的界面来显示CPU、内存等系统资源使用情况，帮助用户实时监控系统性能。",
+    "analyzed_at": "2025-10-17T19:18:24.228178+00:00"
+  },
+  {
+    "repo_full_name": "cl510804194/better-react-qmap",
+    "owner": "cl510804194",
+    "html_url": "https://github.com/cl510804194/better-react-qmap",
+    "description": "优化的react-qmap，将apiKey修改为apiVersonSrc,用户可以指定版本以及相关插件",
+    "topics": [],
+    "starred_at": "2021-06-13T13:40:04Z",
+    "category": "开发工具",
+    "tags": [
+      "React",
+      "地图",
+      "前端",
+      "组件库",
+      "API集成",
+      "JavaScript"
+    ],
+    "summary": "这是一个优化的React地图组件库，基于react-qmap改进而来。主要修改是将apiKey改为apiVersonSrc，允许用户指定地图版本和相关插件，提供更灵活的API集成方式。",
+    "analyzed_at": "2025-10-17T19:18:24.228178+00:00"
+  },
+  {
+    "repo_full_name": "cli/cli",
+    "owner": "cli",
+    "html_url": "https://github.com/cli/cli",
+    "description": "GitHub’s official command line tool",
+    "topics": [
+      "cli",
+      "git",
+      "github-api-v4",
+      "golang"
+    ],
+    "starred_at": "2021-06-13T13:40:07Z",
+    "category": "开发工具",
+    "tags": [
+      "命令行工具",
+      "GitHub",
+      "Git",
+      "Go语言",
+      "API集成"
+    ],
+    "summary": "GitHub官方命令行工具，提供与GitHub仓库的交互功能，支持Git操作、问题跟踪、拉取请求管理等，使用Go语言开发，提升开发者工作效率。",
+    "analyzed_at": "2025-10-17T19:18:24.228178+00:00"
+  },
+  {
+    "repo_full_name": "cllemon/reactNativeDemo",
+    "owner": "cllemon",
+    "html_url": "https://github.com/cllemon/reactNativeDemo",
+    "description": "🍋 React-Native 官方文档示例演示 ",
+    "topics": [],
+    "starred_at": "2021-06-13T13:40:09Z",
+    "category": "移动应用",
+    "tags": [
+      "React Native",
+      "移动开发",
+      "跨平台",
+      "前端",
+      "示例代码",
+      "JavaScript"
+    ],
+    "summary": "这是一个React Native官方文档示例演示项目，展示了React Native框架的基本用法和特性，帮助开发者快速理解和上手跨平台移动应用开发。",
+    "analyzed_at": "2025-10-17T19:18:24.228178+00:00"
+  },
+  {
+    "repo_full_name": "CloudKits/awesome-tcb",
+    "owner": "CloudKits",
+    "html_url": "https://github.com/CloudKits/awesome-tcb",
+    "description": "AWESOME of Tencent Cloud Base 😎",
+    "topics": [],
+    "starred_at": "2021-06-13T13:40:11Z",
+    "category": "开发工具",
+    "tags": [
+      "云开发",
+      "腾讯云",
+      "前端开发",
+      "后端服务",
+      "Serverless",
+      "开发资源"
+    ],
+    "summary": "这是一个精心整理的腾讯云基础(TCB)资源集合，包含云开发相关的工具、框架、文档和最佳实践，帮助开发者快速构建和部署云应用。",
+    "analyzed_at": "2025-10-17T19:18:24.228178+00:00"
+  },
+  {
+    "repo_full_name": "cloudreve/cloudreve",
+    "owner": "cloudreve",
+    "html_url": "https://github.com/cloudreve/cloudreve",
+    "description": "🌩 Self-hosted file management and sharing system, supports multiple storage providers",
+    "topics": [
+      "cloud",
+      "cloud-storage",
+      "cloudreve",
+      "file",
+      "file-manager",
+      "file-sharing",
+      "golang"
+    ],
+    "starred_at": "2021-06-13T13:40:13Z",
+    "category": "Web应用",
+    "tags": [
+      "云存储",
+      "文件管理",
+      "文件共享",
+      "自托管"
+    ],
+    "summary": "CloudReve是一个自托管的文件管理和共享系统，支持多种存储提供商。基于Go语言开发，用户可以搭建自己的私有云存储平台，方便地管理和分享文件。",
+    "analyzed_at": "2025-10-17T19:18:24.228178+00:00"
+  },
+  {
+    "repo_full_name": "cnwhy/nzh",
+    "owner": "cnwhy",
+    "html_url": "https://github.com/cnwhy/nzh",
+    "description": "数字转中文（大写，小写）数字，金额。",
+    "topics": [],
+    "starred_at": "2021-06-13T13:40:15Z",
+    "category": "开发工具",
+    "tags": [
+      "数字转换",
+      "中文格式",
+      "金额处理",
+      "开发工具",
+      "数字处理",
+      "格式化"
+    ],
+    "summary": "nzh是一个数字转中文的实用工具，支持将数字转换为中文大写、小写以及金额格式，适用于需要中文数字格式化的开发场景。",
+    "analyzed_at": "2025-10-17T19:18:24.228178+00:00"
+  },
+  {
+    "repo_full_name": "CoatiSoftware/Sourcetrail",
+    "owner": "CoatiSoftware",
+    "html_url": "https://github.com/CoatiSoftware/Sourcetrail",
+    "description": "Sourcetrail - free and open-source interactive source explorer",
+    "topics": [
+      "c",
+      "cpp",
+      "java",
+      "python"
+    ],
+    "starred_at": "2021-06-13T13:40:16Z",
+    "category": "开发工具",
+    "tags": [
+      "代码探索",
+      "代码可视化",
+      "代码导航",
+      "源码分析",
+      "跨语言支持"
+    ],
+    "summary": "Sourcetrail是一款免费开源的交互式源代码探索器，支持C、C++、Java和Python等多种编程语言。它提供可视化界面，帮助开发者更好地理解、导航和分析复杂代码库的结构和关系。",
+    "analyzed_at": "2025-10-17T19:18:24.228178+00:00"
   }
 ]
