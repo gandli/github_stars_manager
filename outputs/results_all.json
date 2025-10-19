@@ -4788,6 +4788,37 @@
     "analyzed_at": "2025-10-16T19:17:30.583921+00:00"
   },
   {
+    "repo_full_name": "baserow/baserow",
+    "owner": "baserow",
+    "html_url": "https://github.com/baserow/baserow",
+    "description": "The official repository is hosted on https://gitlab.com/bramw/baserow. Baserow is an open source no-code database tool and Airtable alternative.",
+    "topics": [
+      "airtable",
+      "airtable-alternative",
+      "airtable-replacement",
+      "database",
+      "low-code",
+      "no-code",
+      "no-code-database",
+      "online-database",
+      "postgresql",
+      "restful-api",
+      "self-hosted",
+      "spreadsheet"
+    ],
+    "starred_at": "2021-06-13T13:35:16Z",
+    "category": "数据库",
+    "tags": [
+      "数据库",
+      "无代码",
+      "在线数据库",
+      "Airtable替代",
+      "自托管"
+    ],
+    "summary": "Baserow是一个开源的无代码数据库工具，作为Airtable的替代品，提供在线数据库创建和管理功能，支持PostgreSQL，可自托管，具有RESTful API。",
+    "analyzed_at": "2025-10-19T19:17:10.870066+00:00"
+  },
+  {
     "repo_full_name": "brianlovin/figma-github-data",
     "owner": "brianlovin",
     "html_url": "https://github.com/brianlovin/figma-github-data",
@@ -7543,5 +7574,1197 @@
     ],
     "summary": "Mpx是一款增强型跨端小程序框架，支持支付宝和微信小程序，提供优秀的开发体验和深度性能优化，基于Vue和响应式编程构建。",
     "analyzed_at": "2025-10-18T19:16:34.466598+00:00"
+  },
+  {
+    "repo_full_name": "diegomura/react-pdf",
+    "owner": "diegomura",
+    "html_url": "https://github.com/diegomura/react-pdf",
+    "description": "📄  Create PDF files using React",
+    "topics": [
+      "flexbox",
+      "pdf",
+      "react",
+      "renderer"
+    ],
+    "starred_at": "2021-06-13T13:55:33Z",
+    "category": "开发工具",
+    "tags": [
+      "PDF",
+      "React",
+      "渲染器",
+      "弹性布局"
+    ],
+    "summary": "这是一个基于React的PDF生成库，允许开发者使用React组件的方式创建PDF文档。它支持弹性布局，提供了一种直观的方式来设计和生成PDF文件。",
+    "analyzed_at": "2025-10-19T19:17:10.870066+00:00"
+  },
+  {
+    "repo_full_name": "digitalocean/nginxconfig.io",
+    "owner": "digitalocean",
+    "html_url": "https://github.com/digitalocean/nginxconfig.io",
+    "description": "⚙️ NGINX config generator on steroids 💉",
+    "topics": [
+      "cdn",
+      "digitalocean",
+      "digitalocean-community-tools",
+      "drupal",
+      "gzip",
+      "hacktoberfest",
+      "hsts",
+      "http2",
+      "https",
+      "letsencrypt",
+      "nginx",
+      "nginx-configs",
+      "nginx-configuration",
+      "php-fpm",
+      "rate-limiting",
+      "security",
+      "security-headers",
+      "ssl",
+      "ssl-certificate",
+      "wordpress"
+    ],
+    "starred_at": "2021-06-13T13:55:35Z",
+    "category": "开发工具",
+    "tags": [
+      "nginx",
+      "web服务器",
+      "配置工具",
+      "安全",
+      "HTTPS",
+      "开发工具"
+    ],
+    "summary": "这是一个由DigitalOcean提供的NGINX配置生成器，可以帮助开发者快速生成优化的NGINX服务器配置，支持HTTPS、安全头、CDN等Web服务器功能。",
+    "analyzed_at": "2025-10-19T19:17:10.870066+00:00"
+  },
+  {
+    "repo_full_name": "dingyong0214/ThorUI",
+    "owner": "dingyong0214",
+    "html_url": "https://github.com/dingyong0214/ThorUI",
+    "description": "ThorUI组件库，微信小程序项目代码分享，组件文档地址：https://www.thorui.cn/doc  ",
+    "topics": [
+      "applets",
+      "thorui",
+      "thorui-applets",
+      "wxml",
+      "wxss"
+    ],
+    "starred_at": "2021-06-13T13:55:37Z",
+    "category": "开发工具",
+    "tags": [
+      "小程序",
+      "UI组件",
+      "开发工具",
+      "微信开发",
+      "前端框架"
+    ],
+    "summary": "ThorUI是一个专为微信小程序设计的UI组件库，提供丰富的可复用组件，帮助开发者快速构建美观的小程序界面。包含完整的文档和示例代码，支持WXML和WXSS样式。",
+    "analyzed_at": "2025-10-19T19:17:10.870066+00:00"
+  },
+  {
+    "repo_full_name": "disease-sh/node-api",
+    "owner": "disease-sh",
+    "html_url": "https://github.com/disease-sh/node-api",
+    "description": "A JavaScript API Wrapper for NovelCOVID/API",
+    "topics": [
+      "coronavirus",
+      "data",
+      "javascript",
+      "library",
+      "open-source",
+      "wrapper"
+    ],
+    "starred_at": "2021-06-13T13:55:39Z",
+    "category": "开发工具",
+    "tags": [
+      "JavaScript",
+      "API",
+      "数据",
+      "开源",
+      "COVID-19"
+    ],
+    "summary": "这是一个JavaScript库，作为NovelCOVID/API的包装器，使开发者能够轻松获取和使用COVID-19相关数据。",
+    "analyzed_at": "2025-10-19T19:17:10.870066+00:00"
+  },
+  {
+    "repo_full_name": "DIYgod/RSSHub",
+    "owner": "DIYgod",
+    "html_url": "https://github.com/DIYgod/RSSHub",
+    "description": "🧡 Everything is RSSible",
+    "topics": [
+      "bilibili",
+      "douban",
+      "dribbble",
+      "instagram",
+      "lofter",
+      "pixiv",
+      "rss",
+      "rsshub",
+      "spotify",
+      "telegram",
+      "tiktok",
+      "twitter",
+      "v2ex",
+      "wechat",
+      "weibo",
+      "ximalaya",
+      "youtube",
+      "zhihu"
+    ],
+    "starred_at": "2021-06-13T13:55:42Z",
+    "category": "开发工具",
+    "tags": [
+      "RSS",
+      "内容聚合",
+      "开发工具",
+      "数据获取",
+      "信息订阅"
+    ],
+    "summary": "RSSHub是一个开源项目，可以将众多网站内容转换为RSS订阅源，支持B站、微博、知乎等主流平台，实现\"一切皆可RSS\"的目标。",
+    "analyzed_at": "2025-10-19T19:17:10.870066+00:00"
+  },
+  {
+    "repo_full_name": "DIYgod/RSSHub-Radar",
+    "owner": "DIYgod",
+    "html_url": "https://github.com/DIYgod/RSSHub-Radar",
+    "description": "🧡 Browser extension that simplifies finding and subscribing RSS and RSSHub",
+    "topics": [
+      "browser-extension",
+      "chrome-extension",
+      "firefox-addon",
+      "rss",
+      "rsshub"
+    ],
+    "starred_at": "2021-06-13T13:55:43Z",
+    "category": "开发工具",
+    "tags": [
+      "浏览器扩展",
+      "RSS",
+      "内容订阅",
+      "信息聚合",
+      "开发工具"
+    ],
+    "summary": "RSSHub-Radar是一个浏览器扩展，帮助用户轻松发现和订阅RSS及RSSHub源，简化信息获取流程。",
+    "analyzed_at": "2025-10-19T19:17:10.870066+00:00"
+  },
+  {
+    "repo_full_name": "djui/alias-tips",
+    "owner": "djui",
+    "html_url": "https://github.com/djui/alias-tips",
+    "description": "An oh-my-zsh plugin to help remembering those aliases you defined once",
+    "topics": [],
+    "starred_at": "2021-06-13T13:55:45Z",
+    "category": "开发工具",
+    "tags": [
+      "命令行",
+      "别名",
+      "提示",
+      "oh-my-zsh",
+      "效率",
+      "开发工具"
+    ],
+    "summary": "alias-tips是一个oh-my-zsh插件，帮助开发者记住自定义的命令别名，提高命令行使用效率。当用户输入部分命令时，会显示完整的别名提示，减少记忆负担，提升开发体验。",
+    "analyzed_at": "2025-10-19T19:17:10.870066+00:00"
+  },
+  {
+    "repo_full_name": "docker-archive-public/docker.machine",
+    "owner": "docker-archive-public",
+    "html_url": "https://github.com/docker-archive-public/docker.machine",
+    "description": "Machine management for a container-centric world",
+    "topics": [],
+    "starred_at": "2021-06-13T13:55:49Z",
+    "category": "开发工具",
+    "tags": [
+      "容器管理",
+      "Docker工具",
+      "基础设施自动化",
+      "开发工具",
+      "虚拟机管理"
+    ],
+    "summary": "Docker Machine是Docker官方提供的工具，用于简化在多种平台上创建和管理Docker主机的过程。开发者可以通过它快速部署容器环境，支持本地虚拟机和多种云服务，实现基础设施的自动化管理。",
+    "analyzed_at": "2025-10-19T19:17:10.870066+00:00"
+  },
+  {
+    "repo_full_name": "docmirror/dev-sidecar",
+    "owner": "docmirror",
+    "html_url": "https://github.com/docmirror/dev-sidecar",
+    "description": "开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速",
+    "topics": [
+      "dev-sidecar",
+      "dns-ip",
+      "electron",
+      "fastgit",
+      "fastgithub",
+      "gfw",
+      "internet",
+      "lerna",
+      "mitmproxy",
+      "proxy"
+    ],
+    "starred_at": "2021-06-13T13:55:51Z",
+    "category": "开发工具",
+    "tags": [
+      "开发工具",
+      "网络加速",
+      "GitHub加速",
+      "代理工具",
+      "Electron应用"
+    ],
+    "summary": "dev-sidecar是一款开发者边车工具，专为解决国内开发者访问GitHub等国外资源困难而设计。提供GitHub加速、git clone加速、release下载加速以及StackOverflow访问加速功能，基于Electron开发，通过代理技术提升开发效率。",
+    "analyzed_at": "2025-10-19T19:17:10.870066+00:00"
+  },
+  {
+    "repo_full_name": "docsifyjs/docsify",
+    "owner": "docsifyjs",
+    "html_url": "https://github.com/docsifyjs/docsify",
+    "description": "🃏 A magical documentation site generator.",
+    "topics": [
+      "doc",
+      "docs",
+      "docsify",
+      "documentation",
+      "documentation-tool",
+      "github-pages",
+      "markdown",
+      "vue"
+    ],
+    "starred_at": "2021-06-13T13:55:53Z",
+    "category": "开发工具",
+    "tags": [
+      "documentation",
+      "markdown",
+      "vue",
+      "docsify",
+      "documentation-tool"
+    ],
+    "summary": "docsify是一个轻量级的文档站点生成器，支持Markdown和Vue.js，可快速创建美观的文档网站，特别适合项目文档和GitHub Pages部署。",
+    "analyzed_at": "2025-10-19T19:17:10.870066+00:00"
+  },
+  {
+    "repo_full_name": "doocs/leetcode",
+    "owner": "doocs",
+    "html_url": "https://github.com/doocs/leetcode",
+    "description": "🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解",
+    "topics": [
+      "algorithms",
+      "cpp",
+      "csharp",
+      "golang",
+      "java",
+      "javascript",
+      "leetcode",
+      "python3"
+    ],
+    "starred_at": "2021-06-13T13:55:54Z",
+    "category": "教育学习",
+    "tags": [
+      "算法",
+      "面试",
+      "编程语言",
+      "题解"
+    ],
+    "summary": "这是一个包含多种编程语言实现的LeetCode算法题解项目，涵盖《剑指Offer》和《程序员面试金典》等经典面试书籍题目，帮助程序员提升算法能力和面试准备。",
+    "analyzed_at": "2025-10-19T19:17:10.870066+00:00"
+  },
+  {
+    "repo_full_name": "doocs/md",
+    "owner": "doocs",
+    "html_url": "https://github.com/doocs/md",
+    "description": "✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性",
+    "topics": [
+      "ai-bot",
+      "doocs",
+      "editor",
+      "llm",
+      "markdown",
+      "markdown-editor",
+      "tailwindcss",
+      "vite",
+      "vue",
+      "vue3",
+      "wechat",
+      "weixin"
+    ],
+    "starred_at": "2021-06-13T13:55:56Z",
+    "category": "开发工具",
+    "tags": [
+      "markdown-editor",
+      "wechat",
+      "ai-bot",
+      "editor",
+      "vue"
+    ],
+    "summary": "一款高度简洁的微信 Markdown 编辑器，支持 Markdown 语法、自定义主题样式、内容管理、多图床和 AI 助手等功能，基于 Vue3 和 TailwindCSS 构建。",
+    "analyzed_at": "2025-10-19T19:17:10.870066+00:00"
+  },
+  {
+    "repo_full_name": "doodlewind/jshistory-cn",
+    "owner": "doodlewind",
+    "html_url": "https://github.com/doodlewind/jshistory-cn",
+    "description": "🇨🇳 《JavaScript 二十年》中文版",
+    "topics": [
+      "actionscript",
+      "book",
+      "browser",
+      "chinese",
+      "eich",
+      "history",
+      "javascript",
+      "js",
+      "jscript",
+      "mocha",
+      "spidermonkey",
+      "translation"
+    ],
+    "starred_at": "2021-06-13T13:57:06Z",
+    "category": "教育学习",
+    "tags": [
+      "javascript",
+      "history",
+      "book",
+      "chinese",
+      "browser",
+      "translation"
+    ],
+    "summary": "《JavaScript二十年》中文翻译项目，记录JavaScript语言从诞生到现在的二十载发展历程，涵盖语言特性、浏览器技术演进等内容，是前端开发者了解JS历史的宝贵资料。",
+    "analyzed_at": "2025-10-19T19:17:10.870066+00:00"
+  },
+  {
+    "repo_full_name": "dortania/OpenCore-Install-Guide",
+    "owner": "dortania",
+    "html_url": "https://github.com/dortania/OpenCore-Install-Guide",
+    "description": "Repo for the OpenCore Install Guide",
+    "topics": [],
+    "starred_at": "2021-06-13T13:57:08Z",
+    "category": "开发工具",
+    "tags": [
+      "引导程序",
+      "macOS",
+      "硬件兼容",
+      "安装指南",
+      "系统配置"
+    ],
+    "summary": "OpenCore引导程序安装指南，详细介绍了在非苹果硬件上安装macOS的步骤和配置方法，帮助用户解决硬件兼容性问题。",
+    "analyzed_at": "2025-10-19T19:17:10.870066+00:00"
+  },
+  {
+    "repo_full_name": "dotnetcloudbase/findjobtclooud",
+    "owner": "dotnetcloudbase",
+    "html_url": "https://github.com/dotnetcloudbase/findjobtclooud",
+    "description": "腾讯2020年8月份云开发赛事参赛作品，使用腾讯云云开发 + 云函数 开发微信小程序",
+    "topics": [],
+    "starred_at": "2021-06-13T13:57:12Z",
+    "category": "移动应用",
+    "tags": [
+      "微信小程序",
+      "腾讯云",
+      "云开发",
+      "云函数",
+      "求职"
+    ],
+    "summary": "这是一个基于腾讯云云开发和云函数开发的微信小程序，作为腾讯2020年云开发赛事的参赛作品，可能用于求职相关功能。",
+    "analyzed_at": "2025-10-19T19:17:10.870066+00:00"
+  },
+  {
+    "repo_full_name": "dracula/dracula-theme",
+    "owner": "dracula",
+    "html_url": "https://github.com/dracula/dracula-theme",
+    "description": "🧛🏻‍♂️ One theme. All platforms.",
+    "topics": [],
+    "starred_at": "2021-06-13T13:57:14Z",
+    "category": "设计工具",
+    "tags": [
+      "theme",
+      "design",
+      "customization",
+      "cross-platform",
+      "dark-theme",
+      "ui"
+    ],
+    "summary": "Dracula主题是一个跨平台的主题包，为各种应用程序和开发环境提供统一的深色主题设计，提升视觉体验和代码可读性。",
+    "analyzed_at": "2025-10-19T19:17:10.870066+00:00"
+  },
+  {
+    "repo_full_name": "dragen1860/Deep-Learning-with-TensorFlow-book",
+    "owner": "dragen1860",
+    "html_url": "https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book",
+    "description": "深度学习入门开源书，基于TensorFlow 2.0案例实战。Open source Deep Learning book, based on TensorFlow 2.0 framework.",
+    "topics": [
+      "book",
+      "deeplearning",
+      "machinelearning",
+      "opensource",
+      "python",
+      "pytorch",
+      "tensorflow",
+      "tensorflow2"
+    ],
+    "starred_at": "2021-06-13T13:57:16Z",
+    "category": "AI/机器学习",
+    "tags": [
+      "深度学习",
+      "机器学习",
+      "TensorFlow",
+      "Python",
+      "开源",
+      "Pytorch"
+    ],
+    "summary": "这是一本基于TensorFlow 2.0框架的深度学习入门开源书籍，通过实际案例帮助读者掌握深度学习技术。内容涵盖机器学习基础、TensorFlow应用和Python编程实践。",
+    "analyzed_at": "2025-10-19T19:17:10.870066+00:00"
+  },
+  {
+    "repo_full_name": "dream2023/vue-run-sfc",
+    "owner": "dream2023",
+    "html_url": "https://github.com/dream2023/vue-run-sfc",
+    "description": "Vue DEMO利器, 在线运行 & 编辑 Vue 单文件",
+    "topics": [
+      "vue-code-editor",
+      "vue-run",
+      "vue-run-sfc",
+      "vue-runner",
+      "vue-sfc"
+    ],
+    "starred_at": "2021-06-13T13:57:18Z",
+    "category": "开发工具",
+    "tags": [
+      "Vue开发",
+      "在线编辑器",
+      "代码运行",
+      "前端工具",
+      "演示工具"
+    ],
+    "summary": "这是一个Vue开发工具，允许开发者在线编辑和运行Vue单文件组件，是创建Vue演示的利器。",
+    "analyzed_at": "2025-10-19T19:17:10.870066+00:00"
+  },
+  {
+    "repo_full_name": "dream2023/vuepress-plugin-run",
+    "owner": "dream2023",
+    "html_url": "https://github.com/dream2023/vuepress-plugin-run",
+    "description": "vuepress 在线运行 Vue 单文件",
+    "topics": [
+      "vue-run-sfc",
+      "vuepress",
+      "vuepress-demo",
+      "vuepress-plugin",
+      "vuepress-vue",
+      "vuepress-vue-demo"
+    ],
+    "starred_at": "2021-06-13T13:57:41Z",
+    "category": "开发工具",
+    "tags": [
+      "vuepress-plugin",
+      "vue-demo",
+      "vue-sfc",
+      "在线运行"
+    ],
+    "summary": "VuePress插件，实现在线运行和展示Vue单文件组件功能，帮助开发者在文档中直接演示和测试Vue代码，提升文档交互性和实用性。",
+    "analyzed_at": "2025-10-19T19:17:10.870066+00:00"
+  },
+  {
+    "repo_full_name": "dromara/Sa-Token",
+    "owner": "dromara",
+    "html_url": "https://github.com/dromara/Sa-Token",
+    "description": "一个轻量级 Java 权限认证框架，让鉴权变得简单、优雅！—— 登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0",
+    "topics": [
+      "aouth2",
+      "authorization",
+      "java",
+      "springcloud",
+      "sso",
+      "token"
+    ],
+    "starred_at": "2021-06-13T13:57:45Z",
+    "category": "安全工具",
+    "tags": [
+      "OAuth2",
+      "授权",
+      "Java",
+      "Spring Cloud",
+      "单点登录",
+      "Token"
+    ],
+    "summary": "Sa-Token是一个轻量级Java权限认证框架，提供登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录和OAuth2.0等功能，让鉴权变得简单优雅。",
+    "analyzed_at": "2025-10-19T19:17:10.870066+00:00"
+  },
+  {
+    "repo_full_name": "dsrkafuu/hugo-theme-fuji",
+    "owner": "dsrkafuu",
+    "html_url": "https://github.com/dsrkafuu/hugo-theme-fuji",
+    "description": "A minimal Hugo theme with nice theme color. | 一个主题色极简 Hugo 主题。",
+    "topics": [
+      "dark-mode",
+      "hugo",
+      "hugo-theme",
+      "i18n",
+      "minimal",
+      "responsive",
+      "theme"
+    ],
+    "starred_at": "2021-06-13T13:57:47Z",
+    "category": "开发工具",
+    "tags": [
+      "Hugo主题",
+      "极简设计",
+      "响应式",
+      "深色模式",
+      "国际化"
+    ],
+    "summary": "这是一个极简风格的Hugo静态网站主题，具有优雅的主题色设计，支持深色模式、响应式布局和国际化功能。",
+    "analyzed_at": "2025-10-19T19:17:10.870066+00:00"
+  },
+  {
+    "repo_full_name": "DuanJiaNing/makeaplan_public",
+    "owner": "DuanJiaNing",
+    "html_url": "https://github.com/DuanJiaNing/makeaplan_public",
+    "description": "【制定一个计划】是一个目标规划应用，通过最直接，最清晰的方式帮助你记录和追踪自己的计划，辅助你达成自己的目标。使用 Golang+gRPC+Flutter 开发。",
+    "topics": [
+      "apple-store",
+      "dart",
+      "flutter",
+      "flutter-app",
+      "go",
+      "grpc",
+      "ios",
+      "protobuf"
+    ],
+    "starred_at": "2021-06-13T13:57:48Z",
+    "category": "移动应用",
+    "tags": [
+      "flutter-app",
+      "efficiency-tool",
+      "dart",
+      "go",
+      "ios"
+    ],
+    "summary": "这是一个使用Golang+gRPC+Flutter开发的目标规划移动应用，帮助用户记录和追踪计划，辅助达成个人目标。",
+    "analyzed_at": "2025-10-19T19:17:10.870066+00:00"
+  },
+  {
+    "repo_full_name": "dwqs/area-data",
+    "owner": "dwqs",
+    "html_url": "https://github.com/dwqs/area-data",
+    "description": "中国省市区数据(含港澳台)",
+    "topics": [
+      "area",
+      "china"
+    ],
+    "starred_at": "2021-06-13T13:57:50Z",
+    "category": "数据分析",
+    "tags": [
+      "地理数据",
+      "区域信息",
+      "中国行政区划",
+      "数据集",
+      "地理信息系统"
+    ],
+    "summary": "这是一个包含中国省市区行政区划数据的开源项目，数据涵盖中国大陆及港澳台地区，可用于地理信息系统、数据分析和可视化应用。",
+    "analyzed_at": "2025-10-19T19:17:10.870066+00:00"
+  },
+  {
+    "repo_full_name": "dwqs/area-puppeteer",
+    "owner": "dwqs",
+    "html_url": "https://github.com/dwqs/area-puppeteer",
+    "description": "基于 puppeteer 的中国行政区域抓取爬虫",
+    "topics": [
+      "address",
+      "area",
+      "china",
+      "china-area",
+      "china-city",
+      "city",
+      "puppeteer"
+    ],
+    "starred_at": "2021-06-13T13:57:52Z",
+    "category": "开发工具",
+    "tags": [
+      "爬虫",
+      "行政区域",
+      "数据抓取",
+      "Puppeteer",
+      "中国地理"
+    ],
+    "summary": "这是一个基于Puppeteer的中国行政区域数据抓取工具，可以获取中国省市区等行政区划信息，适用于需要中国地理数据的开发场景。",
+    "analyzed_at": "2025-10-19T19:17:10.870066+00:00"
+  },
+  {
+    "repo_full_name": "dylanaraps/neofetch",
+    "owner": "dylanaraps",
+    "html_url": "https://github.com/dylanaraps/neofetch",
+    "description": "🖼️  A command-line system information tool written in bash 3.2+",
+    "topics": [
+      "bash",
+      "command-line",
+      "commandline",
+      "distro",
+      "neofetch",
+      "screenshot",
+      "script"
+    ],
+    "starred_at": "2021-06-13T14:00:41Z",
+    "category": "开发工具",
+    "tags": [
+      "bash",
+      "command-line",
+      "script",
+      "screenshot",
+      "distro"
+    ],
+    "summary": "Neofetch是一个用bash编写的命令行系统信息工具，可显示操作系统、硬件配置等系统信息，并支持生成包含系统信息的截图。",
+    "analyzed_at": "2025-10-19T19:17:10.870066+00:00"
+  },
+  {
+    "repo_full_name": "EastWorld/wechat-app-mall",
+    "owner": "EastWorld",
+    "html_url": "https://github.com/EastWorld/wechat-app-mall",
+    "description": "微信小程序商城，微信小程序微店",
+    "topics": [],
+    "starred_at": "2021-06-13T14:00:47Z",
+    "category": "移动应用",
+    "tags": [
+      "微信小程序",
+      "电商",
+      "商城",
+      "移动应用",
+      "微店"
+    ],
+    "summary": "这是一个基于微信平台开发的小程序商城应用，用户可以通过微信直接访问和使用，提供完整的电商购物功能，包括商品展示、购物车、下单支付等，适合小型商家快速搭建移动销售渠道。",
+    "analyzed_at": "2025-10-19T19:17:10.870066+00:00"
+  },
+  {
+    "repo_full_name": "easy-mock/easy-mock",
+    "owner": "easy-mock",
+    "html_url": "https://github.com/easy-mock/easy-mock",
+    "description": "A persistent service that generates mock data quickly and provids visualization view.",
+    "topics": [
+      "data-generator",
+      "easy-mock",
+      "javascript",
+      "mock",
+      "swagger",
+      "vue"
+    ],
+    "starred_at": "2021-06-13T14:00:49Z",
+    "category": "开发工具",
+    "tags": [
+      "mock",
+      "data-generator",
+      "javascript",
+      "vue",
+      "swagger"
+    ],
+    "summary": "Easy-Mock是一个持久化服务，能够快速生成模拟数据并提供可视化界面。它支持JavaScript和Vue，可与Swagger集成，帮助开发者高效创建和管理API模拟数据。",
+    "analyzed_at": "2025-10-19T19:17:10.870066+00:00"
+  },
+  {
+    "repo_full_name": "easy-mock/easy-mock-cli",
+    "owner": "easy-mock",
+    "html_url": "https://github.com/easy-mock/easy-mock-cli",
+    "description": "Create api.js for Easy-Mock. https://easy-mock.github.io/easy-mock-cli/",
+    "topics": [
+      "cli",
+      "easy-mock",
+      "javascript",
+      "mock"
+    ],
+    "starred_at": "2021-06-13T14:00:53Z",
+    "category": "开发工具",
+    "tags": [
+      "CLI工具",
+      "API模拟",
+      "JavaScript",
+      "开发辅助"
+    ],
+    "summary": "Easy-Mock-CLI是一个命令行工具，用于为Easy-Mock平台快速生成API模拟数据。它简化了前端开发过程中的Mock数据创建流程，帮助开发者更高效地进行接口测试和前后端分离开发。",
+    "analyzed_at": "2025-10-19T19:17:10.870066+00:00"
+  },
+  {
+    "repo_full_name": "easychen/howto-make-more-money",
+    "owner": "easychen",
+    "html_url": "https://github.com/easychen/howto-make-more-money",
+    "description": "程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate",
+    "topics": [],
+    "starred_at": "2021-06-13T14:00:59Z",
+    "category": "教育学习",
+    "tags": [
+      "程序员",
+      "收入增长",
+      "副业",
+      "职业发展",
+      "技能变现",
+      "财务规划"
+    ],
+    "summary": "这是一本专为程序员设计的收入增长指南，介绍如何通过副业、技能变现等方式优雅地增加额外收入。内容主要针对中国程序员，提供了多种实用的创收方法和职业发展建议。",
+    "analyzed_at": "2025-10-19T19:17:10.870066+00:00"
+  },
+  {
+    "repo_full_name": "EasyTuan/taro-msparis",
+    "owner": "EasyTuan",
+    "html_url": "https://github.com/EasyTuan/taro-msparis",
+    "description": "🌱用 React 编写的基于Taro + Dva构建的适配不同端（微信/百度/支付宝小程序、H5、React-Native 等）的时装衣橱",
+    "topics": [
+      "dva",
+      "react",
+      "react-native",
+      "taro",
+      "wechat",
+      "wechat-mini-program",
+      "wxapp"
+    ],
+    "starred_at": "2021-06-13T14:01:04Z",
+    "category": "移动应用",
+    "tags": [
+      "React",
+      "多端适配",
+      "时装衣橱",
+      "小程序开发",
+      "Taro框架"
+    ],
+    "summary": "这是一个基于Taro + Dva构建的多端时装衣橱应用，使用React开发，可适配微信、百度、支付宝小程序、H5和React Native等多种平台，为用户提供服装搭配与管理功能。",
+    "analyzed_at": "2025-10-19T19:17:10.870066+00:00"
+  },
+  {
+    "repo_full_name": "echoings/actions.mini-program",
+    "owner": "echoings",
+    "html_url": "https://github.com/echoings/actions.mini-program",
+    "description": "miniprogram-ci集成Github Action",
+    "topics": [],
+    "starred_at": "2021-06-13T14:01:07Z",
+    "category": "开发工具",
+    "tags": [
+      "小程序",
+      "持续集成",
+      "CI/CD",
+      "Github Action",
+      "自动化",
+      "微信小程序"
+    ],
+    "summary": "这是一个将小程序持续集成工具(miniprogram-ci)与Github Action集成的项目，帮助开发者实现小程序的自动化构建、测试和部署流程。",
+    "analyzed_at": "2025-10-19T19:17:10.870066+00:00"
+  },
+  {
+    "repo_full_name": "ecomfe/echarts-for-weixin",
+    "owner": "ecomfe",
+    "html_url": "https://github.com/ecomfe/echarts-for-weixin",
+    "description": "基于 Apache ECharts 的微信小程序图表库",
+    "topics": [
+      "chart",
+      "echarts",
+      "visualization",
+      "weixin"
+    ],
+    "starred_at": "2021-06-13T14:01:09Z",
+    "category": "Web应用",
+    "tags": [
+      "chart",
+      "echarts",
+      "visualization",
+      "weixin",
+      "小程序",
+      "数据可视化"
+    ],
+    "summary": "ECharts for 微信小程序是一个基于 Apache ECharts 的图表库，为微信小程序提供丰富的图表类型和交互功能，支持数据可视化展示。",
+    "analyzed_at": "2025-10-19T19:17:10.870066+00:00"
+  },
+  {
+    "repo_full_name": "ecomfe/vue-echarts",
+    "owner": "ecomfe",
+    "html_url": "https://github.com/ecomfe/vue-echarts",
+    "description": "Vue.js component for Apache ECharts™.",
+    "topics": [
+      "echarts",
+      "vue",
+      "vue-echarts"
+    ],
+    "starred_at": "2021-06-13T14:01:11Z",
+    "category": "开发工具",
+    "tags": [
+      "echarts",
+      "vue",
+      "vue-echarts",
+      "数据可视化",
+      "前端开发",
+      "图表"
+    ],
+    "summary": "Vue.js的Apache ECharts组件封装，提供数据可视化图表功能，支持丰富的图表类型和交互特性，便于Vue项目中集成使用。",
+    "analyzed_at": "2025-10-19T19:17:10.870066+00:00"
+  },
+  {
+    "repo_full_name": "edent/SuperTinyIcons",
+    "owner": "edent",
+    "html_url": "https://github.com/edent/SuperTinyIcons",
+    "description": "Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos",
+    "topics": [
+      "hacktoberfest",
+      "logo",
+      "social-media",
+      "svg",
+      "svg-icons",
+      "tiny-social-icons"
+    ],
+    "starred_at": "2021-06-13T14:01:15Z",
+    "category": "开发工具",
+    "tags": [
+      "svg",
+      "svg-icons",
+      "logo",
+      "tiny-social-icons"
+    ],
+    "summary": "SuperTinyIcons是一个提供超小尺寸SVG图标的项目，每个图标文件大小不足1KB。它包含各种网站和应用logo的极简SVG版本，特别适合用于网页和应用开发中的UI设计。",
+    "analyzed_at": "2025-10-19T19:17:10.870066+00:00"
+  },
+  {
+    "repo_full_name": "eggjs/egg-view-vue",
+    "owner": "eggjs",
+    "html_url": "https://github.com/eggjs/egg-view-vue",
+    "description": "vue view plugin for egg",
+    "topics": [
+      "egg",
+      "egg-plugin",
+      "egg-view",
+      "vue"
+    ],
+    "starred_at": "2021-06-13T14:01:19Z",
+    "category": "开发工具",
+    "tags": [
+      "egg",
+      "egg-plugin",
+      "vue",
+      "前端",
+      "视图引擎"
+    ],
+    "summary": "Egg.js的Vue.js视图插件，用于在Egg.js框架应用中集成Vue作为视图引擎，简化前后端分离开发流程。",
+    "analyzed_at": "2025-10-19T19:17:10.870066+00:00"
+  },
+  {
+    "repo_full_name": "ehang-io/nps",
+    "owner": "ehang-io",
+    "html_url": "https://github.com/ehang-io/nps",
+    "description": "一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.",
+    "topics": [
+      "dns",
+      "firewall",
+      "go",
+      "gzip",
+      "http",
+      "https",
+      "nat",
+      "nps",
+      "snnapy",
+      "socks",
+      "socks5",
+      "ssh",
+      "tcp",
+      "tunnel",
+      "udp"
+    ],
+    "starred_at": "2021-06-13T14:01:21Z",
+    "category": "开发工具",
+    "tags": [
+      "tunnel",
+      "tcp",
+      "udp",
+      "socks5",
+      "http",
+      "ssh"
+    ],
+    "summary": "nps是一款轻量级高性能的内网穿透代理服务器，支持tcp、udp、socks5、http等多种协议转发，可用于访问内网资源、远程调试、ssh访问等场景，并提供强大的web管理界面。",
+    "analyzed_at": "2025-10-19T19:17:10.870066+00:00"
+  },
+  {
+    "repo_full_name": "ehForwarderBot/efb-wechat-slave",
+    "owner": "ehForwarderBot",
+    "html_url": "https://github.com/ehForwarderBot/efb-wechat-slave",
+    "description": "A channel for EH Forwarder Bot.",
+    "topics": [
+      "efb-slave-channel",
+      "eh-forwarder-bot"
+    ],
+    "starred_at": "2021-06-13T14:01:25Z",
+    "category": "开发工具",
+    "tags": [
+      "消息转发",
+      "微信集成",
+      "机器人",
+      "EFB组件",
+      "自动化"
+    ],
+    "summary": "EH Forwarder Bot的微信频道组件，实现微信消息的转发和中继功能，可作为机器人与其他平台集成，支持自动化消息处理。",
+    "analyzed_at": "2025-10-19T19:17:10.870066+00:00"
+  },
+  {
+    "repo_full_name": "ElemeFE/vue-amap",
+    "owner": "ElemeFE",
+    "html_url": "https://github.com/ElemeFE/vue-amap",
+    "description": "🌍  基于 Vue 2.x 和高德地图的地图组件 ",
+    "topics": [
+      "amap",
+      "component-library",
+      "javascript",
+      "vue"
+    ],
+    "starred_at": "2021-06-13T14:01:27Z",
+    "category": "开发工具",
+    "tags": [
+      "地图组件",
+      "Vue",
+      "JavaScript",
+      "高德地图",
+      "前端开发",
+      "组件库"
+    ],
+    "summary": "vue-amap是一个基于Vue 2.x和高德地图的地图组件库，提供了丰富的地图功能，方便开发者在Vue项目中集成地图应用。",
+    "analyzed_at": "2025-10-19T19:17:10.870066+00:00"
+  },
+  {
+    "repo_full_name": "element-plus/element-plus-vite-starter",
+    "owner": "element-plus",
+    "html_url": "https://github.com/element-plus/element-plus-vite-starter",
+    "description": "🌰 A starter kit for Element Plus with Vite",
+    "topics": [
+      "element-plus",
+      "vite"
+    ],
+    "starred_at": "2021-06-13T14:01:28Z",
+    "category": "Web应用",
+    "tags": [
+      "前端开发",
+      "Vue.js",
+      "UI组件",
+      "项目模板",
+      "Vite",
+      "Element Plus"
+    ],
+    "summary": "Element Plus与Vite的入门套件，提供快速搭建Vue.js项目的模板，集成Element Plus UI组件库，简化现代Web应用开发流程。",
+    "analyzed_at": "2025-10-19T19:17:10.870066+00:00"
+  },
+  {
+    "repo_full_name": "Elestriel/TaskbarTools",
+    "owner": "Elestriel",
+    "html_url": "https://github.com/Elestriel/TaskbarTools",
+    "description": "Grants the ability to set the Windows Taskbar to any opacity and colour desired.",
+    "topics": [],
+    "starred_at": "2021-06-13T14:01:30Z",
+    "category": "桌面应用",
+    "tags": [
+      "Windows",
+      "任务栏",
+      "自定义",
+      "界面美化",
+      "系统工具"
+    ],
+    "summary": "TaskbarTools是一款Windows系统工具，允许用户自定义任务栏的不透明度和颜色，提供更个性化的桌面体验。",
+    "analyzed_at": "2025-10-19T19:17:10.870066+00:00"
+  },
+  {
+    "repo_full_name": "elgohr/Publish-Docker-Github-Action",
+    "owner": "elgohr",
+    "html_url": "https://github.com/elgohr/Publish-Docker-Github-Action",
+    "description": "A Github Action used to build and publish Docker images",
+    "topics": [
+      "actions",
+      "aws-ecr",
+      "build",
+      "continuous-delivery",
+      "docker",
+      "github-actions",
+      "publishing",
+      "push"
+    ],
+    "starred_at": "2021-06-13T14:01:31Z",
+    "category": "开发工具",
+    "tags": [
+      "Docker",
+      "GitHub Actions",
+      "持续交付",
+      "自动化构建",
+      "镜像发布"
+    ],
+    "summary": "这是一个GitHub Action，用于自动化构建和发布Docker镜像到容器注册表，支持AWS ECR等服务，简化了持续交付流程中的容器化应用部署。",
+    "analyzed_at": "2025-10-19T19:17:10.870066+00:00"
+  },
+  {
+    "repo_full_name": "ellermister/mtproxy",
+    "owner": "ellermister",
+    "html_url": "https://github.com/ellermister/mtproxy",
+    "description": "MTProxyTLS一键安装绿色脚本",
+    "topics": [
+      "mtp",
+      "mtproto",
+      "mtproto-proxy",
+      "mtproxy",
+      "telegram",
+      "tls"
+    ],
+    "starred_at": "2021-06-13T14:01:32Z",
+    "category": "开发工具",
+    "tags": [
+      "mtproxy",
+      "mtproto",
+      "telegram",
+      "tls",
+      "proxy"
+    ],
+    "summary": "MTProxy TLS一键安装绿色脚本，用于快速部署Telegram代理服务，支持TLS加密，提供网络访问解决方案。",
+    "analyzed_at": "2025-10-19T19:17:10.870066+00:00"
+  },
+  {
+    "repo_full_name": "elvinzhu/techarts",
+    "owner": "elvinzhu",
+    "html_url": "https://github.com/elvinzhu/techarts",
+    "description": "An out of the box Taro component for ECharts",
+    "topics": [],
+    "starred_at": "2021-06-13T14:01:34Z",
+    "category": "开发工具",
+    "tags": [
+      "Taro",
+      "ECharts",
+      "组件库",
+      "数据可视化",
+      "跨平台",
+      "前端开发"
+    ],
+    "summary": "Techarts是一个为Taro框架封装的ECharts组件库，提供开箱即用的数据可视化解决方案。开发者可以轻松地在Taro项目中集成各种图表，实现跨平台的数据展示功能。",
+    "analyzed_at": "2025-10-19T19:17:10.870066+00:00"
+  },
+  {
+    "repo_full_name": "ehForwarderBot/ehForwarderBot",
+    "owner": "ehForwarderBot",
+    "html_url": "https://github.com/ehForwarderBot/ehForwarderBot",
+    "description": "An extensible message tunneling chat bot framework. Delivers messages to and from multiple platforms and remotely control your accounts.",
+    "topics": [
+      "chat-bot",
+      "chat-tunneling",
+      "chatbot",
+      "eh-forwarder-bot",
+      "framework",
+      "hacktoberfest",
+      "python-3",
+      "tunnel-bot"
+    ],
+    "starred_at": "2021-06-13T14:01:39Z",
+    "category": "开发工具",
+    "tags": [
+      "聊天机器人",
+      "消息隧道",
+      "多平台",
+      "远程控制",
+      "Python框架"
+    ],
+    "summary": "ehForwarderBot是一个可扩展的消息隧道聊天机器人框架，能够在多个平台间传递消息并远程控制账户，为开发者提供统一的聊天机器人开发接口。",
+    "analyzed_at": "2025-10-19T19:17:10.870066+00:00"
+  },
+  {
+    "repo_full_name": "electron/electron",
+    "owner": "electron",
+    "html_url": "https://github.com/electron/electron",
+    "description": ":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+    "topics": [
+      "c-plus-plus",
+      "chrome",
+      "css",
+      "electron",
+      "html",
+      "javascript",
+      "nodejs",
+      "v8",
+      "works-with-codespaces"
+    ],
+    "starred_at": "2021-06-13T14:01:44Z",
+    "category": "桌面应用",
+    "tags": [
+      "electron",
+      "javascript",
+      "html",
+      "css",
+      "cross-platform"
+    ],
+    "summary": "Electron是一个使用JavaScript、HTML和CSS构建跨平台桌面应用的开源框架。它结合了Node.js和Chromium，允许开发者使用Web技术创建原生桌面应用程序。",
+    "analyzed_at": "2025-10-19T19:17:10.870066+00:00"
+  },
+  {
+    "repo_full_name": "electron/minimal-repro",
+    "owner": "electron",
+    "html_url": "https://github.com/electron/minimal-repro",
+    "description": "Clone to try a simple Electron app",
+    "topics": [],
+    "starred_at": "2021-06-13T14:01:46Z",
+    "category": "桌面应用",
+    "tags": [
+      "electron",
+      "桌面应用",
+      "示例",
+      "跨平台",
+      "开发工具"
+    ],
+    "summary": "这是一个简单的Electron应用示例，开发者可以克隆此仓库来尝试构建基本的桌面应用程序。Electron允许使用Web技术创建跨平台的桌面应用。",
+    "analyzed_at": "2025-10-19T19:17:10.870066+00:00"
+  },
+  {
+    "repo_full_name": "ElemeFE/element",
+    "owner": "ElemeFE",
+    "html_url": "https://github.com/ElemeFE/element",
+    "description": "A Vue.js 2.0 UI Toolkit for Web",
+    "topics": [
+      "components",
+      "element-ui",
+      "javascript",
+      "ui-kit",
+      "vue",
+      "vue-components",
+      "vuejs"
+    ],
+    "starred_at": "2021-06-13T14:01:48Z",
+    "category": "Web应用",
+    "tags": [
+      "组件",
+      "UI工具包",
+      "Vue.js",
+      "前端开发"
+    ],
+    "summary": "这是一个基于Vue.js 2.0的Web UI工具包，提供丰富的组件库，帮助开发者快速构建现代化的Web界面。",
+    "analyzed_at": "2025-10-19T19:17:10.870066+00:00"
+  },
+  {
+    "repo_full_name": "ElemeFE/react-amap",
+    "owner": "ElemeFE",
+    "html_url": "https://github.com/ElemeFE/react-amap",
+    "description": "基于 React 封装的高德地图组件。AMap Component Based On React.",
+    "topics": [
+      "amap",
+      "javascript",
+      "map",
+      "react"
+    ],
+    "starred_at": "2021-06-13T14:01:50Z",
+    "category": "开发工具",
+    "tags": [
+      "地图",
+      "React",
+      "JavaScript",
+      "高德地图"
+    ],
+    "summary": "这是一个基于React封装的高德地图组件库，提供了在React应用中集成高德地图的功能，简化了地图组件的使用和开发。",
+    "analyzed_at": "2025-10-19T19:17:10.870066+00:00"
+  },
+  {
+    "repo_full_name": "ElemeFE/v-charts",
+    "owner": "ElemeFE",
+    "html_url": "https://github.com/ElemeFE/v-charts",
+    "description": "基于 Vue2.0 和 ECharts 封装的图表组件📈📊",
+    "topics": [
+      "echarts",
+      "vue"
+    ],
+    "starred_at": "2021-06-13T14:01:51Z",
+    "category": "开发工具",
+    "tags": [
+      "vue",
+      "echarts",
+      "数据可视化",
+      "图表组件",
+      "前端开发"
+    ],
+    "summary": "v-charts是基于Vue2.0和ECharts封装的图表组件库，提供丰富的图表类型和配置选项，帮助开发者快速实现数据可视化功能。",
+    "analyzed_at": "2025-10-19T19:17:10.870066+00:00"
   }
 ]
