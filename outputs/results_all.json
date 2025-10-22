@@ -11196,5 +11196,1183 @@
     ],
     "summary": "这是一个微信小程序的3D环物展示插件，通过小程序开放的接口模拟3D效果，开发者只需传入物品序列照片数组即可实现3D展示功能。",
     "analyzed_at": "2025-10-21T19:19:46.518629+00:00"
+  },
+  {
+    "repo_full_name": "hmarr/vitals",
+    "owner": "hmarr",
+    "html_url": "https://github.com/hmarr/vitals",
+    "description": "📊 A tiny macOS process monitor",
+    "topics": [
+      "app",
+      "mac",
+      "swift",
+      "swiftui"
+    ],
+    "starred_at": "2021-06-13T14:11:58Z",
+    "category": "桌面应用",
+    "tags": [
+      "监控工具",
+      "系统工具",
+      "macOS",
+      "Swift"
+    ],
+    "summary": "Vitals是一个轻量级的macOS系统进程监控工具，使用Swift和SwiftUI开发，可实时显示系统资源使用情况。",
+    "analyzed_at": "2025-10-22T19:17:56.666552+00:00"
+  },
+  {
+    "repo_full_name": "Homebrew/brew",
+    "owner": "Homebrew",
+    "html_url": "https://github.com/Homebrew/brew",
+    "description": "🍺 The missing package manager for macOS (or Linux)",
+    "topics": [
+      "brew",
+      "homebrew",
+      "macos",
+      "package-manager",
+      "ruby"
+    ],
+    "starred_at": "2021-06-13T14:11:59Z",
+    "category": "开发工具",
+    "tags": [
+      "包管理器",
+      "macOS",
+      "Linux",
+      "开发工具",
+      "命令行工具"
+    ],
+    "summary": "Homebrew是macOS和Linux系统上广受欢迎的包管理器，使用Ruby编写，允许用户通过简单命令安装、更新和管理各种软件包，极大简化了软件开发环境的配置过程。",
+    "analyzed_at": "2025-10-22T19:17:56.666552+00:00"
+  },
+  {
+    "repo_full_name": "Homebrew/homebrew-cask",
+    "owner": "Homebrew",
+    "html_url": "https://github.com/Homebrew/homebrew-cask",
+    "description": "🍻 A CLI workflow for the administration of macOS applications distributed as binaries",
+    "topics": [
+      "cask",
+      "hacktoberfest",
+      "homebrew"
+    ],
+    "starred_at": "2021-06-13T14:12:00Z",
+    "category": "开发工具",
+    "tags": [
+      "cask",
+      "homebrew",
+      "package-manager",
+      "macos",
+      "cli"
+    ],
+    "summary": "Homebrew Cask是Homebrew的扩展，提供命令行界面用于管理macOS的二进制应用程序。它简化了macOS应用的安装、更新和卸载过程，是macOS开发者的必备工具。",
+    "analyzed_at": "2025-10-22T19:17:56.666552+00:00"
+  },
+  {
+    "repo_full_name": "homebridge/homebridge",
+    "owner": "homebridge",
+    "html_url": "https://github.com/homebridge/homebridge",
+    "description": "HomeKit support for the impatient.",
+    "topics": [
+      "hap",
+      "homebridge",
+      "homekit",
+      "homekit-accessory-protocol",
+      "homekit-api",
+      "homekit-bridge",
+      "siri"
+    ],
+    "starred_at": "2021-06-13T14:12:01Z",
+    "category": "开发工具",
+    "tags": [
+      "智能家居",
+      "HomeKit",
+      "自动化",
+      "开发框架",
+      "语音控制"
+    ],
+    "summary": "Homebridge是一个开源的智能家居开发工具，为非HomeKit设备提供HomeKit支持，允许用户通过Siri控制各种智能家居设备。",
+    "analyzed_at": "2025-10-22T19:17:56.666552+00:00"
+  },
+  {
+    "repo_full_name": "heyui/heyui",
+    "owner": "heyui",
+    "html_url": "https://github.com/heyui/heyui",
+    "description": "🎉UI Toolkit for Web, Vue3.0",
+    "topics": [
+      "autocomplete",
+      "button",
+      "datepicker",
+      "datetimepicker",
+      "form",
+      "heyui",
+      "i18n",
+      "javascript",
+      "modal",
+      "modals",
+      "select",
+      "table",
+      "tree",
+      "ui",
+      "ui-components",
+      "validator",
+      "vue",
+      "vue-components",
+      "vue2",
+      "webpack"
+    ],
+    "starred_at": "2021-06-13T14:12:04Z",
+    "category": "Web应用",
+    "tags": [
+      "UI组件",
+      "Vue",
+      "前端工具",
+      "JavaScript",
+      "Web开发"
+    ],
+    "summary": "这是一个基于Vue 3.0的Web UI工具包，提供了丰富的UI组件如按钮、表单、日期选择器等，帮助开发者快速构建现代化的Web应用界面。",
+    "analyzed_at": "2025-10-22T19:17:56.666552+00:00"
+  },
+  {
+    "repo_full_name": "h2y/Shadowrocket-ADBlock-Rules",
+    "owner": "h2y",
+    "html_url": "https://github.com/h2y/Shadowrocket-ADBlock-Rules",
+    "description": "提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。",
+    "topics": [
+      "gfw",
+      "proxy",
+      "shadowrocket",
+      "shadowsocks",
+      "shadowsocksr",
+      "ssr",
+      "surge"
+    ],
+    "starred_at": "2021-06-13T14:12:07Z",
+    "category": "移动应用",
+    "tags": [],
+    "summary": "ZHIPU 调用异常: Error code: 400 - {'contentFilter': [{'level': 1, 'role': 'assistant'}], 'error': {'code': '1301', 'message': '系统检测到输入或生成内容可能包含不安全或敏感内容，请您避免输入易产生敏感内容的提示语，感谢您的配合。'}}",
+    "analyzed_at": "2025-10-22T19:17:56.666552+00:00"
+  },
+  {
+    "repo_full_name": "h31105/deployX.sh",
+    "owner": "h31105",
+    "html_url": "https://github.com/h31105/deployX.sh",
+    "description": "基于 Docker 容器架构的 Trojan/VLESS/VMess TCP/WS TLS 分流部署&管理脚本",
+    "topics": [
+      "cdn",
+      "docker-trojan",
+      "docker-v2ray",
+      "onekey",
+      "portainer",
+      "shell-script",
+      "tcp-tls",
+      "tls-shunt-proxy",
+      "trojan",
+      "trojan-go",
+      "v2ray",
+      "vless",
+      "vmess",
+      "watchtower",
+      "websocket-tls"
+    ],
+    "starred_at": "2021-06-13T14:12:10Z",
+    "category": "开发工具",
+    "tags": [
+      "docker-trojan",
+      "shell-script",
+      "v2ray",
+      "trojan",
+      "onekey"
+    ],
+    "summary": "deployX.sh是一个基于Docker容器架构的一键部署脚本，用于管理Trojan、VLESS、VMess等代理协议的TCP/WS TLS分流服务。简化了网络代理服务的部署与管理过程。",
+    "analyzed_at": "2025-10-22T19:17:56.666552+00:00"
+  },
+  {
+    "repo_full_name": "hai-27/store-server",
+    "owner": "hai-27",
+    "html_url": "https://github.com/hai-27/store-server",
+    "description": "vue-store项目后端。基于Node.js(Koa)实现的电商后端项目。",
+    "topics": [
+      "koa",
+      "mysql",
+      "node",
+      "nodejs"
+    ],
+    "starred_at": "2021-06-13T14:12:12Z",
+    "category": "Web应用",
+    "tags": [
+      "koa",
+      "mysql",
+      "node",
+      "nodejs",
+      "后端",
+      "电商"
+    ],
+    "summary": "这是一个基于Node.js(Koa)框架实现的电商系统后端服务，使用MySQL作为数据库，提供电商API接口，支持前端Vue-store项目。",
+    "analyzed_at": "2025-10-22T19:17:56.666552+00:00"
+  },
+  {
+    "repo_full_name": "hai-27/vue-store",
+    "owner": "hai-27",
+    "html_url": "https://github.com/hai-27/vue-store",
+    "description": "基于Vue+Vue-Router+Vuex+Element-ui+axios，参考小米商城，实现的电商项目。",
+    "topics": [
+      "axios",
+      "element-ui",
+      "vue",
+      "vue-router",
+      "vuex"
+    ],
+    "starred_at": "2021-06-13T14:12:14Z",
+    "category": "Web应用",
+    "tags": [
+      "Vue",
+      "电商",
+      "前端",
+      "Element-ui",
+      "Vue-Router"
+    ],
+    "summary": "这是一个基于Vue+Vue-Router+Vuex+Element-ui+axios技术栈实现的电商项目，参考小米商城的界面和功能设计，展示了现代前端框架在电商领域的应用。",
+    "analyzed_at": "2025-10-22T19:17:56.666552+00:00"
+  },
+  {
+    "repo_full_name": "haixiangyan/make-wheels",
+    "owner": "haixiangyan",
+    "html_url": "https://github.com/haixiangyan/make-wheels",
+    "description": "🔥 🔥 《造轮子》系列小书 —— 带你造 10 个实用的 npm 库 📦",
+    "topics": [],
+    "starred_at": "2021-06-13T14:12:16Z",
+    "category": "开发工具",
+    "tags": [
+      "npm",
+      "JavaScript",
+      "教程",
+      "开发",
+      "前端",
+      "库开发"
+    ],
+    "summary": "这是一本教你如何创建实用npm库的教程书籍，通过10个实例带你掌握库开发的技巧和最佳实践。",
+    "analyzed_at": "2025-10-22T19:17:56.666552+00:00"
+  },
+  {
+    "repo_full_name": "halo-dev/halo",
+    "owner": "halo-dev",
+    "html_url": "https://github.com/halo-dev/halo",
+    "description": "强大易用的开源建站工具。",
+    "topics": [
+      "blog",
+      "blog-engine",
+      "cms",
+      "content-management-system",
+      "halo",
+      "halocms",
+      "website-builder"
+    ],
+    "starred_at": "2021-06-13T14:12:17Z",
+    "category": "Web应用",
+    "tags": [
+      "博客",
+      "内容管理系统",
+      "网站构建器",
+      "开源建站"
+    ],
+    "summary": "Halo是一个强大易用的开源建站工具，专注于博客和内容管理。它提供了完整的CMS功能，帮助用户快速搭建个人网站或博客平台。作为开源项目，它具有高度可定制性和扩展性。",
+    "analyzed_at": "2025-10-22T19:17:56.666552+00:00"
+  },
+  {
+    "repo_full_name": "hamibot/hamibot",
+    "owner": "hamibot",
+    "html_url": "https://github.com/hamibot/hamibot",
+    "description": "安卓平台自动化工具，无需 root。",
+    "topics": [
+      "android",
+      "autojs",
+      "automation",
+      "hamibot"
+    ],
+    "starred_at": "2021-06-13T14:12:20Z",
+    "category": "移动应用",
+    "tags": [
+      "android",
+      "autojs",
+      "automation",
+      "hamibot"
+    ],
+    "summary": "Hamibot是一款安卓平台自动化工具，无需root权限即可实现自动化操作。基于AutoJS开发，提供便捷的自动化解决方案，帮助用户简化日常任务。",
+    "analyzed_at": "2025-10-22T19:17:56.666552+00:00"
+  },
+  {
+    "repo_full_name": "Handsomedoggy/KodExplorer",
+    "owner": "Handsomedoggy",
+    "html_url": "https://github.com/Handsomedoggy/KodExplorer",
+    "description": "可道云KodExplorer(原芒果云)提供私有云存储/企业网盘/企业云盘和在线文档管理解决方案,助力企业实现办公协作、Office在线编辑、安全存储访问和组织权限控制。",
+    "topics": [],
+    "starred_at": "2021-06-13T14:12:22Z",
+    "category": "Web应用",
+    "tags": [
+      "云存储",
+      "企业网盘",
+      "文档管理",
+      "在线协作",
+      "Office在线编辑",
+      "权限控制"
+    ],
+    "summary": "可道云KodExplorer是一款私有云存储和企业网盘解决方案，提供在线文档管理、办公协作、Office在线编辑等功能，支持安全存储访问和组织权限控制，助力企业实现高效协作。",
+    "analyzed_at": "2025-10-22T19:17:56.666552+00:00"
+  },
+  {
+    "repo_full_name": "hanyucd/vue-mall-mobile",
+    "owner": "hanyucd",
+    "html_url": "https://github.com/hanyucd/vue-mall-mobile",
+    "description": ":fire: vue2 + koa + mongodb 搭建 mobile web 商城",
+    "topics": [
+      "axios",
+      "koa2",
+      "mongodb",
+      "mongoose",
+      "vant",
+      "vue",
+      "vue-cli-3",
+      "vue-router",
+      "vuex"
+    ],
+    "starred_at": "2021-06-13T14:12:28Z",
+    "category": "Web应用",
+    "tags": [
+      "Vue.js",
+      "移动商城",
+      "Koa",
+      "MongoDB",
+      "Vant"
+    ],
+    "summary": "这是一个基于Vue 2、Koa和MongoDB构建的移动端Web商城项目，使用Vant作为UI组件库，实现了完整的电商功能。",
+    "analyzed_at": "2025-10-22T19:17:56.666552+00:00"
+  },
+  {
+    "repo_full_name": "haoel/haoel.github.io",
+    "owner": "haoel",
+    "html_url": "https://github.com/haoel/haoel.github.io",
+    "description": null,
+    "topics": [],
+    "starred_at": "2021-06-13T14:12:30Z",
+    "category": "Web应用",
+    "tags": [
+      "个人网站",
+      "博客",
+      "GitHub Pages",
+      "静态网站"
+    ],
+    "summary": "这是一个基于GitHub Pages的个人网站或博客，用于展示作者的内容和项目。",
+    "analyzed_at": "2025-10-22T19:17:56.666552+00:00"
+  },
+  {
+    "repo_full_name": "varletjs/varlet",
+    "owner": "varletjs",
+    "html_url": "https://github.com/varletjs/varlet",
+    "description": "A Vue3 component library based on Material Design 2 and 3, supporting mobile and desktop.",
+    "topics": [
+      "components",
+      "javascript",
+      "js",
+      "material",
+      "material-design",
+      "material-design-3",
+      "material-design-you",
+      "mobile",
+      "ts",
+      "typescript",
+      "ui",
+      "ui-kit",
+      "ui-library",
+      "vue",
+      "vue3",
+      "vuejs3"
+    ],
+    "starred_at": "2021-06-13T14:12:42Z",
+    "category": "开发工具",
+    "tags": [
+      "组件库",
+      "Vue3",
+      "Material Design",
+      "UI工具",
+      "跨平台"
+    ],
+    "summary": "Varlet是一个基于Vue3的组件库，遵循Material Design 2和3设计规范，支持移动端和桌面端应用开发，提供丰富的UI组件。",
+    "analyzed_at": "2025-10-22T19:17:56.666552+00:00"
+  },
+  {
+    "repo_full_name": "graphql/graphql-js",
+    "owner": "graphql",
+    "html_url": "https://github.com/graphql/graphql-js",
+    "description": "A reference implementation of GraphQL for JavaScript",
+    "topics": [
+      "graphql",
+      "graphql-js"
+    ],
+    "starred_at": "2021-06-13T14:12:56Z",
+    "category": "开发工具",
+    "tags": [
+      "GraphQL",
+      "JavaScript",
+      "API",
+      "查询语言",
+      "开发工具"
+    ],
+    "summary": "GraphQL的JavaScript参考实现，为JavaScript环境提供GraphQL功能支持，使开发者能够构建高效、灵活的API查询和数据处理系统。",
+    "analyzed_at": "2025-10-22T19:17:56.666552+00:00"
+  },
+  {
+    "repo_full_name": "heymind/OneDrive-Index-Cloudflare-Worker",
+    "owner": "heymind",
+    "html_url": "https://github.com/heymind/OneDrive-Index-Cloudflare-Worker",
+    "description": "DEPRECATED: Please use https://github.com/spencerwooo/onedrive-cf-index instead",
+    "topics": [
+      "cloudflare",
+      "cloudflare-worker",
+      "onedrive",
+      "serverless"
+    ],
+    "starred_at": "2021-06-13T14:12:59Z",
+    "category": "Web应用",
+    "tags": [
+      "Cloudflare",
+      "Cloudflare Worker",
+      "OneDrive",
+      "Serverless",
+      "文件索引",
+      "网盘服务"
+    ],
+    "summary": "这是一个已弃用的项目，原本通过Cloudflare Worker技术实现OneDrive文件的在线索引与访问，提供网盘文件的Web界面浏览功能。现推荐使用替代项目。",
+    "analyzed_at": "2025-10-22T19:17:56.666552+00:00"
+  },
+  {
+    "repo_full_name": "herrbischoff/awesome-macos-command-line",
+    "owner": "herrbischoff",
+    "html_url": "https://github.com/herrbischoff/awesome-macos-command-line",
+    "description": "Use your macOS terminal shell to do awesome things.",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "list",
+      "macos",
+      "macosx",
+      "shell",
+      "terminal"
+    ],
+    "starred_at": "2021-06-13T14:13:03Z",
+    "category": "开发工具",
+    "tags": [
+      "macOS",
+      "Shell",
+      "Terminal",
+      "命令行工具",
+      "开发工具",
+      "效率工具"
+    ],
+    "summary": "这是一个精选的macOS命令行工具和资源列表，帮助用户通过终端shell完成各种任务，提高工作效率。",
+    "analyzed_at": "2025-10-22T19:17:56.666552+00:00"
+  },
+  {
+    "repo_full_name": "herrbischoff/awesome-command-line-apps",
+    "owner": "herrbischoff",
+    "html_url": "https://github.com/herrbischoff/awesome-command-line-apps",
+    "description": ":shell: Use your terminal shell to do awesome things.",
+    "topics": [
+      "apps",
+      "awesome",
+      "awesome-list",
+      "list",
+      "shell",
+      "software",
+      "unix"
+    ],
+    "starred_at": "2021-06-13T14:13:04Z",
+    "category": "开发工具",
+    "tags": [
+      "命令行工具",
+      "开发工具",
+      "软件列表",
+      "终端应用",
+      "Unix工具",
+      "效率工具"
+    ],
+    "summary": "这是一个精心整理的命令行应用程序集合，帮助开发者通过终端shell完成各种任务，提高工作效率。",
+    "analyzed_at": "2025-10-22T19:17:56.666552+00:00"
+  },
+  {
+    "repo_full_name": "hereappdev/Here-Plugins",
+    "owner": "hereappdev",
+    "html_url": "https://github.com/hereappdev/Here-Plugins",
+    "description": "Plugins for Here App 🚀",
+    "topics": [
+      "app",
+      "here",
+      "macos",
+      "plugin",
+      "productivity"
+    ],
+    "starred_at": "2021-06-13T14:13:05Z",
+    "category": "效率工具",
+    "tags": [
+      "app",
+      "plugin",
+      "productivity",
+      "macos"
+    ],
+    "summary": "Here-Plugins是Here应用的插件集合，专为macOS平台设计，旨在通过各种插件扩展Here应用的功能，提升用户的生产力和工作效率。",
+    "analyzed_at": "2025-10-22T19:17:56.666552+00:00"
+  },
+  {
+    "repo_full_name": "HenryQW/Awesome-TTRSS",
+    "owner": "HenryQW",
+    "html_url": "https://github.com/HenryQW/Awesome-TTRSS",
+    "description": "🐋 Awesome TTRSS, a powerful Dockerised all-in-one RSS solution.",
+    "topics": [
+      "docker",
+      "feedly",
+      "fever",
+      "mercury-parser",
+      "rss-feed",
+      "rss-reader",
+      "tt-rss",
+      "ttrss"
+    ],
+    "starred_at": "2021-06-13T14:13:06Z",
+    "category": "Web应用",
+    "tags": [
+      "RSS阅读器",
+      "Docker容器",
+      "Tiny Tiny RSS",
+      "RSS订阅",
+      "Feedly风格"
+    ],
+    "summary": "Awesome-TTRSS是一个基于Docker的强大一站式RSS解决方案，集成了Tiny Tiny RSS功能，支持Feedly风格界面和Fever API，提供高效的RSS阅读体验。",
+    "analyzed_at": "2025-10-22T19:17:56.666552+00:00"
+  },
+  {
+    "repo_full_name": "greyireland/algorithm-pattern",
+    "owner": "greyireland",
+    "html_url": "https://github.com/greyireland/algorithm-pattern",
+    "description": "算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~",
+    "topics": [
+      "algo",
+      "algorithm",
+      "leetcode",
+      "leetcode-go",
+      "pattern"
+    ],
+    "starred_at": "2021-06-13T14:13:14Z",
+    "category": "教育学习",
+    "tags": [
+      "算法",
+      "刷题",
+      "LeetCode",
+      "编程模式",
+      "Go语言"
+    ],
+    "summary": "该仓库提供算法模板和刷题指南，帮助开发者以科学高效的方式学习算法和解决编程问题，特别适合LeetCode练习者。",
+    "analyzed_at": "2025-10-22T19:17:56.666552+00:00"
+  },
+  {
+    "repo_full_name": "Rem0uld/Wapp",
+    "owner": "Rem0uld",
+    "html_url": "https://github.com/Rem0uld/Wapp",
+    "description": "微信答题小程序，可用于内部考核，考试预约，内部评分等，使用小程序自带云环境",
+    "topics": [],
+    "starred_at": "2021-06-13T14:13:16Z",
+    "category": "移动应用",
+    "tags": [
+      "微信小程序",
+      "答题系统",
+      "考核工具",
+      "考试预约",
+      "云环境"
+    ],
+    "summary": "这是一个基于微信小程序的答题应用，支持内部考核、考试预约和评分功能，利用小程序自带云环境实现数据存储和处理，适用于企业或组织内部的考试管理需求。",
+    "analyzed_at": "2025-10-22T19:17:56.666552+00:00"
+  },
+  {
+    "repo_full_name": "dianbanjiu/rss_everyday",
+    "owner": "dianbanjiu",
+    "html_url": "https://github.com/dianbanjiu/rss_everyday",
+    "description": "每天向你推送你喜欢的文章",
+    "topics": [
+      "rss",
+      "telegram",
+      "telegram-bot"
+    ],
+    "starred_at": "2021-06-13T14:13:18Z",
+    "category": "效率工具",
+    "tags": [
+      "RSS",
+      "Telegram",
+      "内容推送",
+      "信息聚合",
+      "自动化"
+    ],
+    "summary": "rss_everyday是一个通过Telegram机器人每天推送用户喜欢文章的工具，帮助用户高效获取和管理感兴趣的内容，支持RSS订阅和自动化内容分发。",
+    "analyzed_at": "2025-10-22T19:17:56.666552+00:00"
+  },
+  {
+    "repo_full_name": "guodongxiaren/README",
+    "owner": "guodongxiaren",
+    "html_url": "https://github.com/guodongxiaren/README",
+    "description": "README文件语法解读，即Github Flavored Markdown语法介绍",
+    "topics": [
+      "flavored",
+      "gfm",
+      "github",
+      "markdown",
+      "readme"
+    ],
+    "starred_at": "2021-06-13T14:13:20Z",
+    "category": "开发工具",
+    "tags": [
+      "markdown",
+      "github",
+      "documentation",
+      "developer-tools",
+      "syntax"
+    ],
+    "summary": "这个项目详细解读了README文件的语法，特别是GitHub Flavored Markdown(GFM)的语法规范，帮助开发者编写规范的README文档。",
+    "analyzed_at": "2025-10-22T19:17:56.666552+00:00"
+  },
+  {
+    "repo_full_name": "gxgk/school-map",
+    "owner": "gxgk",
+    "html_url": "https://github.com/gxgk/school-map",
+    "description": "🌱 校园导览|校园地图|校园工具|微信小程序",
+    "topics": [],
+    "starred_at": "2021-06-13T14:13:22Z",
+    "category": "移动应用",
+    "tags": [
+      "校园地图",
+      "微信小程序",
+      "导览工具",
+      "校园工具",
+      "地图应用"
+    ],
+    "summary": "这是一个校园导览微信小程序，提供校园地图浏览和导航功能，帮助学生和访客快速熟悉校园环境，是实用的校园工具。",
+    "analyzed_at": "2025-10-22T19:17:56.666552+00:00"
+  },
+  {
+    "repo_full_name": "GzhiYi/accounting-together",
+    "owner": "GzhiYi",
+    "html_url": "https://github.com/GzhiYi/accounting-together",
+    "description": "📃 使用小程序云开发＋Vant组件库搭建的一个AA收账小程序【一起算账】",
+    "topics": [
+      "cloud",
+      "miniprogram",
+      "vant-weapp"
+    ],
+    "starred_at": "2021-06-13T14:13:24Z",
+    "category": "移动应用",
+    "tags": [
+      "小程序",
+      "记账",
+      "分账",
+      "云开发",
+      "Vant"
+    ],
+    "summary": "这是一个使用小程序云开发和Vant组件库构建的AA收账小程序，帮助用户轻松管理多人分账记账。",
+    "analyzed_at": "2025-10-22T19:17:56.666552+00:00"
+  },
+  {
+    "repo_full_name": "GzhiYi/dandan-account",
+    "owner": "GzhiYi",
+    "html_url": "https://github.com/GzhiYi/dandan-account",
+    "description": "【此版本不是线上版本】🐷 不记录任何用户身份信息；专注记账的目的；账单清晰自然，报表易懂易分析；助你理财之路轻松有意义，小程序【单单记账】。",
+    "topics": [
+      "accounting",
+      "cloud-functions",
+      "miniprogram"
+    ],
+    "starred_at": "2021-06-13T14:13:26Z",
+    "category": "移动应用",
+    "tags": [
+      "记账",
+      "小程序",
+      "理财",
+      "云函数",
+      "财务管理"
+    ],
+    "summary": "这是一个不记录用户身份信息的记账小程序，专注于提供清晰的账单记录和易懂的报表分析，帮助用户轻松理财。",
+    "analyzed_at": "2025-10-22T19:17:56.666552+00:00"
+  },
+  {
+    "repo_full_name": "gzr2017/ImageProcessing100Wen",
+    "owner": "gzr2017",
+    "html_url": "https://github.com/gzr2017/ImageProcessing100Wen",
+    "description": "「画像処理100本ノック」中文版本！为图像处理初学者设计的 100 个问题。",
+    "topics": [],
+    "starred_at": "2021-06-13T14:13:28Z",
+    "category": "教育学习",
+    "tags": [
+      "图像处理",
+      "学习资源",
+      "编程练习",
+      "中文版",
+      "初学者友好"
+    ],
+    "summary": "图像处理100问的中文版本，为初学者提供100个图像处理练习题，帮助学习者掌握图像处理基础知识和实践技能。",
+    "analyzed_at": "2025-10-22T19:17:56.666552+00:00"
+  },
+  {
+    "repo_full_name": "H-Wakanda/css-animation-101-cn",
+    "owner": "H-Wakanda",
+    "html_url": "https://github.com/H-Wakanda/css-animation-101-cn",
+    "description": "学习如何为你的 Web 程序添加动效",
+    "topics": [
+      "animation",
+      "css",
+      "style",
+      "transition"
+    ],
+    "starred_at": "2021-06-13T14:13:30Z",
+    "category": "开发工具",
+    "tags": [
+      "animation",
+      "css",
+      "style",
+      "transition"
+    ],
+    "summary": "一个专注于CSS动画的学习资源，帮助开发者掌握为Web程序添加动效的技巧，包括动画、过渡效果等前端样式技术。",
+    "analyzed_at": "2025-10-22T19:17:56.666552+00:00"
+  },
+  {
+    "repo_full_name": "hejialianghe/Senior-FrontEnd",
+    "owner": "hejialianghe",
+    "html_url": "https://github.com/hejialianghe/Senior-FrontEnd",
+    "description": "🔥 🔥🔥 🔥🔥 高级开发工程师必备，打通全栈任督二脉，文档地址gitee版（Senior development engineers must understand the web body of knowledge, document addresses）：https://js.youliaowu.com",
+    "topics": [
+      "js"
+    ],
+    "starred_at": "2021-06-13T14:13:35Z",
+    "category": "开发工具",
+    "tags": [
+      "前端开发",
+      "JavaScript",
+      "全栈开发",
+      "学习资源",
+      "高级教程"
+    ],
+    "summary": "这是一个面向高级前端开发工程师的全栈学习资源，包含JavaScript核心知识，帮助开发者打通技术任督二脉。",
+    "analyzed_at": "2025-10-22T19:17:56.666552+00:00"
+  },
+  {
+    "repo_full_name": "hellodword/wechat-feeds",
+    "owner": "hellodword",
+    "html_url": "https://github.com/hellodword/wechat-feeds",
+    "description": "[已停止服务] 给微信公众号生成 RSS 订阅源",
+    "topics": [
+      "rss",
+      "wechat"
+    ],
+    "starred_at": "2021-06-13T14:13:36Z",
+    "category": "开发工具",
+    "tags": [
+      "rss",
+      "微信",
+      "订阅源",
+      "开发工具",
+      "转换工具"
+    ],
+    "summary": "该项目已停止服务，原本用于将微信公众号内容转换为RSS订阅源，方便用户通过RSS阅读器订阅公众号内容。",
+    "analyzed_at": "2025-10-22T19:17:56.666552+00:00"
+  },
+  {
+    "repo_full_name": "helm/helm",
+    "owner": "helm",
+    "html_url": "https://github.com/helm/helm",
+    "description": "The Kubernetes Package Manager",
+    "topics": [
+      "chart",
+      "charts",
+      "cncf",
+      "helm",
+      "kubernetes"
+    ],
+    "starred_at": "2021-06-13T14:13:38Z",
+    "category": "开发工具",
+    "tags": [
+      "Kubernetes",
+      "包管理",
+      "Chart",
+      "CNCF",
+      "部署工具"
+    ],
+    "summary": "Helm是Kubernetes的官方包管理器，用于简化应用的部署、管理和版本控制，被称为'Kubernetes的APT'。",
+    "analyzed_at": "2025-10-22T19:17:56.666552+00:00"
+  },
+  {
+    "repo_full_name": "helmuthdu/aui",
+    "owner": "helmuthdu",
+    "html_url": "https://github.com/helmuthdu/aui",
+    "description": "Archlinux Ultimate Install",
+    "topics": [],
+    "starred_at": "2021-06-13T14:13:39Z",
+    "category": "开发工具",
+    "tags": [
+      "Linux",
+      "安装",
+      "Arch Linux",
+      "自动化",
+      "系统配置"
+    ],
+    "summary": "Archlinux Ultimate Install是一个用于Arch Linux的自动化安装工具，简化了Arch Linux的安装过程，提供预配置的安装脚本和系统设置选项。",
+    "analyzed_at": "2025-10-22T19:17:56.666552+00:00"
+  },
+  {
+    "repo_full_name": "Hopding/pdf-lib",
+    "owner": "Hopding",
+    "html_url": "https://github.com/Hopding/pdf-lib",
+    "description": "Create and modify PDF documents in any JavaScript environment",
+    "topics": [
+      "copy",
+      "copying",
+      "create",
+      "creation",
+      "document",
+      "documents",
+      "edit",
+      "editing",
+      "generation",
+      "javascript",
+      "lib",
+      "library",
+      "modification",
+      "modify",
+      "pdf",
+      "typescript",
+      "umd"
+    ],
+    "starred_at": "2021-06-13T15:33:11Z",
+    "category": "开发工具",
+    "tags": [
+      "PDF",
+      "JavaScript",
+      "TypeScript",
+      "文档处理",
+      "开发工具"
+    ],
+    "summary": "pdf-lib是一个功能强大的JavaScript库，允许在任何JavaScript环境中创建和修改PDF文档。它支持复制、编辑、生成和修改PDF文件，适用于前端和后端开发，提供了TypeScript支持。",
+    "analyzed_at": "2025-10-22T19:17:56.666552+00:00"
+  },
+  {
+    "repo_full_name": "honlyHuang/eshop",
+    "owner": "honlyHuang",
+    "html_url": "https://github.com/honlyHuang/eshop",
+    "description": "腾讯云开发电商教程示例",
+    "topics": [],
+    "starred_at": "2021-06-13T15:33:11Z",
+    "category": "Web应用",
+    "tags": [
+      "电商",
+      "腾讯云",
+      "教程",
+      "示例",
+      "云开发"
+    ],
+    "summary": "这是一个基于腾讯云开发的电商系统教程示例项目，提供了电商网站的基本功能和实现方法，适合学习云开发和电商系统搭建。",
+    "analyzed_at": "2025-10-22T19:17:56.666552+00:00"
+  },
+  {
+    "repo_full_name": "hoppscotch/hoppscotch",
+    "owner": "hoppscotch",
+    "html_url": "https://github.com/hoppscotch/hoppscotch",
+    "description": "Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)",
+    "topics": [
+      "api",
+      "api-client",
+      "api-rest",
+      "api-testing",
+      "developer-tools",
+      "graphql",
+      "http",
+      "http-client",
+      "pwa",
+      "rest",
+      "rest-api",
+      "spa",
+      "testing",
+      "testing-tools",
+      "tools",
+      "vue",
+      "vuejs",
+      "websocket"
+    ],
+    "starred_at": "2021-06-13T15:33:13Z",
+    "category": "开发工具",
+    "tags": [
+      "API工具",
+      "开发工具",
+      "测试工具",
+      "Web应用",
+      "REST API",
+      "GraphQL"
+    ],
+    "summary": "Hoppscotch是一个开源的API开发生态系统，作为Postman和Insomnia的替代品，提供API测试、开发和调试功能，基于Vue.js构建的渐进式Web应用。",
+    "analyzed_at": "2025-10-22T19:17:56.666552+00:00"
+  },
+  {
+    "repo_full_name": "houshanren/hangzhou_house_knowledge",
+    "owner": "houshanren",
+    "html_url": "https://github.com/houshanren/hangzhou_house_knowledge",
+    "description": "2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according  to the experience at hangzhou in 2017 to all the people. It's not easy to buy a own house, so I hope that it would be useful to everyone.",
+    "topics": [
+      "hangzhou",
+      "knowledge"
+    ],
+    "starred_at": "2021-06-13T15:33:14Z",
+    "category": "教育学习",
+    "tags": [
+      "房地产",
+      "购房指南",
+      "杭州",
+      "知识分享",
+      "经验总结"
+    ],
+    "summary": "这个项目是作者2017年在杭州买房的经验总结，分享了购房知识和注意事项，旨在帮助准备买房的人了解购房流程和注意事项。",
+    "analyzed_at": "2025-10-22T19:17:56.666552+00:00"
+  },
+  {
+    "repo_full_name": "hq450/fancyss",
+    "owner": "hq450",
+    "html_url": "https://github.com/hq450/fancyss",
+    "description": "fancyss is a project providing tools to across the GFW on asuswrt/merlin based router.",
+    "topics": [
+      "arm",
+      "koolgame",
+      "merlin",
+      "naiveproxy",
+      "shadowsocks",
+      "shadowsocks-rust",
+      "ss",
+      "ssr",
+      "trojan",
+      "v2ray",
+      "x64",
+      "xray"
+    ],
+    "starred_at": "2021-06-13T15:33:18Z",
+    "category": "AI/机器学习",
+    "tags": [],
+    "summary": "ZHIPU 调用异常: Error code: 400 - {'contentFilter': [{'level': 1, 'role': 'assistant'}], 'error': {'code': '1301', 'message': '系统检测到输入或生成内容可能包含不安全或敏感内容，请您避免输入易产生敏感内容的提示语，感谢您的配合。'}}",
+    "analyzed_at": "2025-10-22T19:17:56.666552+00:00"
+  },
+  {
+    "repo_full_name": "hq450/fancyss_history_package",
+    "owner": "hq450",
+    "html_url": "https://github.com/hq450/fancyss_history_package",
+    "description": "科学上网插件的离线安装包储存在这里",
+    "topics": [],
+    "starred_at": "2021-06-13T15:33:20Z",
+    "category": "开发工具",
+    "tags": [],
+    "summary": "ZHIPU 调用异常: Error code: 400 - {'contentFilter': [{'level': 1, 'role': 'assistant'}], 'error': {'code': '1301', 'message': '系统检测到输入或生成内容可能包含不安全或敏感内容，请您避免输入易产生敏感内容的提示语，感谢您的配合。'}}",
+    "analyzed_at": "2025-10-22T19:17:56.666552+00:00"
+  },
+  {
+    "repo_full_name": "i5ting/koa-generator",
+    "owner": "i5ting",
+    "html_url": "https://github.com/i5ting/koa-generator",
+    "description": "Koa' application generator for 1.x and 2.x（ Express-style and support all middlewares include async/await ）",
+    "topics": [
+      "koa",
+      "koa-generator",
+      "koa-starter",
+      "koa2",
+      "nodejs",
+      "scaffold",
+      "web"
+    ],
+    "starred_at": "2021-06-13T15:33:22Z",
+    "category": "开发工具",
+    "tags": [
+      "koa",
+      "koa-generator",
+      "nodejs",
+      "scaffold",
+      "web"
+    ],
+    "summary": "Koa-generator是一个用于快速生成Koa应用程序的脚手架工具，支持Koa 1.x和2.x版本，采用Express风格，兼容所有中间件包括async/await语法，帮助开发者快速搭建Node.js Web应用。",
+    "analyzed_at": "2025-10-22T19:17:56.666552+00:00"
+  },
+  {
+    "repo_full_name": "ice-lab/icestore",
+    "owner": "ice-lab",
+    "html_url": "https://github.com/ice-lab/icestore",
+    "description": "🌲 Simple and friendly state for React",
+    "topics": [
+      "hooks",
+      "icestore",
+      "react",
+      "typescript"
+    ],
+    "starred_at": "2021-06-13T15:33:26Z",
+    "category": "开发工具",
+    "tags": [
+      "React状态管理",
+      "TypeScript",
+      "Hooks",
+      "轻量级",
+      "状态管理"
+    ],
+    "summary": "Icestore是一个简单易用的React状态管理库，使用TypeScript编写，支持Hooks。它提供了友好的API，帮助开发者轻松管理React应用中的状态，适合中小型项目使用。",
+    "analyzed_at": "2025-10-22T19:17:56.666552+00:00"
+  },
+  {
+    "repo_full_name": "ice-lab/react-materials",
+    "owner": "ice-lab",
+    "html_url": "https://github.com/ice-lab/react-materials",
+    "description": ":blowfish: 基于 icejs 的通用脚手架，用于快速创建项目。",
+    "topics": [
+      "ice",
+      "react",
+      "react-components"
+    ],
+    "starred_at": "2021-06-13T15:33:27Z",
+    "category": "开发工具",
+    "tags": [
+      "ice",
+      "react",
+      "react-components",
+      "icejs",
+      "脚手架",
+      "快速开发"
+    ],
+    "summary": "这是一个基于 icejs 的通用脚手架工具，专为 React 项目设计，帮助开发者快速创建项目结构，提高开发效率。",
+    "analyzed_at": "2025-10-22T19:17:56.666552+00:00"
+  },
+  {
+    "repo_full_name": "ice-lab/vue-materials",
+    "owner": "ice-lab",
+    "html_url": "https://github.com/ice-lab/vue-materials",
+    "description": "🎯High quality Vue materials maintained by the community.",
+    "topics": [
+      "ice",
+      "vue"
+    ],
+    "starred_at": "2021-06-13T15:33:29Z",
+    "category": "开发工具",
+    "tags": [
+      "Vue.js",
+      "前端开发",
+      "学习资源",
+      "教程",
+      "文档",
+      "社区维护"
+    ],
+    "summary": "这是一个由社区维护的高质量Vue.js学习材料仓库，为开发者提供系统化的Vue.js学习资源，包括教程、文档和最佳实践，帮助开发者快速掌握Vue.js框架。",
+    "analyzed_at": "2025-10-22T19:17:56.666552+00:00"
+  },
+  {
+    "repo_full_name": "huiyan-fe/mapv",
+    "owner": "huiyan-fe",
+    "html_url": "https://github.com/huiyan-fe/mapv",
+    "description": "a library of geography visualization-地理信息可视化库",
+    "topics": [],
+    "starred_at": "2021-06-13T15:33:32Z",
+    "category": "数据分析",
+    "tags": [
+      "地理可视化",
+      "数据可视化",
+      "地图",
+      "JavaScript",
+      "GIS"
+    ],
+    "summary": "Mapv是一个地理信息可视化库，专注于将地理数据以直观的地图形式展示，支持多种地图渲染效果，适用于Web应用中的地理数据分析与展示。",
+    "analyzed_at": "2025-10-22T19:17:56.666552+00:00"
+  },
+  {
+    "repo_full_name": "huiyan-fe/react-bmap",
+    "owner": "huiyan-fe",
+    "html_url": "https://github.com/huiyan-fe/react-bmap",
+    "description": "基于百度地图JavaScript API封装的React组件库",
+    "topics": [
+      "bmap",
+      "javascript",
+      "map",
+      "react"
+    ],
+    "starred_at": "2021-06-13T15:33:34Z",
+    "category": "Web应用",
+    "tags": [
+      "地图",
+      "React",
+      "JavaScript",
+      "百度地图"
+    ],
+    "summary": "这是一个基于百度地图JavaScript API封装的React组件库，方便开发者在React应用中快速集成百度地图功能。",
+    "analyzed_at": "2025-10-22T19:17:56.666552+00:00"
+  },
+  {
+    "repo_full_name": "htop-dev/htop",
+    "owner": "htop-dev",
+    "html_url": "https://github.com/htop-dev/htop",
+    "description": "htop - an interactive process viewer",
+    "topics": [
+      "bsd",
+      "c",
+      "console",
+      "hacktoberfest",
+      "linux",
+      "macos",
+      "process",
+      "terminal",
+      "viewer"
+    ],
+    "starred_at": "2021-06-13T15:33:37Z",
+    "category": "开发工具",
+    "tags": [
+      "系统监控",
+      "终端工具",
+      "进程管理",
+      "跨平台",
+      "命令行"
+    ],
+    "summary": "htop是一款交互式的进程查看器，运行于终端环境中，支持Linux、macOS和BSD等操作系统。它提供实时的进程监控和管理功能，以彩色界面直观展示系统资源使用情况，是系统管理员和开发者的必备工具。",
+    "analyzed_at": "2025-10-22T19:17:56.666552+00:00"
+  },
+  {
+    "repo_full_name": "gobackup/gobackup",
+    "owner": "gobackup",
+    "html_url": "https://github.com/gobackup/gobackup",
+    "description": "🗄 CLI tool for backup your databases, files to cloud storages in schedully.",
+    "topics": [
+      "backup",
+      "cli",
+      "go",
+      "mysql",
+      "postgresql",
+      "redis"
+    ],
+    "starred_at": "2021-06-13T15:33:41Z",
+    "category": "开发工具",
+    "tags": [
+      "backup",
+      "cli",
+      "go",
+      "database",
+      "cloud",
+      "scheduler"
+    ],
+    "summary": "Gobackup是一个用Go语言开发的命令行工具，可以定期将数据库和文件备份到云存储服务。支持MySQL、PostgreSQL和Redis等多种数据库，为开发者提供简单高效的数据备份解决方案。",
+    "analyzed_at": "2025-10-22T19:17:56.666552+00:00"
+  },
+  {
+    "repo_full_name": "zepp-health/rest-api",
+    "owner": "zepp-health",
+    "html_url": "https://github.com/zepp-health/rest-api",
+    "description": null,
+    "topics": [],
+    "starred_at": "2021-06-13T15:33:44Z",
+    "category": "开发工具",
+    "tags": [
+      "API",
+      "健康",
+      "Zepp",
+      "REST",
+      "数据交互"
+    ],
+    "summary": "Zepp Health提供的REST API，用于与他们的健康设备进行数据交互和通信。",
+    "analyzed_at": "2025-10-22T19:17:56.666552+00:00"
   }
 ]
