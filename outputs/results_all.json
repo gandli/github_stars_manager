@@ -12374,5 +12374,1200 @@
     ],
     "summary": "Zepp Health提供的REST API，用于与他们的健康设备进行数据交互和通信。",
     "analyzed_at": "2025-10-22T19:17:56.666552+00:00"
+  },
+  {
+    "repo_full_name": "huiyan-fe/react-bmapgl",
+    "owner": "huiyan-fe",
+    "html_url": "https://github.com/huiyan-fe/react-bmapgl",
+    "description": "基于百度地图JavaScript GL版API封装的React组件库",
+    "topics": [
+      "baidu-map",
+      "baidumap",
+      "bmap",
+      "map",
+      "react",
+      "react-baidu-map",
+      "react-baidumap",
+      "react-bmap",
+      "react-components",
+      "typescript"
+    ],
+    "starred_at": "2021-06-13T15:33:47Z",
+    "category": "Web应用",
+    "tags": [
+      "地图",
+      "React",
+      "组件库",
+      "百度地图",
+      "TypeScript"
+    ],
+    "summary": "这是一个基于百度地图JavaScript GL版API封装的React组件库，提供了在React应用中集成百度地图功能的便捷方式，支持TypeScript类型定义。",
+    "analyzed_at": "2025-10-23T19:19:26.274891+00:00"
+  },
+  {
+    "repo_full_name": "hujiulong/vue-3d-model",
+    "owner": "hujiulong",
+    "html_url": "https://github.com/hujiulong/vue-3d-model",
+    "description": "📷 vue.js 3D model viewer component",
+    "topics": [
+      "components",
+      "threejs",
+      "vue",
+      "vue-3d-model",
+      "webgl"
+    ],
+    "starred_at": "2021-06-13T15:33:49Z",
+    "category": "Web应用",
+    "tags": [
+      "components",
+      "threejs",
+      "vue",
+      "vue-3d-model",
+      "webgl"
+    ],
+    "summary": "这是一个基于Vue.js的3D模型查看器组件，利用Three.js和WebGL技术，允许在网页中轻松展示和交互3D模型。",
+    "analyzed_at": "2025-10-23T19:19:26.274891+00:00"
+  },
+  {
+    "repo_full_name": "HunterXuan/wx-tfjs-demo",
+    "owner": "HunterXuan",
+    "html_url": "https://github.com/HunterXuan/wx-tfjs-demo",
+    "description": "微信小程序运行 TensorFlow 的 Demo",
+    "topics": [
+      "tensorflow",
+      "tensorflow-demo",
+      "tensorflowjs",
+      "tfjs",
+      "wechat",
+      "wechat-mini-program",
+      "wx-tfjs-demo"
+    ],
+    "starred_at": "2021-06-13T15:33:51Z",
+    "category": "AI/机器学习",
+    "tags": [
+      "微信小程序",
+      "TensorFlow",
+      "TensorFlow.js",
+      "机器学习",
+      "演示"
+    ],
+    "summary": "这是一个在微信小程序中运行TensorFlow.js的演示项目，展示了如何在移动端应用中集成机器学习功能。",
+    "analyzed_at": "2025-10-23T19:19:26.274891+00:00"
+  },
+  {
+    "repo_full_name": "hustcc/echarts-for-react",
+    "owner": "hustcc",
+    "html_url": "https://github.com/hustcc/echarts-for-react",
+    "description": "⛳️  Apache ECharts components for React wrapper. 一个简单的 Apache echarts 的 React 封装。",
+    "topics": [
+      "echarts",
+      "echarts-for-react",
+      "javascript",
+      "react",
+      "react-component",
+      "visualization"
+    ],
+    "starred_at": "2021-06-13T15:33:52Z",
+    "category": "开发工具",
+    "tags": [
+      "数据可视化",
+      "React",
+      "ECharts",
+      "组件库",
+      "JavaScript"
+    ],
+    "summary": "这是一个Apache ECharts的React封装组件库，使开发者能够在React应用中轻松实现数据可视化功能。",
+    "analyzed_at": "2025-10-23T19:19:26.274891+00:00"
+  },
+  {
+    "repo_full_name": "huzidaha/react-naive-book",
+    "owner": "huzidaha",
+    "html_url": "https://github.com/huzidaha/react-naive-book",
+    "description": "开源、免费、专业、简单的 React.js 在线教程",
+    "topics": [
+      "reactjs"
+    ],
+    "starred_at": "2021-06-13T15:33:54Z",
+    "category": "教育学习",
+    "tags": [
+      "React教程",
+      "前端开发",
+      "JavaScript",
+      "在线学习",
+      "开源资源",
+      "编程教育"
+    ],
+    "summary": "这是一份开源、免费、专业且简单的React.js在线教程，旨在帮助开发者学习和掌握React框架的核心概念与实践技能。",
+    "analyzed_at": "2025-10-23T19:19:26.274891+00:00"
+  },
+  {
+    "repo_full_name": "clearw5/Auto.js",
+    "owner": "clearw5",
+    "html_url": "https://github.com/clearw5/Auto.js",
+    "description": "Automation&Workflow JavaScript IDE on Android(安卓平台上的JavaScript编程IDE)",
+    "topics": [
+      "android",
+      "autojs",
+      "automation",
+      "javascript",
+      "javascript-ide",
+      "nodejs",
+      "tasker",
+      "uiautomator",
+      "workflow"
+    ],
+    "starred_at": "2021-06-13T15:33:56Z",
+    "category": "开发工具",
+    "tags": [
+      "android",
+      "automation",
+      "javascript",
+      "javascript-ide",
+      "workflow"
+    ],
+    "summary": "Auto.js是一款在Android平台上的JavaScript编程IDE，专注于自动化和工作流。它允许用户使用JavaScript编写脚本，实现设备自动化操作，类似于Tasker的功能，但提供了更强大的编程能力。",
+    "analyzed_at": "2025-10-23T19:19:26.274891+00:00"
+  },
+  {
+    "repo_full_name": "hylerrix/awesome-deno-cn",
+    "owner": "hylerrix",
+    "html_url": "https://github.com/hylerrix/awesome-deno-cn",
+    "description": "🦖 长期维护！中文圈下与 Deno 相关的 Awesome 资源全图谱",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "chinese",
+      "lists",
+      "resources"
+    ],
+    "starred_at": "2021-06-13T15:33:58Z",
+    "category": "开发工具",
+    "tags": [
+      "awesome",
+      "awesome-list",
+      "chinese",
+      "resources"
+    ],
+    "summary": "这是一个长期维护的中文 Deno 资源全图谱，收集了与 Deno 相关的各种优质资源，包括库、工具、框架等，为中文开发者提供一站式 Deno 开发资源参考。",
+    "analyzed_at": "2025-10-23T19:19:26.274891+00:00"
+  },
+  {
+    "repo_full_name": "Hypfer/Valetudo",
+    "owner": "Hypfer",
+    "html_url": "https://github.com/Hypfer/Valetudo",
+    "description": "Cloud replacement for vacuum robots enabling local-only operation",
+    "topics": [
+      "cloud-free",
+      "dreame",
+      "roborock",
+      "robot-vacuum",
+      "smarthome",
+      "valetudo",
+      "xiaomi"
+    ],
+    "starred_at": "2021-06-13T15:34:00Z",
+    "category": "开发工具",
+    "tags": [
+      "robot-vacuum",
+      "smarthome",
+      "cloud-free",
+      "xiaomi"
+    ],
+    "summary": "Valetudo是一个开源项目，为真空机器人提供云端替代方案，实现本地化操作，保护用户隐私并减少对云服务的依赖。",
+    "analyzed_at": "2025-10-23T19:19:26.274891+00:00"
+  },
+  {
+    "repo_full_name": "hyue418/taobao-11-11",
+    "owner": "hyue418",
+    "html_url": "https://github.com/hyue418/taobao-11-11",
+    "description": "🚀2020淘宝+京东+支付宝双十一|双11全民养猫|全民营业自动化脚本【全额奖励，防检测】",
+    "topics": [],
+    "starred_at": "2021-06-13T15:34:02Z",
+    "category": "效率工具",
+    "tags": [
+      "自动化",
+      "双十一",
+      "淘宝",
+      "京东",
+      "脚本"
+    ],
+    "summary": "这是一个用于2020年淘宝、京东和支付宝双十一活动的自动化脚本，支持全民养猫和全民营业活动，旨在帮助用户自动完成任务获取全额奖励，并具有防检测功能。",
+    "analyzed_at": "2025-10-23T19:19:26.274891+00:00"
+  },
+  {
+    "repo_full_name": "hzzly/credit-bi-react",
+    "owner": "hzzly",
+    "html_url": "https://github.com/hzzly/credit-bi-react",
+    "description": "🔥BI数据大屏的实践",
+    "topics": [],
+    "starred_at": "2021-06-13T15:34:04Z",
+    "category": "数据分析",
+    "tags": [
+      "数据可视化",
+      "BI",
+      "React",
+      "数据大屏",
+      "前端"
+    ],
+    "summary": "这是一个使用React框架构建的BI数据大屏项目，专注于数据可视化展示，可能用于企业数据监控和分析场景。",
+    "analyzed_at": "2025-10-23T19:19:26.274891+00:00"
+  },
+  {
+    "repo_full_name": "ZeroWdd/Xiaomi",
+    "owner": "ZeroWdd",
+    "html_url": "https://github.com/ZeroWdd/Xiaomi",
+    "description": "基于Vue + SpringBoot实现的前后端分离的仿小米商城项目，包含秒杀模块。",
+    "topics": [
+      "mysql",
+      "rabbitmq",
+      "redis",
+      "springboot",
+      "vue"
+    ],
+    "starred_at": "2021-06-13T16:32:03Z",
+    "category": "Web应用",
+    "tags": [
+      "Vue",
+      "SpringBoot",
+      "电子商务",
+      "秒杀",
+      "MySQL",
+      "Redis"
+    ],
+    "summary": "这是一个基于Vue和SpringBoot构建的仿小米商城Web应用，采用前后端分离架构，包含商品展示、购物车和秒杀等电商功能，使用MySQL作为数据库，Redis处理缓存。",
+    "analyzed_at": "2025-10-23T19:19:26.274891+00:00"
+  },
+  {
+    "repo_full_name": "justauth/JustAuth",
+    "owner": "justauth",
+    "html_url": "https://github.com/justauth/JustAuth",
+    "description": "🏆Gitee 最有价值开源项目 🚀:100: 小而全而美的第三方登录开源组件。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么、推特、飞书、京东、阿里云、喜马拉雅、Amazon、Slack和 Line 等第三方平台的授权登录。 Login, so easy!",
+    "topics": [
+      "googlelogin",
+      "justauth",
+      "oauth2",
+      "qqlogin",
+      "weixinlogin"
+    ],
+    "starred_at": "2021-06-13T16:32:07Z",
+    "category": "开发工具",
+    "tags": [
+      "身份认证",
+      "OAuth",
+      "第三方登录",
+      "开发工具",
+      "集成组件"
+    ],
+    "summary": "JustAuth是一个小而全的第三方登录开源组件，支持GitHub、微信、QQ、Google等数十个平台的授权登录，简化开发者集成第三方登录的流程。",
+    "analyzed_at": "2025-10-23T19:19:26.274891+00:00"
+  },
+  {
+    "repo_full_name": "ZeroWdd/xiaomi-vue-store",
+    "owner": "ZeroWdd",
+    "html_url": "https://github.com/ZeroWdd/xiaomi-vue-store",
+    "description": "基于Vue + SpringBoot实现的前后端分离的仿小米商城项目，包含秒杀模块。",
+    "topics": [
+      "mysql",
+      "rabbitmq",
+      "redis",
+      "springboot",
+      "vue"
+    ],
+    "starred_at": "2021-06-13T16:32:09Z",
+    "category": "Web应用",
+    "tags": [
+      "Vue",
+      "SpringBoot",
+      "电商商城",
+      "MySQL",
+      "Redis",
+      "RabbitMQ"
+    ],
+    "summary": "这是一个基于Vue和SpringBoot构建的前后端分离的仿小米商城项目，实现了完整的电商功能，包括商品展示、购物车和秒杀模块，使用了MySQL、Redis和RabbitMQ等技术。",
+    "analyzed_at": "2025-10-23T19:19:26.274891+00:00"
+  },
+  {
+    "repo_full_name": "ScoopInstaller/Versions",
+    "owner": "ScoopInstaller",
+    "html_url": "https://github.com/ScoopInstaller/Versions",
+    "description": "📦 A Scoop bucket for alternative versions of apps.",
+    "topics": [
+      "scoop",
+      "scoop-apps",
+      "scoop-bucket"
+    ],
+    "starred_at": "2021-06-14T09:38:29Z",
+    "category": "开发工具",
+    "tags": [
+      "包管理",
+      "Windows",
+      "版本控制",
+      "应用程序",
+      "开发工具"
+    ],
+    "summary": "Scoop版本存储库，提供各类应用程序的替代版本选择，帮助开发者在Windows系统中灵活管理不同版本的应用程序。",
+    "analyzed_at": "2025-10-23T19:19:26.274891+00:00"
+  },
+  {
+    "repo_full_name": "TheRandomLabs/Scoop-Spotify",
+    "owner": "TheRandomLabs",
+    "html_url": "https://github.com/TheRandomLabs/Scoop-Spotify",
+    "description": "A Scoop bucket for Spotify, Spicetify and related packages.",
+    "topics": [
+      "blockthespot",
+      "scoop",
+      "scoop-apps",
+      "scoop-bucket",
+      "spicetify",
+      "spicetify-apps",
+      "spicetify-cli",
+      "spicetify-custom-apps",
+      "spicetify-extensions",
+      "spicetify-themes",
+      "spotify"
+    ],
+    "starred_at": "2021-06-14T09:38:33Z",
+    "category": "开发工具",
+    "tags": [
+      "scoop",
+      "scoop-bucket",
+      "spicetify",
+      "spotify",
+      "spicetify-extensions"
+    ],
+    "summary": "Scoop-Spotify是Windows包管理器Scoop的存储库，提供Spotify客户端和Spicetify相关软件包，支持Spotify的自定义、扩展和主题安装。",
+    "analyzed_at": "2025-10-23T19:19:26.274891+00:00"
+  },
+  {
+    "repo_full_name": "TheRandomLabs/scoop-nonportable",
+    "owner": "TheRandomLabs",
+    "html_url": "https://github.com/TheRandomLabs/scoop-nonportable",
+    "description": "A Scoop bucket for nonportable applications.",
+    "topics": [
+      "nonportable-applications",
+      "scoop",
+      "scoop-apps",
+      "scoop-bucket"
+    ],
+    "starred_at": "2021-06-14T09:38:35Z",
+    "category": "开发工具",
+    "tags": [
+      "包管理",
+      "Windows",
+      "应用程序",
+      "Scoop",
+      "非便携应用"
+    ],
+    "summary": "Scoop-nonportable是一个Windows包管理器Scoop的扩展存储库，专门用于管理那些无法简单便携安装的应用程序。它为需要特定安装环境的软件提供了便捷的安装和管理方式。",
+    "analyzed_at": "2025-10-23T19:19:26.274891+00:00"
+  },
+  {
+    "repo_full_name": "TheCjw/scoop-retools",
+    "owner": "TheCjw",
+    "html_url": "https://github.com/TheCjw/scoop-retools",
+    "description": "Scoop bucket for reverse engineering tools",
+    "topics": [
+      "reverse-engineering",
+      "scoop",
+      "scoop-bucket"
+    ],
+    "starred_at": "2021-06-14T09:38:36Z",
+    "category": "安全工具",
+    "tags": [
+      "逆向工程",
+      "安全",
+      "Scoop",
+      "工具集",
+      "Windows"
+    ],
+    "summary": "这是一个为Scoop（Windows命令行安装程序）提供的逆向工程工具集合，方便用户快速安装各种逆向工程和安全分析工具。",
+    "analyzed_at": "2025-10-23T19:19:26.274891+00:00"
+  },
+  {
+    "repo_full_name": "ScoopInstaller/Java",
+    "owner": "ScoopInstaller",
+    "html_url": "https://github.com/ScoopInstaller/Java",
+    "description": "📦 A bucket for Scoop, for Oracle Java, OpenJDK, Eclipse Temurin, IBM Semeru, Zulu, ojdkbuild, Amazon Corretto, BellSoft Liberica, SapMachine and Microsoft JDK.",
+    "topics": [
+      "amazon-corretto",
+      "bellsoft-liberica",
+      "eclipse-temurin",
+      "ibm-semeru",
+      "java",
+      "jdk",
+      "jdk11",
+      "jdk17",
+      "jdk8",
+      "microsoft-jdk",
+      "ojdkbuild",
+      "oracle-java",
+      "sapmachine",
+      "scoop",
+      "scoop-bucket",
+      "scoop-java",
+      "zulu"
+    ],
+    "starred_at": "2021-06-14T09:38:38Z",
+    "category": "开发工具",
+    "tags": [
+      "Java",
+      "JDK",
+      "Scoop",
+      "包管理",
+      "开发环境"
+    ],
+    "summary": "Scoop的Java包集合，提供多种JDK版本管理，包括Oracle Java、OpenJDK、Eclipse Temurin等，方便开发者快速安装和切换不同Java开发环境。",
+    "analyzed_at": "2025-10-23T19:19:26.274891+00:00"
+  },
+  {
+    "repo_full_name": "ScoopInstaller/Main",
+    "owner": "ScoopInstaller",
+    "html_url": "https://github.com/ScoopInstaller/Main",
+    "description": "📦 The default bucket for Scoop.",
+    "topics": [
+      "scoop",
+      "scoop-apps",
+      "scoop-bucket"
+    ],
+    "starred_at": "2021-06-14T09:38:40Z",
+    "category": "开发工具",
+    "tags": [
+      "包管理器",
+      "Windows工具",
+      "软件安装",
+      "开发环境",
+      "命令行工具",
+      "Scoop"
+    ],
+    "summary": "ScoopInstaller/Main是Scoop包管理器的默认应用程序存储库，为Windows系统提供便捷的软件安装和管理解决方案。用户可以通过此仓库轻松安装、更新和卸载各种开发工具和应用程序，简化Windows环境下的软件配置流程。",
+    "analyzed_at": "2025-10-23T19:19:26.274891+00:00"
+  },
+  {
+    "repo_full_name": "ScoopInstaller/Extras",
+    "owner": "ScoopInstaller",
+    "html_url": "https://github.com/ScoopInstaller/Extras",
+    "description": "📦 The Extras bucket for Scoop.",
+    "topics": [
+      "hacktoberfest",
+      "scoop",
+      "scoop-apps",
+      "scoop-bucket"
+    ],
+    "starred_at": "2021-06-14T09:38:41Z",
+    "category": "开发工具",
+    "tags": [
+      "scoop",
+      "scoop-apps",
+      "scoop-bucket",
+      "包管理器",
+      "Windows"
+    ],
+    "summary": "ScoopExtras是Scoop包管理器的官方扩展存储桶，提供了丰富的应用程序集合，帮助Windows用户轻松安装和管理各类开发工具和实用程序。",
+    "analyzed_at": "2025-10-23T19:19:26.274891+00:00"
+  },
+  {
+    "repo_full_name": "ScoopInstaller/Scoop",
+    "owner": "ScoopInstaller",
+    "html_url": "https://github.com/ScoopInstaller/Scoop",
+    "description": "A command-line installer for Windows.",
+    "topics": [
+      "installer",
+      "powershell",
+      "scoop",
+      "windows"
+    ],
+    "starred_at": "2021-06-14T09:38:42Z",
+    "category": "开发工具",
+    "tags": [
+      "installer",
+      "powershell",
+      "package-manager",
+      "windows",
+      "command-line"
+    ],
+    "summary": "Scoop是Windows平台的命令行软件包管理器，允许用户通过命令行轻松安装、更新和管理各种应用程序。它基于PowerShell开发，为Windows开发者提供了类似Linux包管理器的便捷体验。",
+    "analyzed_at": "2025-10-23T19:19:26.274891+00:00"
+  },
+  {
+    "repo_full_name": "matthewjberger/scoop-nerd-fonts",
+    "owner": "matthewjberger",
+    "html_url": "https://github.com/matthewjberger/scoop-nerd-fonts",
+    "description": "A scoop bucket for installing nerd fonts",
+    "topics": [
+      "hacktoberfest",
+      "nerd-fonts",
+      "powershell",
+      "scoop",
+      "scoop-bucket"
+    ],
+    "starred_at": "2021-06-14T09:38:43Z",
+    "category": "开发工具",
+    "tags": [
+      "字体",
+      "Windows",
+      "包管理器",
+      "开发工具",
+      "编程字体"
+    ],
+    "summary": "这是一个Windows系统的scoop包管理器bucket，用于安装nerd字体。nerd字体是专为编程设计的字体集合，包含大量图标和特殊字符，可提高代码阅读体验。",
+    "analyzed_at": "2025-10-23T19:19:26.274891+00:00"
+  },
+  {
+    "repo_full_name": "Paxxs/Cluttered-bucket",
+    "owner": "Paxxs",
+    "html_url": "https://github.com/Paxxs/Cluttered-bucket",
+    "description": "🍺一个（尽量) 绿色干净，带有惊喜的 scoop bucket 软件仓库（Windows 绿色软件收录/优秀软件/独立开发者）",
+    "topics": [
+      "package-manager",
+      "scoop",
+      "scoop-apps",
+      "scoop-bucket",
+      "windows"
+    ],
+    "starred_at": "2021-06-14T09:38:45Z",
+    "category": "开发工具",
+    "tags": [
+      "软件包管理",
+      "Windows工具",
+      "绿色软件",
+      "开发工具"
+    ],
+    "summary": "这是一个Windows平台的Scoop软件包存储库，收录绿色软件、优秀软件和独立开发者作品，提供干净简洁的软件安装体验。",
+    "analyzed_at": "2025-10-23T19:19:26.274891+00:00"
+  },
+  {
+    "repo_full_name": "kkzzhizhou/scoop-apps",
+    "owner": "kkzzhizhou",
+    "html_url": "https://github.com/kkzzhizhou/scoop-apps",
+    "description": "使用Github Action每天自动合并其他scoop仓库的更新，仓库地址：https://github.com/kkzzhizhou/scoop-apps",
+    "topics": [
+      "github-actions",
+      "merge-scoop-bucket",
+      "scoop",
+      "scoop-apps",
+      "scoop-bucket"
+    ],
+    "starred_at": "2021-06-14T09:38:46Z",
+    "category": "开发工具",
+    "tags": [
+      "scoop",
+      "scoop-apps",
+      "scoop-bucket",
+      "github-actions",
+      "merge-scoop-bucket"
+    ],
+    "summary": "这是一个使用GitHub Actions自动合并其他scoop仓库更新的仓库。Scoop是Windows系统的包管理器，此仓库帮助用户获取最新的软件包更新，简化了软件安装和管理过程。",
+    "analyzed_at": "2025-10-23T19:19:26.274891+00:00"
+  },
+  {
+    "repo_full_name": "ScoopInstaller/Awesome",
+    "owner": "ScoopInstaller",
+    "html_url": "https://github.com/ScoopInstaller/Awesome",
+    "description": "A curated list of awesome Scoop resources and more.",
+    "topics": [
+      "awesome",
+      "installer",
+      "package-manager",
+      "scoop",
+      "windows"
+    ],
+    "starred_at": "2021-06-14T09:38:47Z",
+    "category": "开发工具",
+    "tags": [
+      "包管理器",
+      "Windows工具",
+      "安装工具",
+      "资源列表"
+    ],
+    "summary": "ScoopInstaller/Awesome是一个精选的Scoop包管理器资源列表，为Windows用户提供各种软件包和工具的集合，帮助用户更高效地管理和安装Windows应用程序。",
+    "analyzed_at": "2025-10-23T19:19:26.274891+00:00"
+  },
+  {
+    "repo_full_name": "Moeologist/scoop-completion",
+    "owner": "Moeologist",
+    "html_url": "https://github.com/Moeologist/scoop-completion",
+    "description": "scoop tab completion, work with powershell",
+    "topics": [
+      "powershell",
+      "powershell-module",
+      "scoop",
+      "tab-completion"
+    ],
+    "starred_at": "2021-06-14T09:38:48Z",
+    "category": "开发工具",
+    "tags": [
+      "powershell",
+      "powershell-module",
+      "scoop",
+      "tab-completion"
+    ],
+    "summary": "Scoop包管理器的PowerShell自动补全模块，提供命令行自动补全功能，提升Windows环境下使用scoop的效率。",
+    "analyzed_at": "2025-10-23T19:19:26.274891+00:00"
+  },
+  {
+    "repo_full_name": "tapannallan/awesome-scoop",
+    "owner": "tapannallan",
+    "html_url": "https://github.com/tapannallan/awesome-scoop",
+    "description": "A collection of awesome resources for the scoop package manager for windows",
+    "topics": [
+      "awesome",
+      "package-manager",
+      "scoop",
+      "windows"
+    ],
+    "starred_at": "2021-06-14T09:38:49Z",
+    "category": "开发工具",
+    "tags": [
+      "包管理器",
+      "Windows",
+      "开发工具",
+      "软件安装"
+    ],
+    "summary": "Windows系统Scoop包管理器的精选资源集合，提供各种工具和脚本，帮助开发者高效管理和安装Windows软件。",
+    "analyzed_at": "2025-10-23T19:19:26.274891+00:00"
+  },
+  {
+    "repo_full_name": "rasa/scoops",
+    "owner": "rasa",
+    "html_url": "https://github.com/rasa/scoops",
+    "description": "📦 A bucket of tasty scoop flavored apps.",
+    "topics": [
+      "bucket",
+      "installer",
+      "scoop",
+      "scoop-apps",
+      "scoop-bucket",
+      "windows"
+    ],
+    "starred_at": "2021-06-14T09:38:50Z",
+    "category": "开发工具",
+    "tags": [
+      "包管理器",
+      "Windows",
+      "命令行",
+      "软件安装",
+      "开源工具"
+    ],
+    "summary": "Scoops是一个为Windows平台上的Scoop包管理器提供应用程序清单的仓库，包含多种可通过Scoop安装的软件，方便用户快速获取和管理Windows应用程序。",
+    "analyzed_at": "2025-10-23T19:19:26.274891+00:00"
+  },
+  {
+    "repo_full_name": "Scoopforge/Extras-CN",
+    "owner": "Scoopforge",
+    "html_url": "https://github.com/Scoopforge/Extras-CN",
+    "description": "🍨 专注于服务国人的 Scoop 扩展库 🍨",
+    "topics": [
+      "bucket",
+      "powershell",
+      "scoop",
+      "scoop-apps",
+      "scoop-bucket"
+    ],
+    "starred_at": "2021-06-14T09:38:51Z",
+    "category": "开发工具",
+    "tags": [
+      "包管理器",
+      "Windows工具",
+      "开发环境",
+      "软件源",
+      "中文支持"
+    ],
+    "summary": "Scoopforge/Extras-CN是一个专门为国内用户定制的Scoop包管理器扩展库，提供了丰富的中文软件和工具，方便Windows用户通过命令行快速安装和管理应用程序。",
+    "analyzed_at": "2025-10-23T19:19:26.274891+00:00"
+  },
+  {
+    "repo_full_name": "ScoopInstaller/Nirsoft",
+    "owner": "ScoopInstaller",
+    "html_url": "https://github.com/ScoopInstaller/Nirsoft",
+    "description": "📦 Bucket of almost all of the 280+ apps from Nirsoft.net. Migrated from MCOfficer/scoop-nirsoft with permission.",
+    "topics": [
+      "nirsoft",
+      "scoop",
+      "scoop-apps",
+      "scoop-bucket"
+    ],
+    "starred_at": "2021-06-14T09:38:52Z",
+    "category": "效率工具",
+    "tags": [
+      "包管理器",
+      "系统工具",
+      "Nirsoft",
+      "Scoop",
+      "软件集合",
+      "实用程序"
+    ],
+    "summary": "Scoop包管理器的Nirsoft软件集合，包含280多个系统工具和实用程序，方便用户通过Scoop一键安装Nirsoft的各种系统优化和管理工具。",
+    "analyzed_at": "2025-10-23T19:19:26.274891+00:00"
+  },
+  {
+    "repo_full_name": "KNOXDEV/wsl",
+    "owner": "KNOXDEV",
+    "html_url": "https://github.com/KNOXDEV/wsl",
+    "description": "A scoop bucket for Window Subsystem for Linux distros. No Windows Store necessary.",
+    "topics": [
+      "scoop",
+      "scoop-bucket",
+      "wsl"
+    ],
+    "starred_at": "2021-06-14T09:38:54Z",
+    "category": "开发工具",
+    "tags": [
+      "scoop",
+      "scoop-bucket",
+      "wsl",
+      "windows",
+      "package-manager",
+      "development"
+    ],
+    "summary": "这是一个Windows子系统Linux(WSL)的scoop软件包存储桶，允许用户无需通过Windows Store即可安装和管理Linux发行版，为Windows开发者提供了便捷的Linux环境管理工具。",
+    "analyzed_at": "2025-10-23T19:19:26.274891+00:00"
+  },
+  {
+    "repo_full_name": "kkzzhizhou/scoop-zapps",
+    "owner": "kkzzhizhou",
+    "html_url": "https://github.com/kkzzhizhou/scoop-zapps",
+    "description": "自用Scoop仓库，使用Github Action自动更新",
+    "topics": [
+      "excavator",
+      "scoop",
+      "scoop-apps",
+      "scoop-bucket",
+      "scoop-bucket-autoupdate"
+    ],
+    "starred_at": "2021-06-14T09:38:56Z",
+    "category": "开发工具",
+    "tags": [
+      "scoop",
+      "scoop-apps",
+      "scoop-bucket",
+      "autoupdate"
+    ],
+    "summary": "Scoop-zapps是一个自用的Windows软件包管理器Scoop的软件仓库，通过GitHub Actions实现自动更新，方便用户快速安装和管理各种应用程序。",
+    "analyzed_at": "2025-10-23T19:19:26.274891+00:00"
+  },
+  {
+    "repo_full_name": "meshery/scoop-bucket",
+    "owner": "meshery",
+    "html_url": "https://github.com/meshery/scoop-bucket",
+    "description": "Scoop Apps for Meshery command line client",
+    "topics": [
+      "cncf",
+      "hacktoberfest",
+      "installer",
+      "meshery",
+      "meshery-cli",
+      "mesheryctl",
+      "scoop",
+      "scoop-bucket",
+      "windows"
+    ],
+    "starred_at": "2021-06-14T09:38:57Z",
+    "category": "开发工具",
+    "tags": [
+      "meshery",
+      "scoop",
+      "windows",
+      "installer",
+      "meshery-cli"
+    ],
+    "summary": "Meshery的Scoop应用存储库，用于在Windows系统上通过Scoop包管理器安装Meshery命令行客户端工具。",
+    "analyzed_at": "2025-10-23T19:19:26.274891+00:00"
+  },
+  {
+    "repo_full_name": "KNOXDEV/scoop-backup",
+    "owner": "KNOXDEV",
+    "html_url": "https://github.com/KNOXDEV/scoop-backup",
+    "description": "Backup your entire current scoop installation with one command",
+    "topics": [
+      "scoop"
+    ],
+    "starred_at": "2021-06-14T09:38:58Z",
+    "category": "开发工具",
+    "tags": [
+      "包管理",
+      "备份工具",
+      "Windows",
+      "开发环境",
+      "scoop"
+    ],
+    "summary": "KNOXDEV/scoop-backup是一个简单的命令行工具，允许用户一键备份整个scoop包管理器安装。对于需要快速保存和恢复开发环境的Windows开发者来说非常实用。",
+    "analyzed_at": "2025-10-23T19:19:26.274891+00:00"
+  },
+  {
+    "repo_full_name": "ShetlandJ/Vue3Todo",
+    "owner": "ShetlandJ",
+    "html_url": "https://github.com/ShetlandJ/Vue3Todo",
+    "description": "[OUTDATED IN 2022!] Vue 3 Composition API examples!",
+    "topics": [],
+    "starred_at": "2021-06-14T09:41:42Z",
+    "category": "开发工具",
+    "tags": [
+      "Vue.js",
+      "前端开发",
+      "JavaScript",
+      "教程",
+      "示例代码"
+    ],
+    "summary": "这是一个Vue 3 Composition API的示例项目，展示了如何使用Vue 3的新特性构建待办事项应用，但项目已过时。",
+    "analyzed_at": "2025-10-23T19:19:26.274891+00:00"
+  },
+  {
+    "repo_full_name": "LuckDraw/lucky-canvas-invalid",
+    "owner": "LuckDraw",
+    "html_url": "https://github.com/LuckDraw/lucky-canvas-invalid",
+    "description": "🚧 该库已迁移到 https://github.com/LuckDraw/lucky-canvas",
+    "topics": [],
+    "starred_at": "2021-06-14T09:41:44Z",
+    "category": "Web应用",
+    "tags": [
+      "抽奖",
+      "Canvas",
+      "转盘",
+      "可视化",
+      "前端"
+    ],
+    "summary": "这是一个已迁移的仓库，新地址为lucky-canvas。从名称推测，该项目可能是一个基于Canvas的抽奖或幸运转盘可视化工具。",
+    "analyzed_at": "2025-10-23T19:19:26.274891+00:00"
+  },
+  {
+    "repo_full_name": "newbee-ltd/vue3-admin",
+    "owner": "newbee-ltd",
+    "html_url": "https://github.com/newbee-ltd/vue3-admin",
+    "description": "🔥 🎉Vue 3 + Vite 2 + Vue-Router 4 + Element-Plus + Echarts 5 + Axios 开发的后台管理系统",
+    "topics": [
+      "element",
+      "element-plus",
+      "element-ui",
+      "elementplus",
+      "elementui",
+      "newbee-mall",
+      "spring-boot",
+      "springboot",
+      "vue",
+      "vue-router",
+      "vue-router4",
+      "vue3",
+      "vuejs",
+      "vuex",
+      "vuex4"
+    ],
+    "starred_at": "2021-06-14T09:41:46Z",
+    "category": "Web应用",
+    "tags": [
+      "vue3",
+      "element-plus",
+      "vue-router",
+      "vuejs",
+      "echarts",
+      "axios"
+    ],
+    "summary": "这是一个基于Vue 3 + Vite 2 + Vue-Router 4 + Element-Plus + Echarts 5 + Axios开发的后台管理系统，提供了现代化的前端解决方案，适合构建企业级Web应用。",
+    "analyzed_at": "2025-10-23T19:19:26.274891+00:00"
+  },
+  {
+    "repo_full_name": "qiuxinfa/springboot-shiro-vue-stu",
+    "owner": "qiuxinfa",
+    "html_url": "https://github.com/qiuxinfa/springboot-shiro-vue-stu",
+    "description": "基于springBoot,shiro,vue的前后端分离的学生信息管理系统",
+    "topics": [],
+    "starred_at": "2021-06-14T09:41:48Z",
+    "category": "Web应用",
+    "tags": [
+      "SpringBoot",
+      "Shiro",
+      "Vue",
+      "前后端分离",
+      "学生管理系统"
+    ],
+    "summary": "基于SpringBoot、Shiro和Vue构建的前后端分离学生信息管理系统，提供学生数据的完整管理功能，采用现代化技术栈实现高效、安全的系统架构。",
+    "analyzed_at": "2025-10-23T19:19:26.274891+00:00"
+  },
+  {
+    "repo_full_name": "zhuyihe/vue-admin-project",
+    "owner": "zhuyihe",
+    "html_url": "https://github.com/zhuyihe/vue-admin-project",
+    "description": "vue-cli3搭建后台管理模板",
+    "topics": [],
+    "starred_at": "2021-06-14T09:41:49Z",
+    "category": "Web应用",
+    "tags": [
+      "Vue.js",
+      "后台管理",
+      "前端模板",
+      "Admin",
+      "vue-cli3"
+    ],
+    "summary": "这是一个基于Vue-cli3构建的后台管理模板项目，提供了快速搭建管理界面的基础结构，适合用于开发各类Web管理后台。",
+    "analyzed_at": "2025-10-23T19:19:26.274891+00:00"
+  },
+  {
+    "repo_full_name": "sl1673495/react-composition-api",
+    "owner": "sl1673495",
+    "html_url": "https://github.com/sl1673495/react-composition-api",
+    "description": ":art: Simple React state management. Made with @vue/reactivity and ❤️.",
+    "topics": [
+      "es6-proxy",
+      "react",
+      "react-setup",
+      "react-state",
+      "react-vue",
+      "reactive-programming",
+      "reactivity",
+      "reactjs",
+      "state",
+      "state-management",
+      "vue-react",
+      "vue-reactive",
+      "vue3"
+    ],
+    "starred_at": "2021-06-14T09:41:50Z",
+    "category": "开发工具",
+    "tags": [
+      "React状态管理",
+      "Vue响应式",
+      "组合式API",
+      "响应式编程",
+      "React-Vue结合"
+    ],
+    "summary": "这是一个React状态管理库，借鉴了Vue 3的组合式API和响应式系统，为React开发者提供了一种新的状态管理方式，结合了两个框架的优点。",
+    "analyzed_at": "2025-10-23T19:19:26.274891+00:00"
+  },
+  {
+    "repo_full_name": "tuandm/laravue",
+    "owner": "tuandm",
+    "html_url": "https://github.com/tuandm/laravue",
+    "description": "Admin dashboard for enterprise Laravel applications built by VueJS and Element UI https://laravue.dev",
+    "topics": [
+      "admin",
+      "admin-dashboard",
+      "axios",
+      "dashboard",
+      "jwt",
+      "laravel",
+      "php",
+      "vue",
+      "vue-router",
+      "vuejs",
+      "vuex",
+      "webpack"
+    ],
+    "starred_at": "2021-06-14T09:41:51Z",
+    "category": "Web应用",
+    "tags": [
+      "Laravel",
+      "VueJS",
+      "管理后台",
+      "Element UI",
+      "企业应用"
+    ],
+    "summary": "基于Laravel和VueJS构建的企业级管理后台系统，采用Element UI框架，提供完整的仪表板功能，适用于企业应用程序的后台管理界面。",
+    "analyzed_at": "2025-10-23T19:19:26.274891+00:00"
+  },
+  {
+    "repo_full_name": "vue-mini/vue-mini",
+    "owner": "vue-mini",
+    "html_url": "https://github.com/vue-mini/vue-mini",
+    "description": "基于 Vue 3 的小程序框架。简单，强大，高性能。",
+    "topics": [],
+    "starred_at": "2021-06-14T09:41:52Z",
+    "category": "移动应用",
+    "tags": [
+      "Vue",
+      "小程序",
+      "前端框架",
+      "JavaScript",
+      "跨平台",
+      "高性能"
+    ],
+    "summary": "vue-mini是一个基于Vue 3的小程序框架，提供简单易用的API，具备强大功能和卓越性能，帮助开发者快速构建高质量的小程序应用。",
+    "analyzed_at": "2025-10-23T19:19:26.274891+00:00"
+  },
+  {
+    "repo_full_name": "nodegui/nodegui",
+    "owner": "nodegui",
+    "html_url": "https://github.com/nodegui/nodegui",
+    "description": "A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org",
+    "topics": [
+      "cross-platform",
+      "desktop",
+      "gui",
+      "javascript",
+      "nodejs",
+      "openlibrary",
+      "qt"
+    ],
+    "starred_at": "2021-06-14T09:41:53Z",
+    "category": "桌面应用",
+    "tags": [
+      "跨平台",
+      "桌面",
+      "GUI",
+      "JavaScript",
+      "Node.js"
+    ],
+    "summary": "NodeGui是一个使用Node.js和CSS构建跨平台原生桌面应用的库。它基于Qt技术，并支持React和Vue框架，让开发者能够使用前端技术栈创建桌面应用程序。",
+    "analyzed_at": "2025-10-23T19:19:26.274891+00:00"
+  },
+  {
+    "repo_full_name": "wdlhao/vue2-element-touzi-admin",
+    "owner": "wdlhao",
+    "html_url": "https://github.com/wdlhao/vue2-element-touzi-admin",
+    "description": " 基于vue2.0 +vuex+ element-ui后台管理系统 ",
+    "topics": [],
+    "starred_at": "2021-06-14T09:41:57Z",
+    "category": "Web应用",
+    "tags": [
+      "Vue.js",
+      "Element UI",
+      "后台管理",
+      "前端框架",
+      "管理系统"
+    ],
+    "summary": "这是一个基于Vue2.0、Vuex和Element UI构建的后台管理系统，适合作为企业级管理系统的前端框架。",
+    "analyzed_at": "2025-10-23T19:19:26.274891+00:00"
+  },
+  {
+    "repo_full_name": "ustbhuangyi/vue-analysis",
+    "owner": "ustbhuangyi",
+    "html_url": "https://github.com/ustbhuangyi/vue-analysis",
+    "description": ":thumbsup: Vue.js 源码分析",
+    "topics": [],
+    "starred_at": "2021-06-14T09:41:59Z",
+    "category": "开发工具",
+    "tags": [
+      "Vue.js",
+      "前端开发",
+      "源码分析",
+      "JavaScript框架",
+      "学习资源"
+    ],
+    "summary": "这是一个Vue.js源码分析项目，深入解析Vue.js框架的核心原理和实现机制，帮助开发者更好地理解和掌握Vue.js的工作原理。",
+    "analyzed_at": "2025-10-23T19:19:26.274891+00:00"
+  },
+  {
+    "repo_full_name": "yunhan0/koa-vue-fullstack",
+    "owner": "yunhan0",
+    "html_url": "https://github.com/yunhan0/koa-vue-fullstack",
+    "description": "A lightweight boilerplate for a universal webapp based on koa, mongodb, node, vue, and webpack",
+    "topics": [
+      "boilerplate",
+      "koa",
+      "mongodb",
+      "mongoose",
+      "nodejs",
+      "vue",
+      "vue-fullstack",
+      "webpack"
+    ],
+    "starred_at": "2021-06-14T09:42:00Z",
+    "category": "Web应用",
+    "tags": [
+      "全栈开发",
+      "脚手架",
+      "Koa框架",
+      "Vue框架",
+      "MongoDB",
+      "Webpack"
+    ],
+    "summary": "这是一个基于Koa、Vue、MongoDB和Webpack构建的轻量级全栈Web应用脚手架，提供了快速开发现代Web应用的基础架构。",
+    "analyzed_at": "2025-10-23T19:19:26.274891+00:00"
+  },
+  {
+    "repo_full_name": "lin-xin/vue-manage-system",
+    "owner": "lin-xin",
+    "html_url": "https://github.com/lin-xin/vue-manage-system",
+    "description": "Vue3、Element Plus、typescript后台管理系统",
+    "topics": [
+      "element-plus",
+      "pinia",
+      "typescript",
+      "vue"
+    ],
+    "starred_at": "2021-06-14T09:42:01Z",
+    "category": "Web应用",
+    "tags": [
+      "Vue.js",
+      "Element Plus",
+      "TypeScript",
+      "后台管理",
+      "前端框架",
+      "管理系统"
+    ],
+    "summary": "这是一个基于Vue3、Element Plus和TypeScript构建的后台管理系统，提供了现代化的前端解决方案，适合快速开发企业级管理界面。",
+    "analyzed_at": "2025-10-23T19:19:26.274891+00:00"
+  },
+  {
+    "repo_full_name": "TankNee/Memocast",
+    "owner": "TankNee",
+    "html_url": "https://github.com/TankNee/Memocast",
+    "description": "Yet another elegant Wiz Note Client, which was built with Quasar UI Framework and based on Electron. ",
+    "topics": [
+      "editor",
+      "electron",
+      "github",
+      "markdown",
+      "memocast",
+      "neeto-vue",
+      "quasar-framework",
+      "vue",
+      "wiz-community",
+      "wiznote"
+    ],
+    "starred_at": "2021-06-14T09:42:06Z",
+    "category": "桌面应用",
+    "tags": [
+      "编辑器",
+      "桌面应用",
+      "笔记",
+      "Markdown",
+      "Vue",
+      "Electron"
+    ],
+    "summary": "Memocast是一个基于Electron和Quasar UI Framework构建的Wiz Note客户端，提供优雅的笔记编辑体验，支持Markdown格式，适合作为桌面笔记工具使用。",
+    "analyzed_at": "2025-10-23T19:19:26.274891+00:00"
+  },
+  {
+    "repo_full_name": "MrZHLF/vue-admin",
+    "owner": "MrZHLF",
+    "html_url": "https://github.com/MrZHLF/vue-admin",
+    "description": "vue-cli3.0后台管理模板",
+    "topics": [],
+    "starred_at": "2021-06-14T09:42:10Z",
+    "category": "Web应用",
+    "tags": [
+      "Vue.js",
+      "后台管理",
+      "前端模板",
+      "管理系统",
+      "后台模板"
+    ],
+    "summary": "这是一个基于Vue-cli3.0构建的后台管理模板，为开发者提供快速搭建Web后台管理系统的解决方案，采用Vue.js框架，适合各类管理系统的开发需求。",
+    "analyzed_at": "2025-10-23T19:19:26.274891+00:00"
+  },
+  {
+    "repo_full_name": "sonicoder86/todomvc-vue-composition-api",
+    "owner": "sonicoder86",
+    "html_url": "https://github.com/sonicoder86/todomvc-vue-composition-api",
+    "description": "TodoMVC built with Vue 3 Composition Api and Vuex",
+    "topics": [
+      "testing",
+      "todomvc",
+      "vue",
+      "vue-composition-api",
+      "vue3",
+      "vuex"
+    ],
+    "starred_at": "2021-06-14T09:42:12Z",
+    "category": "Web应用",
+    "tags": [
+      "Vue.js",
+      "前端开发",
+      "待办事项",
+      "示例项目",
+      "Vue 3",
+      "Composition API"
+    ],
+    "summary": "这是一个使用Vue 3 Composition API和Vuex构建的TodoMVC示例项目，展示了如何使用Vue 3的新特性开发待办事项应用，适合前端开发者学习和参考。",
+    "analyzed_at": "2025-10-23T19:19:26.274891+00:00"
   }
 ]
