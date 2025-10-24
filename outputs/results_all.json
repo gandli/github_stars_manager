@@ -13569,5 +13569,1216 @@
     ],
     "summary": "这是一个使用Vue 3 Composition API和Vuex构建的TodoMVC示例项目，展示了如何使用Vue 3的新特性开发待办事项应用，适合前端开发者学习和参考。",
     "analyzed_at": "2025-10-23T19:19:26.274891+00:00"
+  },
+  {
+    "repo_full_name": "xugaoyi/vuepress-theme-vdoing",
+    "owner": "xugaoyi",
+    "html_url": "https://github.com/xugaoyi/vuepress-theme-vdoing",
+    "description": "🚀一款简洁高效的VuePress知识管理&博客(blog)主题",
+    "topics": [
+      "actions",
+      "blog",
+      "blog-theme",
+      "deploy",
+      "javascript",
+      "markdown",
+      "theme",
+      "vue",
+      "vuepress",
+      "vuepress-blog",
+      "vuepress-plugin",
+      "vuepress-theme"
+    ],
+    "starred_at": "2021-06-14T09:42:15Z",
+    "category": "开发工具",
+    "tags": [
+      "VuePress",
+      "博客主题",
+      "知识管理",
+      "Markdown",
+      "JavaScript",
+      "Vue"
+    ],
+    "summary": "一款简洁高效的VuePress知识管理与博客主题，支持Markdown写作，提供丰富的插件和功能，帮助开发者快速搭建个人博客或知识管理系统。",
+    "analyzed_at": "2025-10-24T19:19:27.346086+00:00"
+  },
+  {
+    "repo_full_name": "tnfe/transx",
+    "owner": "tnfe",
+    "html_url": "https://github.com/tnfe/transx",
+    "description": "一个小巧玲珑的 vue 组件切换动画库, 支持 20 几种动画切换方式",
+    "topics": [
+      "vue-animate",
+      "vue-animations",
+      "vue-component",
+      "vue-transition",
+      "vue-translations"
+    ],
+    "starred_at": "2021-06-14T09:42:19Z",
+    "category": "开发工具",
+    "tags": [
+      "vue-animate",
+      "vue-animations",
+      "vue-component",
+      "vue-transition"
+    ],
+    "summary": "Transx是一个轻量级的Vue组件切换动画库，提供20多种动画切换效果，帮助开发者轻松实现流畅的页面过渡动画。",
+    "analyzed_at": "2025-10-24T19:19:27.346086+00:00"
+  },
+  {
+    "repo_full_name": "jackchen0120/vueDataV",
+    "owner": "jackchen0120",
+    "html_url": "https://github.com/jackchen0120/vueDataV",
+    "description": "基于Vue + Echarts 构建的数据可视化平台，酷炫大屏展示模板和组件库，持续更新各行各业实用模板和炫酷小组件。",
+    "topics": [],
+    "starred_at": "2021-06-14T09:42:22Z",
+    "category": "数据分析",
+    "tags": [
+      "数据可视化",
+      "Vue",
+      "Echarts",
+      "大屏展示",
+      "组件库",
+      "模板"
+    ],
+    "summary": "基于Vue和Echarts构建的数据可视化平台，提供酷炫大屏展示模板和组件库，持续更新各行业实用模板和炫酷小组件，助力数据可视化开发。",
+    "analyzed_at": "2025-10-24T19:19:27.346086+00:00"
+  },
+  {
+    "repo_full_name": "linhe0x0/vuepress-theme-api",
+    "owner": "linhe0x0",
+    "html_url": "https://github.com/linhe0x0/vuepress-theme-api",
+    "description": "📦📝🎨 A api-friendly theme for VuePress.",
+    "topics": [
+      "api-friendly-theme",
+      "vuepress",
+      "vuepress-theme"
+    ],
+    "starred_at": "2021-06-14T09:42:24Z",
+    "category": "开发工具",
+    "tags": [
+      "VuePress",
+      "文档主题",
+      "API文档",
+      "开发工具",
+      "静态站点"
+    ],
+    "summary": "这是一个为VuePress设计的API友好型主题，帮助开发者构建美观且功能完善的API文档网站。",
+    "analyzed_at": "2025-10-24T19:19:27.346086+00:00"
+  },
+  {
+    "repo_full_name": "SunriseOrient/sunrise-electron-vue",
+    "owner": "SunriseOrient",
+    "html_url": "https://github.com/SunriseOrient/sunrise-electron-vue",
+    "description": "SunRise项目-前端 sunrise-electron-vue。该项目是一个后台前端解决方案，它基于 vue.js 开发堆栈和 electron 并使用 element-ui 实现。它使用了最新的前端技术栈，内置了 i18n 国际化解决方案，动态路由，权限验证，提炼了典型的业务模型，提供了丰富的功能组件，它可以帮助你快速搭建企业级中后台产品原型。相信不管你的需求是什么，本项目都能帮助到你。",
+    "topics": [
+      "electron",
+      "element-ui",
+      "nodejs",
+      "sunrise",
+      "sunrise-electron-vue",
+      "sunrise-spring-boot",
+      "vuejs"
+    ],
+    "starred_at": "2021-06-14T09:42:27Z",
+    "category": "桌面应用",
+    "tags": [
+      "electron",
+      "vuejs",
+      "element-ui",
+      "nodejs"
+    ],
+    "summary": "SunRise项目是一个基于Electron和Vue.js的企业级后台前端解决方案，使用Element UI构建界面，提供国际化、动态路由、权限验证等功能，帮助快速搭建中后台产品原型。",
+    "analyzed_at": "2025-10-24T19:19:27.346086+00:00"
+  },
+  {
+    "repo_full_name": "iczer/vue-antd-admin",
+    "owner": "iczer",
+    "html_url": "https://github.com/iczer/vue-antd-admin",
+    "description": "🐜 Ant Design Pro's implementation with Vue",
+    "topics": [
+      "admin",
+      "ant",
+      "ant-design",
+      "ant-design-pro",
+      "antd",
+      "design",
+      "template",
+      "vue"
+    ],
+    "starred_at": "2021-06-14T09:42:30Z",
+    "category": "Web应用",
+    "tags": [
+      "admin",
+      "vue",
+      "ant-design",
+      "template",
+      "web"
+    ],
+    "summary": "这是一个基于Vue实现的Ant Design Pro管理后台模板，提供了快速构建企业级管理界面的解决方案。",
+    "analyzed_at": "2025-10-24T19:19:27.346086+00:00"
+  },
+  {
+    "repo_full_name": "vuejs/docs-next-zh-cn",
+    "owner": "vuejs",
+    "html_url": "https://github.com/vuejs/docs-next-zh-cn",
+    "description": ":cn: Chinese translation for v3.vuejs.org",
+    "topics": [],
+    "starred_at": "2021-06-14T09:42:33Z",
+    "category": "开发工具",
+    "tags": [
+      "Vue.js",
+      "文档",
+      "翻译",
+      "中文",
+      "前端开发",
+      "JavaScript"
+    ],
+    "summary": "Vue.js v3官方文档的中文翻译项目，致力于将英文文档翻译成简体中文，帮助中文开发者更好地理解和使用Vue.js框架。",
+    "analyzed_at": "2025-10-24T19:19:27.346086+00:00"
+  },
+  {
+    "repo_full_name": "vuepress/create-vuepress-site",
+    "owner": "vuepress",
+    "html_url": "https://github.com/vuepress/create-vuepress-site",
+    "description": "VuePress Site Generator",
+    "topics": [
+      "docs",
+      "vuepress"
+    ],
+    "starred_at": "2021-06-14T09:42:36Z",
+    "category": "开发工具",
+    "tags": [
+      "文档生成",
+      "静态站点",
+      "Vue.js",
+      "网站构建",
+      "Markdown"
+    ],
+    "summary": "VuePress Site Generator是一个基于Vue.js的静态站点生成器，专为创建文档网站而设计。它提供简洁的Markdown写作体验，同时支持Vue组件，帮助开发者快速构建美观且功能丰富的文档站点。",
+    "analyzed_at": "2025-10-24T19:19:27.346086+00:00"
+  },
+  {
+    "repo_full_name": "newbee-ltd/newbee-mall-vue3-app",
+    "owner": "newbee-ltd",
+    "html_url": "https://github.com/newbee-ltd/newbee-mall-vue3-app",
+    "description": "🔥 🎉Vue3 全家桶 + Vant 搭建大型单页面商城项目，新蜂商城 Vue3.2 版本，技术栈为 Vue3.2 + Vue-Router4.x + Pinia + Vant4.x。",
+    "topics": [
+      "newbee-mall",
+      "newbee-mall-vue3",
+      "pinia",
+      "spring-boot",
+      "vant",
+      "vant3",
+      "vant4",
+      "vue",
+      "vue-example",
+      "vue-mall",
+      "vue-router4",
+      "vue3",
+      "vue3-demo",
+      "vuejs",
+      "vuejs3",
+      "vuex",
+      "vuex4"
+    ],
+    "starred_at": "2021-06-14T09:42:39Z",
+    "category": "Web应用",
+    "tags": [
+      "vue3",
+      "vue-mall",
+      "newbee-mall",
+      "pinia",
+      "vant",
+      "vue-router4"
+    ],
+    "summary": "这是一个基于Vue3全家桶(Vue3.2 + Vue-Router4.x + Pinia + Vant4.x)构建的大型单页面商城项目，采用现代前端技术栈实现电商功能，提供完整的购物体验。",
+    "analyzed_at": "2025-10-24T19:19:27.346086+00:00"
+  },
+  {
+    "repo_full_name": "qiguliuxing/dts-shop",
+    "owner": "qiguliuxing",
+    "html_url": "https://github.com/qiguliuxing/dts-shop",
+    "description": "微信小程序，小程序商城，商城，springboot框架，vue管理系统，java后台",
+    "topics": [],
+    "starred_at": "2021-06-14T09:42:44Z",
+    "category": "Web应用",
+    "tags": [
+      "微信小程序",
+      "商城系统",
+      "SpringBoot",
+      "Vue.js",
+      "Java"
+    ],
+    "summary": "这是一个基于微信小程序的商城系统，前端使用微信小程序，后台采用SpringBoot框架和Java开发，并包含Vue.js构建的管理系统，提供完整的电商解决方案。",
+    "analyzed_at": "2025-10-24T19:19:27.346086+00:00"
+  },
+  {
+    "repo_full_name": "psaren/taro-ui-vue",
+    "owner": "psaren",
+    "html_url": "https://github.com/psaren/taro-ui-vue",
+    "description": "UI KIT for Taro/vue",
+    "topics": [],
+    "starred_at": "2021-06-14T09:42:48Z",
+    "category": "开发工具",
+    "tags": [
+      "UI组件",
+      "Vue.js",
+      "Taro",
+      "前端开发",
+      "多端开发",
+      "界面设计"
+    ],
+    "summary": "这是一个为Taro和Vue.js设计的UI工具包，提供了一系列可复用的界面组件，帮助开发者快速构建跨平台应用。",
+    "analyzed_at": "2025-10-24T19:19:27.346086+00:00"
+  },
+  {
+    "repo_full_name": "L-noodle/vue-big-screen",
+    "owner": "L-noodle",
+    "html_url": "https://github.com/L-noodle/vue-big-screen",
+    "description": "一个基于 vue、datav、Echart 框架的大数据可视化（大屏展示）模板，实现大数据可视化。通过 vue 组件实现数据动态刷新渲染，内部图表可自由替换。部分图表使用 DataV 自带组件，可自由进行更改（ps：最新的更新请前往码云查看，下面有链接）。",
+    "topics": [],
+    "starred_at": "2021-06-14T09:42:54Z",
+    "category": "数据分析",
+    "tags": [
+      "数据可视化",
+      "Vue.js",
+      "大屏展示",
+      "ECharts",
+      "前端开发"
+    ],
+    "summary": "Vue-big-screen是一个基于Vue、DataV和Echarts的大数据可视化大屏展示模板，支持数据动态刷新渲染，图表可自由替换，适用于企业级数据监控中心、业务数据展示等场景。",
+    "analyzed_at": "2025-10-24T19:19:27.346086+00:00"
+  },
+  {
+    "repo_full_name": "vuetifyjs/vuetify",
+    "owner": "vuetifyjs",
+    "html_url": "https://github.com/vuetifyjs/vuetify",
+    "description": "🐉 Vue Component Framework",
+    "topics": [
+      "javascript",
+      "material",
+      "material-components",
+      "material-design",
+      "material-theme",
+      "semantic",
+      "typescript",
+      "ui",
+      "ui-components",
+      "ui-design",
+      "ui-kit",
+      "ui-library",
+      "vue",
+      "vue-components",
+      "vue-material",
+      "vuejs",
+      "vuejs3",
+      "vuetify",
+      "vuetifyjs"
+    ],
+    "starred_at": "2021-06-14T09:42:56Z",
+    "category": "开发工具",
+    "tags": [
+      "Vue",
+      "UI组件",
+      "Material Design",
+      "JavaScript",
+      "TypeScript",
+      "前端框架"
+    ],
+    "summary": "Vuetify是一个基于Vue.js的Material Design组件框架，提供丰富的UI组件和工具，帮助开发者快速构建美观、响应式的Web应用。支持Vue 3和TypeScript，遵循Material Design规范。",
+    "analyzed_at": "2025-10-24T19:19:27.346086+00:00"
+  },
+  {
+    "repo_full_name": "vuedx/languagetools",
+    "owner": "vuedx",
+    "html_url": "https://github.com/vuedx/languagetools",
+    "description": "A collection of tools for better IDE experience.",
+    "topics": [],
+    "starred_at": "2021-06-14T09:42:58Z",
+    "category": "开发工具",
+    "tags": [
+      "IDE增强",
+      "开发工具",
+      "Vue.js",
+      "代码编辑",
+      "工具集"
+    ],
+    "summary": "LanguageTools是一个为IDE提供更好体验的工具集合，旨在增强开发环境的功能，提高开发效率。",
+    "analyzed_at": "2025-10-24T19:19:27.346086+00:00"
+  },
+  {
+    "repo_full_name": "tuture-dev/vue-online-shop-frontend",
+    "owner": "tuture-dev",
+    "html_url": "https://github.com/tuture-dev/vue-online-shop-frontend",
+    "description": "《从零到部署：用 Vue 和 Express 实现迷你全栈电商应用》全栈代码",
+    "topics": [
+      "full-stack",
+      "vue",
+      "vue-router",
+      "vuejs",
+      "vuex"
+    ],
+    "starred_at": "2021-06-14T09:43:05Z",
+    "category": "Web应用",
+    "tags": [
+      "电商",
+      "Vue.js",
+      "前端",
+      "全栈",
+      "教程"
+    ],
+    "summary": "这是一个基于Vue.js构建的全栈电商应用前端代码，是《从零到部署》教程的实践项目，展示了如何使用Vue和相关库开发Web电商界面。",
+    "analyzed_at": "2025-10-24T19:19:27.346086+00:00"
+  },
+  {
+    "repo_full_name": "vuepress-reco/vuepress-theme-reco-1.x",
+    "owner": "vuepress-reco",
+    "html_url": "https://github.com/vuepress-reco/vuepress-theme-reco-1.x",
+    "description": "🎨 This is the repo for vuepress-theme-reco 1.",
+    "topics": [
+      "article",
+      "blog-theme",
+      "doc-theme",
+      "theme",
+      "valine",
+      "vuepress",
+      "vuepress-blog",
+      "vuepress-theme",
+      "writing-articles"
+    ],
+    "starred_at": "2021-06-14T09:43:09Z",
+    "category": "开发工具",
+    "tags": [
+      "VuePress",
+      "博客主题",
+      "文档主题",
+      "文章写作",
+      "主题"
+    ],
+    "summary": "这是一个VuePress 1.x版本的博客和文档主题，提供简洁优雅的界面设计，适合个人博客和文档网站使用。",
+    "analyzed_at": "2025-10-24T19:19:27.346086+00:00"
+  },
+  {
+    "repo_full_name": "vuejs/awesome-vue",
+    "owner": "vuejs",
+    "html_url": "https://github.com/vuejs/awesome-vue",
+    "description": "🎉 A curated list of awesome things related to Vue.js",
+    "topics": [],
+    "starred_at": "2021-06-14T09:43:12Z",
+    "category": "Web应用",
+    "tags": [
+      "Vue.js",
+      "前端框架",
+      "JavaScript",
+      "资源列表",
+      "Web开发"
+    ],
+    "summary": "这是一个精心整理的Vue.js相关资源列表，包含各种优秀的库、工具和项目，帮助开发者更好地使用Vue.js构建Web应用。",
+    "analyzed_at": "2025-10-24T19:19:27.346086+00:00"
+  },
+  {
+    "repo_full_name": "x-extends/vxe-table",
+    "owner": "x-extends",
+    "html_url": "https://github.com/x-extends/vxe-table",
+    "description": "vxe table 支持 vue2, vue3 的表格解决方案",
+    "topics": [
+      "cell",
+      "checkbox",
+      "editable",
+      "form",
+      "grid",
+      "input",
+      "modal",
+      "pager",
+      "radio",
+      "select",
+      "switch",
+      "table",
+      "toolbar",
+      "vue",
+      "vue-table",
+      "vxe-grid",
+      "vxe-table",
+      "vxe-ui"
+    ],
+    "starred_at": "2021-06-14T09:43:15Z",
+    "category": "Web应用",
+    "tags": [
+      "表格",
+      "Vue",
+      "前端组件",
+      "数据展示",
+      "交互式"
+    ],
+    "summary": "vxe-table是一个支持Vue2和Vue3的强大表格解决方案，提供丰富的表格功能如单元格编辑、分页、排序等，适用于Web应用中的复杂数据展示和操作。",
+    "analyzed_at": "2025-10-24T19:19:27.346086+00:00"
+  },
+  {
+    "repo_full_name": "vuejs/vitepress",
+    "owner": "vuejs",
+    "html_url": "https://github.com/vuejs/vitepress",
+    "description": "Vite & Vue powered static site generator.",
+    "topics": [
+      "docs-generator",
+      "hacktoberfest",
+      "markdown",
+      "ssg",
+      "vite",
+      "vue"
+    ],
+    "starred_at": "2021-06-14T09:43:18Z",
+    "category": "开发工具",
+    "tags": [
+      "文档生成器",
+      "静态站点生成器",
+      "Markdown",
+      "Vite",
+      "Vue"
+    ],
+    "summary": "Vitepress是一个基于Vite和Vue的静态站点生成器，专为文档网站设计。它支持Markdown，提供快速的开发体验和优化的生产构建，是Vue.js官方文档的生成工具。",
+    "analyzed_at": "2025-10-24T19:19:27.346086+00:00"
+  },
+  {
+    "repo_full_name": "mengdebiao/vue-electron-notes",
+    "owner": "mengdebiao",
+    "html_url": "https://github.com/mengdebiao/vue-electron-notes",
+    "description": "Vue + Electron + MarkDown 跨平台桌面应用云笔记",
+    "topics": [],
+    "starred_at": "2021-06-14T09:43:21Z",
+    "category": "桌面应用",
+    "tags": [
+      "Vue",
+      "Electron",
+      "Markdown",
+      "笔记",
+      "跨平台",
+      "云笔记"
+    ],
+    "summary": "这是一个基于Vue、Electron和Markdown技术构建的跨平台桌面云笔记应用，用户可以创建、编辑和存储笔记，支持多平台使用。",
+    "analyzed_at": "2025-10-24T19:19:27.346086+00:00"
+  },
+  {
+    "repo_full_name": "vuejs/devtools-v6",
+    "owner": "vuejs",
+    "html_url": "https://github.com/vuejs/devtools-v6",
+    "description": "⚙️ Browser devtools extension for debugging Vue.js applications.",
+    "topics": [],
+    "starred_at": "2021-06-14T09:43:23Z",
+    "category": "开发工具",
+    "tags": [
+      "Vue.js",
+      "调试工具",
+      "浏览器扩展",
+      "开发工具",
+      "前端开发"
+    ],
+    "summary": "Vue.js官方浏览器开发工具扩展，专为调试Vue.js应用程序设计。提供组件检查、状态管理调试、性能分析等功能，帮助开发者更高效地开发和调试Vue应用。",
+    "analyzed_at": "2025-10-24T19:19:27.346086+00:00"
+  },
+  {
+    "repo_full_name": "wx-minapp/minapp-vscode",
+    "owner": "wx-minapp",
+    "html_url": "https://github.com/wx-minapp/minapp-vscode",
+    "description": "WXML Language Support",
+    "topics": [
+      "minapp",
+      "miniprogram",
+      "vscode-extension",
+      "wechat",
+      "wxml",
+      "wxs",
+      "wxss"
+    ],
+    "starred_at": "2021-06-14T09:43:26Z",
+    "category": "开发工具",
+    "tags": [
+      "微信小程序",
+      "VS Code扩展",
+      "WXML",
+      "WXSS",
+      "WXS"
+    ],
+    "summary": "这是一个VS Code扩展，为微信小程序开发提供WXML、WXSS和WXS语言支持，帮助开发者更高效地编写小程序代码。",
+    "analyzed_at": "2025-10-24T19:19:27.346086+00:00"
+  },
+  {
+    "repo_full_name": "vuepress/create-vuepress",
+    "owner": "vuepress",
+    "html_url": "https://github.com/vuepress/create-vuepress",
+    "description": "Scaffolding out a VuePress docs, blog, repro repo or other interesting things",
+    "topics": [],
+    "starred_at": "2021-06-14T09:43:28Z",
+    "category": "开发工具",
+    "tags": [
+      "脚手架",
+      "VuePress",
+      "文档生成",
+      "项目初始化",
+      "静态站点",
+      "Vue.js"
+    ],
+    "summary": "VuePress项目脚手架工具，用于快速初始化文档、博客或其他基于VuePress的项目，简化开发流程。",
+    "analyzed_at": "2025-10-24T19:19:27.346086+00:00"
+  },
+  {
+    "repo_full_name": "zpfz/vuepress-creator",
+    "owner": "zpfz",
+    "html_url": "https://github.com/zpfz/vuepress-creator",
+    "description": "A lightweight creator for VuePress project.",
+    "topics": [
+      "creator",
+      "vue",
+      "vuepress",
+      "vuepress-ci",
+      "vuepress-creator",
+      "vuepress-plugin"
+    ],
+    "starred_at": "2021-06-14T09:43:31Z",
+    "category": "开发工具",
+    "tags": [
+      "vuepress",
+      "创建工具",
+      "静态站点",
+      "开发工具",
+      "项目生成器"
+    ],
+    "summary": "VuePress项目轻量级创建工具，简化VuePress项目的初始化和配置过程，提供便捷的项目脚手架功能，帮助开发者快速搭建基于VuePress的静态网站。",
+    "analyzed_at": "2025-10-24T19:19:27.346086+00:00"
+  },
+  {
+    "repo_full_name": "paascloud/paascloud-master",
+    "owner": "paascloud",
+    "html_url": "https://github.com/paascloud/paascloud-master",
+    "description": "spring cloud + vue + oAuth2.0全家桶实战，前后端分离模拟商城，完整的购物流程、后端运营平台，可以实现快速搭建企业级微服务项目。支持微信登录等三方登录。",
+    "topics": [
+      "oauth2",
+      "rocketmq",
+      "spring-cloud",
+      "springcloud",
+      "vuejs2"
+    ],
+    "starred_at": "2021-06-14T09:43:34Z",
+    "category": "Web应用",
+    "tags": [
+      "oauth2",
+      "spring-cloud",
+      "vuejs2",
+      "微服务",
+      "电商",
+      "前后端分离"
+    ],
+    "summary": "基于Spring Cloud和Vue.js构建的企业级微服务电商系统，包含完整购物流程和后端运营平台，支持OAuth2.0和微信等第三方登录，可快速搭建微服务项目。",
+    "analyzed_at": "2025-10-24T19:19:27.346086+00:00"
+  },
+  {
+    "repo_full_name": "SimulatedGREG/electron-vue",
+    "owner": "SimulatedGREG",
+    "html_url": "https://github.com/SimulatedGREG/electron-vue",
+    "description": "An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.",
+    "topics": [
+      "babel",
+      "boilerplate",
+      "documentation",
+      "electron",
+      "electron-builder",
+      "electron-packager",
+      "end-to-end-testing",
+      "es6",
+      "unit-testing",
+      "vue",
+      "vue-cli",
+      "webpack"
+    ],
+    "starred_at": "2021-06-14T09:43:35Z",
+    "category": "桌面应用",
+    "tags": [
+      "Electron",
+      "Vue.js",
+      "开发工具",
+      "脚手架",
+      "跨平台"
+    ],
+    "summary": "这是一个Electron与Vue.js结合的快速启动模板项目，提供完整的开发环境，包括脚手架、常用插件、打包工具和测试支持，帮助开发者快速构建跨平台桌面应用。",
+    "analyzed_at": "2025-10-24T19:19:27.346086+00:00"
+  },
+  {
+    "repo_full_name": "nklayman/vue-cli-plugin-electron-builder",
+    "owner": "nklayman",
+    "html_url": "https://github.com/nklayman/vue-cli-plugin-electron-builder",
+    "description": "Easily Build Your Vue.js App For Desktop With Electron",
+    "topics": [
+      "cli",
+      "electron",
+      "electron-builder",
+      "hacktoberfest",
+      "vue",
+      "vue-cli",
+      "vue-cli-plugin",
+      "webpack"
+    ],
+    "starred_at": "2021-06-14T09:43:37Z",
+    "category": "开发工具",
+    "tags": [
+      "electron",
+      "vue",
+      "cli",
+      "webpack",
+      "desktop-app"
+    ],
+    "summary": "Vue CLI插件，用于将Vue.js应用轻松构建为Electron桌面应用，集成electron-builder构建工具，简化桌面应用开发流程。",
+    "analyzed_at": "2025-10-24T19:19:27.346086+00:00"
+  },
+  {
+    "repo_full_name": "wechat-miniprogram/kbone-ui",
+    "owner": "wechat-miniprogram",
+    "html_url": "https://github.com/wechat-miniprogram/kbone-ui",
+    "description": "kbone-ui 是一套能同时支持 小程序(kbone) 和 vue 框架开发的多端 UI 库（PS：新版 kbone-ui 已出炉并迁移到 kbone 主仓库，此仓库仅做旧版维护之用）",
+    "topics": [],
+    "starred_at": "2021-06-14T09:43:39Z",
+    "category": "Web应用",
+    "tags": [
+      "UI库",
+      "小程序",
+      "Vue",
+      "多端",
+      "前端开发"
+    ],
+    "summary": "kbone-ui是一套多端UI库，支持小程序(kbone)和Vue框架开发，可帮助开发者快速构建跨平台界面应用。此仓库为旧版维护，新版已迁移至kbone主仓库。",
+    "analyzed_at": "2025-10-24T19:19:27.346086+00:00"
+  },
+  {
+    "repo_full_name": "wupeiwen/vue-g2",
+    "owner": "wupeiwen",
+    "html_url": "https://github.com/wupeiwen/vue-g2",
+    "description": "基于 Vue 和 AntV/G2 的可视化组件库 :chart_with_upwards_trend:",
+    "topics": [
+      "antv",
+      "chart",
+      "data-visualization",
+      "visualization",
+      "vue",
+      "vue-component"
+    ],
+    "starred_at": "2021-06-14T09:43:41Z",
+    "category": "开发工具",
+    "tags": [
+      "数据可视化",
+      "Vue组件",
+      "图表",
+      "前端开发",
+      "AntV"
+    ],
+    "summary": "这是一个基于Vue和AntV/G2的数据可视化组件库，提供了丰富的图表组件，帮助开发者快速构建数据可视化应用。",
+    "analyzed_at": "2025-10-24T19:19:27.346086+00:00"
+  },
+  {
+    "repo_full_name": "lison16/vue-bigdata-table",
+    "owner": "lison16",
+    "html_url": "https://github.com/lison16/vue-bigdata-table",
+    "description": "基于Vue.js的百万级数据表格组件，支持编辑、筛选、过滤、粘贴、拖动调整列宽等多种功能",
+    "topics": [],
+    "starred_at": "2021-06-14T09:43:44Z",
+    "category": "Web应用",
+    "tags": [
+      "Vue.js",
+      "数据表格",
+      "大数据",
+      "前端组件",
+      "数据可视化"
+    ],
+    "summary": "基于Vue.js开发的高性能大数据表格组件，可处理百万级数据，支持编辑、筛选、过滤、粘贴和拖动调整列宽等功能，适用于需要展示和处理大量数据的Web应用。",
+    "analyzed_at": "2025-10-24T19:19:27.346086+00:00"
+  },
+  {
+    "repo_full_name": "PanJiaChen/vue-element-admin",
+    "owner": "PanJiaChen",
+    "html_url": "https://github.com/PanJiaChen/vue-element-admin",
+    "description": ":tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin",
+    "topics": [
+      "admin",
+      "admin-dashboard",
+      "admin-template",
+      "axios",
+      "dashboard",
+      "desktop",
+      "element",
+      "element-ui",
+      "i18n",
+      "management-system",
+      "mock",
+      "tinymce",
+      "vue",
+      "vue-admin",
+      "vue-cli",
+      "vuex",
+      "webpack",
+      "webpack4",
+      "xlsx"
+    ],
+    "starred_at": "2021-06-14T09:43:46Z",
+    "category": "Web应用",
+    "tags": [
+      "管理系统",
+      "Vue.js",
+      "前端框架",
+      "后台模板",
+      "Element UI"
+    ],
+    "summary": "这是一个基于Vue.js和Element UI的现代化管理后台模板，提供丰富的组件和功能模块，支持国际化、数据表格、富文本编辑等特性，适合快速构建企业级管理系统。",
+    "analyzed_at": "2025-10-24T19:19:27.346086+00:00"
+  },
+  {
+    "repo_full_name": "vuejs/vue-cli",
+    "owner": "vuejs",
+    "html_url": "https://github.com/vuejs/vue-cli",
+    "description": "🛠️ webpack-based tooling for Vue.js Development",
+    "topics": [],
+    "starred_at": "2021-06-14T09:43:48Z",
+    "category": "开发工具",
+    "tags": [
+      "Vue.js",
+      "前端开发",
+      "脚手架工具",
+      "webpack",
+      "CLI工具",
+      "项目初始化"
+    ],
+    "summary": "Vue CLI是Vue.js的官方脚手架工具，基于webpack构建，提供项目初始化、开发服务器、插件系统等功能，简化Vue.js应用的开发流程。",
+    "analyzed_at": "2025-10-24T19:19:27.346086+00:00"
+  },
+  {
+    "repo_full_name": "yuanfu999/leyou",
+    "owner": "yuanfu999",
+    "html_url": "https://github.com/yuanfu999/leyou",
+    "description": "- 乐优商城是一个全品类的电商购物网站（B2C）。 - 用户可以在线购买商品、加入购物车、下单、秒杀商品 - 可以品论已购买商品 - 管理员可以在后台管理商品的上下架、促销活动 - 管理员可以监控商品销售状况 - 客服可以在后台处理退款操作.- 基础的HTML、CSS、JavaScript（基于ES6标准） - Vue.js 2.0以及基于Vue的UI框架：Vuetify - 前端构建工具：WebPack - 前端安装包工具：NPM - Vue脚手架：Vue-cli - Vue路由：vue-router - ajax框架：axios - 基于Vue的富文本框架：quill-editor  后端技术：  - 基础的SpringMVC、Spring 5.0和MyBatis3 - Spring Boot 2.0.1版本 - Spring Cloud 最新版 Finchley.RC1 - Redis-4.0 - RabbitMQ-3.4 - Elasticsearch-5.6.8 - nginx-1.10.2 - FastDFS - 5.0.8 - MyCat - Thymeleaf - JWT",
+    "topics": [],
+    "starred_at": "2021-06-14T09:43:51Z",
+    "category": "Web应用",
+    "tags": [
+      "电商",
+      "Vue.js",
+      "Spring Boot",
+      "微服务",
+      "B2C",
+      "购物平台"
+    ],
+    "summary": "乐优商城是一个全品类B2C电商网站，支持商品浏览、购物车、下单、秒杀和评论功能。管理员可管理商品和促销活动，客服可处理退款。基于Vue.js和Spring Boot构建，采用微服务架构。",
+    "analyzed_at": "2025-10-24T19:19:27.346086+00:00"
+  },
+  {
+    "repo_full_name": "vuejs/vuepress",
+    "owner": "vuejs",
+    "html_url": "https://github.com/vuejs/vuepress",
+    "description": "📝 Minimalistic Vue-powered static site generator",
+    "topics": [
+      "blog-engine",
+      "docs-generator",
+      "seo",
+      "static-site-generator",
+      "vue",
+      "vuepress"
+    ],
+    "starred_at": "2021-06-14T09:43:54Z",
+    "category": "开发工具",
+    "tags": [
+      "静态站点生成器",
+      "Vue.js",
+      "博客引擎",
+      "文档生成器",
+      "SEO优化"
+    ],
+    "summary": "VuePress是一个基于Vue.js的极简静态站点生成器，专为博客和文档设计。它提供SEO优化、响应式布局和Markdown支持，帮助开发者快速构建美观的网站和文档。",
+    "analyzed_at": "2025-10-24T19:19:27.346086+00:00"
+  },
+  {
+    "repo_full_name": "Molunerfinn/PicGo",
+    "owner": "Molunerfinn",
+    "html_url": "https://github.com/Molunerfinn/PicGo",
+    "description": ":rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder",
+    "topics": [
+      "aliyun-oss",
+      "electron",
+      "electron-app",
+      "electron-vue",
+      "github",
+      "imgur",
+      "imgur-uploader",
+      "qiniu",
+      "smms",
+      "tencent-cos",
+      "upyun",
+      "vue",
+      "weibo"
+    ],
+    "starred_at": "2021-06-14T09:43:57Z",
+    "category": "桌面应用",
+    "tags": [
+      "图片上传",
+      "桌面应用",
+      "多平台支持",
+      "云存储",
+      "Vue.js"
+    ],
+    "summary": "PicGo是一个简单美观的图片上传工具，基于Electron和Vue.js构建，支持多种云存储服务，如GitHub、Imgur、阿里云OSS等，为用户提供便捷的图片管理和上传体验。",
+    "analyzed_at": "2025-10-24T19:19:27.346086+00:00"
+  },
+  {
+    "repo_full_name": "PanJiaChen/vue-admin-template",
+    "owner": "PanJiaChen",
+    "html_url": "https://github.com/PanJiaChen/vue-admin-template",
+    "description": "a vue2.0 minimal admin template ",
+    "topics": [
+      "axios",
+      "element-ui",
+      "javascript",
+      "vue",
+      "vue-admin",
+      "vue-cli",
+      "vue-router",
+      "vuex"
+    ],
+    "starred_at": "2021-06-14T09:43:58Z",
+    "category": "Web应用",
+    "tags": [
+      "Vue.js",
+      "管理后台",
+      "前端框架",
+      "模板",
+      "组件库"
+    ],
+    "summary": "这是一个基于Vue 2.0的极简管理后台模板，集成了Element UI组件库，使用Vue Router和Vuex进行状态管理，适合快速开发企业级管理系统。",
+    "analyzed_at": "2025-10-24T19:19:27.346086+00:00"
+  },
+  {
+    "repo_full_name": "TanStack/table",
+    "owner": "TanStack",
+    "html_url": "https://github.com/TanStack/table",
+    "description": "🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table",
+    "topics": [
+      "datagrid",
+      "datagrids",
+      "datatable",
+      "filtering",
+      "grid",
+      "grouping",
+      "hooks",
+      "javascript",
+      "pagination",
+      "react",
+      "reactjs",
+      "solid",
+      "solidjs",
+      "sorting",
+      "svelte",
+      "sveltejs",
+      "table",
+      "typescript",
+      "vue"
+    ],
+    "starred_at": "2021-06-14T09:54:42Z",
+    "category": "开发工具",
+    "tags": [
+      "table",
+      "datagrid",
+      "react",
+      "typescript",
+      "sorting",
+      "filtering"
+    ],
+    "summary": "TanStack/table是一个强大的无头UI表格库，支持React、Vue、Solid和Svelte框架，提供排序、过滤、分页和分组等功能，帮助开发者快速构建高性能的数据表格组件。",
+    "analyzed_at": "2025-10-24T19:19:27.346086+00:00"
+  },
+  {
+    "repo_full_name": "MuYunyun/create-react-doc",
+    "owner": "MuYunyun",
+    "html_url": "https://github.com/MuYunyun/create-react-doc",
+    "description": "📝 Minimalistic React-powered static site generator.",
+    "topics": [
+      "blog",
+      "cli",
+      "markdown",
+      "prerender",
+      "react",
+      "react-doc",
+      "ssr"
+    ],
+    "starred_at": "2021-06-14T09:54:47Z",
+    "category": "开发工具",
+    "tags": [
+      "blog",
+      "cli",
+      "markdown",
+      "react"
+    ],
+    "summary": "这是一个基于React的轻量级静态网站生成器，特别适合创建文档和博客。它支持Markdown，提供命令行界面，并具有预渲染和服务器端渲染功能。",
+    "analyzed_at": "2025-10-24T19:19:27.346086+00:00"
+  },
+  {
+    "repo_full_name": "microsoft/react-native-windows",
+    "owner": "microsoft",
+    "html_url": "https://github.com/microsoft/react-native-windows",
+    "description": "A framework for building native Windows apps with React.",
+    "topics": [
+      "dotnet",
+      "react",
+      "react-native",
+      "uwp",
+      "xbox"
+    ],
+    "starred_at": "2021-06-14T09:54:50Z",
+    "category": "桌面应用",
+    "tags": [
+      "React",
+      "React Native",
+      "Windows",
+      "UWP",
+      ".NET"
+    ],
+    "summary": "React Native Windows是一个允许开发者使用React和JavaScript构建原生Windows应用程序的框架。它结合了React的声明式UI和Windows的原生性能，支持UWP和Xbox平台。",
+    "analyzed_at": "2025-10-24T19:19:27.346086+00:00"
+  },
+  {
+    "repo_full_name": "TanStack/react-charts",
+    "owner": "TanStack",
+    "html_url": "https://github.com/TanStack/react-charts",
+    "description": "⚛️ Simple, immersive & interactive charts for React",
+    "topics": [
+      "chart",
+      "component",
+      "d3",
+      "react",
+      "react-motion"
+    ],
+    "starred_at": "2021-06-14T09:54:53Z",
+    "category": "开发工具",
+    "tags": [
+      "图表",
+      "组件",
+      "React",
+      "D3",
+      "数据可视化"
+    ],
+    "summary": "TanStack/react-charts是一个为React设计的简单、沉浸式和交互式图表库。它基于D3构建，提供丰富的组件，帮助开发者轻松创建美观的数据可视化图表。",
+    "analyzed_at": "2025-10-24T19:19:27.346086+00:00"
+  },
+  {
+    "repo_full_name": "preactjs/preact",
+    "owner": "preactjs",
+    "html_url": "https://github.com/preactjs/preact",
+    "description": "⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.",
+    "topics": [
+      "components",
+      "dom",
+      "jsx",
+      "preact",
+      "react",
+      "vdom",
+      "virtual-dom"
+    ],
+    "starred_at": "2021-06-14T09:54:55Z",
+    "category": "开发工具",
+    "tags": [
+      "components",
+      "jsx",
+      "react",
+      "vdom",
+      "preact"
+    ],
+    "summary": "Preact是一个轻量级的React替代品，体积仅3kB，提供相同的现代API。它专注于组件和虚拟DOM，是构建高性能前端应用的理想选择。",
+    "analyzed_at": "2025-10-24T19:19:27.346086+00:00"
+  },
+  {
+    "repo_full_name": "tuture-dev/react-roadmap",
+    "owner": "tuture-dev",
+    "html_url": "https://github.com/tuture-dev/react-roadmap",
+    "description": "【🔥持续更新中】React 前端工程师实战学习路线",
+    "topics": [
+      "engineering",
+      "frontend-developer",
+      "frontend-development",
+      "frontend-engineering",
+      "learn-by-doing",
+      "react-roadmap",
+      "study-plan"
+    ],
+    "starred_at": "2021-06-14T09:54:57Z",
+    "category": "开发工具",
+    "tags": [
+      "前端开发",
+      "React",
+      "学习路线",
+      "工程实践",
+      "学习计划"
+    ],
+    "summary": "这是一个持续更新的React前端工程师实战学习路线，通过项目实践帮助开发者系统学习React技术栈。",
+    "analyzed_at": "2025-10-24T19:19:27.346086+00:00"
+  },
+  {
+    "repo_full_name": "timarney/react-app-rewired",
+    "owner": "timarney",
+    "html_url": "https://github.com/timarney/react-app-rewired",
+    "description": "Override create-react-app webpack configs without ejecting",
+    "topics": [
+      "config",
+      "create-react-app",
+      "eject",
+      "never",
+      "react",
+      "webpack"
+    ],
+    "starred_at": "2021-06-14T09:54:59Z",
+    "category": "开发工具",
+    "tags": [
+      "config",
+      "create-react-app",
+      "react",
+      "webpack"
+    ],
+    "summary": "react-app-rewired是一个开发工具，允许开发者在不弹出(eject)的情况下覆盖create-react-app的webpack配置，保持项目可升级性的同时实现自定义构建配置。",
+    "analyzed_at": "2025-10-24T19:19:27.346086+00:00"
+  },
+  {
+    "repo_full_name": "sorrycc/roadhog",
+    "owner": "sorrycc",
+    "html_url": "https://github.com/sorrycc/roadhog",
+    "description": "🐷 Cli tool for creating react apps, configurable version of create-react-app.",
+    "topics": [],
+    "starred_at": "2021-06-14T09:55:01Z",
+    "category": "开发工具",
+    "tags": [
+      "React",
+      "命令行工具",
+      "前端开发",
+      "开发工具",
+      "CLI"
+    ],
+    "summary": "Roadhog是一个React应用的命令行创建工具，是create-react-app的可配置版本，提供了更灵活的配置选项，帮助开发者快速搭建React项目。",
+    "analyzed_at": "2025-10-24T19:19:27.346086+00:00"
+  },
+  {
+    "repo_full_name": "reduxjs/react-redux",
+    "owner": "reduxjs",
+    "html_url": "https://github.com/reduxjs/react-redux",
+    "description": "Official React bindings for Redux",
+    "topics": [
+      "react",
+      "redux"
+    ],
+    "starred_at": "2021-06-14T09:55:03Z",
+    "category": "开发工具",
+    "tags": [
+      "react",
+      "redux",
+      "javascript",
+      "state-management",
+      "frontend",
+      "hooks"
+    ],
+    "summary": "React-Redux是React和Redux的官方绑定库，用于在React应用中管理状态。它提供了connect组件和useRedux钩子，使开发者能够轻松地将Redux状态与React组件连接，实现高效的状态管理和数据流控制。",
+    "analyzed_at": "2025-10-24T19:19:27.346086+00:00"
+  },
+  {
+    "repo_full_name": "react-book/book-code",
+    "owner": "react-book",
+    "html_url": "https://github.com/react-book/book-code",
+    "description": null,
+    "topics": [],
+    "starred_at": "2021-06-14T09:55:05Z",
+    "category": "教育学习",
+    "tags": [
+      "React",
+      "教程",
+      "前端开发",
+      "代码示例",
+      "学习资源"
+    ],
+    "summary": "这是一个关于React的书籍代码仓库，包含书籍中的示例代码，适合React学习者参考和实践。",
+    "analyzed_at": "2025-10-24T19:19:27.346086+00:00"
+  },
+  {
+    "repo_full_name": "SangKa/react-in-patterns-cn",
+    "owner": "SangKa",
+    "html_url": "https://github.com/SangKa/react-in-patterns-cn",
+    "description": "React in patterns 中文版",
+    "topics": [
+      "chinese-simplified",
+      "chinese-translation",
+      "data-flow",
+      "dependency",
+      "injection",
+      "patterns",
+      "react"
+    ],
+    "starred_at": "2021-06-14T09:55:07Z",
+    "category": "开发工具",
+    "tags": [
+      "React",
+      "设计模式",
+      "数据流",
+      "依赖注入",
+      "中文文档"
+    ],
+    "summary": "React设计模式中文版，系统介绍React开发中的各种设计模式、数据流管理和依赖注入等核心概念，帮助中文开发者深入理解React最佳实践。",
+    "analyzed_at": "2025-10-24T19:19:27.346086+00:00"
+  },
+  {
+    "repo_full_name": "mocheng/react-and-redux",
+    "owner": "mocheng",
+    "html_url": "https://github.com/mocheng/react-and-redux",
+    "description": "《深入浅出React和Redux》代码",
+    "topics": [],
+    "starred_at": "2021-06-14T09:55:09Z",
+    "category": "开发工具",
+    "tags": [
+      "React",
+      "Redux",
+      "前端开发",
+      "JavaScript",
+      "教程"
+    ],
+    "summary": "《深入浅出React和Redux》配套代码仓库，提供React和Redux的学习示例和实践代码，适合前端开发者学习使用。",
+    "analyzed_at": "2025-10-24T19:19:27.346086+00:00"
+  },
+  {
+    "repo_full_name": "xiaogliu/react-native-complete-demo",
+    "owner": "xiaogliu",
+    "html_url": "https://github.com/xiaogliu/react-native-complete-demo",
+    "description": "This repository provides a complete RN app demo, including integrated react navigation, redux, network requests and custom components. 这个仓库提供了一个完整的 RN app demo，包括集成 react navigation，redux，网络请求及自定义组件",
+    "topics": [],
+    "starred_at": "2021-06-14T09:55:12Z",
+    "category": "移动应用",
+    "tags": [
+      "React Native",
+      "移动开发",
+      "示例项目",
+      "Redux",
+      "导航",
+      "网络请求"
+    ],
+    "summary": "这是一个完整的React Native应用示例项目，集成了导航系统、Redux状态管理、网络请求功能和自定义组件，适合学习React Native开发的开发者参考。",
+    "analyzed_at": "2025-10-24T19:19:27.346086+00:00"
+  },
+  {
+    "repo_full_name": "umijs/umi",
+    "owner": "umijs",
+    "html_url": "https://github.com/umijs/umi",
+    "description": "A framework in react community ✨",
+    "topics": [
+      "react",
+      "react-framework",
+      "umi",
+      "umijs"
+    ],
+    "starred_at": "2021-06-14T09:55:14Z",
+    "category": "开发工具",
+    "tags": [
+      "react",
+      "react-framework",
+      "umi",
+      "umijs"
+    ],
+    "summary": "Umi是一个React社区中的前端框架，提供了开箱即用的解决方案，支持插件化架构，帮助开发者快速构建企业级React应用。",
+    "analyzed_at": "2025-10-24T19:19:27.346086+00:00"
   }
 ]
