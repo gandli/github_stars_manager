@@ -18460,5 +18460,1222 @@
     ],
     "summary": "这是一个《JavaScript 编程精解》第三版的中文翻译项目，为中文读者提供了高质量的JavaScript学习资源，适合前端开发初学者和进阶者。",
     "analyzed_at": "2025-10-27T19:19:23.822611+00:00"
+  },
+  {
+    "repo_full_name": "tuture-dev/nodejs-roadmap",
+    "owner": "tuture-dev",
+    "html_url": "https://github.com/tuture-dev/nodejs-roadmap",
+    "description": "【🔥持续更新中】Node.js 实战学习路线",
+    "topics": [
+      "learning-by-doing",
+      "nodejs",
+      "tutorials"
+    ],
+    "starred_at": "2021-07-01T11:25:09Z",
+    "category": "教育学习",
+    "tags": [
+      "学习路线",
+      "Node.js",
+      "教程",
+      "实践学习",
+      "前端开发",
+      "后端开发"
+    ],
+    "summary": "这是一个持续更新的Node.js实战学习路线图，通过实践方式帮助开发者系统学习Node.js技术，包含从基础到进阶的完整学习路径。",
+    "analyzed_at": "2025-10-28T19:19:43.377589+00:00"
+  },
+  {
+    "repo_full_name": "javascript-tutorial/zh.javascript.info",
+    "owner": "javascript-tutorial",
+    "html_url": "https://github.com/javascript-tutorial/zh.javascript.info",
+    "description": "现代 JavaScript 教程（The Modern JavaScript Tutorial），以最新的 ECMAScript 规范为基准，通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识。",
+    "topics": [
+      "chinese",
+      "javascript",
+      "tutorial"
+    ],
+    "starred_at": "2021-07-01T11:25:13Z",
+    "category": "教育学习",
+    "tags": [
+      "javascript",
+      "编程语言",
+      "前端开发",
+      "学习资源",
+      "中文"
+    ],
+    "summary": "现代JavaScript教程，基于最新ECMAScript规范，从基础到高阶全面讲解JavaScript知识，适合中文学习者系统学习前端编程。",
+    "analyzed_at": "2025-10-28T19:19:43.377589+00:00"
+  },
+  {
+    "repo_full_name": "nodejs/node-gyp",
+    "owner": "nodejs",
+    "html_url": "https://github.com/nodejs/node-gyp",
+    "description": "Node.js native addon build tool",
+    "topics": [
+      "gyp",
+      "node",
+      "node-addon",
+      "node-gyp",
+      "nodejs"
+    ],
+    "starred_at": "2021-07-01T11:25:15Z",
+    "category": "开发工具",
+    "tags": [
+      "node",
+      "node-addon",
+      "node-gyp",
+      "gyp",
+      "nodejs"
+    ],
+    "summary": "node-gyp 是 Node.js 的原生插件构建工具，用于编译 C/C++ 扩展模块，使开发者能够在 Node.js 环境中使用原生代码功能。",
+    "analyzed_at": "2025-10-28T19:19:43.377589+00:00"
+  },
+  {
+    "repo_full_name": "prisma/prisma-examples",
+    "owner": "prisma",
+    "html_url": "https://github.com/prisma/prisma-examples",
+    "description": " 🚀 Ready-to-run Prisma example projects",
+    "topics": [
+      "boilerplate",
+      "examples",
+      "graphql",
+      "nodejs",
+      "prisma",
+      "prisma-client",
+      "typescript"
+    ],
+    "starred_at": "2021-07-02T10:26:12Z",
+    "category": "开发工具",
+    "tags": [
+      "prisma",
+      "nodejs",
+      "typescript",
+      "graphql",
+      "examples"
+    ],
+    "summary": "Prisma官方示例项目集合，包含多种场景下的数据库访问实现，支持Node.js和TypeScript，涵盖GraphQL等多种技术栈，帮助开发者快速上手Prisma数据库工具。",
+    "analyzed_at": "2025-10-28T19:19:43.377589+00:00"
+  },
+  {
+    "repo_full_name": "prisma/prisma",
+    "owner": "prisma",
+    "html_url": "https://github.com/prisma/prisma",
+    "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+    "topics": [
+      "cockroachdb",
+      "database",
+      "javascript",
+      "mariadb",
+      "mongo",
+      "mongodb",
+      "mongodb-orm",
+      "mssql",
+      "mysql",
+      "nodejs",
+      "orm",
+      "postgres",
+      "postgresql",
+      "prisma",
+      "prisma-client",
+      "query-builder",
+      "sql-server",
+      "sqlite",
+      "sqlserver",
+      "typescript"
+    ],
+    "starred_at": "2021-07-02T10:26:50Z",
+    "category": "开发工具",
+    "tags": [
+      "数据库",
+      "ORM",
+      "TypeScript",
+      "Node.js",
+      "查询构建器"
+    ],
+    "summary": "Prisma是下一代Node.js和TypeScript的ORM工具，支持多种数据库，提供类型安全的数据库访问和现代化的查询API。",
+    "analyzed_at": "2025-10-28T19:19:43.377589+00:00"
+  },
+  {
+    "repo_full_name": "ggreer/the_silver_searcher",
+    "owner": "ggreer",
+    "html_url": "https://github.com/ggreer/the_silver_searcher",
+    "description": "A code-searching tool similar to ack, but faster.",
+    "topics": [
+      "ag",
+      "c",
+      "command-line-tool",
+      "pcre",
+      "search-in-text",
+      "silver-searcher"
+    ],
+    "starred_at": "2021-07-03T03:27:37Z",
+    "category": "开发工具",
+    "tags": [
+      "命令行工具",
+      "代码搜索",
+      "正则表达式",
+      "开发工具"
+    ],
+    "summary": "the_silver_searcher是一款快速代码搜索工具，类似ack但性能更优，支持正则表达式，专为开发者设计，可在代码库中快速定位内容。",
+    "analyzed_at": "2025-10-28T19:19:43.377589+00:00"
+  },
+  {
+    "repo_full_name": "jonas/tig",
+    "owner": "jonas",
+    "html_url": "https://github.com/jonas/tig",
+    "description": "Text-mode interface for git",
+    "topics": [
+      "c",
+      "git",
+      "ncurses",
+      "tui"
+    ],
+    "starred_at": "2021-07-03T03:28:28Z",
+    "category": "开发工具",
+    "tags": [
+      "c",
+      "git",
+      "ncurses",
+      "tui",
+      "版本控制",
+      "命令行工具"
+    ],
+    "summary": "tig是一个用C语言编写的文本模式Git界面工具，基于ncurses库提供友好的文本用户界面，使开发者能够更直观、高效地进行Git版本控制操作。",
+    "analyzed_at": "2025-10-28T19:19:43.377589+00:00"
+  },
+  {
+    "repo_full_name": "facebook/PathPicker",
+    "owner": "facebook",
+    "html_url": "https://github.com/facebook/PathPicker",
+    "description": "PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything. After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands.",
+    "topics": [],
+    "starred_at": "2021-07-03T03:31:28Z",
+    "category": "开发工具",
+    "tags": [
+      "命令行工具",
+      "文件选择器",
+      "Git工具",
+      "开发效率",
+      "UI工具",
+      "输出处理"
+    ],
+    "summary": "PathPicker是一个命令行工具，可接受git、grep等命令的输出，提供友好的UI界面让开发者选择感兴趣的文件，支持在编辑器中打开或执行自定义命令，提高开发效率。",
+    "analyzed_at": "2025-10-28T19:19:43.377589+00:00"
+  },
+  {
+    "repo_full_name": "Angelmmiguel/pm",
+    "owner": "Angelmmiguel",
+    "html_url": "https://github.com/Angelmmiguel/pm",
+    "description": "The easy way to switch between your projects on ZSH",
+    "topics": [
+      "jump",
+      "manager",
+      "projects",
+      "script",
+      "switch",
+      "zsh"
+    ],
+    "starred_at": "2021-07-03T03:38:55Z",
+    "category": "开发工具",
+    "tags": [
+      "项目管理",
+      "命令行工具",
+      "ZSH",
+      "开发效率",
+      "快速切换"
+    ],
+    "summary": "这是一个ZSH项目切换工具，帮助开发者快速在不同项目间切换，提高开发效率。",
+    "analyzed_at": "2025-10-28T19:19:43.377589+00:00"
+  },
+  {
+    "repo_full_name": "nvbn/thefuck",
+    "owner": "nvbn",
+    "html_url": "https://github.com/nvbn/thefuck",
+    "description": "Magnificent app which corrects your previous console command.",
+    "topics": [
+      "python",
+      "shell"
+    ],
+    "starred_at": "2021-07-03T03:46:34Z",
+    "category": "开发工具",
+    "tags": [
+      "python",
+      "shell",
+      "command-line",
+      "productivity",
+      "terminal",
+      "automation"
+    ],
+    "summary": "一个命令行工具，能够自动识别并纠正用户之前输入的错误命令，提高命令行操作效率。",
+    "analyzed_at": "2025-10-28T19:19:43.377589+00:00"
+  },
+  {
+    "repo_full_name": "microsoft/react-native-macos",
+    "owner": "microsoft",
+    "html_url": "https://github.com/microsoft/react-native-macos",
+    "description": "A framework for building native macOS apps with React.",
+    "topics": [],
+    "starred_at": "2021-07-03T04:11:25Z",
+    "category": "桌面应用",
+    "tags": [
+      "React Native",
+      "macOS",
+      "跨平台开发",
+      "原生应用",
+      "前端框架",
+      "微软"
+    ],
+    "summary": "React Native macOS是微软推出的一个框架，允许开发者使用React技术构建原生的macOS应用程序。作为React Native的macOS版本，它实现了跨平台开发能力，让前端开发者能够利用熟悉的React语法创建高性能的桌面应用，丰富了React生态系统的应用场景。",
+    "analyzed_at": "2025-10-28T19:19:43.377589+00:00"
+  },
+  {
+    "repo_full_name": "dns-sb/dns.sb",
+    "owner": "dns-sb",
+    "html_url": "https://github.com/dns-sb/dns.sb",
+    "description": "https://dns.sb/",
+    "topics": [
+      "dns",
+      "dns-over-https",
+      "dns-over-tls"
+    ],
+    "starred_at": "2021-07-03T09:02:05Z",
+    "category": "开发工具",
+    "tags": [
+      "DNS",
+      "DNS-over-HTTPS",
+      "DNS-over-TLS",
+      "网络工具",
+      "隐私保护"
+    ],
+    "summary": "dns.sb是一个提供DNS服务的网站，支持DNS-over-HTTPS和DNS-over-TLS协议，注重用户隐私保护和网络安全，为用户提供更安全、更快速的DNS解析服务。",
+    "analyzed_at": "2025-10-28T19:19:43.377589+00:00"
+  },
+  {
+    "repo_full_name": "ubuntu/WSL",
+    "owner": "ubuntu",
+    "html_url": "https://github.com/ubuntu/WSL",
+    "description": "Ubuntu WSL image build and launcher code.",
+    "topics": [],
+    "starred_at": "2021-07-03T10:05:26Z",
+    "category": "开发工具",
+    "tags": [
+      "Linux",
+      "Windows",
+      "WSL",
+      "开发环境",
+      "跨平台"
+    ],
+    "summary": "Ubuntu官方提供的WSL镜像构建和启动器代码，让开发者能在Windows系统中无缝使用Linux环境，提升跨平台开发效率。",
+    "analyzed_at": "2025-10-28T19:19:43.377589+00:00"
+  },
+  {
+    "repo_full_name": "MidnightCommander/mc-old",
+    "owner": "MidnightCommander",
+    "html_url": "https://github.com/MidnightCommander/mc-old",
+    "description": "Midnight Commander's repository",
+    "topics": [
+      "c",
+      "console",
+      "file-manager",
+      "terminal-based"
+    ],
+    "starred_at": "2021-07-03T10:21:46Z",
+    "category": "开发工具",
+    "tags": [
+      "console",
+      "file-manager",
+      "terminal-based",
+      "c"
+    ],
+    "summary": "Midnight Commander 是一个经典的基于终端的文件管理器，使用 C 语言编写，为命令行环境提供直观的文件浏览和管理功能，深受开发者喜爱。",
+    "analyzed_at": "2025-10-28T19:19:43.377589+00:00"
+  },
+  {
+    "repo_full_name": "wtfutil/wtf",
+    "owner": "wtfutil",
+    "html_url": "https://github.com/wtfutil/wtf",
+    "description": "The personal information dashboard for your terminal",
+    "topics": [
+      "cui",
+      "dashboard",
+      "devops",
+      "go",
+      "golang",
+      "hacktoberfest",
+      "terminal",
+      "tui",
+      "wtf",
+      "wtfutil"
+    ],
+    "starred_at": "2021-07-03T10:23:01Z",
+    "category": "效率工具",
+    "tags": [
+      "dashboard",
+      "terminal",
+      "devops",
+      "tui",
+      "go"
+    ],
+    "summary": "这是一个终端个人信息仪表板，帮助开发者在命令行界面中高效组织和查看各类信息，特别适合DevOps工作流程。",
+    "analyzed_at": "2025-10-28T19:19:43.377589+00:00"
+  },
+  {
+    "repo_full_name": "tldr-pages/tldr",
+    "owner": "tldr-pages",
+    "html_url": "https://github.com/tldr-pages/tldr",
+    "description": "📚 Collaborative cheatsheets for console commands",
+    "topics": [
+      "android",
+      "bsd",
+      "cheatsheet",
+      "cheatsheets",
+      "command-line",
+      "console",
+      "documentation",
+      "examples",
+      "hacktoberfest",
+      "help",
+      "linux",
+      "macos",
+      "man-page",
+      "manpages",
+      "manual",
+      "osx",
+      "shell",
+      "terminal",
+      "tldr",
+      "windows"
+    ],
+    "starred_at": "2021-07-03T10:24:14Z",
+    "category": "开发工具",
+    "tags": [
+      "命令行",
+      "文档",
+      "速查表",
+      "终端",
+      "Linux",
+      "开发工具"
+    ],
+    "summary": "这是一个协作式的命令行工具速查表项目，为各种操作系统提供简化的命令参考文档，帮助开发者快速查找和使用命令行工具。",
+    "analyzed_at": "2025-10-28T19:19:43.377589+00:00"
+  },
+  {
+    "repo_full_name": "ruanyf/weekly",
+    "owner": "ruanyf",
+    "html_url": "https://github.com/ruanyf/weekly",
+    "description": "科技爱好者周刊，每周五发布",
+    "topics": [],
+    "starred_at": "2021-07-03T10:43:14Z",
+    "category": "教育学习",
+    "tags": [
+      "科技资讯",
+      "周刊",
+      "内容聚合",
+      "开发者",
+      "知识分享"
+    ],
+    "summary": "科技爱好者周刊，每周五精选分享科技领域最新动态、优质文章和开源项目，帮助开发者和技术爱好者及时了解行业趋势。",
+    "analyzed_at": "2025-10-28T19:19:43.377589+00:00"
+  },
+  {
+    "repo_full_name": "juicedata/juicesync",
+    "owner": "juicedata",
+    "html_url": "https://github.com/juicedata/juicesync",
+    "description": "A tool to move your data between any clouds or regions.",
+    "topics": [],
+    "starred_at": "2021-07-03T10:43:57Z",
+    "category": "开发工具",
+    "tags": [
+      "数据迁移",
+      "云存储",
+      "数据同步",
+      "跨云",
+      "数据备份"
+    ],
+    "summary": "JuiceSync是一个跨云数据迁移工具，支持在不同云服务提供商和区域之间安全、高效地传输数据，简化多云环境下的数据管理流程。",
+    "analyzed_at": "2025-10-28T19:19:43.377589+00:00"
+  },
+  {
+    "repo_full_name": "lra/mackup",
+    "owner": "lra",
+    "html_url": "https://github.com/lra/mackup",
+    "description": "Backup and keep your application settings in sync.",
+    "topics": [],
+    "starred_at": "2021-07-03T10:44:57Z",
+    "category": "开发工具",
+    "tags": [
+      "应用配置备份",
+      "设置同步",
+      "跨设备同步",
+      "开发环境配置",
+      "数据备份"
+    ],
+    "summary": "Mackup是一个应用程序设置备份和同步工具，可帮助用户备份应用程序配置并在不同设备间保持一致。它支持多种应用程序，确保用户可以在新设备上快速恢复个人化设置。",
+    "analyzed_at": "2025-10-28T19:19:43.377589+00:00"
+  },
+  {
+    "repo_full_name": "nbedos/termtosvg",
+    "owner": "nbedos",
+    "html_url": "https://github.com/nbedos/termtosvg",
+    "description": "Record terminal sessions as SVG animations",
+    "topics": [
+      "animation",
+      "cli",
+      "recorder",
+      "recording",
+      "shell",
+      "svg",
+      "svg-animations",
+      "terminal"
+    ],
+    "starred_at": "2021-07-03T10:49:16Z",
+    "category": "开发工具",
+    "tags": [
+      "cli",
+      "recorder",
+      "terminal",
+      "svg",
+      "animation"
+    ],
+    "summary": "termtosvg是一个将终端会话记录为SVG动画的工具，可用于展示命令行操作过程，生成可分享的动画演示，适合开发者记录和分享终端操作教程。",
+    "analyzed_at": "2025-10-28T19:19:43.377589+00:00"
+  },
+  {
+    "repo_full_name": "hackerb9/lsix",
+    "owner": "hackerb9",
+    "html_url": "https://github.com/hackerb9/lsix",
+    "description": "Like \"ls\", but for images. Shows thumbnails in terminal using sixel graphics.",
+    "topics": [
+      "files",
+      "graphics",
+      "imagemagick",
+      "ls",
+      "montage",
+      "sixel-graphics",
+      "terminal",
+      "terminal-graphics",
+      "thumbnails",
+      "vt340",
+      "xterm"
+    ],
+    "starred_at": "2021-07-03T10:50:46Z",
+    "category": "开发工具",
+    "tags": [
+      "terminal",
+      "graphics",
+      "thumbnails",
+      "sixel-graphics",
+      "files"
+    ],
+    "summary": "lsix是一个终端工具，类似于ls命令，但专门用于在终端中显示图片缩略图。它利用sixel图形技术在命令行界面中渲染图像，让开发者无需离开终端即可预览图像文件。",
+    "analyzed_at": "2025-10-28T19:19:43.377589+00:00"
+  },
+  {
+    "repo_full_name": "vivaxy/gacp",
+    "owner": "vivaxy",
+    "html_url": "https://github.com/vivaxy/gacp",
+    "description": "💬Git add, commit, push with Conventional Commits and Gitmoji.",
+    "topics": [
+      "changelog",
+      "commit",
+      "commit-conventions",
+      "commit-message",
+      "commitizen",
+      "conventional-changelog",
+      "emoji",
+      "gacp",
+      "git",
+      "git-add",
+      "git-commit",
+      "git-push",
+      "gitmoji",
+      "nodejs",
+      "standard-version"
+    ],
+    "starred_at": "2021-07-03T10:51:37Z",
+    "category": "开发工具",
+    "tags": [
+      "git",
+      "commit",
+      "开发工具",
+      "代码规范",
+      "工作流"
+    ],
+    "summary": "这是一个Git命令行工具，简化了add、commit和push操作，支持Conventional Commits和Gitmoji规范，帮助开发者遵循一致的代码提交规范。",
+    "analyzed_at": "2025-10-28T19:19:43.377589+00:00"
+  },
+  {
+    "repo_full_name": "jlevy/the-art-of-command-line",
+    "owner": "jlevy",
+    "html_url": "https://github.com/jlevy/the-art-of-command-line",
+    "description": "Master the command line, in one page",
+    "topics": [
+      "bash",
+      "documentation",
+      "linux",
+      "macos",
+      "unix",
+      "windows"
+    ],
+    "starred_at": "2021-07-03T10:52:35Z",
+    "category": "开发工具",
+    "tags": [
+      "命令行",
+      "Bash",
+      "Linux",
+      "文档"
+    ],
+    "summary": "这是一份精炼的命令行艺术指南，帮助用户在单页内掌握Linux、macOS、Unix和Windows系统的命令行使用技巧，提高开发效率。",
+    "analyzed_at": "2025-10-28T19:19:43.377589+00:00"
+  },
+  {
+    "repo_full_name": "darknessomi/musicbox",
+    "owner": "darknessomi",
+    "html_url": "https://github.com/darknessomi/musicbox",
+    "description": "网易云音乐命令行版本",
+    "topics": [
+      "linux",
+      "music",
+      "netease-musicbox",
+      "python"
+    ],
+    "starred_at": "2021-07-03T10:54:50Z",
+    "category": "效率工具",
+    "tags": [
+      "音乐播放",
+      "命令行工具",
+      "网易云音乐",
+      "Python",
+      "Linux"
+    ],
+    "summary": "网易云音乐命令行版本，使用Python开发，支持Linux系统，提供无图形界面的音乐播放体验，适合喜欢使用命令行的用户。",
+    "analyzed_at": "2025-10-28T19:19:43.377589+00:00"
+  },
+  {
+    "repo_full_name": "elsesiy/qrgo",
+    "owner": "elsesiy",
+    "html_url": "https://github.com/elsesiy/qrgo",
+    "description": "⚡️ Fast & simple service to generate QR codes from your CLI.",
+    "topics": [],
+    "starred_at": "2021-07-03T10:56:22Z",
+    "category": "开发工具",
+    "tags": [
+      "二维码生成",
+      "命令行工具",
+      "CLI工具",
+      "快速工具"
+    ],
+    "summary": "这是一个快速简单的命令行工具，用于生成二维码，方便开发者在终端中快速创建和使用二维码。",
+    "analyzed_at": "2025-10-28T19:19:43.377589+00:00"
+  },
+  {
+    "repo_full_name": "mhasbini/gmail_analyzer",
+    "owner": "mhasbini",
+    "html_url": "https://github.com/mhasbini/gmail_analyzer",
+    "description": "Show statistics of your Gmail account",
+    "topics": [],
+    "starred_at": "2021-07-03T10:56:40Z",
+    "category": "效率工具",
+    "tags": [
+      "邮件分析",
+      "数据可视化",
+      "Gmail",
+      "统计",
+      "效率工具",
+      "邮件管理"
+    ],
+    "summary": "Gmail Analyzer是一个用于分析Gmail账户使用情况的工具，可以展示邮件数量、发送时间、联系人频率等统计数据，帮助用户了解自己的邮件使用模式并提高工作效率。",
+    "analyzed_at": "2025-10-28T19:19:43.377589+00:00"
+  },
+  {
+    "repo_full_name": "MichaelMure/mdr",
+    "owner": "MichaelMure",
+    "html_url": "https://github.com/MichaelMure/mdr",
+    "description": "MarkDown Renderer for the terminal",
+    "topics": [],
+    "starred_at": "2021-07-03T10:57:03Z",
+    "category": "开发工具",
+    "tags": [
+      "Markdown",
+      "终端工具",
+      "命令行工具",
+      "文档工具",
+      "渲染器"
+    ],
+    "summary": "mdr是一个终端Markdown渲染器，允许用户在命令行界面直接查看和预览Markdown文件，提高开发效率。",
+    "analyzed_at": "2025-10-28T19:19:43.377589+00:00"
+  },
+  {
+    "repo_full_name": "syncthing/syncthing",
+    "owner": "syncthing",
+    "html_url": "https://github.com/syncthing/syncthing",
+    "description": "Open Source Continuous File Synchronization",
+    "topics": [
+      "go",
+      "p2p",
+      "peer-to-peer",
+      "synchronization"
+    ],
+    "starred_at": "2021-07-03T10:58:31Z",
+    "category": "效率工具",
+    "tags": [
+      "文件同步",
+      "点对点",
+      "开源工具",
+      "跨平台",
+      "数据备份"
+    ],
+    "summary": "Syncthing是一款开源的点对点文件同步工具，可在多台设备间自动同步文件，无需中央服务器。采用Go语言开发，支持跨平台使用，保障数据安全与隐私。",
+    "analyzed_at": "2025-10-28T19:19:43.377589+00:00"
+  },
+  {
+    "repo_full_name": "lint-md/github-action",
+    "owner": "lint-md",
+    "html_url": "https://github.com/lint-md/github-action",
+    "description": "⚡ @lint-md 的 GitHub Action 支持，持续集成更方便，速度更快。",
+    "topics": [
+      "github-action",
+      "lint-md",
+      "markdown"
+    ],
+    "starred_at": "2021-07-03T11:00:24Z",
+    "category": "开发工具",
+    "tags": [
+      "github-action",
+      "lint-md",
+      "markdown",
+      "ci-cd",
+      "code-quality"
+    ],
+    "summary": "这是一个为lint-md（Markdown代码检查工具）提供的GitHub Action，使开发者能够在CI/CD流程中轻松集成Markdown代码检查，提高代码质量和开发效率。",
+    "analyzed_at": "2025-10-28T19:19:43.377589+00:00"
+  },
+  {
+    "repo_full_name": "WhitewaterFoundry/Pengwin",
+    "owner": "WhitewaterFoundry",
+    "html_url": "https://github.com/WhitewaterFoundry/Pengwin",
+    "description": "A Linux distro optimized for WSL based on Debian.",
+    "topics": [
+      "debian",
+      "hacktoberfest",
+      "linux-distribution",
+      "windows-10",
+      "wsl",
+      "wsl-debian"
+    ],
+    "starred_at": "2021-07-03T13:07:17Z",
+    "category": "开发工具",
+    "tags": [
+      "linux-distribution",
+      "wsl",
+      "debian",
+      "windows-10",
+      "wsl-debian"
+    ],
+    "summary": "Pengwin是一个基于Debian的Linux发行版，专门为Windows子系统(WSL)优化，为Windows用户提供完整的Linux环境，便于开发者在Windows系统中使用Linux工具和命令。",
+    "analyzed_at": "2025-10-28T19:19:43.377589+00:00"
+  },
+  {
+    "repo_full_name": "microsoft/WSL-DistroLauncher",
+    "owner": "microsoft",
+    "html_url": "https://github.com/microsoft/WSL-DistroLauncher",
+    "description": "Sample/reference launcher app for WSL distro Microsoft Store packages.",
+    "topics": [
+      "uwp-apps",
+      "wsl"
+    ],
+    "starred_at": "2021-07-03T13:07:25Z",
+    "category": "开发工具",
+    "tags": [
+      "wsl",
+      "uwp-apps",
+      "windows",
+      "linux",
+      "development",
+      "tools"
+    ],
+    "summary": "WSL-DistroLauncher是微软官方提供的参考实现，用于创建可在Microsoft Store发布的WSL发行版启动器应用。它帮助开发者轻松打包和分发WSL发行版，简化了Windows和Linux环境的集成过程。",
+    "analyzed_at": "2025-10-28T19:19:43.377589+00:00"
+  },
+  {
+    "repo_full_name": "wslutilities/wslu",
+    "owner": "wslutilities",
+    "html_url": "https://github.com/wslutilities/wslu",
+    "description": "A collection of utilities for Windows Subsystem for Linux",
+    "topics": [
+      "alpine-linux",
+      "arch-linux",
+      "bash",
+      "bashonwindows",
+      "centos",
+      "debian",
+      "fedora",
+      "kali-linux",
+      "linux",
+      "opensuse",
+      "pengwin",
+      "shell",
+      "sles",
+      "ubuntu",
+      "windows-subsystem-for-linux",
+      "wsl"
+    ],
+    "starred_at": "2021-07-03T13:07:45Z",
+    "category": "开发工具",
+    "tags": [
+      "windows-subsystem-for-linux",
+      "linux",
+      "bash",
+      "shell",
+      "wsl"
+    ],
+    "summary": "wslu是一个Windows子系统Linux(WSL)的工具集合，为Windows用户提供增强的Linux环境体验，支持多种Linux发行版，简化Windows与Linux之间的操作转换。",
+    "analyzed_at": "2025-10-28T19:19:43.377589+00:00"
+  },
+  {
+    "repo_full_name": "kubernetes/kubernetes",
+    "owner": "kubernetes",
+    "html_url": "https://github.com/kubernetes/kubernetes",
+    "description": "Production-Grade Container Scheduling and Management",
+    "topics": [
+      "cncf",
+      "containers",
+      "go",
+      "kubernetes"
+    ],
+    "starred_at": "2021-07-03T14:11:37Z",
+    "category": "开发工具",
+    "tags": [
+      "容器编排",
+      "云计算",
+      "自动化部署",
+      "Go语言",
+      "CNCF项目"
+    ],
+    "summary": "Kubernetes是一个开源的容器编排平台，用于自动化部署、扩展和管理容器化应用程序。它提供了服务发现、负载均衡、存储编排等功能，是CNCF的旗舰项目，使用Go语言开发。",
+    "analyzed_at": "2025-10-28T19:19:43.377589+00:00"
+  },
+  {
+    "repo_full_name": "ksky521/fresh-weather",
+    "owner": "ksky521",
+    "html_url": "https://github.com/ksky521/fresh-weather",
+    "description": "新鲜天气：使用小程序·云开发的小程序",
+    "topics": [
+      "mini-program",
+      "miniprogram",
+      "tcb",
+      "tencent-cloud",
+      "weather",
+      "wechat",
+      "wechat-mini-program"
+    ],
+    "starred_at": "2021-07-07T08:17:08Z",
+    "category": "移动应用",
+    "tags": [
+      "天气应用",
+      "微信小程序",
+      "腾讯云",
+      "小程序云开发"
+    ],
+    "summary": "新鲜天气是一款基于微信小程序·云开发的天气应用，提供天气信息查询服务。",
+    "analyzed_at": "2025-10-28T19:19:43.377589+00:00"
+  },
+  {
+    "repo_full_name": "BugHunter7788/taro3-table",
+    "owner": "BugHunter7788",
+    "html_url": "https://github.com/BugHunter7788/taro3-table",
+    "description": "基于 Taro3 的微信小程序端多功能表格组件",
+    "topics": [
+      "react",
+      "table",
+      "taro"
+    ],
+    "starred_at": "2021-07-07T08:30:10Z",
+    "category": "开发工具",
+    "tags": [
+      "react",
+      "table",
+      "taro",
+      "组件",
+      "小程序"
+    ],
+    "summary": "基于 Taro3 框架开发的微信小程序多功能表格组件，支持 React 语法，帮助开发者快速实现小程序中的表格展示和交互功能。",
+    "analyzed_at": "2025-10-28T19:19:43.377589+00:00"
+  },
+  {
+    "repo_full_name": "cmoseses/cmoseses.github.io",
+    "owner": "cmoseses",
+    "html_url": "https://github.com/cmoseses/cmoseses.github.io",
+    "description": "成都市城市轨道交通线网规划2021版，成都地铁规划2021版",
+    "topics": [],
+    "starred_at": "2021-07-09T15:17:48Z",
+    "category": "Web应用",
+    "tags": [
+      "城市规划",
+      "交通",
+      "地铁",
+      "数据可视化",
+      "成都"
+    ],
+    "summary": "这是一个展示成都市2021版城市轨道交通线网规划和地铁规划信息的网站，为公众提供地铁线路规划信息。",
+    "analyzed_at": "2025-10-28T19:19:43.377589+00:00"
+  },
+  {
+    "repo_full_name": "WizTeam/WizQTClient",
+    "owner": "WizTeam",
+    "html_url": "https://github.com/WizTeam/WizQTClient",
+    "description": "为知笔记跨平台客户端",
+    "topics": [],
+    "starred_at": "2021-07-09T15:18:21Z",
+    "category": "桌面应用",
+    "tags": [
+      "笔记应用",
+      "跨平台",
+      "知识管理",
+      "客户端",
+      "WizNote"
+    ],
+    "summary": "为知笔记(WizNote)的跨平台桌面客户端，支持Windows、macOS和Linux系统，提供笔记管理、知识收集和团队协作功能，帮助用户高效组织和管理信息。",
+    "analyzed_at": "2025-10-28T19:19:43.377589+00:00"
+  },
+  {
+    "repo_full_name": "probberechts/hexo-theme-cactus",
+    "owner": "probberechts",
+    "html_url": "https://github.com/probberechts/hexo-theme-cactus",
+    "description": ":cactus: A responsive, clean and simple theme for Hexo.",
+    "topics": [
+      "blog",
+      "hexo",
+      "theme"
+    ],
+    "starred_at": "2021-07-10T03:52:34Z",
+    "category": "Web应用",
+    "tags": [
+      "博客主题",
+      "响应式设计",
+      "简洁界面",
+      "Hexo",
+      "静态网站"
+    ],
+    "summary": "这是一个简洁、响应式的Hexo博客主题，专注于提供清爽的阅读体验和简单的配置。",
+    "analyzed_at": "2025-10-28T19:19:43.377589+00:00"
+  },
+  {
+    "repo_full_name": "actions/checkout",
+    "owner": "actions",
+    "html_url": "https://github.com/actions/checkout",
+    "description": "Action for checking out a repo",
+    "topics": [],
+    "starred_at": "2021-07-10T10:40:53Z",
+    "category": "开发工具",
+    "tags": [
+      "CI/CD",
+      "GitHub Actions",
+      "自动化",
+      "版本控制"
+    ],
+    "summary": "这是一个GitHub Actions工作流组件，用于在自动化流程中检出代码仓库，是CI/CD流程中的基础工具。",
+    "analyzed_at": "2025-10-28T19:19:43.377589+00:00"
+  },
+  {
+    "repo_full_name": "actionsflow/actionsflow",
+    "owner": "actionsflow",
+    "html_url": "https://github.com/actionsflow/actionsflow",
+    "description": "The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions",
+    "topics": [
+      "actions",
+      "actionsflow",
+      "automate",
+      "hacktoberfest",
+      "ifttt",
+      "workflow",
+      "zapier"
+    ],
+    "starred_at": "2021-07-10T12:03:32Z",
+    "category": "开发工具",
+    "tags": [
+      "自动化",
+      "工作流",
+      "GitHub Actions",
+      "IFTTT",
+      "Zapier"
+    ],
+    "summary": "ActionsFlow是一个基于GitHub Actions的免费工作流自动化工具，为开发者提供类似Zapier和IFTTT的功能，帮助自动化各种工作流程。",
+    "analyzed_at": "2025-10-28T19:19:43.377589+00:00"
+  },
+  {
+    "repo_full_name": "actions/github-script",
+    "owner": "actions",
+    "html_url": "https://github.com/actions/github-script",
+    "description": "Write workflows scripting the GitHub API in JavaScript",
+    "topics": [
+      "actions",
+      "github-api",
+      "javascript"
+    ],
+    "starred_at": "2021-07-10T12:17:48Z",
+    "category": "开发工具",
+    "tags": [
+      "GitHub Actions",
+      "自动化",
+      "JavaScript",
+      "API集成",
+      "工作流"
+    ],
+    "summary": "GitHub Script是一个GitHub Actions工具，允许开发者使用JavaScript编写工作流，直接调用GitHub API实现自动化操作，简化CI/CD流程和任务自动化。",
+    "analyzed_at": "2025-10-28T19:19:43.377589+00:00"
+  },
+  {
+    "repo_full_name": "rubickCenter/rubick",
+    "owner": "rubickCenter",
+    "html_url": "https://github.com/rubickCenter/rubick",
+    "description": "🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。",
+    "topics": [
+      "cross-platform",
+      "desktop-app",
+      "electron",
+      "javascript",
+      "macos",
+      "toolkit",
+      "utools",
+      "windows"
+    ],
+    "starred_at": "2021-07-10T12:52:20Z",
+    "category": "桌面应用",
+    "tags": [
+      "工具箱",
+      "插件系统",
+      "跨平台",
+      "Electron框架",
+      "开源"
+    ],
+    "summary": "基于Electron框架的开源桌面工具箱，支持跨平台使用，可自由集成丰富插件，提供多样化功能扩展。",
+    "analyzed_at": "2025-10-28T19:19:43.377589+00:00"
+  },
+  {
+    "repo_full_name": "sickcodes/Docker-OSX",
+    "owner": "sickcodes",
+    "html_url": "https://github.com/sickcodes/Docker-OSX",
+    "description": "Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.",
+    "topics": [
+      "container",
+      "docker",
+      "docker-osx",
+      "kvm",
+      "macos",
+      "os",
+      "osx",
+      "osx-kvm",
+      "x",
+      "x11"
+    ],
+    "starred_at": "2021-07-10T12:54:16Z",
+    "category": "开发工具",
+    "tags": [
+      "container",
+      "docker",
+      "macos",
+      "osx-kvm",
+      "security"
+    ],
+    "summary": "Docker-OSX是一个在Docker容器中运行macOS虚拟机的工具，支持OSX-KVM和X11转发，可用于macOS安全研究的CI/CD流程，让开发者在非macOS环境中进行macOS应用开发和测试。",
+    "analyzed_at": "2025-10-28T19:19:43.377589+00:00"
+  },
+  {
+    "repo_full_name": "macrozheng/mall",
+    "owner": "macrozheng",
+    "html_url": "https://github.com/macrozheng/mall",
+    "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。",
+    "topics": [
+      "docker",
+      "elasticsearch",
+      "elk",
+      "java",
+      "mongodb",
+      "mybatis",
+      "mysql",
+      "rabbitmq",
+      "redis",
+      "spring",
+      "spring-boot",
+      "spring-cloud",
+      "spring-security",
+      "springboot",
+      "springcloud",
+      "swagger-ui"
+    ],
+    "starred_at": "2021-07-10T13:02:48Z",
+    "category": "Web应用",
+    "tags": [
+      "java",
+      "spring-boot",
+      "docker",
+      "mysql",
+      "redis",
+      "mybatis"
+    ],
+    "summary": "mall是一套完整的电商系统，包含前台商城和后台管理。基于Spring Boot+MyBatis实现，采用Docker容器化部署。提供商品管理、订单处理、会员中心、促销活动等电商核心功能。",
+    "analyzed_at": "2025-10-28T19:19:43.377589+00:00"
+  },
+  {
+    "repo_full_name": "bitcoin/bitcoin",
+    "owner": "bitcoin",
+    "html_url": "https://github.com/bitcoin/bitcoin",
+    "description": "Bitcoin Core integration/staging tree",
+    "topics": [
+      "bitcoin",
+      "c-plus-plus",
+      "cryptocurrency",
+      "cryptography",
+      "p2p"
+    ],
+    "starred_at": "2021-07-11T07:56:56Z",
+    "category": "开发工具",
+    "tags": [
+      "比特币",
+      "加密货币",
+      "密码学",
+      "P2P网络",
+      "区块链"
+    ],
+    "summary": "Bitcoin Core是比特币的官方参考实现，是一个开源的加密货币客户端，支持P2P网络通信，实现了比特币协议的核心功能，包括交易验证和区块链维护。",
+    "analyzed_at": "2025-10-28T19:19:43.377589+00:00"
+  },
+  {
+    "repo_full_name": "jinwyp/one_click_script",
+    "owner": "jinwyp",
+    "html_url": "https://github.com/jinwyp/one_click_script",
+    "description": "install latest or LTS linux kernel and enable BBR or BBR plus",
+    "topics": [
+      "acme",
+      "bbr",
+      "bbrplus",
+      "cloudflare",
+      "frp",
+      "linux-kernel",
+      "netflix",
+      "nginx",
+      "ngrok",
+      "openwrt",
+      "shadowsocks",
+      "trojan",
+      "trojan-go",
+      "v2ray",
+      "v2ray-ws-tls",
+      "warp",
+      "wireguard",
+      "xray",
+      "xtls-reality",
+      "xtls-rprx-vision"
+    ],
+    "starred_at": "2021-07-11T12:31:15Z",
+    "category": "开发工具",
+    "tags": [],
+    "summary": "ZHIPU 调用异常: Error code: 400 - {'contentFilter': [{'level': 3, 'role': 'user'}], 'error': {'code': '1301', 'message': '系统检测到输入或生成内容可能包含不安全或敏感内容，请您避免输入易产生敏感内容的提示语，感谢您的配合。'}}",
+    "analyzed_at": "2025-10-28T19:19:43.377589+00:00"
+  },
+  {
+    "repo_full_name": "TGSAN/CMWTAT_Digital_Edition",
+    "owner": "TGSAN",
+    "html_url": "https://github.com/TGSAN/CMWTAT_Digital_Edition",
+    "description": "CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！",
+    "topics": [
+      "activation-toolkit",
+      "activator",
+      "digital-license",
+      "win-10",
+      "win-11",
+      "win10",
+      "win11",
+      "windows-10",
+      "windows-11"
+    ],
+    "starred_at": "2021-07-12T13:17:00Z",
+    "category": "安全工具",
+    "tags": [
+      "Windows激活",
+      "数字许可证",
+      "系统工具",
+      "开源工具",
+      "Windows 10/11"
+    ],
+    "summary": "CMWTAT_Digital_Edition是一款开源的Windows 10/11激活工具，可帮助用户获取数字许可证激活系统。它提供简单易用的界面，让用户能够轻松激活Windows系统，是GitHub上最受欢迎的开源激活工具之一。",
+    "analyzed_at": "2025-10-28T19:19:43.377589+00:00"
+  },
+  {
+    "repo_full_name": "tychxn/jd-assistant",
+    "owner": "tychxn",
+    "html_url": "https://github.com/tychxn/jd-assistant",
+    "description": "京东抢购助手：包含登录，查询商品库存/价格，添加/清空购物车，抢购商品(下单)，查询订单等功能",
+    "topics": [
+      "assistant",
+      "buy",
+      "jd",
+      "jingdong",
+      "python3"
+    ],
+    "starred_at": "2021-07-12T13:17:17Z",
+    "category": "效率工具",
+    "tags": [
+      "电商助手",
+      "自动化抢购",
+      "购物工具",
+      "京东",
+      "Python开发"
+    ],
+    "summary": "京东抢购助手是一个基于Python3开发的自动化工具，可帮助用户登录京东、查询商品库存和价格、管理购物车、自动下单抢购商品以及查询订单，提高购物效率。",
+    "analyzed_at": "2025-10-28T19:19:43.377589+00:00"
+  },
+  {
+    "repo_full_name": "SocialSisterYi/bilibili-API-collect",
+    "owner": "SocialSisterYi",
+    "html_url": "https://github.com/SocialSisterYi/bilibili-API-collect",
+    "description": "哔哩哔哩-API收集整理【不断更新中....】",
+    "topics": [
+      "api",
+      "bilibili",
+      "bilibili-api",
+      "bilibili-comment",
+      "bilibili-danmaku",
+      "bilibili-download",
+      "bilibili-live",
+      "bilibili-login",
+      "grpc",
+      "json"
+    ],
+    "starred_at": "2021-07-12T13:18:06Z",
+    "category": "开发工具",
+    "tags": [
+      "API",
+      "B站",
+      "开发工具",
+      "数据接口",
+      "整合工具"
+    ],
+    "summary": "这个项目收集整理了哔哩哔哩(B站)的各种API接口，包括评论、弹幕、下载、直播等功能，为开发者提供便捷的B站数据接入方案。",
+    "analyzed_at": "2025-10-28T19:19:43.377589+00:00"
+  },
+  {
+    "repo_full_name": "dunwu/nginx-tutorial",
+    "owner": "dunwu",
+    "html_url": "https://github.com/dunwu/nginx-tutorial",
+    "description": "这是一个 Nginx 极简教程，目的在于帮助新手快速入门 Nginx。",
+    "topics": [
+      "load-balancer",
+      "nginx",
+      "proxy",
+      "tutorial"
+    ],
+    "starred_at": "2021-07-12T15:17:34Z",
+    "category": "开发工具",
+    "tags": [
+      "Web服务器",
+      "反向代理",
+      "负载均衡",
+      "教程",
+      "入门指南"
+    ],
+    "summary": "这是一个Nginx极简教程，专为新手设计，帮助快速掌握Nginx作为Web服务器、反向代理和负载均衡器的核心功能与应用。",
+    "analyzed_at": "2025-10-28T19:19:43.377589+00:00"
   }
 ]
