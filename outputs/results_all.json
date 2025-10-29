@@ -19677,5 +19677,1305 @@
     ],
     "summary": "这是一个Nginx极简教程，专为新手设计，帮助快速掌握Nginx作为Web服务器、反向代理和负载均衡器的核心功能与应用。",
     "analyzed_at": "2025-10-28T19:19:43.377589+00:00"
+  },
+  {
+    "repo_full_name": "remotion-dev/remotion",
+    "owner": "remotion-dev",
+    "html_url": "https://github.com/remotion-dev/remotion",
+    "description": "🎥      Make videos programmatically with React",
+    "topics": [
+      "javascript",
+      "react",
+      "video"
+    ],
+    "starred_at": "2021-07-12T15:29:42Z",
+    "category": "开发工具",
+    "tags": [
+      "视频制作",
+      "React",
+      "JavaScript",
+      "动画",
+      "编程工具",
+      "前端开发"
+    ],
+    "summary": "Remotion是一个基于React的视频编程制作工具，允许开发者使用熟悉的React组件和语法来创建动态视频内容。它将前端开发能力扩展到视频制作领域，为视频创作提供了全新的编程方式。",
+    "analyzed_at": "2025-10-29T19:19:24.756502+00:00"
+  },
+  {
+    "repo_full_name": "flutter/flutter",
+    "owner": "flutter",
+    "html_url": "https://github.com/flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "topics": [
+      "android",
+      "app-framework",
+      "cross-platform",
+      "dart",
+      "dart-platform",
+      "desktop",
+      "flutter",
+      "flutter-package",
+      "fuchsia",
+      "ios",
+      "linux-desktop",
+      "macos",
+      "material-design",
+      "mobile",
+      "mobile-development",
+      "skia",
+      "web",
+      "web-framework",
+      "windows"
+    ],
+    "starred_at": "2021-07-13T08:14:35Z",
+    "category": "移动应用",
+    "tags": [
+      "跨平台开发",
+      "移动开发",
+      "Dart",
+      "UI框架",
+      "前端开发"
+    ],
+    "summary": "Flutter是Google开发的跨平台移动应用开发框架，使用Dart语言，可快速构建美观的iOS、Android应用，并扩展到桌面和Web平台。",
+    "analyzed_at": "2025-10-29T19:19:24.756502+00:00"
+  },
+  {
+    "repo_full_name": "whyour/qinglong",
+    "owner": "whyour",
+    "html_url": "https://github.com/whyour/qinglong",
+    "description": "支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）",
+    "topics": [
+      "crontab",
+      "docker",
+      "javascript",
+      "python",
+      "shell",
+      "task-manager",
+      "typescript"
+    ],
+    "starred_at": "2021-07-13T09:58:15Z",
+    "category": "开发工具",
+    "tags": [
+      "task-manager",
+      "crontab",
+      "docker",
+      "python",
+      "javascript"
+    ],
+    "summary": "青龙是一个支持Python3、JavaScript、Shell和Typescript的定时任务管理平台，提供类似crontab的功能，可通过Docker容器化部署，帮助开发者高效管理各类定时任务。",
+    "analyzed_at": "2025-10-29T19:19:24.756502+00:00"
+  },
+  {
+    "repo_full_name": "wangshub/RL-Stock",
+    "owner": "wangshub",
+    "html_url": "https://github.com/wangshub/RL-Stock",
+    "description": "📈 如何用深度强化学习自动炒股",
+    "topics": [],
+    "starred_at": "2021-07-13T12:59:40Z",
+    "category": "AI/机器学习",
+    "tags": [
+      "强化学习",
+      "股票交易",
+      "深度学习",
+      "金融科技",
+      "自动交易",
+      "量化投资"
+    ],
+    "summary": "RL-Stock是一个使用深度强化学习技术实现自动化股票交易的开源项目。该项目探索如何通过AI算法分析市场数据并自动执行交易策略，为量化投资提供技术支持。",
+    "analyzed_at": "2025-10-29T19:19:24.756502+00:00"
+  },
+  {
+    "repo_full_name": "wangshub/tracking-my-phone",
+    "owner": "wangshub",
+    "html_url": "https://github.com/wangshub/tracking-my-phone",
+    "description": "🕵️‍♀️ 监视我的手机：数据都去哪儿了？",
+    "topics": [],
+    "starred_at": "2021-07-13T13:01:18Z",
+    "category": "安全工具",
+    "tags": [
+      "数据追踪",
+      "隐私保护",
+      "安全监控",
+      "手机安全",
+      "数据分析"
+    ],
+    "summary": "一款用于追踪手机数据流向的工具，帮助用户了解数据去向，保护个人隐私安全。",
+    "analyzed_at": "2025-10-29T19:19:24.756502+00:00"
+  },
+  {
+    "repo_full_name": "HanryYu/typora-blubook-theme",
+    "owner": "HanryYu",
+    "html_url": "https://github.com/HanryYu/typora-blubook-theme",
+    "description": "Blubook, a flat typora theme.",
+    "topics": [],
+    "starred_at": "2021-07-13T13:17:51Z",
+    "category": "开发工具",
+    "tags": [
+      "Markdown",
+      "主题",
+      "编辑器",
+      "扁平化设计",
+      "Typora"
+    ],
+    "summary": "Blubook是一个为Typora Markdown编辑器设计的扁平化主题，提供简洁优雅的界面风格，提升写作体验和文档可读性。",
+    "analyzed_at": "2025-10-29T19:19:24.756502+00:00"
+  },
+  {
+    "repo_full_name": "h16nning/typora-gitbook-theme",
+    "owner": "h16nning",
+    "html_url": "https://github.com/h16nning/typora-gitbook-theme",
+    "description": "This is a Typora theme is inspired by gitbook.com. Most of the user interface has been overhauled. It contains three variants: two light variants and one dark theme.",
+    "topics": [
+      "dark-theme",
+      "gitbook",
+      "minimalistic",
+      "theme",
+      "typora",
+      "typora-theme",
+      "typora-themes"
+    ],
+    "starred_at": "2021-07-13T13:26:16Z",
+    "category": "开发工具",
+    "tags": [
+      "编辑器主题",
+      "深色模式",
+      "极简风格",
+      "GitBook风格",
+      "Typora"
+    ],
+    "summary": "这是一个受GitBook启发的Typora编辑器主题，重新设计了大部分用户界面，提供两种浅色和一种深色主题变体，适合喜欢极简风格的用户。",
+    "analyzed_at": "2025-10-29T19:19:24.756502+00:00"
+  },
+  {
+    "repo_full_name": "justjavac/deno_feishu_bot_echo",
+    "owner": "justjavac",
+    "html_url": "https://github.com/justjavac/deno_feishu_bot_echo",
+    "description": "使用 Deno 开发的飞书机器人",
+    "topics": [],
+    "starred_at": "2021-07-14T09:35:42Z",
+    "category": "开发工具",
+    "tags": [
+      "Deno",
+      "飞书",
+      "机器人",
+      "自动化",
+      "开发工具"
+    ],
+    "summary": "这是一个使用 Deno 运行时开发的飞书机器人项目，可以自动化处理消息和任务，为飞书平台提供扩展功能。",
+    "analyzed_at": "2025-10-29T19:19:24.756502+00:00"
+  },
+  {
+    "repo_full_name": "nextauthjs/next-auth",
+    "owner": "nextauthjs",
+    "html_url": "https://github.com/nextauthjs/next-auth",
+    "description": "Authentication for the Web.",
+    "topics": [
+      "auth",
+      "authentication",
+      "csrf",
+      "jwt",
+      "nextauth",
+      "nextjs",
+      "nodejs",
+      "nuxt",
+      "nuxt-auth",
+      "oauth",
+      "oauth2",
+      "oidc",
+      "react",
+      "remix-auth",
+      "solid-auth",
+      "solidjs",
+      "sveltekit",
+      "web"
+    ],
+    "starred_at": "2021-07-14T09:36:39Z",
+    "category": "Web应用",
+    "tags": [
+      "auth",
+      "authentication",
+      "jwt",
+      "nextjs",
+      "oauth",
+      "web"
+    ],
+    "summary": "NextAuth.js是一个为Web应用提供简单、可扩展的认证解决方案的库，支持多种认证方式如JWT、OAuth等，与Next.js、React等前端框架无缝集成。",
+    "analyzed_at": "2025-10-29T19:19:24.756502+00:00"
+  },
+  {
+    "repo_full_name": "GrowingGit/GitHub-Chinese-Top-Charts",
+    "owner": "GrowingGit",
+    "html_url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
+    "description": ":cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。",
+    "topics": [],
+    "starred_at": "2021-07-14T09:39:31Z",
+    "category": "开发工具",
+    "tags": [
+      "GitHub",
+      "中文项目",
+      "排行榜",
+      "开发资源",
+      "学习工具"
+    ],
+    "summary": "GitHub中文排行榜项目，按语言分类展示优质中文软件和资料，帮助开发者快速发现和学习中文圈优秀项目，提高开发效率。",
+    "analyzed_at": "2025-10-29T19:19:24.756502+00:00"
+  },
+  {
+    "repo_full_name": "jd-opensource/nutui",
+    "owner": "jd-opensource",
+    "html_url": "https://github.com/jd-opensource/nutui",
+    "description": "京东风格的移动端 Vue 组件库，支持多端小程序(A Vue.js UI Toolkit for Mobile Web)",
+    "topics": [
+      "components",
+      "jd",
+      "nutui",
+      "typescript",
+      "vite",
+      "vue",
+      "vue-components",
+      "vue3"
+    ],
+    "starred_at": "2021-07-14T09:39:38Z",
+    "category": "开发工具",
+    "tags": [
+      "组件库",
+      "Vue",
+      "移动端",
+      "TypeScript",
+      "小程序",
+      "京东风格"
+    ],
+    "summary": "Nutui是京东开源的移动端Vue组件库，基于Vue 3和TypeScript构建，支持多端小程序开发，提供丰富的UI组件，帮助开发者快速构建京东风格的移动应用。",
+    "analyzed_at": "2025-10-29T19:19:24.756502+00:00"
+  },
+  {
+    "repo_full_name": "elder-frog/OpenCourseCatalog",
+    "owner": "elder-frog",
+    "html_url": "https://github.com/elder-frog/OpenCourseCatalog",
+    "description": "Bilibili 公开课目录",
+    "topics": [
+      "awesome-opencourse",
+      "catelog",
+      "open-course"
+    ],
+    "starred_at": "2021-07-14T09:39:53Z",
+    "category": "教育学习",
+    "tags": [
+      "公开课",
+      "课程目录",
+      "教育资源",
+      "B站课程",
+      "学习资源",
+      "在线教育"
+    ],
+    "summary": "Bilibili公开课目录项目，整理和分类B站上的优质公开课程资源，为学习者提供便捷的课程查找和导航服务，涵盖多个学科领域。",
+    "analyzed_at": "2025-10-29T19:19:24.756502+00:00"
+  },
+  {
+    "repo_full_name": "marmelroy/Localize-Swift",
+    "owner": "marmelroy",
+    "html_url": "https://github.com/marmelroy/Localize-Swift",
+    "description": "Swift friendly localization and i18n with in-app language switching",
+    "topics": [],
+    "starred_at": "2021-07-14T09:47:04Z",
+    "category": "开发工具",
+    "tags": [
+      "Swift",
+      "国际化",
+      "本地化",
+      "i18n",
+      "iOS开发",
+      "多语言"
+    ],
+    "summary": "Localize-Swift是一个友好的Swift库，用于应用的国际化和本地化，支持在应用内动态切换语言，帮助开发者轻松实现多语言支持功能。",
+    "analyzed_at": "2025-10-29T19:19:24.756502+00:00"
+  },
+  {
+    "repo_full_name": "rclone/rclone",
+    "owner": "rclone",
+    "html_url": "https://github.com/rclone/rclone",
+    "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
+    "topics": [
+      "azure-blob",
+      "azure-blob-storage",
+      "azure-files",
+      "backblaze-b2",
+      "cloud-storage",
+      "dropbox",
+      "encryption",
+      "ftp",
+      "fuse-filesystem",
+      "go",
+      "golang",
+      "google-cloud-storage",
+      "google-drive",
+      "onedrive",
+      "openstack-swift",
+      "rclone",
+      "s3",
+      "sftp",
+      "sync",
+      "webdav"
+    ],
+    "starred_at": "2021-07-14T09:58:51Z",
+    "category": "开发工具",
+    "tags": [
+      "云存储",
+      "同步工具",
+      "多云支持",
+      "命令行工具",
+      "数据管理"
+    ],
+    "summary": "rclone是一个强大的命令行工具，被誉为'云存储的rsync'，支持多种云存储服务之间的文件同步和管理，提供加密和灵活的数据传输选项。",
+    "analyzed_at": "2025-10-29T19:19:24.756502+00:00"
+  },
+  {
+    "repo_full_name": "Textualize/rich",
+    "owner": "Textualize",
+    "html_url": "https://github.com/Textualize/rich",
+    "description": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+    "topics": [
+      "ansi-colors",
+      "emoji",
+      "markdown",
+      "progress-bar",
+      "progress-bar-python",
+      "python",
+      "python-library",
+      "python3",
+      "rich",
+      "syntax-highlighting",
+      "tables",
+      "terminal",
+      "terminal-color",
+      "traceback",
+      "tracebacks-rich",
+      "tui"
+    ],
+    "starred_at": "2021-07-15T03:15:03Z",
+    "category": "开发工具",
+    "tags": [
+      "Python",
+      "终端",
+      "富文本",
+      "语法高亮",
+      "开发工具"
+    ],
+    "summary": "Rich是一个Python库，用于在终端中实现富文本和美观的格式化，支持颜色、表情符号、Markdown、进度条和表格等功能，提升终端应用的用户体验。",
+    "analyzed_at": "2025-10-29T19:19:24.756502+00:00"
+  },
+  {
+    "repo_full_name": "Eugeny/tabby",
+    "owner": "Eugeny",
+    "html_url": "https://github.com/Eugeny/tabby",
+    "description": "A terminal for a more modern age",
+    "topics": [
+      "serial",
+      "ssh-client",
+      "telnet-client",
+      "terminal",
+      "terminal-emulators"
+    ],
+    "starred_at": "2021-07-15T03:18:00Z",
+    "category": "开发工具",
+    "tags": [
+      "终端模拟器",
+      "SSH客户端",
+      "Telnet客户端",
+      "串行连接",
+      "现代化终端"
+    ],
+    "summary": "Tabby是一个现代化的终端模拟器，支持SSH、Telnet和串行连接等多种协议，为开发者提供高效便捷的命令行操作环境。",
+    "analyzed_at": "2025-10-29T19:19:24.756502+00:00"
+  },
+  {
+    "repo_full_name": "jarun/nnn",
+    "owner": "jarun",
+    "html_url": "https://github.com/jarun/nnn",
+    "description": "n³ The unorthodox terminal file manager",
+    "topics": [
+      "android",
+      "batch-rename",
+      "c",
+      "cli",
+      "command-line",
+      "developer-tools",
+      "disk-usage",
+      "file-manager",
+      "file-preview",
+      "file-search",
+      "filesystem",
+      "launcher",
+      "multi-platform",
+      "ncurses",
+      "productivity",
+      "raspberry-pi",
+      "terminal",
+      "tui",
+      "vim",
+      "wsl"
+    ],
+    "starred_at": "2021-07-15T03:22:58Z",
+    "category": "开发工具",
+    "tags": [
+      "终端工具",
+      "文件管理",
+      "命令行",
+      "多平台",
+      "生产力工具",
+      "TUI"
+    ],
+    "summary": "nnn是一个非传统的终端文件管理器，提供高效的文件浏览、搜索和预览功能，支持多平台，是开发者的生产力工具。",
+    "analyzed_at": "2025-10-29T19:19:24.756502+00:00"
+  },
+  {
+    "repo_full_name": "sqshq/sampler",
+    "owner": "sqshq",
+    "html_url": "https://github.com/sqshq/sampler",
+    "description": "Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.",
+    "topics": [
+      "alerting",
+      "charts",
+      "cmd",
+      "command-line",
+      "command-line-tool",
+      "dashbord",
+      "golang",
+      "monitoring",
+      "sampler",
+      "shell",
+      "terminal",
+      "visualization"
+    ],
+    "starred_at": "2021-07-15T03:25:57Z",
+    "category": "开发工具",
+    "tags": [
+      "command-line-tool",
+      "monitoring",
+      "visualization",
+      "shell",
+      "alerting",
+      "golang"
+    ],
+    "summary": "Sampler是一个用Go语言开发的命令行工具，通过简单的YAML配置文件执行shell命令，提供数据可视化和告警功能，适合系统监控和命令执行结果展示。",
+    "analyzed_at": "2025-10-29T19:19:24.756502+00:00"
+  },
+  {
+    "repo_full_name": "Gogh-Co/Gogh",
+    "owner": "Gogh-Co",
+    "html_url": "https://github.com/Gogh-Co/Gogh",
+    "description": "Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.",
+    "topics": [
+      "bash",
+      "color-scheme",
+      "gnome-terminal",
+      "iterm2",
+      "linux",
+      "mint",
+      "pantheon-terminal",
+      "shell",
+      "terminal"
+    ],
+    "starred_at": "2021-07-15T03:34:20Z",
+    "category": "开发工具",
+    "tags": [
+      "终端配色",
+      "开发工具",
+      "Linux工具",
+      "macOS工具",
+      "Shell增强"
+    ],
+    "summary": "Gogh是一个为多种终端模拟器提供精美配色方案的工具集合，支持Gnome Terminal、Pantheon Terminal、Tilix、XFCE4 Terminal和macOS的iTerm，帮助开发者个性化终端界面，提升编码体验。",
+    "analyzed_at": "2025-10-29T19:19:24.756502+00:00"
+  },
+  {
+    "repo_full_name": "oh-my-fish/oh-my-fish",
+    "owner": "oh-my-fish",
+    "html_url": "https://github.com/oh-my-fish/oh-my-fish",
+    "description": "The Fish Shell Framework",
+    "topics": [
+      "fish",
+      "fishshell",
+      "fishshell-framework",
+      "hacktoberfest",
+      "oh-my-fish",
+      "oh-my-zsh",
+      "omf",
+      "prompt",
+      "shell",
+      "terminal"
+    ],
+    "starred_at": "2021-07-15T03:49:01Z",
+    "category": "开发工具",
+    "tags": [
+      "shell",
+      "fishshell",
+      "fish",
+      "terminal",
+      "prompt",
+      "framework"
+    ],
+    "summary": "oh-my-fish是一个Fish Shell的框架，提供丰富的插件和主题，增强命令行体验，提升开发效率。",
+    "analyzed_at": "2025-10-29T19:19:24.756502+00:00"
+  },
+  {
+    "repo_full_name": "pure-fish/pure",
+    "owner": "pure-fish",
+    "html_url": "https://github.com/pure-fish/pure",
+    "description": "Pretty, minimal, and fast prompt for Fish shell inspired by sindresorhus/pure",
+    "topics": [
+      "fish",
+      "fish-plugin",
+      "fish-prompt",
+      "fisher",
+      "prompt",
+      "pure",
+      "shell"
+    ],
+    "starred_at": "2021-07-15T03:50:19Z",
+    "category": "开发工具",
+    "tags": [
+      "shell",
+      "prompt",
+      "fish",
+      "fish-plugin",
+      "minimal"
+    ],
+    "summary": "Pure是一个为Fish shell设计的简洁美观且快速的命令行提示符插件，提供优雅的终端界面，提升开发体验。",
+    "analyzed_at": "2025-10-29T19:19:24.756502+00:00"
+  },
+  {
+    "repo_full_name": "jorgebucaran/fisher",
+    "owner": "jorgebucaran",
+    "html_url": "https://github.com/jorgebucaran/fisher",
+    "description": "A plugin manager for Fish",
+    "topics": [
+      "fish",
+      "fish-plugin",
+      "plugin-manager"
+    ],
+    "starred_at": "2021-07-15T03:50:22Z",
+    "category": "开发工具",
+    "tags": [
+      "shell",
+      "插件管理",
+      "命令行工具",
+      "Fish",
+      "开发工具"
+    ],
+    "summary": "Fish shell的插件管理器，简化开发环境配置，支持插件安装、更新和管理。",
+    "analyzed_at": "2025-10-29T19:19:24.756502+00:00"
+  },
+  {
+    "repo_full_name": "nusr/awesome-macos-command-line-zh",
+    "owner": "nusr",
+    "html_url": "https://github.com/nusr/awesome-macos-command-line-zh",
+    "description": "用你的 macOS 终端搞事情。(Use your macOS terminal shell to do awesome things. )",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "chinese",
+      "chinese-translation",
+      "list",
+      "macos",
+      "macosx",
+      "shell",
+      "terminal"
+    ],
+    "starred_at": "2021-07-15T03:53:47Z",
+    "category": "开发工具",
+    "tags": [
+      "终端",
+      "命令行",
+      "macOS",
+      "开发工具",
+      "效率工具"
+    ],
+    "summary": "精选的 macOS 终端工具和命令集合，帮助用户通过命令行提高工作效率，包含各种实用工具和脚本。",
+    "analyzed_at": "2025-10-29T19:19:24.756502+00:00"
+  },
+  {
+    "repo_full_name": "PowerShell/PowerShell",
+    "owner": "PowerShell",
+    "html_url": "https://github.com/PowerShell/PowerShell",
+    "description": "PowerShell for every system!",
+    "topics": [
+      "command-line",
+      "hacktoberfest",
+      "linux",
+      "macos",
+      "netcore",
+      "powershell",
+      "shell",
+      "windows"
+    ],
+    "starred_at": "2021-07-15T06:06:46Z",
+    "category": "开发工具",
+    "tags": [
+      "命令行",
+      "脚本",
+      "跨平台",
+      "自动化",
+      "系统管理"
+    ],
+    "summary": "PowerShell是一个跨平台的命令行shell和脚本语言，支持Windows、Linux和macOS，用于系统管理和任务自动化。",
+    "analyzed_at": "2025-10-29T19:19:24.756502+00:00"
+  },
+  {
+    "repo_full_name": "cmderdev/cmder",
+    "owner": "cmderdev",
+    "html_url": "https://github.com/cmderdev/cmder",
+    "description": "Lovely console emulator package for Windows",
+    "topics": [
+      "c-plus-plus",
+      "cmder",
+      "color-scheme",
+      "command-line",
+      "conemu",
+      "mintty",
+      "portable",
+      "powershell",
+      "shell",
+      "ssh-agent",
+      "windows"
+    ],
+    "starred_at": "2021-07-15T06:06:50Z",
+    "category": "开发工具",
+    "tags": [
+      "命令行",
+      "终端模拟器",
+      "Windows工具",
+      "便携式",
+      "PowerShell"
+    ],
+    "summary": "这是一个Windows平台的控制台模拟器包，提供了增强的命令行体验，支持PowerShell和SSH代理功能，是开发者的便携式终端工具。",
+    "analyzed_at": "2025-10-29T19:19:24.756502+00:00"
+  },
+  {
+    "repo_full_name": "gerardog/gsudo",
+    "owner": "gerardog",
+    "html_url": "https://github.com/gerardog/gsudo",
+    "description": "Sudo for Windows",
+    "topics": [
+      "command-line",
+      "elevate",
+      "elevated-commands",
+      "elevated-permissions",
+      "powershell",
+      "runas",
+      "sudo",
+      "sudo-for-windows",
+      "terminal",
+      "uac",
+      "windows",
+      "wsl"
+    ],
+    "starred_at": "2021-07-15T06:09:00Z",
+    "category": "开发工具",
+    "tags": [
+      "command-line",
+      "elevate",
+      "powershell",
+      "sudo",
+      "windows",
+      "terminal"
+    ],
+    "summary": "这是一个为Windows系统提供类似Linux sudo功能的命令行工具，允许用户以提升权限执行命令，简化权限管理过程。",
+    "analyzed_at": "2025-10-29T19:19:24.756502+00:00"
+  },
+  {
+    "repo_full_name": "jobbole/awesome-go-cn",
+    "owner": "jobbole",
+    "html_url": "https://github.com/jobbole/awesome-go-cn",
+    "description": "Go 资源大全中文版， 内容包括：Web框架、模板引擎、表单、身份认证、数据库、ORM框架、图片处理、文本处理、自然语言处理、机器学习、日志、代码分析、教程和（电子）书等。由「开源前哨」和「Go开发大全」微信团队维护。",
+    "topics": [
+      "go",
+      "golang"
+    ],
+    "starred_at": "2021-07-15T10:31:12Z",
+    "category": "开发工具",
+    "tags": [
+      "Go语言",
+      "资源集合",
+      "开发工具",
+      "代码库",
+      "技术索引"
+    ],
+    "summary": "这是一个Go语言资源大全中文版，收集了Web框架、数据库、机器学习等多种Go开发资源，由中文社区维护，是Go开发者的必备参考工具。",
+    "analyzed_at": "2025-10-29T19:19:24.756502+00:00"
+  },
+  {
+    "repo_full_name": "umijs/dumi",
+    "owner": "umijs",
+    "html_url": "https://github.com/umijs/dumi",
+    "description": "📖 Static Site Generator for component library development",
+    "topics": [
+      "docs-generator",
+      "library-development",
+      "static-site-generator",
+      "umi"
+    ],
+    "starred_at": "2021-07-15T10:32:47Z",
+    "category": "开发工具",
+    "tags": [
+      "文档生成",
+      "组件库开发",
+      "静态站点生成",
+      "Umi框架"
+    ],
+    "summary": "dumi是一个专为组件库开发设计的静态站点生成器，基于Umi框架构建。它帮助开发者快速生成美观的文档站点，支持组件预览、API文档自动生成等功能，是前端组件库开发的重要工具。",
+    "analyzed_at": "2025-10-29T19:19:24.756502+00:00"
+  },
+  {
+    "repo_full_name": "single-spa/single-spa",
+    "owner": "single-spa",
+    "html_url": "https://github.com/single-spa/single-spa",
+    "description": "The router for easy microfrontends",
+    "topics": [
+      "front-end",
+      "javascript",
+      "microfrontends",
+      "microservices",
+      "router",
+      "single-page-applications",
+      "single-spa"
+    ],
+    "starred_at": "2021-07-15T10:33:37Z",
+    "category": "开发工具",
+    "tags": [
+      "前端开发",
+      "微前端",
+      "JavaScript",
+      "路由器",
+      "单页应用"
+    ],
+    "summary": "single-spa是一个专为微前端架构设计的JavaScript路由器，简化了将多个独立前端应用组合成单一用户体验的过程，支持单页应用开发，是构建现代化前端应用的实用工具。",
+    "analyzed_at": "2025-10-29T19:19:24.756502+00:00"
+  },
+  {
+    "repo_full_name": "lxgw/kose-font",
+    "owner": "lxgw",
+    "html_url": "https://github.com/lxgw/kose-font",
+    "description": "A Chinese handwriting font derived from SetoFont. 一款衍生于「濑户字体」的中文手写字型。",
+    "topics": [
+      "cjk",
+      "font",
+      "typeface"
+    ],
+    "starred_at": "2021-07-15T12:41:35Z",
+    "category": "设计工具",
+    "tags": [
+      "字体",
+      "设计",
+      "中文",
+      "开源",
+      "手写"
+    ],
+    "summary": "这是一款衍生于「濑户字体」的中文手写字型，属于开源字体项目，适用于中文排版和设计。",
+    "analyzed_at": "2025-10-29T19:19:24.756502+00:00"
+  },
+  {
+    "repo_full_name": "leachim6/hello-world",
+    "owner": "leachim6",
+    "html_url": "https://github.com/leachim6/hello-world",
+    "description": "Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!",
+    "topics": [
+      "esolangs",
+      "example-code",
+      "hacktoberfest",
+      "hello-world"
+    ],
+    "starred_at": "2021-07-15T12:51:34Z",
+    "category": "开发工具",
+    "tags": [
+      "编程示例",
+      "代码参考",
+      "多语言",
+      "学习资源",
+      "开发辅助"
+    ],
+    "summary": "这是一个收集了几乎所有编程语言'Hello World'示例代码的开源项目，为开发者提供多语言编程入门参考和学习资源。",
+    "analyzed_at": "2025-10-29T19:19:24.756502+00:00"
+  },
+  {
+    "repo_full_name": "aind-containers/aind",
+    "owner": "aind-containers",
+    "html_url": "https://github.com/aind-containers/aind",
+    "description": "AinD: Android in Docker. Ain't an emulator.",
+    "topics": [],
+    "starred_at": "2021-07-15T12:51:57Z",
+    "category": "开发工具",
+    "tags": [
+      "Android",
+      "Docker",
+      "容器化",
+      "开发环境",
+      "模拟器替代",
+      "测试工具"
+    ],
+    "summary": "AinD是一个在Docker容器中运行Android应用的工具，它不是传统的模拟器，而是提供了一种轻量级的Android环境，便于开发者测试和运行Android应用。",
+    "analyzed_at": "2025-10-29T19:19:24.756502+00:00"
+  },
+  {
+    "repo_full_name": "XIU2/CloudflareSpeedTest",
+    "owner": "XIU2",
+    "html_url": "https://github.com/XIU2/CloudflareSpeedTest",
+    "description": "🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~",
+    "topics": [
+      "cdn",
+      "cloudflare",
+      "go",
+      "golang",
+      "speedtest"
+    ],
+    "starred_at": "2021-07-15T13:05:14Z",
+    "category": "开发工具",
+    "tags": [
+      "CDN",
+      "Cloudflare",
+      "速度测试",
+      "网络优化",
+      "性能测试"
+    ],
+    "summary": "CloudflareSpeedTest是一个Go语言开发的工具，用于测试Cloudflare CDN的延迟和速度，帮助用户获取最优IP地址。同时支持测试其他CDN服务和多IP解析网站，提升网络访问体验。",
+    "analyzed_at": "2025-10-29T19:19:24.756502+00:00"
+  },
+  {
+    "repo_full_name": "xonsh/xonsh",
+    "owner": "xonsh",
+    "html_url": "https://github.com/xonsh/xonsh",
+    "description": ":shell: Python-powered shell. Full-featured and cross-platform.",
+    "topics": [
+      "artificial-intelligence",
+      "bash",
+      "chatgpt",
+      "cli",
+      "command-line",
+      "console",
+      "data-engineering",
+      "data-science",
+      "devops",
+      "fish",
+      "iterm2",
+      "python",
+      "raspberry-pi",
+      "security-automation",
+      "shell",
+      "xonsh",
+      "zsh"
+    ],
+    "starred_at": "2021-07-15T13:07:17Z",
+    "category": "开发工具",
+    "tags": [
+      "shell",
+      "python",
+      "命令行",
+      "开发工具",
+      "跨平台"
+    ],
+    "summary": "xonsh是一个由Python驱动的全功能跨平台shell工具，结合了Python的强大功能和传统shell的便捷性，为开发者提供更高效的命令行操作体验。",
+    "analyzed_at": "2025-10-29T19:19:24.756502+00:00"
+  },
+  {
+    "repo_full_name": "fish-shell/fish-shell",
+    "owner": "fish-shell",
+    "html_url": "https://github.com/fish-shell/fish-shell",
+    "description": "The user-friendly command line shell.",
+    "topics": [
+      "fish",
+      "rust",
+      "shell",
+      "terminal"
+    ],
+    "starred_at": "2021-07-15T13:29:12Z",
+    "category": "开发工具",
+    "tags": [
+      "fish",
+      "shell",
+      "terminal",
+      "命令行",
+      "脚本"
+    ],
+    "summary": "fish-shell是一款用户友好的命令行shell，提供直观的语法和强大的自动补全功能，支持交互式使用和脚本编写，是开发者的高效命令行工具。",
+    "analyzed_at": "2025-10-29T19:19:24.756502+00:00"
+  },
+  {
+    "repo_full_name": "lxgw/LxgwWenKai",
+    "owner": "lxgw",
+    "html_url": "https://github.com/lxgw/LxgwWenKai",
+    "description": "An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。  ",
+    "topics": [
+      "cjk",
+      "font",
+      "typeface"
+    ],
+    "starred_at": "2021-07-15T14:01:41Z",
+    "category": "设计工具",
+    "tags": [
+      "font",
+      "typeface",
+      "中文字体",
+      "开源",
+      "CJK"
+    ],
+    "summary": "LxgwWenKai是一款基于Klee One衍生的开源中文字体，支持CJK字符集，适合中文排版和设计使用。",
+    "analyzed_at": "2025-10-29T19:19:24.756502+00:00"
+  },
+  {
+    "repo_full_name": "spaceship-prompt/spaceship-prompt",
+    "owner": "spaceship-prompt",
+    "html_url": "https://github.com/spaceship-prompt/spaceship-prompt",
+    "description": "🚀✨ Minimalistic, powerful and extremely customizable Zsh prompt",
+    "topics": [
+      "oh-my-zsh",
+      "prompt",
+      "shell",
+      "shell-prompt",
+      "shell-theme",
+      "spaceship",
+      "terminal",
+      "zsh",
+      "zsh-theme",
+      "zsh-users"
+    ],
+    "starred_at": "2021-07-15T14:10:11Z",
+    "category": "开发工具",
+    "tags": [
+      "shell",
+      "zsh",
+      "prompt",
+      "terminal",
+      "oh-my-zsh",
+      "spaceship"
+    ],
+    "summary": "Spaceship Prompt是一个简约、强大且高度可定制的Zsh shell提示符工具。它为开发者提供了美观且功能丰富的终端界面，支持多种自定义选项，可显著提升命令行使用体验。",
+    "analyzed_at": "2025-10-29T19:19:24.756502+00:00"
+  },
+  {
+    "repo_full_name": "gnachman/iTerm2",
+    "owner": "gnachman",
+    "html_url": "https://github.com/gnachman/iTerm2",
+    "description": "iTerm2 is a terminal emulator for Mac OS X that does amazing things.",
+    "topics": [],
+    "starred_at": "2021-07-15T14:10:54Z",
+    "category": "开发工具",
+    "tags": [
+      "终端模拟器",
+      "Mac工具",
+      "开发工具",
+      "命令行",
+      "效率工具"
+    ],
+    "summary": "iTerm2是Mac OS X系统下的一款功能强大的终端模拟器，提供丰富的特性和良好的用户体验，是开发者的必备工具。",
+    "analyzed_at": "2025-10-29T19:19:24.756502+00:00"
+  },
+  {
+    "repo_full_name": "adnanh/webhook",
+    "owner": "adnanh",
+    "html_url": "https://github.com/adnanh/webhook",
+    "description": "webhook is a lightweight incoming webhook server to run shell commands",
+    "topics": [
+      "automate",
+      "automation",
+      "ci",
+      "deploy",
+      "devops",
+      "execute",
+      "go",
+      "hacktoberfest",
+      "hook",
+      "hooks",
+      "incoming",
+      "integration",
+      "programming",
+      "redeploy",
+      "script",
+      "server",
+      "shell",
+      "web",
+      "webhook",
+      "webhooks"
+    ],
+    "starred_at": "2021-07-15T14:26:49Z",
+    "category": "开发工具",
+    "tags": [
+      "自动化",
+      "DevOps",
+      "CI/CD",
+      "Webhook",
+      "部署",
+      "脚本"
+    ],
+    "summary": "Webhook是一个轻量级的webhook服务器，可接收webhook请求并执行shell命令，支持自动化部署、CI/CD流程和DevOps操作，简化开发流程中的自动化任务。",
+    "analyzed_at": "2025-10-29T19:19:24.756502+00:00"
+  },
+  {
+    "repo_full_name": "termux/termux-app",
+    "owner": "termux",
+    "html_url": "https://github.com/termux/termux-app",
+    "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
+    "topics": [
+      "android",
+      "hacktoberfest",
+      "linux",
+      "terminal",
+      "termux"
+    ],
+    "starred_at": "2021-07-15T15:12:24Z",
+    "category": "移动应用",
+    "tags": [
+      "Android",
+      "终端",
+      "Linux",
+      "Shell"
+    ],
+    "summary": "Termux是一个Android平台的终端模拟器应用，提供了Linux环境下的命令行工具，可通过多种包进行扩展，为移动设备提供了强大的开发环境。",
+    "analyzed_at": "2025-10-29T19:19:24.756502+00:00"
+  },
+  {
+    "repo_full_name": "v2fly/v2ray-core",
+    "owner": "v2fly",
+    "html_url": "https://github.com/v2fly/v2ray-core",
+    "description": "A platform for building proxies to bypass network restrictions.",
+    "topics": [
+      "anticensorship",
+      "hacktoberfest",
+      "network",
+      "proxy",
+      "shadowsocks",
+      "socks5",
+      "trojan",
+      "tunnel",
+      "v2fly",
+      "v2ray",
+      "vless",
+      "vmess",
+      "vpn"
+    ],
+    "starred_at": "2021-07-20T09:38:35Z",
+    "category": "Web应用",
+    "tags": [],
+    "summary": "ZHIPU 调用异常: Error code: 400 - {'contentFilter': [{'level': 1, 'role': 'assistant'}], 'error': {'code': '1301', 'message': '系统检测到输入或生成内容可能包含不安全或敏感内容，请您避免输入易产生敏感内容的提示语，感谢您的配合。'}}",
+    "analyzed_at": "2025-10-29T19:19:24.756502+00:00"
+  },
+  {
+    "repo_full_name": "Qv2ray/Qv2ray",
+    "owner": "Qv2ray",
+    "html_url": "https://github.com/Qv2ray/Qv2ray",
+    "description": ":star: Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 :star:",
+    "topics": [
+      "aur",
+      "cmake",
+      "cpp",
+      "cpp17",
+      "debian",
+      "plugin",
+      "qt5",
+      "qv2ray",
+      "qv2ray-plugins",
+      "ssr",
+      "trojan",
+      "trojan-go",
+      "v2fly",
+      "v2ray"
+    ],
+    "starred_at": "2021-07-20T09:48:57Z",
+    "category": "开发工具",
+    "tags": [
+      "网络代理",
+      "跨平台",
+      "插件式",
+      "V2Ray",
+      "隐私保护"
+    ],
+    "summary": "Qv2ray是一个跨平台的V2Ray客户端，支持多种代理协议，采用C++/Qt开发，具有可扩展的插件式设计，适用于Linux、Windows和macOS系统。",
+    "analyzed_at": "2025-10-29T19:19:24.756502+00:00"
+  },
+  {
+    "repo_full_name": "pengchujin/v2rayDocker",
+    "owner": "pengchujin",
+    "html_url": "https://github.com/pengchujin/v2rayDocker",
+    "description": "一键v2ray ws + tls 方便就完事了",
+    "topics": [
+      "docker",
+      "v2ray",
+      "v2ray-ws-tls"
+    ],
+    "starred_at": "2021-07-20T10:51:38Z",
+    "category": "开发工具",
+    "tags": [],
+    "summary": "ZHIPU 调用异常: Error code: 400 - {'contentFilter': [{'level': 2, 'role': 'assistant'}], 'error': {'code': '1301', 'message': '系统检测到输入或生成内容可能包含不安全或敏感内容，请您避免输入易产生敏感内容的提示语，感谢您的配合。'}}",
+    "analyzed_at": "2025-10-29T19:19:24.756502+00:00"
+  },
+  {
+    "repo_full_name": "ToyoDAdoubi/doubi",
+    "owner": "ToyoDAdoubi",
+    "html_url": "https://github.com/ToyoDAdoubi/doubi",
+    "description": "一个逗比写的各种逗比脚本~",
+    "topics": [],
+    "starred_at": "2021-07-20T11:19:01Z",
+    "category": "开发工具",
+    "tags": [
+      "脚本",
+      "工具",
+      "自动化",
+      "实用程序",
+      "系统管理"
+    ],
+    "summary": "这是一个包含多种实用脚本的集合仓库，由开发者编写用于自动化任务和系统管理，适合需要提高工作效率的开发者和系统管理员使用。",
+    "analyzed_at": "2025-10-29T19:19:24.756502+00:00"
+  },
+  {
+    "repo_full_name": "caddyserver/caddy",
+    "owner": "caddyserver",
+    "html_url": "https://github.com/caddyserver/caddy",
+    "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+    "topics": [
+      "acme",
+      "automatic-https",
+      "caddy",
+      "caddyfile",
+      "go",
+      "golang",
+      "http",
+      "http-server",
+      "http3",
+      "https",
+      "privacy",
+      "reverse-proxy",
+      "security",
+      "tls",
+      "web-server"
+    ],
+    "starred_at": "2021-07-20T11:23:36Z",
+    "category": "Web应用",
+    "tags": [
+      "Web服务器",
+      "HTTPS",
+      "反向代理",
+      "Go语言",
+      "HTTP/3"
+    ],
+    "summary": "Caddy是一个快速且可扩展的跨平台HTTP/1-2-3 web服务器，支持自动HTTPS配置，可作为反向代理使用，注重隐私和安全。",
+    "analyzed_at": "2025-10-29T19:19:24.756502+00:00"
+  },
+  {
+    "repo_full_name": "Schniz/fnm",
+    "owner": "Schniz",
+    "html_url": "https://github.com/Schniz/fnm",
+    "description": "🚀 Fast and simple Node.js version manager, built in Rust",
+    "topics": [
+      "hacktoberfest",
+      "javascript",
+      "nodejs",
+      "nvm",
+      "reasonml",
+      "version"
+    ],
+    "starred_at": "2021-07-20T14:59:48Z",
+    "category": "开发工具",
+    "tags": [
+      "Node.js版本管理",
+      "开发工具",
+      "Rust",
+      "JavaScript",
+      "版本控制"
+    ],
+    "summary": "fnm是一个用Rust构建的快速且简单的Node.js版本管理工具，类似于nvm，但性能更优，帮助开发者轻松切换和管理不同版本的Node.js环境。",
+    "analyzed_at": "2025-10-29T19:19:24.756502+00:00"
+  },
+  {
+    "repo_full_name": "indes/flowerss-bot",
+    "owner": "indes",
+    "html_url": "https://github.com/indes/flowerss-bot",
+    "description": "A telegram bot  for rss reader. 一个支持应用内阅读的 Telegram RSS Bot。",
+    "topics": [
+      "rss",
+      "rssbot",
+      "telegram",
+      "telegram-bot"
+    ],
+    "starred_at": "2021-07-21T14:12:10Z",
+    "category": "Web应用",
+    "tags": [
+      "rss",
+      "rssbot",
+      "telegram",
+      "telegram-bot"
+    ],
+    "summary": "这是一个Telegram RSS机器人，支持在应用内直接阅读RSS内容。用户可以通过Telegram订阅RSS源，无需离开应用即可获取最新更新。",
+    "analyzed_at": "2025-10-29T19:19:24.756502+00:00"
+  },
+  {
+    "repo_full_name": "skyline75489/what-happens-when-zh_CN",
+    "owner": "skyline75489",
+    "html_url": "https://github.com/skyline75489/what-happens-when-zh_CN",
+    "description": "What-happens-when 的中文翻译，原仓库 https://github.com/alex/what-happens-when",
+    "topics": [],
+    "starred_at": "2021-07-23T06:32:19Z",
+    "category": "教育学习",
+    "tags": [
+      "Web技术",
+      "浏览器",
+      "计算机科学",
+      "教程",
+      "技术文档"
+    ],
+    "summary": "这是一个解释浏览器URL输入到页面加载完整过程的Web技术原理文档的中文翻译版本，适合开发者学习Web底层工作原理。",
+    "analyzed_at": "2025-10-29T19:19:24.756502+00:00"
+  },
+  {
+    "repo_full_name": "pureink/inkrss",
+    "owner": "pureink",
+    "html_url": "https://github.com/pureink/inkrss",
+    "description": "Notify when rss feeds are updated | RSS 更新通知 ",
+    "topics": [
+      "cloudflare",
+      "cloudflare-workers",
+      "rss",
+      "telegram"
+    ],
+    "starred_at": "2021-07-23T13:58:58Z",
+    "category": "效率工具",
+    "tags": [
+      "RSS",
+      "通知",
+      "Cloudflare",
+      "效率",
+      "订阅"
+    ],
+    "summary": "InkRSS是一个基于Cloudflare Workers的RSS更新通知工具，可监控RSS源更新并通过Telegram发送通知，帮助用户高效获取最新内容。",
+    "analyzed_at": "2025-10-29T19:19:24.756502+00:00"
+  },
+  {
+    "repo_full_name": "lokalise/i18n-ally",
+    "owner": "lokalise",
+    "html_url": "https://github.com/lokalise/i18n-ally",
+    "description": "🌍 All in one i18n extension for VS Code",
+    "topics": [
+      "angular",
+      "i10n",
+      "i18n",
+      "i18next",
+      "locales",
+      "react",
+      "translation",
+      "vscode",
+      "vscode-extension",
+      "vue",
+      "vue-i18n"
+    ],
+    "starred_at": "2021-07-24T03:32:21Z",
+    "category": "开发工具",
+    "tags": [
+      "vscode-extension",
+      "i18n",
+      "translation",
+      "react",
+      "vue",
+      "angular"
+    ],
+    "summary": "这是一个VS Code的国际化扩展，支持React、Vue和Angular等多种框架，提供一站式翻译和本地化解决方案。",
+    "analyzed_at": "2025-10-29T19:19:24.756502+00:00"
   }
 ]
