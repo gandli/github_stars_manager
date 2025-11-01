@@ -23413,5 +23413,1200 @@
     ],
     "summary": "思源笔记是一款隐私优先、自托管的个人知识管理软件，使用TypeScript和Golang开发。它支持Markdown、OCR、PDF等多种格式，可与AI工具集成，提供本地优先的知识管理体验。",
     "analyzed_at": "2025-10-31T19:18:11.053786+00:00"
+  },
+  {
+    "repo_full_name": "actions/setup-go",
+    "owner": "actions",
+    "html_url": "https://github.com/actions/setup-go",
+    "description": "Set up your GitHub Actions workflow with a specific version of Go",
+    "topics": [],
+    "starred_at": "2021-08-23T12:32:11Z",
+    "category": "开发工具",
+    "tags": [
+      "GitHub Actions",
+      "Go",
+      "CI/CD",
+      "编程语言",
+      "自动化"
+    ],
+    "summary": "GitHub Actions的action，用于在CI/CD工作流中自动设置特定版本的Go语言环境，简化Go项目的持续集成流程。",
+    "analyzed_at": "2025-11-01T19:16:35.918961+00:00"
+  },
+  {
+    "repo_full_name": "commaai/openpilot",
+    "owner": "commaai",
+    "html_url": "https://github.com/commaai/openpilot",
+    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+    "topics": [
+      "advanced-driver-assistance-systems",
+      "driver-assistance-systems",
+      "robotics"
+    ],
+    "starred_at": "2021-08-23T14:32:04Z",
+    "category": "AI/机器学习",
+    "tags": [
+      "驾驶辅助",
+      "自动驾驶",
+      "人工智能",
+      "汽车技术",
+      "开源项目"
+    ],
+    "summary": "openpilot是一个机器人操作系统，目前为300多款支持汽车升级驾驶员辅助系统，提供开源的自动驾驶解决方案，推动智能汽车技术的发展。",
+    "analyzed_at": "2025-11-01T19:16:35.918961+00:00"
+  },
+  {
+    "repo_full_name": "yezhang/excel-formula-sdk",
+    "owner": "yezhang",
+    "html_url": "https://github.com/yezhang/excel-formula-sdk",
+    "description": "Excel 公式解析引擎，用于支持公式输入编辑器的智能提示、单元格之间的公式依赖计算、公式的求值。",
+    "topics": [],
+    "starred_at": "2021-08-24T09:56:46Z",
+    "category": "开发工具",
+    "tags": [
+      "Excel",
+      "公式解析",
+      "SDK",
+      "智能提示",
+      "依赖计算"
+    ],
+    "summary": "Excel公式解析引擎SDK，提供公式智能提示、单元格依赖计算和公式求值功能，帮助开发者构建强大的Excel公式编辑器。",
+    "analyzed_at": "2025-11-01T19:16:35.918961+00:00"
+  },
+  {
+    "repo_full_name": "fuck-xuexiqiangguo/docker",
+    "owner": "fuck-xuexiqiangguo",
+    "html_url": "https://github.com/fuck-xuexiqiangguo/docker",
+    "description": null,
+    "topics": [],
+    "starred_at": "2021-08-24T10:38:11Z",
+    "category": "开发工具",
+    "tags": [
+      "Docker",
+      "容器化",
+      "学习强国",
+      "替代方案"
+    ],
+    "summary": "Docker容器项目，用于创建学习强国应用的替代方案或破解版本，提供容器化部署能力。",
+    "analyzed_at": "2025-11-01T19:16:35.918961+00:00"
+  },
+  {
+    "repo_full_name": "ourongxing/ohmymn",
+    "owner": "ourongxing",
+    "html_url": "https://github.com/ourongxing/ohmymn",
+    "description": "MarginNote Addon Development Framework",
+    "topics": [
+      "marginnote",
+      "mnaddon",
+      "ohmymn"
+    ],
+    "starred_at": "2021-08-25T08:10:35Z",
+    "category": "开发工具",
+    "tags": [
+      "marginnote",
+      "mnaddon",
+      "ohmymn",
+      "插件开发",
+      "笔记应用",
+      "开发框架"
+    ],
+    "summary": "ohmymn是一个MarginNote笔记应用的插件开发框架，为开发者提供了构建和扩展MarginNote功能的工具集。通过这个框架，开发者可以创建自定义插件，增强MarginNote的功能和用户体验。",
+    "analyzed_at": "2025-11-01T19:16:35.918961+00:00"
+  },
+  {
+    "repo_full_name": "deluan/zsh-in-docker",
+    "owner": "deluan",
+    "html_url": "https://github.com/deluan/zsh-in-docker",
+    "description": "Install Zsh, Oh My Zsh and plugins inside a Docker container with one line!",
+    "topics": [
+      "docker",
+      "dockerfile",
+      "oh-my-zsh",
+      "vscode",
+      "zsh"
+    ],
+    "starred_at": "2021-08-25T09:08:37Z",
+    "category": "开发工具",
+    "tags": [
+      "docker",
+      "zsh",
+      "oh-my-zsh",
+      "开发工具"
+    ],
+    "summary": "这是一个Docker工具，允许用户在一行命令中在Docker容器内安装Zsh、Oh My Zsh及其插件，简化了开发环境的配置过程。",
+    "analyzed_at": "2025-11-01T19:16:35.918961+00:00"
+  },
+  {
+    "repo_full_name": "elecV2/elecV2P",
+    "owner": "elecV2",
+    "html_url": "https://github.com/elecV2/elecV2P",
+    "description": "一款基于 NodeJS，可通过 JS 修改网络请求，以及定时运行脚本或 SHELL 指令的网络工具。",
+    "topics": [
+      "anyproxy",
+      "cron",
+      "ifttt",
+      "javascript",
+      "mitm",
+      "nodejs",
+      "v2p",
+      "vue"
+    ],
+    "starred_at": "2021-08-25T11:47:48Z",
+    "category": "开发工具",
+    "tags": [
+      "javascript",
+      "nodejs",
+      "mitm",
+      "cron",
+      "anyproxy"
+    ],
+    "summary": "elecV2P是一款基于NodeJS的网络工具，支持通过JavaScript修改网络请求，并能定时运行脚本或SHELL指令。它集成了代理、定时任务等功能，适合开发者进行网络调试和自动化操作。",
+    "analyzed_at": "2025-11-01T19:16:35.918961+00:00"
+  },
+  {
+    "repo_full_name": "GJXSTAR/MulanPSL",
+    "owner": "GJXSTAR",
+    "html_url": "https://github.com/GJXSTAR/MulanPSL",
+    "description": "木兰宽松许可证  Mulan Permissive Software License",
+    "topics": [],
+    "starred_at": "2021-08-25T13:43:00Z",
+    "category": "开发工具",
+    "tags": [
+      "开源许可证",
+      "法律文档",
+      "MulanPSL",
+      "中国开源",
+      "软件许可",
+      "开发规范"
+    ],
+    "summary": "木兰宽松许可证(MulanPSL)是中国开源社区推出的开源许可证，类似于MIT等宽松型许可证，允许用户自由使用、修改和分发软件代码，同时要求保留版权声明。",
+    "analyzed_at": "2025-11-01T19:16:35.918961+00:00"
+  },
+  {
+    "repo_full_name": "oevery/ninja",
+    "owner": "oevery",
+    "html_url": "https://github.com/oevery/ninja",
+    "description": null,
+    "topics": [],
+    "starred_at": "2021-08-25T14:46:40Z",
+    "category": "开发工具",
+    "tags": [
+      "构建系统",
+      "自动化",
+      "高效",
+      "轻量级"
+    ],
+    "summary": "Ninja是一个快速、简洁的构建系统，旨在提高软件项目的构建效率。",
+    "analyzed_at": "2025-11-01T19:16:35.918961+00:00"
+  },
+  {
+    "repo_full_name": "yeasy/docker_practice",
+    "owner": "yeasy",
+    "html_url": "https://github.com/yeasy/docker_practice",
+    "description": "Learn and understand Docker&Container technologies, with real DevOps practice!",
+    "topics": [
+      "book",
+      "cloud-computing",
+      "container",
+      "devops",
+      "docker",
+      "kubernetes",
+      "linux",
+      "mesos",
+      "spark",
+      "swarm"
+    ],
+    "starred_at": "2021-08-25T14:47:11Z",
+    "category": "开发工具",
+    "tags": [
+      "容器",
+      "Docker",
+      "DevOps",
+      "云计算",
+      "Kubernetes"
+    ],
+    "summary": "Docker实践指南是一本全面介绍Docker和容器技术的教程，结合真实的DevOps实践案例，帮助读者深入理解容器化技术及其在云计算和微服务架构中的应用。",
+    "analyzed_at": "2025-11-01T19:16:35.918961+00:00"
+  },
+  {
+    "repo_full_name": "rasa/scoop-directory",
+    "owner": "rasa",
+    "html_url": "https://github.com/rasa/scoop-directory",
+    "description": "A searchable directory of buckets for the scoop package manager for Windows",
+    "topics": [
+      "installer",
+      "package-manager",
+      "scoop",
+      "windows"
+    ],
+    "starred_at": "2021-08-26T11:22:19Z",
+    "category": "开发工具",
+    "tags": [
+      "包管理器",
+      "Windows",
+      "软件安装",
+      "命令行工具",
+      "开发工具"
+    ],
+    "summary": "Scoop包管理器Windows平台的软件包存储桶目录，提供可搜索的软件源集合，帮助用户轻松发现和添加各种开发工具与应用程序。",
+    "analyzed_at": "2025-11-01T19:16:35.918961+00:00"
+  },
+  {
+    "repo_full_name": "chinanf-boy/hyperfine-zh",
+    "owner": "chinanf-boy",
+    "html_url": "https://github.com/chinanf-boy/hyperfine-zh",
+    "description": "🇨🇳翻译: <hyperfine> 命令行基准测试工具 ❤️ 校对 ✅",
+    "topics": [
+      "bench",
+      "docs",
+      "rust",
+      "zh"
+    ],
+    "starred_at": "2021-08-26T11:25:40Z",
+    "category": "开发工具",
+    "tags": [
+      "基准测试",
+      "文档",
+      "Rust",
+      "中文翻译",
+      "命令行工具"
+    ],
+    "summary": "hyperfine-zh是hyperfine命令行基准测试工具的中文翻译项目。该项目将原版工具的文档和界面翻译成中文，方便中文用户使用。hyperfine是一个快速、精确的命令行基准测试工具，使用Rust语言开发。",
+    "analyzed_at": "2025-11-01T19:16:35.918961+00:00"
+  },
+  {
+    "repo_full_name": "rust-lang/cargo",
+    "owner": "rust-lang",
+    "html_url": "https://github.com/rust-lang/cargo",
+    "description": "The Rust package manager",
+    "topics": [
+      "cargo",
+      "package-manager",
+      "rust"
+    ],
+    "starred_at": "2021-08-26T11:26:09Z",
+    "category": "开发工具",
+    "tags": [
+      "包管理器",
+      "Rust",
+      "开发工具",
+      "构建系统",
+      "依赖管理"
+    ],
+    "summary": "Cargo是Rust语言的官方包管理器和构建工具，用于管理项目依赖、编译代码和发布软件包。它简化了Rust项目的开发流程，提供了统一的包管理和构建体验。",
+    "analyzed_at": "2025-11-01T19:16:35.918961+00:00"
+  },
+  {
+    "repo_full_name": "woniudiancang/bee",
+    "owner": "woniudiancang",
+    "html_url": "https://github.com/woniudiancang/bee",
+    "description": "微信小程序-餐饮点餐外卖-开箱即用",
+    "topics": [],
+    "starred_at": "2021-08-26T12:10:13Z",
+    "category": "移动应用",
+    "tags": [
+      "微信小程序",
+      "餐饮",
+      "点餐",
+      "外卖",
+      "开箱即用"
+    ],
+    "summary": "bee是一个微信小程序，专为餐饮行业设计，提供点餐和外卖功能，开箱即用，适合餐厅快速搭建线上点餐系统。",
+    "analyzed_at": "2025-11-01T19:16:35.918961+00:00"
+  },
+  {
+    "repo_full_name": "v2fly/docker",
+    "owner": "v2fly",
+    "html_url": "https://github.com/v2fly/docker",
+    "description": "docker build repo for v2fly",
+    "topics": [],
+    "starred_at": "2021-08-27T02:53:13Z",
+    "category": "安全工具",
+    "tags": [
+      "Docker",
+      "代理",
+      "网络安全",
+      "隐私保护",
+      "v2fly"
+    ],
+    "summary": "v2fly的Docker构建仓库，提供代理工具的容器化部署方案，用于网络隐私保护和安全访问。",
+    "analyzed_at": "2025-11-01T19:16:35.918961+00:00"
+  },
+  {
+    "repo_full_name": "aduskin/AduSkin",
+    "owner": "aduskin",
+    "html_url": "https://github.com/aduskin/AduSkin",
+    "description": "A Beautiful WPF Control UI",
+    "topics": [],
+    "starred_at": "2021-08-28T07:27:14Z",
+    "category": "桌面应用",
+    "tags": [
+      "WPF",
+      "UI",
+      "控件",
+      "界面",
+      "桌面"
+    ],
+    "summary": "AduSkin是一个美观的WPF控件UI库，为Windows桌面应用程序提供丰富的界面组件和皮肤样式，帮助开发者快速构建专业美观的桌面应用界面。",
+    "analyzed_at": "2025-11-01T19:16:35.918961+00:00"
+  },
+  {
+    "repo_full_name": "marvelapp/devices.css",
+    "owner": "marvelapp",
+    "html_url": "https://github.com/marvelapp/devices.css",
+    "description": "Pure CSS phones and tablets",
+    "topics": [],
+    "starred_at": "2021-08-28T07:27:18Z",
+    "category": "开发工具",
+    "tags": [
+      "CSS",
+      "UI组件",
+      "响应式设计",
+      "设备模拟",
+      "前端开发"
+    ],
+    "summary": "这是一个纯CSS库，用于创建各种手机和平板设备的UI表示，无需JavaScript，帮助开发者快速构建响应式设备展示界面。",
+    "analyzed_at": "2025-11-01T19:16:35.918961+00:00"
+  },
+  {
+    "repo_full_name": "zhanghuanchong/icon-workshop",
+    "owner": "zhanghuanchong",
+    "html_url": "https://github.com/zhanghuanchong/icon-workshop",
+    "description": "图标工场 - 移动应用图标生成工具，一键生成所有尺寸的应用图标和启动图",
+    "topics": [
+      "angular",
+      "icon",
+      "laravel",
+      "material-design",
+      "mobile-app"
+    ],
+    "starred_at": "2021-08-28T07:34:12Z",
+    "category": "开发工具",
+    "tags": [
+      "icon",
+      "mobile-app",
+      "material-design",
+      "angular",
+      "laravel"
+    ],
+    "summary": "图标工场是一个移动应用图标生成工具，支持一键生成所有尺寸的应用图标和启动图。基于Angular和Laravel开发，采用Material Design设计风格，帮助开发者快速完成应用图标资源制作。",
+    "analyzed_at": "2025-11-01T19:16:35.918961+00:00"
+  },
+  {
+    "repo_full_name": "budtmo/docker-android",
+    "owner": "budtmo",
+    "html_url": "https://github.com/budtmo/docker-android",
+    "description": "Android in docker solution with noVNC supported and video recording",
+    "topics": [
+      "alibabacloud",
+      "android",
+      "android-emulator",
+      "aws",
+      "azure",
+      "cloud",
+      "docker",
+      "docker-android",
+      "emulator",
+      "gcp",
+      "genymotion",
+      "jenkins",
+      "kubernetes",
+      "mobile-app",
+      "mobile-web",
+      "novnc",
+      "saltstack",
+      "selenium",
+      "selenium-grid",
+      "terraform"
+    ],
+    "starred_at": "2021-08-28T07:38:30Z",
+    "category": "开发工具",
+    "tags": [
+      "android",
+      "docker",
+      "emulator",
+      "mobile-app",
+      "novnc",
+      "selenium"
+    ],
+    "summary": "这是一个Docker容器解决方案，允许在云环境中运行Android系统，支持noVNC远程访问和视频录制功能，可用于移动应用开发和测试。",
+    "analyzed_at": "2025-11-01T19:16:35.918961+00:00"
+  },
+  {
+    "repo_full_name": "feeddd/feeds",
+    "owner": "feeddd",
+    "html_url": "https://github.com/feeddd/feeds",
+    "description": "免费的公众号 RSS，支持扩展任意 APP",
+    "topics": [
+      "atom",
+      "hamibot",
+      "rss",
+      "wechat"
+    ],
+    "starred_at": "2021-08-28T07:48:51Z",
+    "category": "Web应用",
+    "tags": [
+      "rss",
+      "atom",
+      "wechat",
+      "rss订阅",
+      "内容聚合"
+    ],
+    "summary": "一个免费的公众号RSS服务，支持将微信公众号内容转换为RSS格式，可扩展到任意应用，方便用户通过RSS阅读器获取公众号更新。",
+    "analyzed_at": "2025-11-01T19:16:35.918961+00:00"
+  },
+  {
+    "repo_full_name": "Renovamen/vuepress-theme-gungnir",
+    "owner": "Renovamen",
+    "html_url": "https://github.com/Renovamen/vuepress-theme-gungnir",
+    "description": "A blog theme for VuePress 2.",
+    "topics": [
+      "blog",
+      "chartjs",
+      "giscus",
+      "katex",
+      "mermaid",
+      "vue",
+      "vue3",
+      "vuepress",
+      "vuepress-next",
+      "vuepress2"
+    ],
+    "starred_at": "2021-08-28T07:51:33Z",
+    "category": "Web应用",
+    "tags": [
+      "blog",
+      "vue",
+      "vuepress",
+      "主题"
+    ],
+    "summary": "这是一个为VuePress 2设计的博客主题，支持ChartJS、Giscus、KaTeX、Mermaid等功能，帮助用户快速搭建美观的博客网站。",
+    "analyzed_at": "2025-11-01T19:16:35.918961+00:00"
+  },
+  {
+    "repo_full_name": "uxie-io/tinter",
+    "owner": "uxie-io",
+    "html_url": "https://github.com/uxie-io/tinter",
+    "description": "Tinter is tiny web tool to generate color variation of images. ",
+    "topics": [
+      "colors",
+      "hue",
+      "images",
+      "tint",
+      "tints-and-shades"
+    ],
+    "starred_at": "2021-08-28T08:03:52Z",
+    "category": "Web应用",
+    "tags": [
+      "colors",
+      "images",
+      "tint",
+      "design"
+    ],
+    "summary": "Tinter是一个小型网页工具，用于生成图像的颜色变化。用户可以通过调整色调和阴影来创建图像的多种颜色变体，适用于设计师和开发者快速测试不同配色方案。",
+    "analyzed_at": "2025-11-01T19:16:35.918961+00:00"
+  },
+  {
+    "repo_full_name": "scriptingosx/DownloadFullInstaller",
+    "owner": "scriptingosx",
+    "html_url": "https://github.com/scriptingosx/DownloadFullInstaller",
+    "description": "macOS application written in SwiftUI that downloads installer pkgs for the Install macOS Big Sur application.",
+    "topics": [
+      "bigsur",
+      "deployment",
+      "installer",
+      "macadmins",
+      "macos",
+      "pkg",
+      "swift",
+      "swiftui"
+    ],
+    "starred_at": "2021-08-28T08:04:15Z",
+    "category": "桌面应用",
+    "tags": [
+      "macOS",
+      "installer",
+      "deployment",
+      "swiftui",
+      "pkg"
+    ],
+    "summary": "这是一个用SwiftUI编写的macOS桌面应用，专为macOS Big Sur设计，可以帮助用户下载完整的安装程序包，方便系统部署和管理。",
+    "analyzed_at": "2025-11-01T19:16:35.918961+00:00"
+  },
+  {
+    "repo_full_name": "tonsky/datascript",
+    "owner": "tonsky",
+    "html_url": "https://github.com/tonsky/datascript",
+    "description": "Immutable database and Datalog query engine for Clojure, ClojureScript and JS",
+    "topics": [
+      "clojure",
+      "clojurescript",
+      "database",
+      "datascript",
+      "memory-database"
+    ],
+    "starred_at": "2021-08-28T08:31:30Z",
+    "category": "数据库",
+    "tags": [
+      "clojure",
+      "clojurescript",
+      "database",
+      "datascript",
+      "memory-database"
+    ],
+    "summary": "Datascript是一个不可变数据库和Datalog查询引擎，专为Clojure、ClojureScript和JavaScript设计。它提供内存数据库功能，支持高效的数据查询和操作，适合在Web应用和前端开发中使用。",
+    "analyzed_at": "2025-11-01T19:16:35.918961+00:00"
+  },
+  {
+    "repo_full_name": "boringdesigners/boring-avatars",
+    "owner": "boringdesigners",
+    "html_url": "https://github.com/boringdesigners/boring-avatars",
+    "description": "Boring avatars is an open source React library that generates custom, SVG-based avatars from any username and color palette.",
+    "topics": [
+      "avatar",
+      "avatar-component",
+      "avatar-generator",
+      "avatar-placeholder",
+      "avatar-service",
+      "avatars-constructor",
+      "beautiful-avatars",
+      "javascript",
+      "open-source",
+      "random-avatars",
+      "react",
+      "svg"
+    ],
+    "starred_at": "2021-08-28T10:37:35Z",
+    "category": "开发工具",
+    "tags": [
+      "头像生成",
+      "React组件",
+      "SVG",
+      "开源工具",
+      "前端开发"
+    ],
+    "summary": "Boring Avatars是一个开源的React库，可根据用户名和自定义调色板生成SVG格式的个性化头像，适用于前端应用中的用户头像显示。",
+    "analyzed_at": "2025-11-01T19:16:35.918961+00:00"
+  },
+  {
+    "repo_full_name": "multiavatar/Multiavatar",
+    "owner": "multiavatar",
+    "html_url": "https://github.com/multiavatar/Multiavatar",
+    "description": "Multicultural Avatar Generator in JavaScript",
+    "topics": [
+      "avatar",
+      "avatar-generator",
+      "avatar-maker"
+    ],
+    "starred_at": "2021-08-28T10:37:50Z",
+    "category": "Web应用",
+    "tags": [
+      "头像",
+      "头像生成器",
+      "头像制作工具",
+      "JavaScript",
+      "多文化",
+      "用户界面"
+    ],
+    "summary": "这是一个用JavaScript实现的多文化头像生成器，可以创建代表不同文化背景的个性化头像。",
+    "analyzed_at": "2025-11-01T19:16:35.918961+00:00"
+  },
+  {
+    "repo_full_name": "athensresearch/athens",
+    "owner": "athensresearch",
+    "html_url": "https://github.com/athensresearch/athens",
+    "description": "Athens is no longer maintainted. Athens was an open-source, collaborative knowledge graph, backed by YC W21",
+    "topics": [
+      "hacktoberfest",
+      "knowledge-base",
+      "knowledge-graph",
+      "knowledge-management",
+      "memex",
+      "notetaking",
+      "tools-for-thought"
+    ],
+    "starred_at": "2021-08-28T12:28:53Z",
+    "category": "效率工具",
+    "tags": [
+      "知识图谱",
+      "知识管理",
+      "笔记",
+      "思维工具",
+      "知识库"
+    ],
+    "summary": "Athens是一个开源协作知识图谱项目，由YC W21支持。它帮助用户构建和管理个人知识库，将笔记连接成网络，是思维工具和知识管理的理想选择。",
+    "analyzed_at": "2025-11-01T19:16:35.918961+00:00"
+  },
+  {
+    "repo_full_name": "buuing/lucky-canvas",
+    "owner": "buuing",
+    "html_url": "https://github.com/buuing/lucky-canvas",
+    "description": "🎖🎖🎖 基于 TS + Canvas 开发的【大转盘 / 九宫格 / 老虎机】抽奖插件，🌈 一套源码适配多端框架 JS / Vue / React / Taro / UniApp / 微信小程序等，🎨 奖品 / 文字 / 图片 / 颜色 / 按钮均可配置，支持同步 / 异步抽奖，🎯 概率前 / 后端可控，🚀 自动根据 dpr 调整清晰度适配移动端",
+    "topics": [
+      "canvas",
+      "javascript",
+      "lucky-draw",
+      "react",
+      "taro",
+      "uni-app",
+      "vue"
+    ],
+    "starred_at": "2021-08-28T12:31:17Z",
+    "category": "Web应用",
+    "tags": [],
+    "summary": "ZHIPU 调用异常: Error code: 400 - {'contentFilter': [{'level': 1, 'role': 'assistant'}], 'error': {'code': '1301', 'message': '系统检测到输入或生成内容可能包含不安全或敏感内容，请您避免输入易产生敏感内容的提示语，感谢您的配合。'}}",
+    "analyzed_at": "2025-11-01T19:16:35.918961+00:00"
+  },
+  {
+    "repo_full_name": "ivmm/Student-resources",
+    "owner": "ivmm",
+    "html_url": "https://github.com/ivmm/Student-resources",
+    "description": "本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。",
+    "topics": [
+      "education"
+    ],
+    "starred_at": "2021-08-28T12:47:47Z",
+    "category": "教育学习",
+    "tags": [
+      "education",
+      "student",
+      "discount",
+      "resources",
+      "teacher"
+    ],
+    "summary": "这是一个收集学生和教职工可享受的教育优惠资源的仓库，提醒用户合理使用优惠权益，不要转卖学生资格，确保教育资源的公平分配。",
+    "analyzed_at": "2025-11-01T19:16:35.918961+00:00"
+  },
+  {
+    "repo_full_name": "windicss/windicss",
+    "owner": "windicss",
+    "html_url": "https://github.com/windicss/windicss",
+    "description": "Next generation utility-first CSS framework.",
+    "topics": [
+      "css",
+      "css-compiler",
+      "on-demand",
+      "svelte",
+      "tailwindcss",
+      "utility-first",
+      "vuejs",
+      "windi-css"
+    ],
+    "starred_at": "2021-08-28T12:51:45Z",
+    "category": "开发工具",
+    "tags": [
+      "css",
+      "tailwindcss",
+      "utility-first",
+      "vuejs",
+      "svelte"
+    ],
+    "summary": "WindCSS是一个新一代的实用优先CSS框架，提供按需生成样式，支持Vue、Svelte等框架，是Tailwind CSS的替代选择，优化了开发体验和性能。",
+    "analyzed_at": "2025-11-01T19:16:35.918961+00:00"
+  },
+  {
+    "repo_full_name": "bitwarden/android",
+    "owner": "bitwarden",
+    "html_url": "https://github.com/bitwarden/android",
+    "description": "Bitwarden mobile apps (Password Manager and Authenticator) for Android.",
+    "topics": [
+      "android",
+      "bitwarden",
+      "compose",
+      "jetpack",
+      "kotlin"
+    ],
+    "starred_at": "2021-08-28T13:00:50Z",
+    "category": "移动应用",
+    "tags": [
+      "android",
+      "bitwarden",
+      "密码管理",
+      "安全",
+      "身份验证"
+    ],
+    "summary": "Bitwarden Android客户端是一款密码管理器和身份验证应用，使用Kotlin开发，基于Jetpack Compose构建。它帮助用户安全地存储和管理密码，提供双重身份验证功能，保护用户的数字身份安全。",
+    "analyzed_at": "2025-11-01T19:16:35.918961+00:00"
+  },
+  {
+    "repo_full_name": "TencentCloudBase-Marketplace/bitwarden",
+    "owner": "TencentCloudBase-Marketplace",
+    "html_url": "https://github.com/TencentCloudBase-Marketplace/bitwarden",
+    "description": "Bitwarden 服务端，基于云开发 CloudBase Framework 开发部署",
+    "topics": [
+      "bitwarden",
+      "cloudbase",
+      "signups-allowed"
+    ],
+    "starred_at": "2021-08-28T13:10:47Z",
+    "category": "Web应用",
+    "tags": [
+      "密码管理",
+      "云服务",
+      "安全工具",
+      "服务端",
+      "开发框架"
+    ],
+    "summary": "这是一个基于腾讯云开发 CloudBase Framework 部署的 Bitwarden 密码管理器服务端实现，提供安全的密码存储和管理功能。",
+    "analyzed_at": "2025-11-01T19:16:35.918961+00:00"
+  },
+  {
+    "repo_full_name": "GeekQiaQia/vue3.0-template-admin",
+    "owner": "GeekQiaQia",
+    "html_url": "https://github.com/GeekQiaQia/vue3.0-template-admin",
+    "description": "本项目基于vue3+ElementPlus+Typescript+Vite搭建一套通用的后台管理模板；并基于常见业务场景，抽象出常见功能组件；包括动态菜单，菜单权限、登录、主题切换、国际化、个人中心、表单页、列表页、复制文本、二维码分享等等",
+    "topics": [
+      "element-plus",
+      "element-ui",
+      "typescript",
+      "vetur",
+      "vite",
+      "vite2",
+      "volar",
+      "vscode",
+      "vscode-command-palette",
+      "vue",
+      "vue-admin",
+      "vue-next",
+      "vue-next-admin",
+      "vue3",
+      "vue3-typescript"
+    ],
+    "starred_at": "2021-08-29T10:39:16Z",
+    "category": "Web应用",
+    "tags": [
+      "vue3",
+      "vue-admin",
+      "element-plus",
+      "typescript",
+      "vite",
+      "vue-next"
+    ],
+    "summary": "基于Vue3+ElementPlus+TypeScript+Vite构建的通用后台管理模板，提供动态菜单、权限控制、主题切换等常用功能组件。",
+    "analyzed_at": "2025-11-01T19:16:35.918961+00:00"
+  },
+  {
+    "repo_full_name": "vitejs/docs-cn",
+    "owner": "vitejs",
+    "html_url": "https://github.com/vitejs/docs-cn",
+    "description": "Chinese translation of vite.dev",
+    "topics": [],
+    "starred_at": "2021-08-29T10:41:21Z",
+    "category": "开发工具",
+    "tags": [
+      "文档翻译",
+      "Vite",
+      "前端开发",
+      "中文文档",
+      "开发工具"
+    ],
+    "summary": "Vite官方文档的中文翻译项目，为中文开发者提供Vite构建工具的完整中文文档，帮助前端开发者更好地理解和使用Vite。",
+    "analyzed_at": "2025-11-01T19:16:35.918961+00:00"
+  },
+  {
+    "repo_full_name": "microsoft/PowerToys",
+    "owner": "microsoft",
+    "html_url": "https://github.com/microsoft/PowerToys",
+    "description": "Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks",
+    "topics": [
+      "color-picker",
+      "command-palette",
+      "desktop",
+      "fancyzones",
+      "keyboard-manager",
+      "microsoft-powertoys",
+      "powerrename",
+      "powertoys",
+      "windows",
+      "windows-10",
+      "windows-11"
+    ],
+    "starred_at": "2021-08-29T10:42:08Z",
+    "category": "桌面应用",
+    "tags": [
+      "Windows工具",
+      "实用工具",
+      "系统增强",
+      "效率提升",
+      "窗口管理",
+      "键盘快捷键"
+    ],
+    "summary": "微软PowerToys是一套Windows系统增强工具集，包含颜色选择器、窗口管理(FancyZones)、键盘快捷键自定义、批量重命名等功能，帮助用户自定义系统界面并简化日常操作，提升工作效率。",
+    "analyzed_at": "2025-11-01T19:16:35.918961+00:00"
+  },
+  {
+    "repo_full_name": "kmaasrud/awesome-obsidian",
+    "owner": "kmaasrud",
+    "html_url": "https://github.com/kmaasrud/awesome-obsidian",
+    "description": "🕶️ Awesome stuff for Obsidian",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "obsidian"
+    ],
+    "starred_at": "2021-08-29T10:57:38Z",
+    "category": "效率工具",
+    "tags": [
+      "awesome",
+      "awesome-list",
+      "obsidian",
+      "知识管理",
+      "笔记应用",
+      "生产力工具"
+    ],
+    "summary": "Obsidian的精选资源列表，包含各种插件、主题和工具，帮助用户更好地使用Obsidian进行知识管理和笔记。",
+    "analyzed_at": "2025-11-01T19:16:35.918961+00:00"
+  },
+  {
+    "repo_full_name": "hora-search/hora",
+    "owner": "hora-search",
+    "html_url": "https://github.com/hora-search/hora",
+    "description": "🚀  efficient approximate nearest neighbor search algorithm collections library written in Rust 🦀 . ",
+    "topics": [
+      "algorithm",
+      "approximate-nearest-neighbor-search",
+      "artificial-intelligence",
+      "data-structures",
+      "high-performance",
+      "hnsw",
+      "image-search",
+      "k-nearest-neighbors",
+      "machine-learning",
+      "neural-network",
+      "numeric",
+      "recommender-system",
+      "rust",
+      "rust-sci",
+      "search-engine",
+      "simd",
+      "similarity-search",
+      "vector-search"
+    ],
+    "starred_at": "2021-08-29T10:59:43Z",
+    "category": "AI/机器学习",
+    "tags": [
+      "algorithm",
+      "machine-learning",
+      "vector-search",
+      "similarity-search",
+      "high-performance"
+    ],
+    "summary": "Hora是一个用Rust编写的高效近似最近邻搜索算法集合库，专为向量搜索和相似性搜索设计，支持高性能计算，适用于机器学习和推荐系统。",
+    "analyzed_at": "2025-11-01T19:16:35.918961+00:00"
+  },
+  {
+    "repo_full_name": "rowthan/pagenote",
+    "owner": "rowthan",
+    "html_url": "https://github.com/rowthan/pagenote",
+    "description": "超简单的网页关键词高亮、标注SDK、能把笔记留在网页里。",
+    "topics": [
+      "browser-extension",
+      "chrome",
+      "monorepo",
+      "nextjs",
+      "notes-app"
+    ],
+    "starred_at": "2021-08-29T23:06:19Z",
+    "category": "开发工具",
+    "tags": [
+      "浏览器扩展",
+      "笔记工具",
+      "开发工具",
+      "Chrome插件",
+      "网页标注"
+    ],
+    "summary": "PageNote是一个简洁的浏览器扩展SDK，允许用户在网页上直接进行关键词高亮和标注，将笔记留在网页本身，无需离开当前页面。",
+    "analyzed_at": "2025-11-01T19:16:35.918961+00:00"
+  },
+  {
+    "repo_full_name": "huaize2020/awesome-nodejs",
+    "owner": "huaize2020",
+    "html_url": "https://github.com/huaize2020/awesome-nodejs",
+    "description": "Node.js 资源大全中文版。An awesome Node.js packages and resources",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "awesome-node",
+      "awesome-nodejs",
+      "awesome-nodejs-chinese",
+      "awesome-nodejs-cn",
+      "awesome-npm",
+      "chinese-translation",
+      "javascript",
+      "node",
+      "nodejs",
+      "npm-package"
+    ],
+    "starred_at": "2021-08-31T09:24:45Z",
+    "category": "开发工具",
+    "tags": [
+      "nodejs",
+      "javascript",
+      "npm-package",
+      "awesome-list",
+      "开发工具"
+    ],
+    "summary": "这是一个Node.js资源大全中文版，收集了各种优秀的Node.js包、工具和资源，为Node.js开发者提供全面的参考指南。",
+    "analyzed_at": "2025-11-01T19:16:35.918961+00:00"
+  },
+  {
+    "repo_full_name": "nextcloud/server",
+    "owner": "nextcloud",
+    "html_url": "https://github.com/nextcloud/server",
+    "description": "☁️ Nextcloud server, a safe home for all your data",
+    "topics": [
+      "cloud",
+      "collaboration",
+      "decentralized",
+      "design",
+      "distributed",
+      "enterprise",
+      "federation",
+      "file-sharing",
+      "free-software",
+      "hacktoberfest",
+      "javascript",
+      "nextcloud",
+      "open-source",
+      "opensource",
+      "owncloud",
+      "php",
+      "self-hosting",
+      "sharing",
+      "usability",
+      "ux"
+    ],
+    "starred_at": "2021-08-31T14:01:58Z",
+    "category": "Web应用",
+    "tags": [
+      "cloud",
+      "file-sharing",
+      "collaboration",
+      "self-hosting",
+      "open-source"
+    ],
+    "summary": "Nextcloud是一个开源的自托管云平台，为用户提供安全的文件存储和共享空间。支持多设备同步、协作编辑和联邦云功能，可部署在个人服务器上，保护用户数据隐私。",
+    "analyzed_at": "2025-11-01T19:16:35.918961+00:00"
+  },
+  {
+    "repo_full_name": "go-admin-team/go-admin-ui",
+    "owner": "go-admin-team",
+    "html_url": "https://github.com/go-admin-team/go-admin-ui",
+    "description": "基于Gin + Vue + Element UI & Arco Design & Ant Design 的前后端分离权限管理系统的前端模块",
+    "topics": [
+      "admin",
+      "ant-design",
+      "antd-design-pro",
+      "arco",
+      "arco-design",
+      "element-ui",
+      "vue"
+    ],
+    "starred_at": "2021-08-31T14:02:03Z",
+    "category": "Web应用",
+    "tags": [
+      "admin",
+      "vue",
+      "ant-design",
+      "element-ui"
+    ],
+    "summary": "基于Gin+Vue+Element UI & Arco Design & Ant Design构建的前后端分离权限管理系统前端模块，提供丰富的管理界面组件和功能。",
+    "analyzed_at": "2025-11-01T19:16:35.918961+00:00"
+  },
+  {
+    "repo_full_name": "nextcloud/docker",
+    "owner": "nextcloud",
+    "html_url": "https://github.com/nextcloud/docker",
+    "description": "⛴ Docker image of Nextcloud",
+    "topics": [
+      "docker",
+      "docker-image",
+      "nextcloud",
+      "open-source"
+    ],
+    "starred_at": "2021-08-31T14:02:52Z",
+    "category": "开发工具",
+    "tags": [
+      "docker",
+      "docker-image",
+      "nextcloud",
+      "open-source"
+    ],
+    "summary": "Nextcloud的官方Docker镜像，提供容器化的文件共享和协作平台部署方案。",
+    "analyzed_at": "2025-11-01T19:16:35.918961+00:00"
+  },
+  {
+    "repo_full_name": "TransparentLC/WechatMomentScreenshot",
+    "owner": "TransparentLC",
+    "html_url": "https://github.com/TransparentLC/WechatMomentScreenshot",
+    "description": "朋友圈转发截图生成工具（⚠️Fork 不是收藏，请勿在贡献代码以外的情况下 Fork！）",
+    "topics": [],
+    "starred_at": "2021-09-01T07:29:20Z",
+    "category": "Web应用",
+    "tags": [
+      "微信",
+      "朋友圈",
+      "截图",
+      "工具",
+      "社交媒体"
+    ],
+    "summary": "这是一个微信朋友圈转发截图生成工具，可以帮助用户创建逼真的朋友圈截图，可能用于演示、测试或其他目的。",
+    "analyzed_at": "2025-11-01T19:16:35.918961+00:00"
+  },
+  {
+    "repo_full_name": "storeon/storeon",
+    "owner": "storeon",
+    "html_url": "https://github.com/storeon/storeon",
+    "description": "🌩 A tiny (185 bytes) event-based Redux-like state manager for React, Preact, Angular, Vue, and Svelte",
+    "topics": [],
+    "starred_at": "2021-09-01T12:45:35Z",
+    "category": "开发工具",
+    "tags": [
+      "状态管理",
+      "轻量级",
+      "前端开发",
+      "Redux",
+      "跨框架"
+    ],
+    "summary": "Storeon是一个极轻量级(仅185字节)的事件驱动状态管理库，类似Redux但更小巧。支持React、Preact、Angular、Vue和Svelte等多个前端框架，为开发者提供简洁高效的状态管理解决方案。",
+    "analyzed_at": "2025-11-01T19:16:35.918961+00:00"
+  },
+  {
+    "repo_full_name": "marlonrichert/zsh-snap",
+    "owner": "marlonrichert",
+    "html_url": "https://github.com/marlonrichert/zsh-snap",
+    "description": "⚡️ Znap! Fast, easy-to-use tools for Zsh dotfiles & plugins, plus git repos",
+    "topics": [
+      "git",
+      "plugin-manager",
+      "repo-management",
+      "shell",
+      "zsh",
+      "zsh-configuration",
+      "zsh-plugin",
+      "zsh-plugins",
+      "zshrc"
+    ],
+    "starred_at": "2021-09-01T12:49:48Z",
+    "category": "开发工具",
+    "tags": [
+      "shell",
+      "zsh",
+      "插件管理",
+      "git",
+      "配置管理"
+    ],
+    "summary": "Znap是一个快速、易用的Zsh shell工具集，专为管理dotfiles、插件和git仓库而设计。它简化了Zsh环境配置过程，提高开发效率。",
+    "analyzed_at": "2025-11-01T19:16:35.918961+00:00"
+  },
+  {
+    "repo_full_name": "withfig/fig",
+    "owner": "withfig",
+    "html_url": "https://github.com/withfig/fig",
+    "description": "Public issue tracker for Fig.",
+    "topics": [
+      "fig"
+    ],
+    "starred_at": "2021-09-01T13:45:28Z",
+    "category": "开发工具",
+    "tags": [
+      "自动完成",
+      "命令行",
+      "开发工具",
+      "终端增强",
+      "问题跟踪"
+    ],
+    "summary": "Fig是一个命令行自动完成工具的问题跟踪器，旨在帮助开发者提高终端工作效率，提供智能代码补全和命令建议功能。",
+    "analyzed_at": "2025-11-01T19:16:35.918961+00:00"
+  },
+  {
+    "repo_full_name": "logseq/git-auto",
+    "owner": "logseq",
+    "html_url": "https://github.com/logseq/git-auto",
+    "description": "A Simple Shell Script To Do Git Commit And Push Automatically",
+    "topics": [],
+    "starred_at": "2021-09-01T13:59:37Z",
+    "category": "开发工具",
+    "tags": [
+      "Git",
+      "自动化",
+      "Shell脚本",
+      "版本控制",
+      "开发效率"
+    ],
+    "summary": "一个简单的Shell脚本工具，可自动执行Git提交和推送操作，帮助开发者简化版本控制流程，提高工作效率。",
+    "analyzed_at": "2025-11-01T19:16:35.918961+00:00"
+  },
+  {
+    "repo_full_name": "marlonrichert/zsh-autocomplete",
+    "owner": "marlonrichert",
+    "html_url": "https://github.com/marlonrichert/zsh-autocomplete",
+    "description": "🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.",
+    "topics": [
+      "asynchronous",
+      "autocomplete",
+      "autocompletion",
+      "completion",
+      "non-blocking",
+      "typeahead",
+      "typeahead-completions",
+      "zsh",
+      "zsh-autocomplete",
+      "zsh-completion",
+      "zsh-plugin",
+      "zsh-plugins"
+    ],
+    "starred_at": "2021-09-01T14:52:44Z",
+    "category": "开发工具",
+    "tags": [
+      "zsh",
+      "autocomplete",
+      "completion",
+      "zsh-plugin",
+      "asynchronous",
+      "typeahead"
+    ],
+    "summary": "这是一个Zsh shell的实时自动完成插件，提供异步的即输即找功能，能够提高命令行操作效率，是开发者的实用工具。",
+    "analyzed_at": "2025-11-01T19:16:35.918961+00:00"
+  },
+  {
+    "repo_full_name": "Tencent/nohost",
+    "owner": "Tencent",
+    "html_url": "https://github.com/Tencent/nohost",
+    "description": "基于 Whistle 实现的多账号多环境远程配置及抓包调试平台",
+    "topics": [],
+    "starred_at": "2021-09-02T06:46:33Z",
+    "category": "开发工具",
+    "tags": [
+      "调试工具",
+      "远程配置",
+      "抓包",
+      "多环境",
+      "多账号",
+      "Whistle"
+    ],
+    "summary": "Tencent/nohost 是基于 Whistle 构建的开发工具，支持多账号多环境的远程配置和抓包调试，帮助开发者在不同环境下进行高效的开发和调试工作。",
+    "analyzed_at": "2025-11-01T19:16:35.918961+00:00"
+  },
+  {
+    "repo_full_name": "whalebrew/whalebrew",
+    "owner": "whalebrew",
+    "html_url": "https://github.com/whalebrew/whalebrew",
+    "description": "Homebrew, but with Docker images",
+    "topics": [
+      "docker",
+      "homebrew",
+      "package-manager",
+      "whalebrew"
+    ],
+    "starred_at": "2021-09-03T09:19:52Z",
+    "category": "开发工具",
+    "tags": [
+      "docker",
+      "包管理",
+      "开发工具",
+      "容器化"
+    ],
+    "summary": "Whalebrew是一个基于Docker的包管理器，类似于Homebrew，但用于管理Docker镜像。它允许开发者通过简单的命令安装、更新和管理各种Docker应用，简化了容器化应用的部署流程。",
+    "analyzed_at": "2025-11-01T19:16:35.918961+00:00"
   }
 ]
