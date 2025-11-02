@@ -24608,5 +24608,1293 @@
     ],
     "summary": "Whalebrew是一个基于Docker的包管理器，类似于Homebrew，但用于管理Docker镜像。它允许开发者通过简单的命令安装、更新和管理各种Docker应用，简化了容器化应用的部署流程。",
     "analyzed_at": "2025-11-01T19:16:35.918961+00:00"
+  },
+  {
+    "repo_full_name": "mas-cli/mas",
+    "owner": "mas-cli",
+    "html_url": "https://github.com/mas-cli/mas",
+    "description": ":package: Mac App Store command line interface",
+    "topics": [
+      "homebrew",
+      "mac-app-store",
+      "macos",
+      "mas",
+      "osx",
+      "software-update"
+    ],
+    "starred_at": "2021-09-03T09:19:56Z",
+    "category": "开发工具",
+    "tags": [
+      "mac-app-store",
+      "homebrew",
+      "macos",
+      "command-line"
+    ],
+    "summary": "Mac App Store命令行界面工具，允许用户通过终端安装、更新和管理Mac应用，简化软件管理流程。",
+    "analyzed_at": "2025-11-02T19:16:42.045389+00:00"
+  },
+  {
+    "repo_full_name": "vitejs/awesome-vite",
+    "owner": "vitejs",
+    "html_url": "https://github.com/vitejs/awesome-vite",
+    "description": "⚡️ A curated list of awesome things related to Vite.js",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "vite",
+      "vitejs"
+    ],
+    "starred_at": "2021-09-03T09:20:44Z",
+    "category": "开发工具",
+    "tags": [
+      "前端构建",
+      "开发工具",
+      "JavaScript工具",
+      "资源集合",
+      "Vite生态"
+    ],
+    "summary": "这是一个精心整理的Vite.js相关资源集合，包含各种插件、工具、模板和教程，帮助开发者更好地使用Vite.js进行现代Web应用开发。",
+    "analyzed_at": "2025-11-02T19:16:42.045389+00:00"
+  },
+  {
+    "repo_full_name": "gpakosz/.tmux",
+    "owner": "gpakosz",
+    "html_url": "https://github.com/gpakosz/.tmux",
+    "description": "Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍",
+    "topics": [
+      "cli",
+      "conf",
+      "configuration",
+      "console",
+      "customization",
+      "dotfiles",
+      "powerline",
+      "screen",
+      "shell",
+      "terminal",
+      "theme",
+      "tmux",
+      "tmux-conf",
+      "tmux-config",
+      "tmux-configuration",
+      "tmux-plugins",
+      "tmux-theme",
+      "tpm",
+      "tty",
+      "wsl"
+    ],
+    "starred_at": "2021-09-03T09:48:29Z",
+    "category": "开发工具",
+    "tags": [
+      "terminal",
+      "tmux",
+      "shell",
+      "cli",
+      "productivity",
+      "customization"
+    ],
+    "summary": "这是一个美观且功能丰富的tmux终端复用器配置，提供了自定义主题和插件，帮助开发者提高终端工作效率，支持多种终端环境。",
+    "analyzed_at": "2025-11-02T19:16:42.045389+00:00"
+  },
+  {
+    "repo_full_name": "0x7c13/Notepads",
+    "owner": "0x7c13",
+    "html_url": "https://github.com/0x7c13/Notepads",
+    "description": "A modern, lightweight text editor with a minimalist design.",
+    "topics": [
+      "app",
+      "diff-viewer",
+      "fluent",
+      "markdown",
+      "notepad",
+      "texteditor",
+      "uwp",
+      "windows"
+    ],
+    "starred_at": "2021-09-03T13:52:55Z",
+    "category": "开发工具",
+    "tags": [
+      "文本编辑器",
+      "Markdown",
+      "极简设计",
+      "Windows应用",
+      "轻量级"
+    ],
+    "summary": "Notepads是一款现代、轻量级的极简主义文本编辑器，专为Windows设计，支持Markdown和差异查看功能，适合日常文本编辑和开发工作。",
+    "analyzed_at": "2025-11-02T19:16:42.045389+00:00"
+  },
+  {
+    "repo_full_name": "WeBankFinTech/fes.js",
+    "owner": "WeBankFinTech",
+    "html_url": "https://github.com/WeBankFinTech/fes.js",
+    "description": "Fes.js 是一个基于 Vue 3 好用的前端应用解决方案。以约定、配置化、组件化的设计思想，让用户仅仅关心用组件搭建页面内容。技术曲线平缓，上手也简单。在经过多个项目中打磨后趋于稳定。丰富的 Vue 3 生态 和 Fes.js 插件，让业务开发更加简单快捷~",
+    "topics": [
+      "curd-application",
+      "fes",
+      "fesjs",
+      "mock",
+      "ui",
+      "ui-design",
+      "vue",
+      "vue-admn",
+      "vue-framework",
+      "vue3"
+    ],
+    "starred_at": "2021-09-03T14:03:14Z",
+    "category": "Web应用",
+    "tags": [
+      "Vue",
+      "前端框架",
+      "组件化",
+      "配置化",
+      "Web开发"
+    ],
+    "summary": "Fes.js 是基于 Vue 3 的前端应用解决方案，采用约定、配置化、组件化设计思想，简化Web应用开发流程，技术曲线平缓，上手简单，提供丰富的Vue 3生态和插件支持。",
+    "analyzed_at": "2025-11-02T19:16:42.045389+00:00"
+  },
+  {
+    "repo_full_name": "kazupon/vue-i18n",
+    "owner": "kazupon",
+    "html_url": "https://github.com/kazupon/vue-i18n",
+    "description": ":globe_with_meridians: Internationalization plugin for Vue.js",
+    "topics": [
+      "i18n",
+      "internationalization",
+      "internationalization-plugin",
+      "javascript",
+      "plugin",
+      "vue"
+    ],
+    "starred_at": "2021-09-03T14:04:18Z",
+    "category": "开发工具",
+    "tags": [
+      "i18n",
+      "internationalization",
+      "vue",
+      "javascript",
+      "plugin"
+    ],
+    "summary": "Vue-i18n是Vue.js的官方国际化插件，为Vue应用提供多语言支持，包括日期、数字格式化和翻译功能。",
+    "analyzed_at": "2025-11-02T19:16:42.045389+00:00"
+  },
+  {
+    "repo_full_name": "yourtion/30dayMakeOS",
+    "owner": "yourtion",
+    "html_url": "https://github.com/yourtion/30dayMakeOS",
+    "description": "《30天自制操作系统》源码中文版。自己制作一个操作系统（OSASK）的过程",
+    "topics": [
+      "asm",
+      "boot",
+      "c",
+      "cc",
+      "diy",
+      "fifo",
+      "gdt",
+      "idt",
+      "linux",
+      "nas",
+      "nasa",
+      "operating-system",
+      "os",
+      "osask",
+      "osx",
+      "qemu",
+      "stdlib"
+    ],
+    "starred_at": "2021-09-04T12:27:15Z",
+    "category": "开发工具",
+    "tags": [
+      "操作系统开发",
+      "系统编程",
+      "汇编语言",
+      "操作系统原理",
+      "DIY项目",
+      "计算机体系结构"
+    ],
+    "summary": "《30天自制操作系统》中文版源码，通过实践学习操作系统原理，从零开始构建一个简单的操作系统，涵盖引导程序、内存管理、中断处理等核心概念。",
+    "analyzed_at": "2025-11-02T19:16:42.045389+00:00"
+  },
+  {
+    "repo_full_name": "ihtml5/mdebug",
+    "owner": "ihtml5",
+    "html_url": "https://github.com/ihtml5/mdebug",
+    "description": "基于React开发的新一代web调试工具，支持React组件调试，类似于Chrome Devtools。A Lightweight, Easy To Extend Web Debugging Tool Build With React",
+    "topics": [
+      "browser",
+      "console",
+      "cookie",
+      "css",
+      "devtools",
+      "eruda",
+      "es6",
+      "html5",
+      "inspector",
+      "javascript",
+      "mdebug",
+      "mobile",
+      "nodejs",
+      "react",
+      "tabs",
+      "vconsole"
+    ],
+    "starred_at": "2021-09-04T12:28:01Z",
+    "category": "Web应用",
+    "tags": [
+      "devtools",
+      "react",
+      "javascript",
+      "inspector",
+      "browser",
+      "console"
+    ],
+    "summary": "基于React开发的新一代轻量级web调试工具，提供类似Chrome Devtools的功能，支持React组件调试、控制台、Cookie和CSS检查等，易于扩展。",
+    "analyzed_at": "2025-11-02T19:16:42.045389+00:00"
+  },
+  {
+    "repo_full_name": "MrChium/Hackintosh-B460M-MORTAR-i5-10500-iGPU-UHD630",
+    "owner": "MrChium",
+    "html_url": "https://github.com/MrChium/Hackintosh-B460M-MORTAR-i5-10500-iGPU-UHD630",
+    "description": "微星B460M迫击炮 MSI-B460M-MORTAR+i5-10500+iGPU-UHD630，支持10代核显为UHD630的CPU，支持RX470/480/570/570X/580/580X/590/5500/5600/5700系列显卡",
+    "topics": [],
+    "starred_at": "2021-09-04T12:53:59Z",
+    "category": "开发工具",
+    "tags": [
+      "黑苹果",
+      "macOS",
+      "硬件兼容性",
+      "DIY",
+      "技术指南"
+    ],
+    "summary": "这是一个微星B460M迫击炮主板的Hackintosh配置指南，支持i5-10500 CPU和多种AMD显卡，帮助用户在非苹果硬件上安装macOS系统。",
+    "analyzed_at": "2025-11-02T19:16:42.045389+00:00"
+  },
+  {
+    "repo_full_name": "coffe1891/frontend-hard-mode-interview",
+    "owner": "coffe1891",
+    "html_url": "https://github.com/coffe1891/frontend-hard-mode-interview",
+    "description": "《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。",
+    "topics": [
+      "design-patterns-js",
+      "fp",
+      "frontend-interview",
+      "interview-preparation",
+      "javascript",
+      "javascript-framework",
+      "jquery",
+      "oop",
+      "react",
+      "react-native",
+      "rxjs",
+      "vscode",
+      "vue"
+    ],
+    "starred_at": "2021-09-04T12:54:29Z",
+    "category": "教育学习",
+    "tags": [
+      "前端面试",
+      "JavaScript",
+      "编程范式",
+      "设计模式",
+      "面试准备"
+    ],
+    "summary": "《前端内参》是一个专注于前端技术面试准备的资源库，涵盖JavaScript、编程范式、设计模式等核心知识，旨在帮助前端工程师夯实技术基础，提升通过一线互联网企业技术面试的能力。",
+    "analyzed_at": "2025-11-02T19:16:42.045389+00:00"
+  },
+  {
+    "repo_full_name": "ic005k/OCAuxiliaryTools",
+    "owner": "ic005k",
+    "html_url": "https://github.com/ic005k/OCAuxiliaryTools",
+    "description": "Cross-platform GUI management tools for OpenCore（OCAT）",
+    "topics": [],
+    "starred_at": "2021-09-05T11:33:13Z",
+    "category": "桌面应用",
+    "tags": [
+      "OpenCore",
+      "引导工具",
+      "跨平台",
+      "GUI",
+      "macOS",
+      "系统配置"
+    ],
+    "summary": "OCAuxiliaryTools是一款跨平台图形界面管理工具，专为OpenCore引导加载程序设计。它简化了macOS系统的引导配置过程，提供直观的用户界面，帮助用户轻松管理OpenCore相关设置，提高系统引导配置的效率和准确性。",
+    "analyzed_at": "2025-11-02T19:16:42.045389+00:00"
+  },
+  {
+    "repo_full_name": "Loyalsoldier/v2ray-rules-dat",
+    "owner": "Loyalsoldier",
+    "html_url": "https://github.com/Loyalsoldier/v2ray-rules-dat",
+    "description": "🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，适用于 V2Ray、Xray-core、mihomo(Clash-Meta)、hysteria、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, applicable to V2Ray, Xray-core, mihomo(Clash-Meta), hysteria, Trojan-Go and leaf.",
+    "topics": [
+      "adblock",
+      "adguard",
+      "anticensorship",
+      "chinalist",
+      "dnsmasq",
+      "easylist",
+      "geoip",
+      "geosite",
+      "gfw",
+      "gfwlist",
+      "hysteria",
+      "ipv4",
+      "ipv6",
+      "mihomo",
+      "proxy",
+      "routing",
+      "trojan",
+      "trojan-go",
+      "v2ray",
+      "xray"
+    ],
+    "starred_at": "2021-09-05T11:33:29Z",
+    "category": "数据库",
+    "tags": [],
+    "summary": "ZHIPU 调用异常: Error code: 400 - {'contentFilter': [{'level': 1, 'role': 'user'}], 'error': {'code': '1301', 'message': '系统检测到输入或生成内容可能包含不安全或敏感内容，请您避免输入易产生敏感内容的提示语，感谢您的配合。'}}",
+    "analyzed_at": "2025-11-02T19:16:42.045389+00:00"
+  },
+  {
+    "repo_full_name": "js-newbee/taro-yanxuan",
+    "owner": "js-newbee",
+    "html_url": "https://github.com/js-newbee/taro-yanxuan",
+    "description": "首个 Taro 多端统一实例 - 网易严选（小程序 + H5 + React Native） - By 趣店 FED",
+    "topics": [
+      "react",
+      "react-native",
+      "taro"
+    ],
+    "starred_at": "2021-09-05T11:44:48Z",
+    "category": "开发工具",
+    "tags": [
+      "react",
+      "react-native",
+      "taro",
+      "跨平台",
+      "小程序",
+      "多端"
+    ],
+    "summary": "这是一个基于 Taro 框架的多端统一实例，实现了网易严选的跨平台版本，支持小程序、H5 和 React Native。该项目展示了如何使用 Taro 进行一次开发，多端部署，是学习 Taro 框架的优质参考。",
+    "analyzed_at": "2025-11-02T19:16:42.045389+00:00"
+  },
+  {
+    "repo_full_name": "sdras/awesome-actions",
+    "owner": "sdras",
+    "html_url": "https://github.com/sdras/awesome-actions",
+    "description": "A curated list of awesome actions to use on GitHub",
+    "topics": [
+      "actions",
+      "actions-list",
+      "awesome",
+      "awesome-list",
+      "awesome-lists",
+      "curated-list",
+      "github",
+      "github-actions"
+    ],
+    "starred_at": "2021-09-06T11:56:31Z",
+    "category": "开发工具",
+    "tags": [
+      "GitHub Actions",
+      "自动化",
+      "开发工具",
+      "CI/CD",
+      "工作流"
+    ],
+    "summary": "这是一个精选的GitHub Actions列表集合，为开发者提供了各种可在GitHub上使用的自动化actions，帮助简化CI/CD流程和开发工作流。",
+    "analyzed_at": "2025-11-02T19:16:42.045389+00:00"
+  },
+  {
+    "repo_full_name": "ZzzM/Hackintosh-MSI-B360M-MORTAR",
+    "owner": "ZzzM",
+    "html_url": "https://github.com/ZzzM/Hackintosh-MSI-B360M-MORTAR",
+    "description": "MSI B360M MORTAR & i5-9400F Hackintosh",
+    "topics": [
+      "bigsur-hackintosh",
+      "catalina-hackinotsh",
+      "hackintosh",
+      "hackintosh-efi",
+      "monterey-hackintosh",
+      "opencore-efi-configuration",
+      "sequoia-hackintosh",
+      "sonoma-hackintosh",
+      "ventura-hackintosh"
+    ],
+    "starred_at": "2021-09-07T11:42:23Z",
+    "category": "开发工具",
+    "tags": [
+      "Hackintosh",
+      "macOS配置",
+      "OpenCore",
+      "硬件兼容性",
+      "EFI配置"
+    ],
+    "summary": "这个项目提供了在MSI B360M MORTAR主板上使用i5-9400F处理器安装macOS的详细配置指南，支持多个macOS版本，包含OpenCore EFI配置文件。",
+    "analyzed_at": "2025-11-02T19:16:42.045389+00:00"
+  },
+  {
+    "repo_full_name": "yyhsong/iDataV",
+    "owner": "yyhsong",
+    "html_url": "https://github.com/yyhsong/iDataV",
+    "description": "大屏数据可视化 Big screen data visualization demo",
+    "topics": [
+      "antv",
+      "data-visualization",
+      "datav",
+      "echarts",
+      "large-screen-data-visualization",
+      "sugar"
+    ],
+    "starred_at": "2021-09-07T11:43:15Z",
+    "category": "数据分析",
+    "tags": [
+      "数据可视化",
+      "大屏展示",
+      "ECharts",
+      "AntV"
+    ],
+    "summary": "iDataV是一个大屏数据可视化项目，基于AntV和ECharts构建，提供数据大屏展示解决方案，适用于企业数据监控和展示场景。",
+    "analyzed_at": "2025-11-02T19:16:42.045389+00:00"
+  },
+  {
+    "repo_full_name": "keeweb/keeweb",
+    "owner": "keeweb",
+    "html_url": "https://github.com/keeweb/keeweb",
+    "description": "Free cross-platform password manager compatible with KeePass",
+    "topics": [
+      "electron",
+      "javascript",
+      "keepass",
+      "keeweb",
+      "password",
+      "password-manager",
+      "security"
+    ],
+    "starred_at": "2021-09-09T03:25:42Z",
+    "category": "安全工具",
+    "tags": [
+      "密码管理",
+      "安全",
+      "跨平台",
+      "KeePass兼容",
+      "Electron"
+    ],
+    "summary": "KeeWeb是一款免费的跨平台密码管理器，与KeePass兼容。使用Electron构建，支持多种平台，帮助用户安全地存储和管理密码信息。",
+    "analyzed_at": "2025-11-02T19:16:42.045389+00:00"
+  },
+  {
+    "repo_full_name": "bitwarden/cli",
+    "owner": "bitwarden",
+    "html_url": "https://github.com/bitwarden/cli",
+    "description": "The command line vault (Windows, macOS, & Linux).",
+    "topics": [
+      "chocolatey",
+      "cli",
+      "homebrew",
+      "nodejs",
+      "npm",
+      "snap",
+      "typescript"
+    ],
+    "starred_at": "2021-09-09T23:51:43Z",
+    "category": "开发工具",
+    "tags": [
+      "cli",
+      "密码管理",
+      "跨平台",
+      "安全工具"
+    ],
+    "summary": "Bitwarden CLI是一个跨平台的命令行密码管理工具，支持Windows、macOS和Linux系统，通过多种包管理器分发，使用TypeScript开发，为开发者提供安全的密码存储和管理功能。",
+    "analyzed_at": "2025-11-02T19:16:42.045389+00:00"
+  },
+  {
+    "repo_full_name": "BITNP/BIThesis",
+    "owner": "BITNP",
+    "html_url": "https://github.com/BITNP/BIThesis",
+    "description": "📖 北京理工大学非官方 LaTeX 模板集合，包含本科、研究生毕业设计模板及更多。🎉 （更多文档请访问 wiki 和 release 中的手册）",
+    "topics": [
+      "academic-affairs",
+      "beijing-institute-of-technology",
+      "bithesis-wiki",
+      "graduation-thesis",
+      "latex",
+      "latex-templates",
+      "online-video-tutorials",
+      "thesis-latex-template",
+      "xelatex"
+    ],
+    "starred_at": "2021-09-10T02:47:23Z",
+    "category": "教育学习",
+    "tags": [
+      "学术写作",
+      "LaTeX模板",
+      "毕业论文",
+      "教育工具",
+      "文档模板"
+    ],
+    "summary": "北京理工大学非官方LaTeX模板集合，提供本科、研究生毕业设计论文模板，帮助学生规范撰写学术文档。",
+    "analyzed_at": "2025-11-02T19:16:42.045389+00:00"
+  },
+  {
+    "repo_full_name": "presslabs/gitfs",
+    "owner": "presslabs",
+    "html_url": "https://github.com/presslabs/gitfs",
+    "description": "Version controlled file system",
+    "topics": [
+      "fuse-filesystem",
+      "git",
+      "python"
+    ],
+    "starred_at": "2021-09-10T03:12:31Z",
+    "category": "开发工具",
+    "tags": [
+      "文件系统",
+      "Git",
+      "版本控制",
+      "FUSE",
+      "Python"
+    ],
+    "summary": "GitFS是一个基于Git的版本控制文件系统实现，使用FUSE技术将Git仓库挂载为本地文件系统，允许用户通过文件系统操作直接管理版本控制内容，使用Python开发。",
+    "analyzed_at": "2025-11-02T19:16:42.045389+00:00"
+  },
+  {
+    "repo_full_name": "ikatyang/emoji-cheat-sheet",
+    "owner": "ikatyang",
+    "html_url": "https://github.com/ikatyang/emoji-cheat-sheet",
+    "description": "A markdown version emoji cheat sheet",
+    "topics": [
+      "cheat-sheet",
+      "emoji",
+      "github",
+      "markdown"
+    ],
+    "starred_at": "2021-09-11T01:21:13Z",
+    "category": "开发工具",
+    "tags": [
+      "emoji",
+      "markdown",
+      "开发辅助",
+      "速查表"
+    ],
+    "summary": "这是一个markdown格式的emoji表情符号速查表，帮助开发者在编写文档时快速查找和插入各种emoji表情，提高工作效率。",
+    "analyzed_at": "2025-11-02T19:16:42.045389+00:00"
+  },
+  {
+    "repo_full_name": "vnotex/vnote",
+    "owner": "vnotex",
+    "html_url": "https://github.com/vnotex/vnote",
+    "description": "A pleasant note-taking platform in native C++.",
+    "topics": [
+      "editor",
+      "markdown",
+      "mathjax",
+      "note",
+      "note-taking",
+      "uml",
+      "vim",
+      "vnote"
+    ],
+    "starred_at": "2021-09-11T01:33:35Z",
+    "category": "桌面应用",
+    "tags": [
+      "笔记",
+      "编辑器",
+      "Markdown",
+      "数学公式"
+    ],
+    "summary": "VNote是一个用原生C++开发的桌面笔记平台，支持Markdown编辑、数学公式渲染和UML图表绘制，提供类似Vim的操作体验，适合技术爱好者进行结构化笔记管理。",
+    "analyzed_at": "2025-11-02T19:16:42.045389+00:00"
+  },
+  {
+    "repo_full_name": "visit1985/mdp",
+    "owner": "visit1985",
+    "html_url": "https://github.com/visit1985/mdp",
+    "description": "A command-line based markdown presentation tool.",
+    "topics": [
+      "command-line",
+      "markdown",
+      "presentation"
+    ],
+    "starred_at": "2021-09-11T01:41:58Z",
+    "category": "开发工具",
+    "tags": [
+      "command-line",
+      "markdown",
+      "presentation",
+      "slides",
+      "developer-tool"
+    ],
+    "summary": "mdp是一个命令行工具，允许开发者使用Markdown语法创建简洁的演示文稿，提高技术分享效率。",
+    "analyzed_at": "2025-11-02T19:16:42.045389+00:00"
+  },
+  {
+    "repo_full_name": "dendronhq/dendron",
+    "owner": "dendronhq",
+    "html_url": "https://github.com/dendronhq/dendron",
+    "description": "The personal knowledge management (PKM) tool that grows as you do!",
+    "topics": [
+      "dendron",
+      "markdown",
+      "markdown-editor",
+      "pkm",
+      "vscode",
+      "zettelkasten"
+    ],
+    "starred_at": "2021-09-14T13:35:36Z",
+    "category": "效率工具",
+    "tags": [
+      "知识管理",
+      "Markdown编辑",
+      "笔记工具",
+      "VSCode扩展",
+      "Zettelkasten"
+    ],
+    "summary": "Dendron是一个个人知识管理工具，支持Markdown编辑，与VSCode深度集成，采用Zettelkasten方法帮助用户构建和管理知识网络，让知识随用户成长而扩展。",
+    "analyzed_at": "2025-11-02T19:16:42.045389+00:00"
+  },
+  {
+    "repo_full_name": "exelban/stats",
+    "owner": "exelban",
+    "html_url": "https://github.com/exelban/stats",
+    "description": "macOS system monitor in your menu bar",
+    "topics": [
+      "battery",
+      "bluetooth",
+      "clock",
+      "cpu",
+      "disk",
+      "fans",
+      "gpu",
+      "macos",
+      "menubar",
+      "monitor",
+      "network",
+      "sensors",
+      "stats",
+      "temperature"
+    ],
+    "starred_at": "2021-09-14T14:20:11Z",
+    "category": "桌面应用",
+    "tags": [
+      "macos",
+      "monitor",
+      "system",
+      "menubar",
+      "stats",
+      "temperature"
+    ],
+    "summary": "macOS系统监控工具，在菜单栏中显示CPU、内存、网络、温度等多种系统资源状态，帮助用户实时了解电脑运行状况。",
+    "analyzed_at": "2025-11-02T19:16:42.045389+00:00"
+  },
+  {
+    "repo_full_name": "maxgoedjen/secretive",
+    "owner": "maxgoedjen",
+    "html_url": "https://github.com/maxgoedjen/secretive",
+    "description": "Protect your SSH keys with your Mac's Secure Enclave",
+    "topics": [
+      "mac",
+      "secure-enclave",
+      "security",
+      "ssh"
+    ],
+    "starred_at": "2021-09-14T14:22:19Z",
+    "category": "安全工具",
+    "tags": [
+      "Mac",
+      "安全 enclave",
+      "安全",
+      "SSH",
+      "密钥管理"
+    ],
+    "summary": "Secretive是一个Mac安全工具，利用设备的Secure Enclave硬件保护SSH密钥，防止密钥被窃取或滥用。它为开发人员提供了一种安全的方式来管理SSH密钥，确保只有授权用户才能访问。",
+    "analyzed_at": "2025-11-02T19:16:42.045389+00:00"
+  },
+  {
+    "repo_full_name": "ocrmypdf/OCRmyPDF",
+    "owner": "ocrmypdf",
+    "html_url": "https://github.com/ocrmypdf/OCRmyPDF",
+    "description": "OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched",
+    "topics": [
+      "image-processing",
+      "ocr",
+      "pdf",
+      "python",
+      "tesseract"
+    ],
+    "starred_at": "2021-09-14T14:27:19Z",
+    "category": "AI/机器学习",
+    "tags": [
+      "OCR",
+      "PDF处理",
+      "图像处理",
+      "Python",
+      "Tesseract"
+    ],
+    "summary": "OCRmyPDF是一个开源工具，可为扫描的PDF文件添加OCR文本层，使其可搜索，基于Tesseract OCR引擎，使用Python开发。",
+    "analyzed_at": "2025-11-02T19:16:42.045389+00:00"
+  },
+  {
+    "repo_full_name": "rgcr/m-cli",
+    "owner": "rgcr",
+    "html_url": "https://github.com/rgcr/m-cli",
+    "description": " Swiss Army Knife for macOS ",
+    "topics": [
+      "bash",
+      "cli",
+      "looking-for-maintainer",
+      "mac",
+      "macos",
+      "sh"
+    ],
+    "starred_at": "2021-09-14T14:31:32Z",
+    "category": "开发工具",
+    "tags": [
+      "命令行工具",
+      "macOS",
+      "开发工具",
+      "多功能工具"
+    ],
+    "summary": "这是一个专为macOS设计的多功能命令行工具集，提供了丰富的命令行功能，提高开发效率。",
+    "analyzed_at": "2025-11-02T19:16:42.045389+00:00"
+  },
+  {
+    "repo_full_name": "umami-software/umami",
+    "owner": "umami-software",
+    "html_url": "https://github.com/umami-software/umami",
+    "description": "Umami is a modern, privacy-focused alternative to Google Analytics.",
+    "topics": [
+      "analytics",
+      "charts",
+      "google-analytics",
+      "statistics",
+      "web-analytics"
+    ],
+    "starred_at": "2021-09-14T23:32:45Z",
+    "category": "数据分析",
+    "tags": [
+      "网站分析",
+      "隐私保护",
+      "数据统计",
+      "图表展示",
+      "谷歌替代"
+    ],
+    "summary": "Umami是一款现代化的网站分析工具，注重用户隐私保护，可作为Google Analytics的替代方案。它提供网站访问数据统计和可视化图表展示功能，帮助网站所有者了解访客行为而不侵犯隐私。",
+    "analyzed_at": "2025-11-02T19:16:42.045389+00:00"
+  },
+  {
+    "repo_full_name": "myspaghetti/macos-virtualbox",
+    "owner": "myspaghetti",
+    "html_url": "https://github.com/myspaghetti/macos-virtualbox",
+    "description": "Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox on x86 CPUs for Windows, Linux, and macOS",
+    "topics": [
+      "bash-script",
+      "macos",
+      "macos-installer",
+      "macos-virtual-machine",
+      "virtualbox",
+      "virtualbox-efi"
+    ],
+    "starred_at": "2021-09-16T10:48:12Z",
+    "category": "开发工具",
+    "tags": [
+      "macOS虚拟机",
+      "VirtualBox",
+      "安装工具",
+      "跨平台",
+      "开发环境",
+      "系统虚拟化"
+    ],
+    "summary": "这是一个一键式安装工具，允许在Windows、Linux和macOS系统上的VirtualBox中轻松运行macOS Catalina、Mojave和High Sierra虚拟机，为开发者提供跨平台macOS测试环境。",
+    "analyzed_at": "2025-11-02T19:16:42.045389+00:00"
+  },
+  {
+    "repo_full_name": "samuelmeuli/glance",
+    "owner": "samuelmeuli",
+    "html_url": "https://github.com/samuelmeuli/glance",
+    "description": "🔎 All-in-one Quick Look plugin",
+    "topics": [
+      "file-preview",
+      "macos",
+      "macos-app",
+      "quick-look",
+      "quicklook",
+      "quicklook-plugin"
+    ],
+    "starred_at": "2021-09-16T12:36:08Z",
+    "category": "桌面应用",
+    "tags": [
+      "文件预览",
+      "macOS",
+      "Quick Look插件",
+      "多功能工具",
+      "桌面增强"
+    ],
+    "summary": "Glance是一款macOS平台的全能型Quick Look插件，提供统一的文件预览体验。支持多种文件格式，无需打开应用程序即可快速预览文档、图片、视频等文件内容，提升工作效率。",
+    "analyzed_at": "2025-11-02T19:16:42.045389+00:00"
+  },
+  {
+    "repo_full_name": "ecomfe/veui",
+    "owner": "ecomfe",
+    "html_url": "https://github.com/ecomfe/veui",
+    "description": "Enterprise UI for Vue.js.",
+    "topics": [],
+    "starred_at": "2021-09-16T14:30:41Z",
+    "category": "开发工具",
+    "tags": [
+      "Vue.js",
+      "UI组件",
+      "前端开发",
+      "企业级",
+      "组件库"
+    ],
+    "summary": "veui是一个为Vue.js设计的企业级UI组件库，提供丰富的高质量组件，帮助开发者快速构建专业的企业级Web应用。",
+    "analyzed_at": "2025-11-02T19:16:42.045389+00:00"
+  },
+  {
+    "repo_full_name": "ruanyf/document-style-guide",
+    "owner": "ruanyf",
+    "html_url": "https://github.com/ruanyf/document-style-guide",
+    "description": "中文技术文档的写作规范",
+    "topics": [],
+    "starred_at": "2021-09-18T04:18:44Z",
+    "category": "开发工具",
+    "tags": [
+      "文档规范",
+      "技术写作",
+      "中文文档",
+      "写作指南",
+      "文档标准"
+    ],
+    "summary": "中文技术文档写作规范指南，提供统一的文档格式、语言风格和结构要求，帮助开发者编写高质量的技术文档。",
+    "analyzed_at": "2025-11-02T19:16:42.045389+00:00"
+  },
+  {
+    "repo_full_name": "agkozak/zsh-z",
+    "owner": "agkozak",
+    "html_url": "https://github.com/agkozak/zsh-z",
+    "description": "Jump quickly to directories that you have visited \"frecently.\" A native Zsh port of z.sh with added features.",
+    "topics": [
+      "autojump",
+      "command-line-tool",
+      "filesystem",
+      "z",
+      "zsh",
+      "zsh-plugin"
+    ],
+    "starred_at": "2021-09-18T04:22:36Z",
+    "category": "开发工具",
+    "tags": [
+      "命令行工具",
+      "文件系统",
+      "Zsh",
+      "自动跳转",
+      "Shell插件"
+    ],
+    "summary": "Zsh shell插件，可快速跳转到最近访问过的目录，是z.sh的原生Zsh实现，带有额外功能，提高命令行操作效率。",
+    "analyzed_at": "2025-11-02T19:16:42.045389+00:00"
+  },
+  {
+    "repo_full_name": "jaywcjlove/linux-command",
+    "owner": "jaywcjlove",
+    "html_url": "https://github.com/jaywcjlove/linux-command",
+    "description": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux",
+    "topics": [
+      "bash",
+      "chrome",
+      "chrome-extension",
+      "command-line",
+      "gh-pages",
+      "linux",
+      "linux-command",
+      "ls",
+      "screen",
+      "screenshot",
+      "search",
+      "ssh",
+      "tools",
+      "web-tools"
+    ],
+    "starred_at": "2021-09-18T04:36:04Z",
+    "category": "开发工具",
+    "tags": [
+      "Linux命令",
+      "命令行工具",
+      "开发工具",
+      "查询工具",
+      "学习资源"
+    ],
+    "summary": "Linux命令大全搜索工具，提供全面的Linux命令查询、学习资源，包含命令手册和详细解释，帮助开发者快速查找和使用Linux命令。",
+    "analyzed_at": "2025-11-02T19:16:42.045389+00:00"
+  },
+  {
+    "repo_full_name": "mrdoob/three.js",
+    "owner": "mrdoob",
+    "html_url": "https://github.com/mrdoob/three.js",
+    "description": "JavaScript 3D Library.",
+    "topics": [
+      "3d",
+      "augmented-reality",
+      "canvas",
+      "html5",
+      "javascript",
+      "svg",
+      "virtual-reality",
+      "webaudio",
+      "webgl",
+      "webgl2",
+      "webgpu",
+      "webxr"
+    ],
+    "starred_at": "2021-09-19T07:53:31Z",
+    "category": "Web应用",
+    "tags": [
+      "3d",
+      "javascript",
+      "webgl",
+      "webgpu",
+      "virtual-reality",
+      "augmented-reality"
+    ],
+    "summary": "three.js是一个强大的JavaScript 3D图形库，支持WebGL、WebGPU等Web图形技术，使开发者能够在浏览器中创建交互式3D体验，广泛应用于游戏、虚拟现实和增强现实等Web应用开发。",
+    "analyzed_at": "2025-11-02T19:16:42.045389+00:00"
+  },
+  {
+    "repo_full_name": "iptv-org/iptv",
+    "owner": "iptv-org",
+    "html_url": "https://github.com/iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world",
+    "topics": [
+      "iptv",
+      "m3u",
+      "playlist",
+      "streams",
+      "tv"
+    ],
+    "starred_at": "2021-09-19T07:53:39Z",
+    "category": "Web应用",
+    "tags": [
+      "iptv",
+      "m3u",
+      "playlist",
+      "streams",
+      "tv"
+    ],
+    "summary": "这是一个收集全球公开可用IPTV频道的开源项目，提供来自世界各地的电视频道资源，以M3U播放列表格式组织，用户可以通过各种设备访问这些电视流。",
+    "analyzed_at": "2025-11-02T19:16:42.045389+00:00"
+  },
+  {
+    "repo_full_name": "adobe-fonts/source-code-pro",
+    "owner": "adobe-fonts",
+    "html_url": "https://github.com/adobe-fonts/source-code-pro",
+    "description": "Monospaced font family for user interface and coding environments",
+    "topics": [
+      "afdko",
+      "fonts",
+      "opentype-fonts",
+      "otf",
+      "ttf-fonts",
+      "variable-fonts"
+    ],
+    "starred_at": "2021-09-19T08:18:59Z",
+    "category": "设计工具",
+    "tags": [
+      "字体",
+      "等宽字体",
+      "开源字体",
+      "用户界面",
+      "编程字体"
+    ],
+    "summary": "Adobe Source Code Pro是一款专为编程环境和用户界面设计的等宽字体家族，提供清晰易读的代码显示体验，支持多种字体格式和可变字体技术。",
+    "analyzed_at": "2025-11-02T19:16:42.045389+00:00"
+  },
+  {
+    "repo_full_name": "sindresorhus/pure",
+    "owner": "sindresorhus",
+    "html_url": "https://github.com/sindresorhus/pure",
+    "description": "Pretty, minimal and fast ZSH prompt",
+    "topics": [
+      "git",
+      "minimal",
+      "prompt",
+      "pure",
+      "shell",
+      "shell-prompt",
+      "shell-theme",
+      "terminal",
+      "theme",
+      "zsh"
+    ],
+    "starred_at": "2021-09-23T09:41:52Z",
+    "category": "开发工具",
+    "tags": [
+      "终端",
+      "提示符",
+      "Shell",
+      "ZSH",
+      "Git",
+      "最小化"
+    ],
+    "summary": "Pure是一个简洁、美观且快速的ZSH提示符工具，专为终端设计，提供最小化的界面风格，支持Git状态显示，提升开发者的命令行使用体验。",
+    "analyzed_at": "2025-11-02T19:16:42.045389+00:00"
+  },
+  {
+    "repo_full_name": "ArchLinuxStudio/ArchLinuxTutorial",
+    "owner": "ArchLinuxStudio",
+    "html_url": "https://github.com/ArchLinuxStudio/ArchLinuxTutorial",
+    "description": "✨Arch Linux安装使用教程 每日实时更新！ | 包含ArchLinux从安装到日常使用、娱乐、编程、媒体制作的各个方面，让Arch成为你的常用系统吧！ | 提供在线网页文档 ✨",
+    "topics": [
+      "arch",
+      "arch-linux",
+      "archlinux",
+      "archlinuxinstall",
+      "bitcoin",
+      "blockchain",
+      "censorship-circumvention",
+      "chinese",
+      "cryptocurrency",
+      "ebook",
+      "ethereum",
+      "freedom",
+      "freesoftware",
+      "fsf",
+      "linux",
+      "linux-desktop",
+      "qv2ray",
+      "v2ray",
+      "v2raya",
+      "virtualcurrency"
+    ],
+    "starred_at": "2021-09-23T09:44:04Z",
+    "category": "教育学习",
+    "tags": [
+      "Linux",
+      "Arch Linux",
+      "教程",
+      "系统安装",
+      "开发工具"
+    ],
+    "summary": "这是一个全面的Arch Linux安装与使用教程，涵盖从系统安装到日常使用、娱乐、编程和媒体制作的各个方面。提供在线网页文档，每日实时更新，帮助用户掌握Arch Linux系统。",
+    "analyzed_at": "2025-11-02T19:16:42.045389+00:00"
+  },
+  {
+    "repo_full_name": "instantbox/instantbox",
+    "owner": "instantbox",
+    "html_url": "https://github.com/instantbox/instantbox",
+    "description": "📦 Get a clean, ready-to-go Linux box in seconds.",
+    "topics": [
+      "docker",
+      "docker-compose",
+      "hacktoberfest",
+      "linux",
+      "linux-shell",
+      "web-shell"
+    ],
+    "starred_at": "2021-09-23T15:28:19Z",
+    "category": "开发工具",
+    "tags": [
+      "Docker",
+      "Linux",
+      "Web Shell",
+      "开发环境",
+      "快速部署",
+      "容器化"
+    ],
+    "summary": "Instantbox是一个基于Docker的快速Linux环境部署工具，用户可以在几秒钟内获得一个干净、可用的Linux系统。它通过Web界面提供便捷的访问方式，适合开发者快速搭建临时开发或测试环境。",
+    "analyzed_at": "2025-11-02T19:16:42.045389+00:00"
+  },
+  {
+    "repo_full_name": "jackwener/CS-Awesome-Courses",
+    "owner": "jackwener",
+    "html_url": "https://github.com/jackwener/CS-Awesome-Courses",
+    "description": "计算机的优秀课程",
+    "topics": [
+      "awesome",
+      "courses",
+      "learning"
+    ],
+    "starred_at": "2021-09-30T11:30:39Z",
+    "category": "教育学习",
+    "tags": [
+      "awesome",
+      "courses",
+      "learning",
+      "计算机科学",
+      "课程资源"
+    ],
+    "summary": "这是一个收集计算机科学领域优秀课程的资源库，为学习者提供高质量的学习材料和课程推荐，涵盖计算机科学的多个分支和主题。",
+    "analyzed_at": "2025-11-02T19:16:42.045389+00:00"
+  },
+  {
+    "repo_full_name": "Weidows-projects/Crosstalk-rainbow-fart",
+    "owner": "Weidows-projects",
+    "html_url": "https://github.com/Weidows-projects/Crosstalk-rainbow-fart",
+    "description": "⭐️ 相声🌈Rainbow-Fart语音包 ⭐️ 特色相声彩虹屁🌈Rainbow-Fart语音包,包含由郭德纲老师为首的各路达人在你敲代码时亲切捧逗~ ",
+    "topics": [
+      "crosstalk",
+      "crosstalk-rainbow-fart",
+      "rainbow-fart",
+      "vscode-extension"
+    ],
+    "starred_at": "2021-09-30T11:32:03Z",
+    "category": "开发工具",
+    "tags": [
+      "VS Code扩展",
+      "相声",
+      "语音包",
+      "彩虹屁",
+      "编程辅助"
+    ],
+    "summary": "一个VS Code扩展，提供郭德纲等相声演员的'彩虹屁'语音包，在编程时播放相声段子增加趣味性。",
+    "analyzed_at": "2025-11-02T19:16:42.045389+00:00"
+  },
+  {
+    "repo_full_name": "nilaoda/BBDown",
+    "owner": "nilaoda",
+    "html_url": "https://github.com/nilaoda/BBDown",
+    "description": "Bilibili Downloader. 一个命令行式哔哩哔哩下载器.",
+    "topics": [
+      "downloader"
+    ],
+    "starred_at": "2021-09-30T11:32:58Z",
+    "category": "开发工具",
+    "tags": [
+      "视频下载",
+      "命令行工具",
+      "B站",
+      "下载器",
+      "多媒体工具"
+    ],
+    "summary": "BBDown是一款命令行式哔哩哔哩视频下载工具，支持用户通过命令行界面下载B站视频内容，简单易用。",
+    "analyzed_at": "2025-11-02T19:16:42.045389+00:00"
+  },
+  {
+    "repo_full_name": "guanpengchn/awesome-books",
+    "owner": "guanpengchn",
+    "html_url": "https://github.com/guanpengchn/awesome-books",
+    "description": ":books: 开发者推荐阅读的书籍",
+    "topics": [
+      "books",
+      "chinese",
+      "pdf"
+    ],
+    "starred_at": "2021-09-30T11:34:14Z",
+    "category": "教育学习",
+    "tags": [
+      "书籍推荐",
+      "学习资源",
+      "开发者",
+      "中文资源",
+      "PDF"
+    ],
+    "summary": "一个收集开发者推荐阅读书籍的项目，包含中文资源和PDF格式书籍，帮助开发者提升技能和知识。",
+    "analyzed_at": "2025-11-02T19:16:42.045389+00:00"
+  },
+  {
+    "repo_full_name": "aristocratos/btop",
+    "owner": "aristocratos",
+    "html_url": "https://github.com/aristocratos/btop",
+    "description": "A monitor of resources",
+    "topics": [],
+    "starred_at": "2021-09-30T11:51:09Z",
+    "category": "开发工具",
+    "tags": [
+      "系统监控",
+      "命令行工具",
+      "资源监控",
+      "系统工具"
+    ],
+    "summary": "btop是一个轻量级的系统资源监控工具，提供实时的CPU、内存、磁盘和网络使用情况展示，具有直观的界面和丰富的功能。",
+    "analyzed_at": "2025-11-02T19:16:42.045389+00:00"
+  },
+  {
+    "repo_full_name": "liuhuanyong/QASystemOnMedicalKG",
+    "owner": "liuhuanyong",
+    "html_url": "https://github.com/liuhuanyong/QASystemOnMedicalKG",
+    "description": " A tutorial and implement of disease centered Medical knowledge graph and qa system based on it。知识图谱构建，自动问答，基于kg的自动问答。以疾病为中心的一定规模医药领域知识图谱，并以该知识图谱完成自动问答与分析服务。",
+    "topics": [],
+    "starred_at": "2021-09-30T12:53:05Z",
+    "category": "AI/机器学习",
+    "tags": [
+      "知识图谱",
+      "医疗AI",
+      "自动问答",
+      "医学信息",
+      "机器学习"
+    ],
+    "summary": "这是一个医疗知识图谱构建与自动问答系统的实现教程，专注于医药领域，以疾病为中心构建知识图谱并提供智能问答与分析服务。",
+    "analyzed_at": "2025-11-02T19:16:42.045389+00:00"
+  },
+  {
+    "repo_full_name": "imageslr/taro-library",
+    "owner": "imageslr",
+    "html_url": "https://github.com/imageslr/taro-library",
+    "description": " Taro + Redux + 本地 Mock Server 微信小程序示例项目",
+    "topics": [],
+    "starred_at": "2021-10-12T11:54:54Z",
+    "category": "移动应用",
+    "tags": [
+      "微信小程序",
+      "Taro",
+      "Redux",
+      "Mock Server",
+      "前端开发",
+      "示例项目"
+    ],
+    "summary": "这是一个基于Taro框架、Redux状态管理和本地Mock Server的微信小程序示例项目，为开发者提供了小程序开发的参考实现。",
+    "analyzed_at": "2025-11-02T19:16:42.045389+00:00"
+  },
+  {
+    "repo_full_name": "M2Team/NanaZip",
+    "owner": "M2Team",
+    "html_url": "https://github.com/M2Team/NanaZip",
+    "description": "The 7-Zip derivative intended for the modern Windows experience",
+    "topics": [
+      "cpp",
+      "file-compression",
+      "file-manager",
+      "windows-10",
+      "windows-11",
+      "windows-desktop",
+      "xaml-islands",
+      "xaml-winrt"
+    ],
+    "starred_at": "2021-10-13T10:12:24Z",
+    "category": "桌面应用",
+    "tags": [
+      "文件压缩",
+      "文件管理器",
+      "Windows应用"
+    ],
+    "summary": "NanaZip是基于7-Zip的现代Windows压缩工具，专为Windows 10/11设计。它采用XAML技术提供更好的用户界面，同时保持7-Zip强大的压缩功能，是Windows系统下的一款高效文件压缩与管理工具。",
+    "analyzed_at": "2025-11-02T19:16:42.045389+00:00"
+  },
+  {
+    "repo_full_name": "louislam/uptime-kuma",
+    "owner": "louislam",
+    "html_url": "https://github.com/louislam/uptime-kuma",
+    "description": "A fancy self-hosted monitoring tool",
+    "topics": [
+      "docker",
+      "monitor",
+      "monitoring",
+      "responsive",
+      "self-hosted",
+      "selfhosted",
+      "single-page-app",
+      "socket-io",
+      "uptime",
+      "uptime-monitoring",
+      "webapp",
+      "websocket"
+    ],
+    "starred_at": "2021-10-14T07:06:49Z",
+    "category": "Web应用",
+    "tags": [
+      "监控",
+      "自托管",
+      "状态监控",
+      "Docker",
+      "实时监控"
+    ],
+    "summary": "Uptime Kuma是一个精美的自托管监控工具，可监控网站和服务状态。它采用单页面应用设计，支持WebSocket实时更新，提供响应式界面，可通过Docker轻松部署。",
+    "analyzed_at": "2025-11-02T19:16:42.045389+00:00"
   }
 ]
