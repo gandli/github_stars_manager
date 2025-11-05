@@ -28303,5 +28303,1304 @@
     ],
     "summary": "微软为中国学生、教师和IT专业人士提供的AI教育资源库，包含系统化的AI学习材料和课程。",
     "analyzed_at": "2025-11-04T19:19:47.539935+00:00"
+  },
+  {
+    "repo_full_name": "be5invis/Sarasa-Gothic",
+    "owner": "be5invis",
+    "html_url": "https://github.com/be5invis/Sarasa-Gothic",
+    "description": "Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕",
+    "topics": [
+      "font",
+      "typeface"
+    ],
+    "starred_at": "2021-12-09T06:32:08Z",
+    "category": "设计工具",
+    "tags": [
+      "字体",
+      "设计资源",
+      "开源字体",
+      "中文字体",
+      "日文字体",
+      "韩文字体"
+    ],
+    "summary": "Sarasa Gothic是一款开源的无衬线字体家族，支持中日韩等多种语言，适用于各种设计和显示场景。",
+    "analyzed_at": "2025-11-05T19:20:33.206367+00:00"
+  },
+  {
+    "repo_full_name": "aykutkardas/regexlearn.com",
+    "owner": "aykutkardas",
+    "html_url": "https://github.com/aykutkardas/regexlearn.com",
+    "description": "Learn RegEx step by step, from zero to advanced.",
+    "topics": [
+      "guide",
+      "learn",
+      "regex",
+      "regexp",
+      "tool",
+      "tutorial"
+    ],
+    "starred_at": "2021-12-10T12:31:58Z",
+    "category": "开发工具",
+    "tags": [
+      "regex",
+      "tutorial",
+      "learn",
+      "guide",
+      "tool"
+    ],
+    "summary": "这是一个交互式学习平台，帮助开发者从零开始逐步学习正则表达式，提供从基础到高级的教程和练习，是提升编程技能的实用工具。",
+    "analyzed_at": "2025-11-05T19:20:33.206367+00:00"
+  },
+  {
+    "repo_full_name": "NervJS/taro",
+    "owner": "NervJS",
+    "html_url": "https://github.com/NervJS/taro",
+    "description": "开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/",
+    "topics": [
+      "javascript",
+      "jquery",
+      "nerv",
+      "nervjs",
+      "react",
+      "react-native",
+      "reactjs",
+      "taro",
+      "typescript",
+      "vue",
+      "vue3",
+      "wechat",
+      "wechat-mini-program",
+      "weixin",
+      "wxapp"
+    ],
+    "starred_at": "2021-12-10T12:58:27Z",
+    "category": "开发工具",
+    "tags": [
+      "跨平台开发",
+      "小程序开发",
+      "React",
+      "Vue",
+      "开发框架",
+      "多端适配"
+    ],
+    "summary": "Taro是一个开源的跨端开发框架，支持使用React/Vue等前端框架一次编码，多端运行，可开发微信、支付宝、百度等多个平台的小程序以及H5和React Native应用。",
+    "analyzed_at": "2025-11-05T19:20:33.206367+00:00"
+  },
+  {
+    "repo_full_name": "element-plus/element-plus",
+    "owner": "element-plus",
+    "html_url": "https://github.com/element-plus/element-plus",
+    "description": "🎉 A Vue.js 3 UI Library made by Element team",
+    "topics": [
+      "component-library",
+      "element-plus",
+      "element-ui",
+      "vue",
+      "vue-components",
+      "vuejs"
+    ],
+    "starred_at": "2021-12-10T13:09:02Z",
+    "category": "Web应用",
+    "tags": [
+      "组件库",
+      "Vue",
+      "UI框架",
+      "前端开发"
+    ],
+    "summary": "这是一个基于Vue.js 3的UI组件库，由Element团队开发，提供了丰富的可复用UI组件，帮助开发者快速构建现代化的Web应用界面。",
+    "analyzed_at": "2025-11-05T19:20:33.206367+00:00"
+  },
+  {
+    "repo_full_name": "alibaba-fusion/next",
+    "owner": "alibaba-fusion",
+    "html_url": "https://github.com/alibaba-fusion/next",
+    "description": "🦍 A configurable component library for web built on React. ",
+    "topics": [
+      "component",
+      "design-system",
+      "fusion",
+      "fusion-design",
+      "next",
+      "react",
+      "ui"
+    ],
+    "starred_at": "2021-12-10T13:13:47Z",
+    "category": "Web应用",
+    "tags": [
+      "组件",
+      "设计系统",
+      "React",
+      "UI"
+    ],
+    "summary": "这是一个基于React的可配置Web组件库，由阿里巴巴开发，属于Fusion设计系统的一部分，提供丰富的UI组件。",
+    "analyzed_at": "2025-11-05T19:20:33.206367+00:00"
+  },
+  {
+    "repo_full_name": "vercel/next.js",
+    "owner": "vercel",
+    "html_url": "https://github.com/vercel/next.js",
+    "description": "The React Framework",
+    "topics": [
+      "blog",
+      "browser",
+      "compiler",
+      "components",
+      "hybrid",
+      "nextjs",
+      "node",
+      "react",
+      "server-rendering",
+      "ssg",
+      "static",
+      "static-site-generator",
+      "universal",
+      "vercel"
+    ],
+    "starred_at": "2021-12-10T13:18:39Z",
+    "category": "Web应用",
+    "tags": [
+      "React",
+      "服务器端渲染",
+      "静态站点生成",
+      "组件",
+      "混合应用"
+    ],
+    "summary": "Next.js是Vercel开发的React框架，支持服务器端渲染和静态站点生成，提供组件化开发能力，可构建高性能的混合Web应用。",
+    "analyzed_at": "2025-11-05T19:20:33.206367+00:00"
+  },
+  {
+    "repo_full_name": "welai/glow-sans",
+    "owner": "welai",
+    "html_url": "https://github.com/welai/glow-sans",
+    "description": "SHSans-derived CJK font family with a more concise & modern look. 未来荧黑·未來熒黑·ヒカリ角ゴ：基于思源黑体改造，拥有粗度和宽度系列，更加简明现代的超大字体家族。",
+    "topics": [
+      "cjk",
+      "font",
+      "otf",
+      "source-han"
+    ],
+    "starred_at": "2021-12-10T14:47:26Z",
+    "category": "设计工具",
+    "tags": [
+      "字体设计",
+      "CJK文字",
+      "开源字体",
+      "思源黑体衍生",
+      "现代设计"
+    ],
+    "summary": "未来荧黑是基于思源黑体改造的中日韩(CJK)开源字体家族，提供多种粗度和宽度系列，具有简明现代的设计风格，适合各类界面设计使用。",
+    "analyzed_at": "2025-11-05T19:20:33.206367+00:00"
+  },
+  {
+    "repo_full_name": "nichan-13/Echarts-Demo",
+    "owner": "nichan-13",
+    "html_url": "https://github.com/nichan-13/Echarts-Demo",
+    "description": "数据可视化-Echarts 大屏数据可视化展示",
+    "topics": [
+      "echarts"
+    ],
+    "starred_at": "2021-12-11T11:25:46Z",
+    "category": "Web应用",
+    "tags": [
+      "echarts",
+      "数据可视化",
+      "大屏展示",
+      "图表",
+      "JavaScript"
+    ],
+    "summary": "Echarts-Demo是一个基于Echarts的数据可视化项目，专注于大屏数据展示。该项目提供了丰富的图表类型和交互功能，帮助用户将复杂数据以直观、美观的方式呈现。",
+    "analyzed_at": "2025-11-05T19:20:33.206367+00:00"
+  },
+  {
+    "repo_full_name": "chenyuntc/pytorch-book",
+    "owner": "chenyuntc",
+    "html_url": "https://github.com/chenyuntc/pytorch-book",
+    "description": "PyTorch tutorials and fun projects including neural talk, neural style, poem writing, anime generation (《深度学习框架PyTorch：入门与实战》)",
+    "topics": [
+      "autograd",
+      "caption",
+      "charrnn",
+      "deep-learning",
+      "gan",
+      "image-classification",
+      "jupyter-notebook",
+      "neural-style",
+      "neuraltalk",
+      "nn",
+      "pytorch",
+      "pytorch-tutorials",
+      "pytorch-tutorials-cn",
+      "tensor",
+      "tensorboard",
+      "visdom"
+    ],
+    "starred_at": "2021-12-11T11:28:07Z",
+    "category": "AI/机器学习",
+    "tags": [
+      "深度学习",
+      "PyTorch",
+      "神经网络",
+      "教程",
+      "图像分类",
+      "生成对抗网络"
+    ],
+    "summary": "这是一个PyTorch深度学习框架的中文教程和实战项目集合，包含神经网络、图像分类、GAN、神经风格转换等内容，适合初学者入门和实践。",
+    "analyzed_at": "2025-11-05T19:20:33.206367+00:00"
+  },
+  {
+    "repo_full_name": "Xmingbai/Hackintosh-ACPI",
+    "owner": "Xmingbai",
+    "html_url": "https://github.com/Xmingbai/Hackintosh-ACPI",
+    "description": null,
+    "topics": [],
+    "starred_at": "2021-12-12T08:11:45Z",
+    "category": "开发工具",
+    "tags": [
+      "hackintosh",
+      "macOS",
+      "ACPI",
+      "硬件配置",
+      "开源工具"
+    ],
+    "summary": "这是一个用于Hackintosh的ACPI配置项目，帮助开发者在非苹果硬件上正确配置macOS所需的系统设置。",
+    "analyzed_at": "2025-11-05T19:20:33.206367+00:00"
+  },
+  {
+    "repo_full_name": "scavin/docker-EFBv2",
+    "owner": "scavin",
+    "html_url": "https://github.com/scavin/docker-EFBv2",
+    "description": "A docker image for https://github.com/blueset/ehForwarderBot",
+    "topics": [],
+    "starred_at": "2021-12-13T07:49:05Z",
+    "category": "开发工具",
+    "tags": [
+      "Docker",
+      "容器化",
+      "ehForwarderBot",
+      "即时通讯",
+      "部署工具"
+    ],
+    "summary": "Docker镜像，用于部署ehForwarderBot机器人，支持跨平台即时通讯中继，简化部署流程。",
+    "analyzed_at": "2025-11-05T19:20:33.206367+00:00"
+  },
+  {
+    "repo_full_name": "ChanceYu/front-end-rss",
+    "owner": "ChanceYu",
+    "html_url": "https://github.com/ChanceYu/front-end-rss",
+    "description": ":orange_book: 根据 RSS 订阅最新前端技术文章并自动分类",
+    "topics": [
+      "article",
+      "blog",
+      "collection",
+      "daily",
+      "fed",
+      "feed",
+      "feed-reader",
+      "front",
+      "front-end",
+      "javascript",
+      "latest",
+      "rss",
+      "weekly"
+    ],
+    "starred_at": "2021-12-13T09:09:49Z",
+    "category": "Web应用",
+    "tags": [
+      "前端",
+      "RSS",
+      "文章",
+      "博客",
+      "订阅",
+      "技术"
+    ],
+    "summary": "这是一个前端RSS阅读器，能够自动订阅和分类最新的前端技术文章，帮助开发者及时获取行业动态和技术资讯。",
+    "analyzed_at": "2025-11-05T19:20:33.206367+00:00"
+  },
+  {
+    "repo_full_name": "TechXueXi/TechXueXi",
+    "owner": "TechXueXi",
+    "html_url": "https://github.com/TechXueXi/TechXueXi",
+    "description": "强国通 科技强国 学习强国 xuexiqiangguo 全网最好用开源网页学习强国助手：TechXueXi （懒人刷分工具 自动学习）技术强国，支持答题，支持 docker 45分/天",
+    "topics": [
+      "auto-xxqg",
+      "docker",
+      "qiang-guo",
+      "qiangguo",
+      "xuexi",
+      "xuexi-qiangguo",
+      "xuexiqiangguo",
+      "xxqg"
+    ],
+    "starred_at": "2021-12-13T09:18:32Z",
+    "category": "教育学习",
+    "tags": [
+      "学习助手",
+      "自动化",
+      "教育工具",
+      "积分获取",
+      "Docker部署"
+    ],
+    "summary": "TechXueXi是一个开源的学习强国网页助手，支持自动答题和积分获取，每日可达45分，可通过Docker部署，提高学习效率。",
+    "analyzed_at": "2025-11-05T19:20:33.206367+00:00"
+  },
+  {
+    "repo_full_name": "ivonzhang/koa2-mongodb-server",
+    "owner": "ivonzhang",
+    "html_url": "https://github.com/ivonzhang/koa2-mongodb-server",
+    "description": "利用koa2+mongodb搭建一套简易的nodejs后台服务，用于为客户端提供数据请求的数据api接口",
+    "topics": [
+      "koa2",
+      "mongoose"
+    ],
+    "starred_at": "2021-12-13T10:50:10Z",
+    "category": "开发工具",
+    "tags": [
+      "后端API",
+      "Node.js",
+      "MongoDB",
+      "Koa2",
+      "数据服务"
+    ],
+    "summary": "这是一个基于koa2和MongoDB构建的简易Node.js后端服务，提供数据API接口供客户端调用，适合快速搭建后端服务。",
+    "analyzed_at": "2025-11-05T19:20:33.206367+00:00"
+  },
+  {
+    "repo_full_name": "PKUFlyingPig/cs-self-learning",
+    "owner": "PKUFlyingPig",
+    "html_url": "https://github.com/PKUFlyingPig/cs-self-learning",
+    "description": "计算机自学指南",
+    "topics": [],
+    "starred_at": "2021-12-13T10:51:40Z",
+    "category": "教育学习",
+    "tags": [
+      "计算机科学",
+      "自学",
+      "学习资源",
+      "编程",
+      "技术指南",
+      "知识体系"
+    ],
+    "summary": "这个仓库提供了计算机科学自学的系统性指南，涵盖编程语言、算法、数据结构等核心知识，帮助自学者构建完整的技术知识体系。",
+    "analyzed_at": "2025-11-05T19:20:33.206367+00:00"
+  },
+  {
+    "repo_full_name": "knownsec/404StarLink",
+    "owner": "knownsec",
+    "html_url": "https://github.com/knownsec/404StarLink",
+    "description": "404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目",
+    "topics": [
+      "opensource",
+      "security",
+      "tools"
+    ],
+    "starred_at": "2021-12-13T11:27:34Z",
+    "category": "安全工具",
+    "tags": [
+      "opensource",
+      "security",
+      "tools",
+      "安全项目",
+      "开源推荐",
+      "安全资源"
+    ],
+    "summary": "404StarLink是一个专注于推荐优质、有意义、有趣且持续维护的安全开源项目的平台，旨在为安全研究人员和爱好者提供精选的安全工具和资源。",
+    "analyzed_at": "2025-11-05T19:20:33.206367+00:00"
+  },
+  {
+    "repo_full_name": "microsoft/wslg",
+    "owner": "microsoft",
+    "html_url": "https://github.com/microsoft/wslg",
+    "description": "Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios",
+    "topics": [
+      "hacktoberfest"
+    ],
+    "starred_at": "2021-12-13T12:29:43Z",
+    "category": "开发工具",
+    "tags": [
+      "WSL",
+      "Wayland",
+      "X server",
+      "GUI",
+      "跨平台",
+      "开发环境"
+    ],
+    "summary": "WSLG项目为Windows子系统Linux(WSL)添加Wayland和X服务器支持，使开发者能在Windows环境中直接运行Linux图形界面应用，实现跨平台开发体验。",
+    "analyzed_at": "2025-11-05T19:20:33.206367+00:00"
+  },
+  {
+    "repo_full_name": "wubaiqing/zaobao",
+    "owner": "wubaiqing",
+    "html_url": "https://github.com/wubaiqing/zaobao",
+    "description": "每日时报，以前端技术体系为主要分享课题。根据：文章、工具、新闻、视频几大板块作为主要分类。",
+    "topics": [
+      "awesome",
+      "coding-article",
+      "daily",
+      "design",
+      "news",
+      "promotion-promotion",
+      "share",
+      "web-development",
+      "zaobao"
+    ],
+    "starred_at": "2021-12-13T13:29:19Z",
+    "category": "Web应用",
+    "tags": [
+      "前端开发",
+      "技术分享",
+      "每日更新",
+      "Web开发",
+      "技术文章",
+      "资源聚合"
+    ],
+    "summary": "这是一个每日更新的前端技术分享平台，主要聚合前端开发相关的文章、工具、新闻和视频资源，为Web开发者提供一站式技术内容获取渠道。",
+    "analyzed_at": "2025-11-05T19:20:33.206367+00:00"
+  },
+  {
+    "repo_full_name": "Asabeneh/30-Days-Of-JavaScript",
+    "owner": "Asabeneh",
+    "html_url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+    "topics": [
+      "30daysofjavascript",
+      "angular",
+      "challenge",
+      "css",
+      "d3",
+      "d3js",
+      "html",
+      "javascript",
+      "javascript-for-everyone",
+      "js",
+      "json",
+      "node",
+      "nodejs",
+      "programming",
+      "react",
+      "redux",
+      "typescript",
+      "vue",
+      "webdevelopment",
+      "website"
+    ],
+    "starred_at": "2021-12-13T13:32:23Z",
+    "category": "教育学习",
+    "tags": [
+      "JavaScript",
+      "编程教程",
+      "Web开发",
+      "前端",
+      "学习挑战",
+      "30天挑战"
+    ],
+    "summary": "这是一个30天JavaScript编程挑战项目，提供分步指南帮助学习者掌握JavaScript语言及相关Web开发技术，包括HTML、CSS和各种前端框架。",
+    "analyzed_at": "2025-11-05T19:20:33.206367+00:00"
+  },
+  {
+    "repo_full_name": "unjs/consola",
+    "owner": "unjs",
+    "html_url": "https://github.com/unjs/consola",
+    "description": "🐨 Elegant Console Logger for Node.js and Browser ",
+    "topics": [
+      "cli",
+      "console",
+      "fancy",
+      "log",
+      "node",
+      "terminal"
+    ],
+    "starred_at": "2021-12-13T13:34:49Z",
+    "category": "开发工具",
+    "tags": [
+      "日志工具",
+      "开发辅助",
+      "Node.js",
+      "终端工具",
+      "调试工具"
+    ],
+    "summary": "这是一个优雅的控制台日志记录工具，专为Node.js和浏览器环境设计，提供丰富的日志功能和美观的终端输出。",
+    "analyzed_at": "2025-11-05T19:20:33.206367+00:00"
+  },
+  {
+    "repo_full_name": "sindresorhus/screenfull",
+    "owner": "sindresorhus",
+    "html_url": "https://github.com/sindresorhus/screenfull",
+    "description": "Simple wrapper for cross-browser usage of the JavaScript Fullscreen API",
+    "topics": [],
+    "starred_at": "2021-12-13T13:41:43Z",
+    "category": "开发工具",
+    "tags": [
+      "JavaScript",
+      "全屏API",
+      "浏览器兼容性",
+      "前端开发",
+      "API包装器"
+    ],
+    "summary": "screenfull是一个轻量级JavaScript库，为跨浏览器使用Fullscreen API提供简单封装，帮助开发者轻松实现网页元素的全屏显示功能，解决不同浏览器间的兼容性问题。",
+    "analyzed_at": "2025-11-05T19:20:33.206367+00:00"
+  },
+  {
+    "repo_full_name": "terminal-junkies/npmx",
+    "owner": "terminal-junkies",
+    "html_url": "https://github.com/terminal-junkies/npmx",
+    "description": "Advanced CLI for npm",
+    "topics": [
+      "blessed",
+      "cli",
+      "command-line",
+      "npm",
+      "terminal"
+    ],
+    "starred_at": "2021-12-13T13:43:17Z",
+    "category": "开发工具",
+    "tags": [
+      "命令行工具",
+      "npm工具",
+      "开发工具",
+      "终端应用",
+      "包管理"
+    ],
+    "summary": "这是一个高级的npm命令行界面工具，提供了比标准npm更丰富的功能和更好的用户体验，专为Node.js开发者设计。",
+    "analyzed_at": "2025-11-05T19:20:33.206367+00:00"
+  },
+  {
+    "repo_full_name": "editso/fuso",
+    "owner": "editso",
+    "html_url": "https://github.com/editso/fuso",
+    "description": "一款体积小, 快速, 稳定, 高效, 轻量的内网穿透, 端口转发工具 支持多连接,级联代理,传输加密 (A small volume, fast, stable, efficient, and lightweight intranet penetration, port forwarding tool supports multiple connections, cascading proxy, and transmission encryption)",
+    "topics": [
+      "async",
+      "bridge",
+      "forward",
+      "kcp",
+      "nat",
+      "penetrate",
+      "proxy",
+      "rust",
+      "smol",
+      "socks5",
+      "tokio",
+      "tunnel",
+      "udp",
+      "udp-forwarder"
+    ],
+    "starred_at": "2021-12-14T13:33:28Z",
+    "category": "开发工具",
+    "tags": [
+      "内网穿透",
+      "端口转发",
+      "代理工具",
+      "网络工具",
+      "加密传输",
+      "轻量级"
+    ],
+    "summary": "Fuso是一款轻量级内网穿透和端口转发工具，具有体积小、速度快、稳定性高的特点。支持多连接、级联代理和传输加密功能，基于Rust语言开发，适用于内网环境下的网络服务访问需求。",
+    "analyzed_at": "2025-11-05T19:20:33.206367+00:00"
+  },
+  {
+    "repo_full_name": "running-elephant/datart",
+    "owner": "running-elephant",
+    "html_url": "https://github.com/running-elephant/datart",
+    "description": "Datart is a next generation Data Visualization Open Platform",
+    "topics": [
+      "analytics",
+      "bi",
+      "business-analytics",
+      "business-intelligence",
+      "chart",
+      "d3",
+      "dashboard",
+      "data-analysis",
+      "data-analytics",
+      "data-engineering",
+      "data-visualization",
+      "data-viz",
+      "datart",
+      "davinci",
+      "display",
+      "echarts",
+      "react",
+      "report",
+      "sql-editor",
+      "typescript"
+    ],
+    "starred_at": "2021-12-14T13:36:06Z",
+    "category": "Web应用",
+    "tags": [
+      "数据可视化",
+      "数据分析",
+      "仪表盘",
+      "图表",
+      "商业智能",
+      "报表"
+    ],
+    "summary": "Datart是一个新一代数据可视化开放平台，提供丰富的图表组件、仪表盘和报表功能，支持SQL编辑器，基于React和TypeScript开发，助力企业数据分析和商业智能决策。",
+    "analyzed_at": "2025-11-05T19:20:33.206367+00:00"
+  },
+  {
+    "repo_full_name": "CyC2018/CS-Notes",
+    "owner": "CyC2018",
+    "html_url": "https://github.com/CyC2018/CS-Notes",
+    "description": ":books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计",
+    "topics": [
+      "algorithm",
+      "computer-science",
+      "cpp",
+      "interview",
+      "java",
+      "leetcode",
+      "python",
+      "system-design"
+    ],
+    "starred_at": "2021-12-15T11:39:22Z",
+    "category": "教育学习",
+    "tags": [
+      "计算机科学",
+      "算法",
+      "面试准备",
+      "LeetCode",
+      "系统设计"
+    ],
+    "summary": "CS-Notes是一个全面的技术面试准备资源，包含计算机基础知识、算法题解(LeetCode)、操作系统、计算机网络和系统设计等内容，支持多种编程语言，是计算机专业学生和开发者的学习宝典。",
+    "analyzed_at": "2025-11-05T19:20:33.206367+00:00"
+  },
+  {
+    "repo_full_name": "vnpy/vnpy",
+    "owner": "vnpy",
+    "html_url": "https://github.com/vnpy/vnpy",
+    "description": "基于Python的开源量化交易平台开发框架",
+    "topics": [
+      "algotrading",
+      "finance",
+      "fintech",
+      "investment",
+      "python",
+      "quant",
+      "trading",
+      "vnpy"
+    ],
+    "starred_at": "2021-12-15T11:41:06Z",
+    "category": "开发工具",
+    "tags": [
+      "量化交易",
+      "金融科技",
+      "Python",
+      "投资",
+      "交易"
+    ],
+    "summary": "VNPy是一个基于Python的开源量化交易平台开发框架，为金融交易和量化投资提供完整的解决方案。支持多种交易接口和策略回测，适合个人和机构开发者构建定制化交易系统。",
+    "analyzed_at": "2025-11-05T19:20:33.206367+00:00"
+  },
+  {
+    "repo_full_name": "datawhalechina/fun-rec",
+    "owner": "datawhalechina",
+    "html_url": "https://github.com/datawhalechina/fun-rec",
+    "description": "推荐系统入门教程，在线阅读地址：https://datawhalechina.github.io/fun-rec/",
+    "topics": [
+      "algorithm-engineering",
+      "deep-learning",
+      "interview-questions",
+      "machine-learning",
+      "recommendation-algorithms",
+      "recommender-system",
+      "tensorflow",
+      "tianchi-competition"
+    ],
+    "starred_at": "2021-12-15T11:41:09Z",
+    "category": "AI/机器学习",
+    "tags": [
+      "机器学习",
+      "推荐算法",
+      "深度学习",
+      "算法工程"
+    ],
+    "summary": "DataWhaleChina的推荐系统入门教程，涵盖推荐算法、深度学习和机器学习基础知识，适合初学者学习推荐系统理论与实践。",
+    "analyzed_at": "2025-11-05T19:20:33.206367+00:00"
+  },
+  {
+    "repo_full_name": "tnfe/FFCreator",
+    "owner": "tnfe",
+    "html_url": "https://github.com/tnfe/FFCreator",
+    "description": "A fast video processing library based on node.js (一个基于node.js的高速视频制作库)",
+    "topics": [
+      "ffmpeg",
+      "ffmpeg-libraries",
+      "nodejs",
+      "short-video",
+      "video",
+      "video-editor",
+      "video-processing"
+    ],
+    "starred_at": "2021-12-16T08:48:46Z",
+    "category": "开发工具",
+    "tags": [
+      "视频处理",
+      "视频编辑",
+      "Node.js",
+      "FFmpeg",
+      "短视频"
+    ],
+    "summary": "FFCreator是一个基于Node.js的高速视频处理库，利用FFmpeg技术提供视频编辑和处理功能，适合用于开发短视频应用和视频处理工具。",
+    "analyzed_at": "2025-11-05T19:20:33.206367+00:00"
+  },
+  {
+    "repo_full_name": "zhongsp/TypeScript",
+    "owner": "zhongsp",
+    "html_url": "https://github.com/zhongsp/TypeScript",
+    "description": "TypeScript 使用手册（中文版）翻译。http://www.typescriptlang.org",
+    "topics": [
+      "angular",
+      "angular2",
+      "javascript",
+      "javascript-typescript",
+      "react",
+      "ts",
+      "typescript",
+      "typescript-handbook",
+      "zh",
+      "zh-cn",
+      "zh-hans"
+    ],
+    "starred_at": "2021-12-16T10:29:21Z",
+    "category": "开发工具",
+    "tags": [
+      "TypeScript",
+      "JavaScript",
+      "开发文档",
+      "中文翻译",
+      "编程语言"
+    ],
+    "summary": "这是TypeScript官方使用手册的中文翻译版本，涵盖了TypeScript语言的核心概念和特性，适合中文开发者学习和参考。",
+    "analyzed_at": "2025-11-05T19:20:33.206367+00:00"
+  },
+  {
+    "repo_full_name": "PowerShell/PSReadLine",
+    "owner": "PowerShell",
+    "html_url": "https://github.com/PowerShell/PSReadLine",
+    "description": "A bash inspired readline implementation for PowerShell",
+    "topics": [],
+    "starred_at": "2021-12-19T04:24:47Z",
+    "category": "开发工具",
+    "tags": [
+      "PowerShell",
+      "命令行",
+      "行编辑",
+      "自动补全",
+      "终端工具"
+    ],
+    "summary": "PSReadLine是为PowerShell提供bash风格行编辑功能的工具，支持命令历史、自动补全、多行编辑等功能，极大提升PowerShell使用体验和开发效率。",
+    "analyzed_at": "2025-11-05T19:20:33.206367+00:00"
+  },
+  {
+    "repo_full_name": "Yikun/hub-mirror-action",
+    "owner": "Yikun",
+    "html_url": "https://github.com/Yikun/hub-mirror-action",
+    "description": "一个Github Action，用于在Github, Gitee, GitLab和GitCode之间同步代码。Action for mirroring repos between Hubs (like Github, Gitee, GitLab and GitCode).",
+    "topics": [],
+    "starred_at": "2021-12-20T04:12:57Z",
+    "category": "开发工具",
+    "tags": [
+      "GitHub Actions",
+      "代码同步",
+      "跨平台",
+      "自动化",
+      "DevOps"
+    ],
+    "summary": "这是一个GitHub Action工具，可在Github、Gitee、GitLab和GitCode等代码托管平台之间自动同步仓库，简化多平台代码管理。",
+    "analyzed_at": "2025-11-05T19:20:33.206367+00:00"
+  },
+  {
+    "repo_full_name": "rlxone/Equinox",
+    "owner": "rlxone",
+    "html_url": "https://github.com/rlxone/Equinox",
+    "description": "🌇 🌃  Create dynamic wallpapers for macOS.",
+    "topics": [
+      "app",
+      "appkit",
+      "application",
+      "dynamic",
+      "macos",
+      "native",
+      "swift",
+      "wallpaper"
+    ],
+    "starred_at": "2021-12-20T04:34:46Z",
+    "category": "桌面应用",
+    "tags": [
+      "动态壁纸",
+      "macOS",
+      "原生应用",
+      "Swift"
+    ],
+    "summary": "Equinox是一个macOS平台的原生应用程序，使用Swift开发，允许用户创建动态变化的壁纸，为桌面增添生动的视觉效果。",
+    "analyzed_at": "2025-11-05T19:20:33.206367+00:00"
+  },
+  {
+    "repo_full_name": "avgupta456/github-trends",
+    "owner": "avgupta456",
+    "html_url": "https://github.com/avgupta456/github-trends",
+    "description": "🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!",
+    "topics": [
+      "github",
+      "github-api",
+      "github-wrapped",
+      "profile-readme",
+      "readme-stats"
+    ],
+    "starred_at": "2021-12-23T11:37:16Z",
+    "category": "开发工具",
+    "tags": [
+      "github",
+      "github-api",
+      "profile-readme",
+      "readme-stats"
+    ],
+    "summary": "GitHub Trends是一个开发工具，帮助用户通过自定义卡片增强GitHub个人资料README，包括代码行数统计等功能，让开发者能够展示自己的GitHub活动数据。",
+    "analyzed_at": "2025-11-05T19:20:33.206367+00:00"
+  },
+  {
+    "repo_full_name": "vashpan/xcode-dev-cleaner",
+    "owner": "vashpan",
+    "html_url": "https://github.com/vashpan/xcode-dev-cleaner",
+    "description": "If you want to reclaim tens of gigabytes of your storage used for various Xcode caches - this tool is for you!",
+    "topics": [],
+    "starred_at": "2021-12-23T13:54:16Z",
+    "category": "开发工具",
+    "tags": [
+      "Xcode",
+      "缓存清理",
+      "存储优化",
+      "开发工具",
+      "macOS"
+    ],
+    "summary": "一款专为Xcode开发者设计的工具，可清理各种Xcode缓存文件，帮助开发者回收数十GB的存储空间。",
+    "analyzed_at": "2025-11-05T19:20:33.206367+00:00"
+  },
+  {
+    "repo_full_name": "ogham/dog",
+    "owner": "ogham",
+    "html_url": "https://github.com/ogham/dog",
+    "description": "A command-line DNS client.",
+    "topics": [
+      "client",
+      "command-line",
+      "dns",
+      "rust"
+    ],
+    "starred_at": "2021-12-24T04:13:43Z",
+    "category": "开发工具",
+    "tags": [
+      "命令行工具",
+      "DNS",
+      "Rust",
+      "网络工具"
+    ],
+    "summary": "dog是一个用Rust编写的命令行DNS客户端工具，提供简洁高效的DNS查询功能，适合开发人员和系统管理员使用。",
+    "analyzed_at": "2025-11-05T19:20:33.206367+00:00"
+  },
+  {
+    "repo_full_name": "swiftlang/sourcekit-lsp",
+    "owner": "swiftlang",
+    "html_url": "https://github.com/swiftlang/sourcekit-lsp",
+    "description": "Language Server Protocol implementation for Swift and C-based languages",
+    "topics": [],
+    "starred_at": "2021-12-24T15:53:27Z",
+    "category": "开发工具",
+    "tags": [
+      "Swift",
+      "LSP",
+      "C语言",
+      "IDE支持",
+      "代码编辑",
+      "开发工具"
+    ],
+    "summary": "SourceKit-LSP是Swift和基于C的语言的语言服务器协议实现，为编辑器提供代码补全、语法高亮、错误检查等功能，提升开发者体验。",
+    "analyzed_at": "2025-11-05T19:20:33.206367+00:00"
+  },
+  {
+    "repo_full_name": "vercel/hyper",
+    "owner": "vercel",
+    "html_url": "https://github.com/vercel/hyper",
+    "description": "A terminal built on web technologies",
+    "topics": [
+      "css",
+      "html",
+      "hyper",
+      "javascript",
+      "linux",
+      "macos",
+      "react",
+      "terminal",
+      "terminal-emulators"
+    ],
+    "starred_at": "2021-12-25T14:36:58Z",
+    "category": "开发工具",
+    "tags": [
+      "terminal",
+      "terminal-emulators",
+      "javascript",
+      "react",
+      "web technologies"
+    ],
+    "summary": "Hyper是一个基于Web技术构建的现代终端模拟器，使用React、HTML和CSS开发，支持Linux和macOS系统，为开发者提供美观且功能强大的命令行界面。",
+    "analyzed_at": "2025-11-05T19:20:33.206367+00:00"
+  },
+  {
+    "repo_full_name": "Kevin-De-Koninck/Clean-Me",
+    "owner": "Kevin-De-Koninck",
+    "html_url": "https://github.com/Kevin-De-Koninck/Clean-Me",
+    "description": "A macOS system analyser and cleaner",
+    "topics": [
+      "analyser",
+      "cleaner",
+      "mac",
+      "macos"
+    ],
+    "starred_at": "2021-12-26T11:52:04Z",
+    "category": "桌面应用",
+    "tags": [
+      "系统清理",
+      "系统分析",
+      "macOS工具",
+      "系统优化",
+      "电脑维护"
+    ],
+    "summary": "Clean-Me是一款macOS系统分析和清理工具，帮助用户扫描、分析和清理系统中的无用文件、缓存和垃圾数据，优化系统性能，释放存储空间。",
+    "analyzed_at": "2025-11-05T19:20:33.206367+00:00"
+  },
+  {
+    "repo_full_name": "lanqiao-courses/courses-free",
+    "owner": "lanqiao-courses",
+    "html_url": "https://github.com/lanqiao-courses/courses-free",
+    "description": "蓝桥云课免费开源课程合集",
+    "topics": [
+      "course",
+      "course-materials",
+      "free",
+      "labdocs",
+      "teaching-materials"
+    ],
+    "starred_at": "2021-12-28T12:41:33Z",
+    "category": "教育学习",
+    "tags": [
+      "课程",
+      "教材",
+      "免费",
+      "实验文档",
+      "教学材料"
+    ],
+    "summary": "蓝桥云课免费开源课程合集，提供各类免费课程资源和学习材料，包括实验文档和教学资料，适合自学者和教育工作者使用。",
+    "analyzed_at": "2025-11-05T19:20:33.206367+00:00"
+  },
+  {
+    "repo_full_name": "mbadolato/iTerm2-Color-Schemes",
+    "owner": "mbadolato",
+    "html_url": "https://github.com/mbadolato/iTerm2-Color-Schemes",
+    "description": "Over 425 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, Ghostty, and many more",
+    "topics": [
+      "color-scheme",
+      "freebsd-vt",
+      "iterm",
+      "iterm2",
+      "konsole",
+      "konsole-color-schemes",
+      "lxterminal",
+      "osx-terminal-themes",
+      "putty",
+      "putty-color-schemes",
+      "schemes",
+      "terminal",
+      "terminal-schemes",
+      "terminal-themes",
+      "terminator",
+      "theme",
+      "themes",
+      "windows-terminal",
+      "xrdb",
+      "xresources"
+    ],
+    "starred_at": "2021-12-28T13:33:19Z",
+    "category": "开发工具",
+    "tags": [
+      "终端主题",
+      "颜色方案",
+      "iTerm2",
+      "开发工具",
+      "终端美化"
+    ],
+    "summary": "这是一个包含425多种终端颜色方案/主题的集合，主要针对iTerm2终端，同时也支持Terminal、Konsole、PuTTY、Windows Terminal等多种终端应用程序。为开发者提供丰富的终端视觉体验选择。",
+    "analyzed_at": "2025-11-05T19:20:33.206367+00:00"
+  },
+  {
+    "repo_full_name": "gethugothemes/bigspring-light-hugo",
+    "owner": "gethugothemes",
+    "html_url": "https://github.com/gethugothemes/bigspring-light-hugo",
+    "description": "Bigspring is a Hugo startup theme. It has a clean, minimal, fresh UI. ",
+    "topics": [
+      "agency-theme",
+      "blog-theme",
+      "business-theme",
+      "company-website",
+      "dark-mode",
+      "fast-loading",
+      "gethugothemes",
+      "high-performance",
+      "hugo",
+      "hugo-blog-theme",
+      "hugo-site",
+      "hugo-theme",
+      "jamstack",
+      "minimal-theme",
+      "mit-license",
+      "netlify",
+      "startup-theme"
+    ],
+    "starred_at": "2021-12-28T13:58:08Z",
+    "category": "Web应用",
+    "tags": [
+      "Hugo主题",
+      "博客主题",
+      "商业网站",
+      "简约设计",
+      "深色模式",
+      "高性能"
+    ],
+    "summary": "Bigspring是一个Hugo启动主题，具有干净、简约的界面设计，支持深色模式，适合构建博客、商业网站和公司主页，加载速度快且性能优异。",
+    "analyzed_at": "2025-11-05T19:20:33.206367+00:00"
+  },
+  {
+    "repo_full_name": "swiftlang/vscode-swift",
+    "owner": "swiftlang",
+    "html_url": "https://github.com/swiftlang/vscode-swift",
+    "description": "Visual Studio Code Extension for Swift",
+    "topics": [
+      "swift",
+      "vscode",
+      "vscode-extension"
+    ],
+    "starred_at": "2021-12-30T14:34:01Z",
+    "category": "开发工具",
+    "tags": [
+      "IDE扩展",
+      "Swift开发",
+      "代码编辑",
+      "跨平台"
+    ],
+    "summary": "这是一个Visual Studio Code的Swift语言扩展，为开发者提供Swift编程支持，包括代码补全、语法高亮和调试功能，使VS Code成为Swift开发的强大环境。",
+    "analyzed_at": "2025-11-05T19:20:33.206367+00:00"
+  },
+  {
+    "repo_full_name": "sivan/heti",
+    "owner": "sivan",
+    "html_url": "https://github.com/sivan/heti",
+    "description": "赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。",
+    "topics": [
+      "clreq",
+      "css",
+      "scss",
+      "typography"
+    ],
+    "starred_at": "2021-12-30T14:39:59Z",
+    "category": "Web应用",
+    "tags": [
+      "中文排版",
+      "样式增强",
+      "前端开发",
+      "阅读体验",
+      "字体设计"
+    ],
+    "summary": "赫蹏是专为中文内容展示设计的排版样式增强工具，基于中文排版规范，通过CSS/SCSS实现，为网站读者提供更好的文章阅读体验。",
+    "analyzed_at": "2025-11-05T19:20:33.206367+00:00"
+  },
+  {
+    "repo_full_name": "betterRunner/context-note",
+    "owner": "betterRunner",
+    "html_url": "https://github.com/betterRunner/context-note",
+    "description": "A note-taking chrome extension: taking notes on the web with their context.",
+    "topics": [
+      "chrome-extension",
+      "context",
+      "note-taking",
+      "notebook",
+      "productivity",
+      "tag",
+      "vite",
+      "vue3-typescript"
+    ],
+    "starred_at": "2021-12-30T14:47:38Z",
+    "category": "效率工具",
+    "tags": [
+      "笔记记录",
+      "生产力",
+      "浏览器扩展",
+      "上下文",
+      "标签"
+    ],
+    "summary": "Context Note是一款Chrome浏览器扩展，允许用户在网页上记录笔记并保留上下文信息。通过标签系统组织笔记，提高工作效率，适合需要记录网页信息的用户。",
+    "analyzed_at": "2025-11-05T19:20:33.206367+00:00"
+  },
+  {
+    "repo_full_name": "microsoft/ML-For-Beginners",
+    "owner": "microsoft",
+    "html_url": "https://github.com/microsoft/ML-For-Beginners",
+    "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+    "topics": [
+      "data-science",
+      "education",
+      "machine-learning",
+      "machine-learning-algorithms",
+      "machinelearning",
+      "machinelearning-python",
+      "microsoft-for-beginners",
+      "ml",
+      "python",
+      "r",
+      "scikit-learn",
+      "scikit-learn-python"
+    ],
+    "starred_at": "2021-12-30T14:50:57Z",
+    "category": "AI/机器学习",
+    "tags": [
+      "机器学习",
+      "教育",
+      "Python",
+      "数据科学",
+      "算法"
+    ],
+    "summary": "微软推出的机器学习入门教程，包含12周课程、26节课和52个测验，使用Python和R语言，涵盖scikit-learn等工具，适合初学者学习经典机器学习知识。",
+    "analyzed_at": "2025-11-05T19:20:33.206367+00:00"
+  },
+  {
+    "repo_full_name": "alesimula/wsa_pacman",
+    "owner": "alesimula",
+    "html_url": "https://github.com/alesimula/wsa_pacman",
+    "description": "A GUI package manager and package installer for Windows Subsystem for Android (WSA)",
+    "topics": [],
+    "starred_at": "2021-12-30T14:51:02Z",
+    "category": "开发工具",
+    "tags": [
+      "WSA",
+      "包管理器",
+      "GUI",
+      "Android",
+      "Windows",
+      "应用安装"
+    ],
+    "summary": "这是一个为Windows Subsystem for Android (WSA)设计的图形界面包管理器和安装器，使用户能够在Windows系统上方便地安装和管理Android应用。",
+    "analyzed_at": "2025-11-05T19:20:33.206367+00:00"
+  },
+  {
+    "repo_full_name": "shikijs/shiki",
+    "owner": "shikijs",
+    "html_url": "https://github.com/shikijs/shiki",
+    "description": "A beautiful yet powerful syntax highlighter",
+    "topics": [
+      "markdown",
+      "shiki",
+      "syntax-highlighting",
+      "textmate-grammar"
+    ],
+    "starred_at": "2021-12-31T04:32:46Z",
+    "category": "开发工具",
+    "tags": [
+      "markdown",
+      "syntax-highlighting",
+      "textmate-grammar",
+      "code-highlighting",
+      "developer-tool"
+    ],
+    "summary": "Shiki是一个美观而强大的语法高亮器，支持Markdown和各种编程语言的语法高亮，基于TextMate语法，为开发者提供更好的代码阅读体验。",
+    "analyzed_at": "2025-11-05T19:20:33.206367+00:00"
+  },
+  {
+    "repo_full_name": "fail2ban/fail2ban",
+    "owner": "fail2ban",
+    "html_url": "https://github.com/fail2ban/fail2ban",
+    "description": "Daemon to ban hosts that cause multiple authentication errors",
+    "topics": [
+      "anti-bot",
+      "attack-prevention",
+      "ban-hosts",
+      "ban-management",
+      "bsd",
+      "fail2ban",
+      "gplv2",
+      "hids",
+      "ids",
+      "intrusion-detection",
+      "intrusion-prevention",
+      "ips",
+      "linux",
+      "loganalyzer",
+      "macos",
+      "monitoring",
+      "python",
+      "security",
+      "security-tools"
+    ],
+    "starred_at": "2021-12-31T05:33:42Z",
+    "category": "安全工具",
+    "tags": [
+      "安全工具",
+      "入侵检测",
+      "入侵预防",
+      "防御攻击",
+      "禁止主机",
+      "监控"
+    ],
+    "summary": "Fail2ban是一个安全守护进程，通过监控日志文件自动禁止多次认证失败的主机，防止暴力破解和恶意攻击。支持多种服务，可自定义规则，是Linux系统安全防护的重要工具。",
+    "analyzed_at": "2025-11-05T19:20:33.206367+00:00"
+  },
+  {
+    "repo_full_name": "zh-lx/pinyin-pro",
+    "owner": "zh-lx",
+    "html_url": "https://github.com/zh-lx/pinyin-pro",
+    "description": "中文转拼音、拼音音调、拼音声母、拼音韵母、多音字拼音、姓氏拼音、拼音匹配、中文分词",
+    "topics": [
+      "hanzi",
+      "hanzi-pinyin",
+      "hanzi2pinyin",
+      "js-pinyin",
+      "pinyin",
+      "pinyin-match",
+      "pinyin-pro"
+    ],
+    "starred_at": "2021-12-31T05:53:01Z",
+    "category": "开发工具",
+    "tags": [
+      "中文处理",
+      "拼音转换",
+      "JavaScript库",
+      "多音字",
+      "中文分词"
+    ],
+    "summary": "pinyin-pro是一个功能全面的中文转拼音JavaScript库，支持拼音音调、声母韵母、多音字、姓氏拼音等多种转换功能，并提供拼音匹配和中文分词能力。",
+    "analyzed_at": "2025-11-05T19:20:33.206367+00:00"
+  },
+  {
+    "repo_full_name": "ahmadawais/shades-of-purple-vscode",
+    "owner": "ahmadawais",
+    "html_url": "https://github.com/ahmadawais/shades-of-purple-vscode",
+    "description": "🦄 Shades of Purple offers a hand-picked selection of bold and vibrant shades of purple that will transform your code into a visually stunning masterpiece. With its carefully crafted color palette, this theme brings a sense of style, elegance, and whimsy to your favorite code editor, making your coding sessions a delightful journey of creativity.",
+    "topics": [
+      "hacktoberfest",
+      "purple",
+      "shades-of-purple",
+      "visual-studio",
+      "vscode",
+      "vscode-extension",
+      "vscode-theme"
+    ],
+    "starred_at": "2021-12-31T10:50:17Z",
+    "category": "开发工具",
+    "tags": [
+      "代码主题",
+      "紫色调色板",
+      "VS Code扩展",
+      "视觉美化",
+      "开发工具"
+    ],
+    "summary": "Shades of Purple是一款VS Code主题，提供精心挑选的紫色色调，将代码转变为视觉上令人惊叹的作品。其精心设计的调色板为代码编辑器带来风格、优雅和创意，使编码过程成为愉快的创造之旅。",
+    "analyzed_at": "2025-11-05T19:20:33.206367+00:00"
   }
 ]
