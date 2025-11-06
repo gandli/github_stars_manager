@@ -29602,5 +29602,1246 @@
     ],
     "summary": "Shades of Purple是一款VS Code主题，提供精心挑选的紫色色调，将代码转变为视觉上令人惊叹的作品。其精心设计的调色板为代码编辑器带来风格、优雅和创意，使编码过程成为愉快的创造之旅。",
     "analyzed_at": "2025-11-05T19:20:33.206367+00:00"
+  },
+  {
+    "repo_full_name": "jqlang/jq",
+    "owner": "jqlang",
+    "html_url": "https://github.com/jqlang/jq",
+    "description": "Command-line JSON processor",
+    "topics": [
+      "jq"
+    ],
+    "starred_at": "2022-01-02T03:46:43Z",
+    "category": "开发工具",
+    "tags": [
+      "jq",
+      "",
+      "cli",
+      "data-processing",
+      "command-line",
+      "text-processing"
+    ],
+    "summary": "jq是一个轻量级的命令行JSON处理器，允许用户在命令行中轻松查询、过滤和转换JSON数据。它支持复杂的查询表达式，是开发者处理JSON数据的实用工具。",
+    "analyzed_at": "2025-11-06T19:19:47.291721+00:00"
+  },
+  {
+    "repo_full_name": "datawhalechina/learn-python-the-smart-way",
+    "owner": "datawhalechina",
+    "html_url": "https://github.com/datawhalechina/learn-python-the-smart-way",
+    "description": "聪明方法学Python，简明且系统的 Python 入门教程。",
+    "topics": [],
+    "starred_at": "2022-01-02T04:01:33Z",
+    "category": "教育学习",
+    "tags": [
+      "编程教程",
+      "Python",
+      "入门指南",
+      "学习资源",
+      "编程基础"
+    ],
+    "summary": "这是一份简明且系统的Python入门教程，采用聪明方法教授Python编程基础知识，适合初学者系统学习Python编程语言。",
+    "analyzed_at": "2025-11-06T19:19:47.291721+00:00"
+  },
+  {
+    "repo_full_name": "alexchmykhalo/superconsole",
+    "owner": "alexchmykhalo",
+    "html_url": "https://github.com/alexchmykhalo/superconsole",
+    "description": "SuperConsole is a software collection based on ConEmu, MSYS2, Mintty, Zsh, Git for Windows, grml-zsh-config, Antigen and agkozak-zsh-theme projects, customized and configured for everyday use.",
+    "topics": [],
+    "starred_at": "2022-01-02T04:16:37Z",
+    "category": "开发工具",
+    "tags": [
+      "终端",
+      "开发环境",
+      "Windows工具",
+      "命令行",
+      "配置集合"
+    ],
+    "summary": "SuperConsole是一个基于多个开源项目定制的Windows控制台环境集合，整合了终端、Shell和Git工具，为开发者提供优化的日常使用体验。",
+    "analyzed_at": "2025-11-06T19:19:47.291721+00:00"
+  },
+  {
+    "repo_full_name": "dcloudio/uni-app",
+    "owner": "dcloudio",
+    "html_url": "https://github.com/dcloudio/uni-app",
+    "description": "A cross-platform framework using Vue.js",
+    "topics": [
+      "android",
+      "cross-platform",
+      "crossplatform",
+      "hbuilderx",
+      "ios",
+      "javascript",
+      "miniprogram",
+      "uni",
+      "uni-app",
+      "uniapp",
+      "vue",
+      "vue3"
+    ],
+    "starred_at": "2022-01-02T04:25:53Z",
+    "category": "开发工具",
+    "tags": [
+      "跨平台",
+      "Vue.js",
+      "移动应用开发",
+      "小程序开发",
+      "JavaScript框架"
+    ],
+    "summary": "uni-app是一个基于Vue.js的跨平台开发框架，支持一次编码，多端部署（iOS、Android、H5、小程序等）。开发者可使用Vue语法编写应用，无需学习各平台原生语言，提高开发效率。",
+    "analyzed_at": "2025-11-06T19:19:47.291721+00:00"
+  },
+  {
+    "repo_full_name": "remix-run/remix",
+    "owner": "remix-run",
+    "html_url": "https://github.com/remix-run/remix",
+    "description": "Build Better Websites. Create modern, resilient user experiences with web fundamentals.",
+    "topics": [],
+    "starred_at": "2022-01-02T04:30:27Z",
+    "category": "Web应用",
+    "tags": [
+      "Web框架",
+      "全栈开发",
+      "React",
+      "路由",
+      "服务器端渲染"
+    ],
+    "summary": "Remix是一个现代的全栈Web框架，专注于构建更好的网站。它利用Web基础技术创建具有弹性的用户体验，支持服务器端渲染和前端路由，使开发者能够构建高性能、可维护的Web应用程序。",
+    "analyzed_at": "2025-11-06T19:19:47.291721+00:00"
+  },
+  {
+    "repo_full_name": "emotion-js/emotion",
+    "owner": "emotion-js",
+    "html_url": "https://github.com/emotion-js/emotion",
+    "description": "👩‍🎤 CSS-in-JS library designed for high performance style composition",
+    "topics": [
+      "babel-plugin",
+      "css",
+      "css-in-js",
+      "emotion",
+      "react",
+      "reactjs"
+    ],
+    "starred_at": "2022-01-02T04:39:36Z",
+    "category": "开发工具",
+    "tags": [
+      "CSS-in-JS",
+      "React",
+      "样式库",
+      "前端开发",
+      "JavaScript库"
+    ],
+    "summary": "Emotion是一个高性能的CSS-in-JS库，专为React应用设计，允许开发者以JavaScript方式编写和管理样式，提供灵活的样式组合能力和优秀的性能表现。",
+    "analyzed_at": "2025-11-06T19:19:47.291721+00:00"
+  },
+  {
+    "repo_full_name": "vuejs/language-tools",
+    "owner": "vuejs",
+    "html_url": "https://github.com/vuejs/language-tools",
+    "description": "⚡ High-performance Vue language tooling based-on Volar.js",
+    "topics": [],
+    "starred_at": "2022-01-02T05:24:01Z",
+    "category": "开发工具",
+    "tags": [
+      "Vue.js",
+      "语言工具",
+      "Volar.js",
+      "IDE支持",
+      "代码补全",
+      "语法高亮"
+    ],
+    "summary": "Vue.js语言工具，基于Volar.js构建的高性能开发工具，提供Vue.js项目的智能代码补全、语法高亮和错误检测等功能。",
+    "analyzed_at": "2025-11-06T19:19:47.291721+00:00"
+  },
+  {
+    "repo_full_name": "Vinzent03/obsidian-git",
+    "owner": "Vinzent03",
+    "html_url": "https://github.com/Vinzent03/obsidian-git",
+    "description": "Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md",
+    "topics": [
+      "git",
+      "obsidian",
+      "obsidian-md",
+      "obsidian-plugin"
+    ],
+    "starred_at": "2022-01-02T11:07:57Z",
+    "category": "开发工具",
+    "tags": [
+      "版本控制",
+      "知识管理",
+      "笔记同步",
+      "Git集成",
+      "Obsidian插件",
+      "自动提交"
+    ],
+    "summary": "Obsidian-Git是一个为Obsidian.md设计的插件，集成Git版本控制功能，支持自动提交和同步等高级特性，帮助用户高效管理知识库和笔记内容。",
+    "analyzed_at": "2025-11-06T19:19:47.291721+00:00"
+  },
+  {
+    "repo_full_name": "maks/MGit",
+    "owner": "maks",
+    "html_url": "https://github.com/maks/MGit",
+    "description": "A Git client for Android.",
+    "topics": [],
+    "starred_at": "2022-01-03T03:58:33Z",
+    "category": "移动应用",
+    "tags": [
+      "Git",
+      "Android",
+      "版本控制",
+      "开发工具"
+    ],
+    "summary": "MGit是一款专为Android平台设计的Git客户端应用，让开发者可以在移动设备上进行代码版本控制操作，支持常见的Git功能，方便移动开发工作。",
+    "analyzed_at": "2025-11-06T19:19:47.291721+00:00"
+  },
+  {
+    "repo_full_name": "yanglbme/geetest-crack",
+    "owner": "yanglbme",
+    "html_url": "https://github.com/yanglbme/geetest-crack",
+    "description": "🔨 Geetest Crack | 从 JavaScript 层面一步步破解极验「鼠标点击+滑块滑动」​各种加密参数",
+    "topics": [
+      "geetest",
+      "javascript",
+      "python3"
+    ],
+    "starred_at": "2022-01-04T10:02:44Z",
+    "category": "安全工具",
+    "tags": [
+      "geetest",
+      "javascript",
+      "captcha",
+      "security",
+      "automation"
+    ],
+    "summary": "这是一个用于破解极验验证码的工具，通过JavaScript层面分析并破解极验的鼠标点击和滑块滑动加密参数，可用于自动化测试和安全研究。",
+    "analyzed_at": "2025-11-06T19:19:47.291721+00:00"
+  },
+  {
+    "repo_full_name": "Kalmaegi/computer-book-list",
+    "owner": "Kalmaegi",
+    "html_url": "https://github.com/Kalmaegi/computer-book-list",
+    "description": "一个综合了豆瓣，goodreads综合评分的计算机书籍书单",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "book",
+      "books",
+      "computer-science",
+      "douban",
+      "douban-book",
+      "education",
+      "goodreads",
+      "list",
+      "programming",
+      "resources"
+    ],
+    "starred_at": "2022-01-04T10:08:51Z",
+    "category": "教育学习",
+    "tags": [
+      "书籍",
+      "计算机",
+      "编程",
+      "教育",
+      "资源"
+    ],
+    "summary": "这是一个整合了豆瓣和Goodreads评分的计算机书籍书单，包含计算机科学和编程领域的优质学习资源，为学习者提供全面的参考指南。",
+    "analyzed_at": "2025-11-06T19:19:47.291721+00:00"
+  },
+  {
+    "repo_full_name": "animate-css/animate.css",
+    "owner": "animate-css",
+    "html_url": "https://github.com/animate-css/animate.css",
+    "description": "🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.",
+    "topics": [
+      "animation",
+      "css",
+      "css-animations",
+      "stylesheets"
+    ],
+    "starred_at": "2022-01-05T13:45:21Z",
+    "category": "开发工具",
+    "tags": [
+      "animation",
+      "css",
+      "css-animations",
+      "stylesheets",
+      "frontend",
+      "web-development"
+    ],
+    "summary": "Animate.css是一个跨浏览器的CSS动画库，使用简单，只需添加类名即可为网页元素添加各种动画效果。它包含大量预定义的动画，适用于各种网页项目。",
+    "analyzed_at": "2025-11-06T19:19:47.291721+00:00"
+  },
+  {
+    "repo_full_name": "logseq/awesome-logseq",
+    "owner": "logseq",
+    "html_url": "https://github.com/logseq/awesome-logseq",
+    "description": "Awesome Logseq resources created by the community <3",
+    "topics": [],
+    "starred_at": "2022-01-05T14:10:07Z",
+    "category": "效率工具",
+    "tags": [
+      "知识管理",
+      "笔记应用",
+      "双向链接",
+      "开源资源",
+      "社区贡献"
+    ],
+    "summary": "这是一个由社区创建的Logseq资源集合，汇集了关于这款知识管理和笔记工具的各种插件、主题和教程。",
+    "analyzed_at": "2025-11-06T19:19:47.291721+00:00"
+  },
+  {
+    "repo_full_name": "canonical/multipass",
+    "owner": "canonical",
+    "html_url": "https://github.com/canonical/multipass",
+    "description": "Multipass orchestrates virtual Ubuntu instances",
+    "topics": [
+      "cloud",
+      "container",
+      "hyper-v",
+      "libvirt",
+      "linux",
+      "macos",
+      "qemu",
+      "qemu-kvm",
+      "virtual-machine",
+      "virtualbox",
+      "windows"
+    ],
+    "starred_at": "2022-01-06T08:08:34Z",
+    "category": "开发工具",
+    "tags": [
+      "虚拟化",
+      "Ubuntu",
+      "跨平台",
+      "虚拟机管理",
+      "云计算"
+    ],
+    "summary": "Multipass是一个跨平台的虚拟机管理工具，专为简化Ubuntu虚拟实例的创建、启动和管理而设计。支持多种虚拟化技术，帮助开发者快速搭建开发环境。",
+    "analyzed_at": "2025-11-06T19:19:47.291721+00:00"
+  },
+  {
+    "repo_full_name": "xxh/xxh",
+    "owner": "xxh",
+    "html_url": "https://github.com/xxh/xxh",
+    "description": "🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.",
+    "topics": [
+      "awesome",
+      "awesome-ssh",
+      "bash",
+      "devops",
+      "fish",
+      "fisher",
+      "hacking-tools",
+      "linux",
+      "ohmybash",
+      "ohmyfish",
+      "ohmyzsh",
+      "openssh",
+      "osquery",
+      "powerlevel10k",
+      "powerlevel9k",
+      "shell",
+      "ssh",
+      "xonsh",
+      "xxh",
+      "zsh"
+    ],
+    "starred_at": "2022-01-07T04:15:34Z",
+    "category": "开发工具",
+    "tags": [
+      "shell",
+      "ssh",
+      "devops",
+      "zsh",
+      "fish",
+      "xonsh"
+    ],
+    "summary": "这是一个通过SSH连接提供多种shell环境(xonsh, fish, zsh等)的工具，让用户可以随时随地使用他们熟悉的shell进行开发工作。",
+    "analyzed_at": "2025-11-06T19:19:47.291721+00:00"
+  },
+  {
+    "repo_full_name": "picocss/pico",
+    "owner": "picocss",
+    "html_url": "https://github.com/picocss/pico",
+    "description": "Minimal CSS Framework for semantic HTML",
+    "topics": [
+      "css",
+      "css-framework",
+      "dark-mode",
+      "dark-theme",
+      "lightweight",
+      "minimal",
+      "minimalist",
+      "minimalistic",
+      "native-html",
+      "scss",
+      "scss-framework",
+      "semantic"
+    ],
+    "starred_at": "2022-01-07T10:58:09Z",
+    "category": "开发工具",
+    "tags": [
+      "css-framework",
+      "minimal",
+      "lightweight",
+      "semantic",
+      "scss"
+    ],
+    "summary": "Pico是一个轻量级、极简的CSS框架，专注于语义化HTML。它提供了一套简单而强大的CSS类，帮助开发者快速构建美观且响应式的网页界面，同时保持代码的简洁性和可维护性。",
+    "analyzed_at": "2025-11-06T19:19:47.291721+00:00"
+  },
+  {
+    "repo_full_name": "lapce/lapce",
+    "owner": "lapce",
+    "html_url": "https://github.com/lapce/lapce",
+    "description": "Lightning-fast and Powerful Code Editor written in Rust",
+    "topics": [
+      "code-editor",
+      "developer-tools",
+      "rust",
+      "text-editor",
+      "vim"
+    ],
+    "starred_at": "2022-01-07T10:58:11Z",
+    "category": "开发工具",
+    "tags": [
+      "代码编辑器",
+      "开发工具",
+      "Rust",
+      "文本编辑器",
+      "Vim"
+    ],
+    "summary": "Lapce是一个用Rust编写的闪电般快速且功能强大的代码编辑器。它支持Vim模式，为开发者提供高效的代码编辑体验，具有出色的性能和丰富的功能。",
+    "analyzed_at": "2025-11-06T19:19:47.291721+00:00"
+  },
+  {
+    "repo_full_name": "pipipi-pikachu/PPTist",
+    "owner": "pipipi-pikachu",
+    "html_url": "https://github.com/pipipi-pikachu/PPTist",
+    "description": "PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editing and presentation of PPT online. Support AIPPT.",
+    "topics": [
+      "ai",
+      "aippt",
+      "office",
+      "office-powerpoint",
+      "online-powerpoint",
+      "online-ppt",
+      "powerpoint",
+      "ppt",
+      "pptx",
+      "presentation",
+      "slide"
+    ],
+    "starred_at": "2022-01-07T10:58:18Z",
+    "category": "Web应用",
+    "tags": [
+      "演示工具",
+      "在线办公",
+      "AI辅助",
+      "幻灯片制作",
+      "PPT编辑"
+    ],
+    "summary": "PPTist是一个在线演示应用程序，复刻了MS PowerPoint的常用功能，支持在线编辑和演示PPT文件。该应用还集成了AI功能，提供智能PPT创建和编辑能力，让用户无需安装软件即可制作专业演示文稿。",
+    "analyzed_at": "2025-11-06T19:19:47.291721+00:00"
+  },
+  {
+    "repo_full_name": "Sean529/vscode-console-helper",
+    "owner": "Sean529",
+    "html_url": "https://github.com/Sean529/vscode-console-helper",
+    "description": "20k+ 开发者正在使用的，一键输出 console.log 的 vscode 插件",
+    "topics": [
+      "vscode",
+      "vscode-extension",
+      "vscode-plugin"
+    ],
+    "starred_at": "2022-01-07T10:58:31Z",
+    "category": "开发工具",
+    "tags": [
+      "VS Code插件",
+      "开发辅助",
+      "代码调试",
+      "效率工具",
+      "前端开发"
+    ],
+    "summary": "VS Code控制台辅助插件，一键生成console.log语句，提升前端开发调试效率，已有2万+开发者使用。",
+    "analyzed_at": "2025-11-06T19:19:47.291721+00:00"
+  },
+  {
+    "repo_full_name": "samuelmeuli/action-electron-builder",
+    "owner": "samuelmeuli",
+    "html_url": "https://github.com/samuelmeuli/action-electron-builder",
+    "description": ":electron: GitHub Action for building and releasing Electron apps",
+    "topics": [
+      "ci",
+      "electron",
+      "electron-builder",
+      "github-action",
+      "release-automation"
+    ],
+    "starred_at": "2022-01-07T11:40:10Z",
+    "category": "开发工具",
+    "tags": [
+      "electron",
+      "github-action",
+      "ci",
+      "release-automation",
+      "electron-builder"
+    ],
+    "summary": "这是一个GitHub Action，用于自动化构建和发布Electron桌面应用。它简化了CI/CD流程，使开发者能够轻松地将Electron应用打包并发布到各个平台。",
+    "analyzed_at": "2025-11-06T19:19:47.291721+00:00"
+  },
+  {
+    "repo_full_name": "LingDong-/shan-shui-inf",
+    "owner": "LingDong-",
+    "html_url": "https://github.com/LingDong-/shan-shui-inf",
+    "description": "Procedurally generated Chinese landscape painting.",
+    "topics": [
+      "art",
+      "chinese",
+      "landscape",
+      "painting",
+      "perlin-noise",
+      "procedural-generation",
+      "scrollable"
+    ],
+    "starred_at": "2022-01-09T01:49:48Z",
+    "category": "设计工具",
+    "tags": [
+      "中国山水画",
+      "程序化生成",
+      "艺术创作",
+      "可滚动",
+      "Perlin噪声"
+    ],
+    "summary": "这是一个程序化生成中国山水画的艺术项目，使用Perlin噪声算法创建可滚动的中国传统山水画作品，将传统艺术与现代算法技术相结合。",
+    "analyzed_at": "2025-11-06T19:19:47.291721+00:00"
+  },
+  {
+    "repo_full_name": "microsoft/winfile",
+    "owner": "microsoft",
+    "html_url": "https://github.com/microsoft/winfile",
+    "description": "Original Windows File Manager (winfile) with enhancements",
+    "topics": [],
+    "starred_at": "2022-01-09T01:52:39Z",
+    "category": "桌面应用",
+    "tags": [
+      "文件管理",
+      "Windows",
+      "资源管理器",
+      "系统工具",
+      "Microsoft"
+    ],
+    "summary": "Microsoft Windows文件管理器(winfile)的增强版本，提供经典的文件浏览和管理功能，优化了Windows系统的文件操作体验。",
+    "analyzed_at": "2025-11-06T19:19:47.291721+00:00"
+  },
+  {
+    "repo_full_name": "DioxusLabs/dioxus",
+    "owner": "DioxusLabs",
+    "html_url": "https://github.com/DioxusLabs/dioxus",
+    "description": "Fullstack app framework for web, desktop, and mobile.",
+    "topics": [
+      "android",
+      "css",
+      "desktop",
+      "html",
+      "ios",
+      "native",
+      "react",
+      "rust",
+      "ssr",
+      "ui",
+      "virtualdom",
+      "wasm",
+      "web"
+    ],
+    "starred_at": "2022-01-09T02:04:06Z",
+    "category": "开发工具",
+    "tags": [
+      "Rust",
+      "Web",
+      "Desktop",
+      "Mobile",
+      "UI",
+      "WASM"
+    ],
+    "summary": "Dioxus是一个用Rust编写的全栈应用开发框架，支持构建Web、桌面和移动应用，提供React风格的UI开发体验，并利用WebAssembly实现高性能。",
+    "analyzed_at": "2025-11-06T19:19:47.291721+00:00"
+  },
+  {
+    "repo_full_name": "gitpod-io/openvscode-server",
+    "owner": "gitpod-io",
+    "html_url": "https://github.com/gitpod-io/openvscode-server",
+    "description": "Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.",
+    "topics": [
+      "ide",
+      "remote",
+      "vscode"
+    ],
+    "starred_at": "2022-01-09T02:48:01Z",
+    "category": "开发工具",
+    "tags": [
+      "ide",
+      "remote",
+      "vscode",
+      "web-based",
+      "development",
+      "coding"
+    ],
+    "summary": "openvscode-server是一个基于Web的VS Code实现，允许用户在远程服务器上运行VS Code，并通过浏览器从任何设备访问，实现跨平台的开发环境。",
+    "analyzed_at": "2025-11-06T19:19:47.291721+00:00"
+  },
+  {
+    "repo_full_name": "forem/selfhost",
+    "owner": "forem",
+    "html_url": "https://github.com/forem/selfhost",
+    "description": "Selfhost your Forem Community on your own infrastructure 🎉",
+    "topics": [
+      "ansible",
+      "butane",
+      "fcos",
+      "forem",
+      "ignition"
+    ],
+    "starred_at": "2022-01-09T02:52:52Z",
+    "category": "Web应用",
+    "tags": [
+      "社区平台",
+      "自托管",
+      "基础设施部署",
+      "开源社区"
+    ],
+    "summary": "Forem社区平台的自托管解决方案，允许用户在自己的基础设施上部署和管理Forem社区。",
+    "analyzed_at": "2025-11-06T19:19:47.291721+00:00"
+  },
+  {
+    "repo_full_name": "zquestz/s",
+    "owner": "zquestz",
+    "html_url": "https://github.com/zquestz/s",
+    "description": "Open a web search in your terminal.",
+    "topics": [
+      "golang",
+      "search",
+      "terminal"
+    ],
+    "starred_at": "2022-01-09T02:53:40Z",
+    "category": "开发工具",
+    "tags": [
+      "golang",
+      "search",
+      "terminal"
+    ],
+    "summary": "一个允许用户直接在终端中进行网络搜索的命令行工具，无需打开浏览器，提高开发效率。",
+    "analyzed_at": "2025-11-06T19:19:47.291721+00:00"
+  },
+  {
+    "repo_full_name": "kmonad/kmonad",
+    "owner": "kmonad",
+    "html_url": "https://github.com/kmonad/kmonad",
+    "description": "An advanced keyboard manager",
+    "topics": [
+      "cross-platform",
+      "haskell",
+      "keyboard",
+      "keyboard-layout",
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "starred_at": "2022-01-09T02:55:03Z",
+    "category": "开发工具",
+    "tags": [
+      "键盘管理",
+      "跨平台",
+      "键盘布局",
+      "系统工具",
+      "输入法"
+    ],
+    "summary": "KMonad是一个跨平台的高级键盘管理工具，支持Linux、macOS和Windows系统。它允许用户自定义键盘布局和映射，通过Haskell编写，提供强大的键盘功能定制能力。",
+    "analyzed_at": "2025-11-06T19:19:47.291721+00:00"
+  },
+  {
+    "repo_full_name": "EhPanda-Team/EhPanda",
+    "owner": "EhPanda-Team",
+    "html_url": "https://github.com/EhPanda-Team/EhPanda",
+    "description": "An unofficial E-Hentai App for iOS built with SwiftUI & TCA.",
+    "topics": [
+      "combine",
+      "e-hentai",
+      "ehviewer",
+      "exhentai",
+      "hentai",
+      "swift-composable-architecture",
+      "swiftui"
+    ],
+    "starred_at": "2022-01-09T03:19:55Z",
+    "category": "移动应用",
+    "tags": [],
+    "summary": "ZHIPU 调用异常: Error code: 400 - {'contentFilter': [{'level': 1, 'role': 'assistant'}], 'error': {'code': '1301', 'message': '系统检测到输入或生成内容可能包含不安全或敏感内容，请您避免输入易产生敏感内容的提示语，感谢您的配合。'}}",
+    "analyzed_at": "2025-11-06T19:19:47.291721+00:00"
+  },
+  {
+    "repo_full_name": "altstoreio/AltStore",
+    "owner": "altstoreio",
+    "html_url": "https://github.com/altstoreio/AltStore",
+    "description": "AltStore is an alternative app store for non-jailbroken iOS devices.",
+    "topics": [],
+    "starred_at": "2022-01-09T03:21:29Z",
+    "category": "移动应用",
+    "tags": [
+      "iOS",
+      "应用商店",
+      "越狱替代",
+      "第三方应用",
+      "安装工具"
+    ],
+    "summary": "AltStore是一个专为未越狱iOS设备设计的替代应用商店，允许用户安装第三方应用，无需设备越狱。",
+    "analyzed_at": "2025-11-06T19:19:47.291721+00:00"
+  },
+  {
+    "repo_full_name": "jogendra/example-ios-apps",
+    "owner": "jogendra",
+    "html_url": "https://github.com/jogendra/example-ios-apps",
+    "description": " A curated list of Open Source example iOS apps developed in Swift. An amazing list for people who are beginners and learning ios development and for ios developers who need any example app or feature.",
+    "topics": [
+      "apple",
+      "applications",
+      "example-app",
+      "example-project",
+      "example-repo",
+      "examples",
+      "hacktoberfest",
+      "ios",
+      "ios-app",
+      "ios-demo",
+      "ios-swift",
+      "ios-ui",
+      "swift",
+      "swift-3",
+      "swift-language",
+      "swift3",
+      "swift4",
+      "xcode",
+      "xcode-templates",
+      "xcodeproj"
+    ],
+    "starred_at": "2022-01-09T07:04:01Z",
+    "category": "开发工具",
+    "tags": [
+      "iOS开发",
+      "Swift",
+      "示例应用",
+      "学习资源",
+      "开发参考"
+    ],
+    "summary": "这是一个精选的开源iOS应用示例集合，使用Swift语言开发。适合iOS开发初学者学习参考，也为有经验的开发者提供各种功能实现的示例。包含多个完整的应用案例，是iOS开发学习的宝贵资源。",
+    "analyzed_at": "2025-11-06T19:19:47.291721+00:00"
+  },
+  {
+    "repo_full_name": "andreasbm/web-skills",
+    "owner": "andreasbm",
+    "html_url": "https://github.com/andreasbm/web-skills",
+    "description": "A visual overview of useful skills to learn as a web developer",
+    "topics": [
+      "accessibility",
+      "algorithms",
+      "architecture",
+      "backend",
+      "build-tools",
+      "css",
+      "design",
+      "frameworks",
+      "html",
+      "javascript",
+      "pwa",
+      "testing",
+      "web-components"
+    ],
+    "starred_at": "2022-01-09T07:04:15Z",
+    "category": "开发工具",
+    "tags": [
+      "web开发",
+      "前端",
+      "可视化",
+      "技能图谱",
+      "学习资源"
+    ],
+    "summary": "这是一个Web开发技能可视化图谱，展示了前端开发所需的核心技能和技术栈，包括HTML、CSS、JavaScript、框架、架构设计等，帮助开发者系统了解和学习Web开发知识。",
+    "analyzed_at": "2025-11-06T19:19:47.291721+00:00"
+  },
+  {
+    "repo_full_name": "schachmat/wego",
+    "owner": "schachmat",
+    "html_url": "https://github.com/schachmat/wego",
+    "description": "weather app for the terminal",
+    "topics": [
+      "ascii-art",
+      "ascii-table",
+      "forecast",
+      "go",
+      "hacktoberfest",
+      "terminal",
+      "weather",
+      "wego"
+    ],
+    "starred_at": "2022-01-09T07:16:51Z",
+    "category": "开发工具",
+    "tags": [
+      "终端",
+      "天气",
+      "预报",
+      "ASCII艺术",
+      "Go"
+    ],
+    "summary": "WeGo是一个用Go语言开发的终端天气应用，提供简洁的ASCII艺术风格天气信息显示。用户可以在命令行中快速查看当前天气和预报，无需离开终端环境。",
+    "analyzed_at": "2025-11-06T19:19:47.291721+00:00"
+  },
+  {
+    "repo_full_name": "teddysun/across",
+    "owner": "teddysun",
+    "html_url": "https://github.com/teddysun/across",
+    "description": "Across the Great Wall we can reach every corner in the world",
+    "topics": [
+      "auto-transfer-backup",
+      "backup",
+      "bbr",
+      "benchmark",
+      "kms",
+      "l2tp",
+      "shell",
+      "unixbench"
+    ],
+    "starred_at": "2022-01-09T07:56:26Z",
+    "category": "开发工具",
+    "tags": [
+      "网络工具",
+      "系统优化",
+      "备份工具",
+      "VPN",
+      "性能测试",
+      "Shell脚本"
+    ],
+    "summary": "Across是一个包含网络优化、系统备份和性能测试等功能的Shell脚本集合，支持BBR加速、L2TP VPN和KMS激活等实用功能。",
+    "analyzed_at": "2025-11-06T19:19:47.291721+00:00"
+  },
+  {
+    "repo_full_name": "chartjs/awesome",
+    "owner": "chartjs",
+    "html_url": "https://github.com/chartjs/awesome",
+    "description": "A curated list of awesome Chart.js resources and libraries",
+    "topics": [
+      "awesome",
+      "chartjs",
+      "charts",
+      "integrations",
+      "plugins",
+      "resources"
+    ],
+    "starred_at": "2022-01-09T10:07:18Z",
+    "category": "开发工具",
+    "tags": [
+      "图表库",
+      "JavaScript",
+      "资源集合",
+      "插件",
+      "集成"
+    ],
+    "summary": "这是一个精选的Chart.js资源列表，收集了各种图表库、插件、集成方案和相关工具，为开发者提供一站式Chart.js生态系统资源。",
+    "analyzed_at": "2025-11-06T19:19:47.291721+00:00"
+  },
+  {
+    "repo_full_name": "chartjs/Chart.js",
+    "owner": "chartjs",
+    "html_url": "https://github.com/chartjs/Chart.js",
+    "description": "Simple HTML5 Charts using the <canvas> tag",
+    "topics": [
+      "canvas",
+      "chart",
+      "graph",
+      "html5",
+      "html5-charts",
+      "javascript"
+    ],
+    "starred_at": "2022-01-09T10:07:50Z",
+    "category": "开发工具",
+    "tags": [
+      "图表",
+      "可视化",
+      "HTML5",
+      "JavaScript",
+      "Canvas"
+    ],
+    "summary": "Chart.js是一个基于HTML5 Canvas的轻量级JavaScript图表库，支持多种图表类型，简单易用，帮助开发者快速在网页中创建美观的数据可视化图表。",
+    "analyzed_at": "2025-11-06T19:19:47.291721+00:00"
+  },
+  {
+    "repo_full_name": "mecid/SwiftUICharts",
+    "owner": "mecid",
+    "html_url": "https://github.com/mecid/SwiftUICharts",
+    "description": "A simple line and bar charting library that supports accessibility written using SwiftUI. ",
+    "topics": [
+      "chart",
+      "swiftui"
+    ],
+    "starred_at": "2022-01-09T10:08:53Z",
+    "category": "开发工具",
+    "tags": [
+      "图表",
+      "SwiftUI",
+      "数据可视化",
+      "iOS开发",
+      "无障碍功能"
+    ],
+    "summary": "SwiftUICharts是一个使用SwiftUI编写的简单图表库，支持创建折线图和条形图，并具备无障碍功能。适用于iOS和macOS应用开发，帮助开发者轻松添加数据可视化功能。",
+    "analyzed_at": "2025-11-06T19:19:47.291721+00:00"
+  },
+  {
+    "repo_full_name": "mczachurski/wallpapper",
+    "owner": "mczachurski",
+    "html_url": "https://github.com/mczachurski/wallpapper",
+    "description": ":computer: Console application for creating dynamic wallpapers for macOS Mojave and newer",
+    "topics": [
+      "dynamic",
+      "dynamic-wallpapers",
+      "macos",
+      "swift",
+      "wallpaper"
+    ],
+    "starred_at": "2022-01-09T10:11:12Z",
+    "category": "桌面应用",
+    "tags": [
+      "动态壁纸",
+      "macOS",
+      "Swift",
+      "壁纸",
+      "控制台工具"
+    ],
+    "summary": "Wallpapper是一个用Swift编写的控制台应用程序，专为macOS Mojave及更高版本设计，用于创建动态壁纸。用户可以通过命令行界面生成个性化的动态壁纸，增强桌面视觉效果。",
+    "analyzed_at": "2025-11-06T19:19:47.291721+00:00"
+  },
+  {
+    "repo_full_name": "Sneezry/OpenHappyHackingCalendar",
+    "owner": "Sneezry",
+    "html_url": "https://github.com/Sneezry/OpenHappyHackingCalendar",
+    "description": "This is the source code to build Happy Hacking Calender.",
+    "topics": [],
+    "starred_at": "2022-01-09T10:12:39Z",
+    "category": "开发工具",
+    "tags": [
+      "日历",
+      "开发工具",
+      "时间管理",
+      "开发者",
+      "效率"
+    ],
+    "summary": "这是一个用于构建快乐黑客日历的开源项目，旨在帮助开发者更好地管理时间和提高工作效率。",
+    "analyzed_at": "2025-11-06T19:19:47.291721+00:00"
+  },
+  {
+    "repo_full_name": "tailwindlabs/tailwindcss.com",
+    "owner": "tailwindlabs",
+    "html_url": "https://github.com/tailwindlabs/tailwindcss.com",
+    "description": "The Tailwind CSS documentation website.",
+    "topics": [],
+    "starred_at": "2022-01-09T15:52:56Z",
+    "category": "Web应用",
+    "tags": [
+      "CSS框架",
+      "文档网站",
+      "前端开发",
+      "Tailwind CSS",
+      "Web开发",
+      "开发工具"
+    ],
+    "summary": "Tailwind CSS官方文档网站，提供该实用优先CSS框架的完整参考指南、组件示例和最佳实践，帮助开发者快速掌握和使用Tailwind CSS进行现代Web界面设计。",
+    "analyzed_at": "2025-11-06T19:19:47.291721+00:00"
+  },
+  {
+    "repo_full_name": "rocksdanister/lively",
+    "owner": "rocksdanister",
+    "html_url": "https://github.com/rocksdanister/lively",
+    "description": "Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.",
+    "topics": [
+      "csharp",
+      "desktop",
+      "desktop-wallpaper",
+      "dynamic-desktop",
+      "dynamic-wallpaper",
+      "fluent-design",
+      "live-wallpaper",
+      "screensavers",
+      "wallpaper",
+      "wallpaper-app",
+      "wallpaper-changer",
+      "wallpaper-engine",
+      "wallpaperengine",
+      "wallpapers",
+      "widgets",
+      "windows-10",
+      "windows-11",
+      "windows-app",
+      "winui",
+      "winui3"
+    ],
+    "starred_at": "2022-01-10T10:11:01Z",
+    "category": "桌面应用",
+    "tags": [
+      "desktop-wallpaper",
+      "live-wallpaper",
+      "wallpaper-engine",
+      "winui3",
+      "dynamic-desktop",
+      "screensavers"
+    ],
+    "summary": "Lively是一款免费开源的桌面应用，使用WinUI 3开发，允许用户设置动态壁纸和屏幕保护程序。它为Windows系统提供了丰富的动画桌面体验，支持自定义动态壁纸和屏幕保护程序。",
+    "analyzed_at": "2025-11-06T19:19:47.291721+00:00"
+  },
+  {
+    "repo_full_name": "saysky/springboot-vue-example",
+    "owner": "saysky",
+    "html_url": "https://github.com/saysky/springboot-vue-example",
+    "description": "SpringBoot + Vue Element UI 实现前后端分离",
+    "topics": [
+      "springboot",
+      "vuejs"
+    ],
+    "starred_at": "2022-01-10T10:34:16Z",
+    "category": "Web应用",
+    "tags": [
+      "前后端分离",
+      "SpringBoot",
+      "Vue",
+      "Element UI",
+      "Web开发",
+      "全栈开发"
+    ],
+    "summary": "这是一个SpringBoot与Vue Element UI结合的前后端分离示例项目，展示了现代Web应用的开发架构和技术栈。",
+    "analyzed_at": "2025-11-06T19:19:47.291721+00:00"
+  },
+  {
+    "repo_full_name": "obsidianmd/obsidian-sample-plugin",
+    "owner": "obsidianmd",
+    "html_url": "https://github.com/obsidianmd/obsidian-sample-plugin",
+    "description": "Template for Obsidian community plugins with build configuration and development best practices.",
+    "topics": [
+      "obsidian",
+      "obsidian-md",
+      "obsidian-plugin",
+      "plugin"
+    ],
+    "starred_at": "2022-01-10T11:53:09Z",
+    "category": "开发工具",
+    "tags": [
+      "插件开发",
+      "Obsidian",
+      "模板",
+      "构建配置",
+      "开发最佳实践",
+      "知识管理"
+    ],
+    "summary": "Obsidian社区插件开发模板，包含构建配置和开发最佳实践，帮助开发者快速创建符合标准的Obsidian插件。",
+    "analyzed_at": "2025-11-06T19:19:47.291721+00:00"
+  },
+  {
+    "repo_full_name": "the1812/Bilibili-Evolved",
+    "owner": "the1812",
+    "html_url": "https://github.com/the1812/Bilibili-Evolved",
+    "description": "强大的哔哩哔哩增强脚本",
+    "topics": [
+      "bilibili",
+      "tampermonkey",
+      "userscript"
+    ],
+    "starred_at": "2022-01-11T03:49:07Z",
+    "category": "开发工具",
+    "tags": [
+      "bilibili",
+      "tampermonkey",
+      "userscript",
+      "浏览器扩展",
+      "增强脚本"
+    ],
+    "summary": "Bilibili-Evolved是一款强大的哔哩哔哩增强脚本，通过Tampermonkey用户脚本扩展B站功能，提供更丰富的用户体验和定制选项。",
+    "analyzed_at": "2025-11-06T19:19:47.291721+00:00"
+  },
+  {
+    "repo_full_name": "scop/bash-completion",
+    "owner": "scop",
+    "html_url": "https://github.com/scop/bash-completion",
+    "description": "Programmable completion functions for bash",
+    "topics": [
+      "bash",
+      "behavior",
+      "completion",
+      "shell"
+    ],
+    "starred_at": "2022-01-11T04:18:46Z",
+    "category": "开发工具",
+    "tags": [
+      "bash",
+      "shell",
+      "命令行补全",
+      "开发效率",
+      "自动化"
+    ],
+    "summary": "这是一个为bash shell提供的可编程命令补全工具，能够根据上下文自动补全命令、参数和文件名，提高命令行操作效率。",
+    "analyzed_at": "2025-11-06T19:19:47.291721+00:00"
+  },
+  {
+    "repo_full_name": "mjswensen/themer",
+    "owner": "mjswensen",
+    "html_url": "https://github.com/mjswensen/themer",
+    "description": "🎨 themer takes a set of colors and outputs themes for your apps (editors, terminals, wallpapers, and more).",
+    "topics": [
+      "alfred",
+      "chrome",
+      "cmd",
+      "conemu",
+      "hacktoberfest",
+      "hyper",
+      "iterm",
+      "lightline",
+      "sketch",
+      "slack",
+      "sublime-text",
+      "terminal",
+      "theme",
+      "themer",
+      "vim",
+      "vscode",
+      "wallpapers",
+      "xcode"
+    ],
+    "starred_at": "2022-01-11T07:51:47Z",
+    "category": "开发工具",
+    "tags": [
+      "主题生成",
+      "界面定制",
+      "颜色方案",
+      "多平台支持",
+      "开发环境"
+    ],
+    "summary": "themer是一个主题生成工具，可根据用户提供的颜色方案，为编辑器、终端、壁纸等多种应用程序生成统一主题。支持VS Code、Vim、iTerm等主流开发工具，帮助开发者打造个性化的工作环境。",
+    "analyzed_at": "2025-11-06T19:19:47.291721+00:00"
+  },
+  {
+    "repo_full_name": "ypresto/SwiftLintXcode",
+    "owner": "ypresto",
+    "html_url": "https://github.com/ypresto/SwiftLintXcode",
+    "description": "An Xcode plug-in to format your code using SwiftLint.",
+    "topics": [],
+    "starred_at": "2022-01-11T08:37:06Z",
+    "category": "开发工具",
+    "tags": [
+      "代码格式化",
+      "代码检查",
+      "Xcode插件",
+      "Swift开发",
+      "静态分析"
+    ],
+    "summary": "这是一个Xcode插件，通过SwiftLint自动格式化Swift代码，帮助开发者保持代码风格一致。",
+    "analyzed_at": "2025-11-06T19:19:47.291721+00:00"
+  },
+  {
+    "repo_full_name": "neutrinolabs/xrdp",
+    "owner": "neutrinolabs",
+    "html_url": "https://github.com/neutrinolabs/xrdp",
+    "description": "xrdp: an open source RDP server",
+    "topics": [
+      "c",
+      "linux",
+      "remote-desktop"
+    ],
+    "starred_at": "2022-01-13T07:33:14Z",
+    "category": "开发工具",
+    "tags": [
+      "远程桌面",
+      "RDP服务器",
+      "Linux工具",
+      "C语言项目",
+      "系统管理",
+      "远程访问"
+    ],
+    "summary": "xrdp是一个开源的RDP服务器实现，允许用户通过远程桌面协议连接到Linux系统。它使用C语言编写，提供了Windows远程桌面客户端的兼容性，是Linux系统远程管理的实用工具。",
+    "analyzed_at": "2025-11-06T19:19:47.291721+00:00"
+  },
+  {
+    "repo_full_name": "bubkoo/html-to-image",
+    "owner": "bubkoo",
+    "html_url": "https://github.com/bubkoo/html-to-image",
+    "description": "✂️ Generates an image from a DOM node using HTML5 canvas and SVG.",
+    "topics": [
+      "canvas",
+      "dataurl",
+      "dom",
+      "image",
+      "javascript",
+      "picture",
+      "screenshot",
+      "svg"
+    ],
+    "starred_at": "2022-01-13T07:35:21Z",
+    "category": "开发工具",
+    "tags": [
+      "JavaScript",
+      "HTML转图片",
+      "截图",
+      "DOM操作",
+      "Canvas",
+      "SVG"
+    ],
+    "summary": "这是一个JavaScript库，利用HTML5 canvas和SVG技术将DOM节点转换为图像，可用于网页截图、元素截图等功能，为开发者提供便捷的HTML转图片解决方案。",
+    "analyzed_at": "2025-11-06T19:19:47.291721+00:00"
+  },
+  {
+    "repo_full_name": "rathole-org/rathole",
+    "owner": "rathole-org",
+    "html_url": "https://github.com/rathole-org/rathole",
+    "description": "A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.",
+    "topics": [
+      "firewall",
+      "frp",
+      "http",
+      "nat",
+      "network",
+      "ngrok",
+      "noise",
+      "noise-protocol",
+      "proxy",
+      "rust",
+      "tunnel"
+    ],
+    "starred_at": "2022-01-13T08:19:20Z",
+    "category": "开发工具",
+    "tags": [
+      "网络穿透",
+      "反向代理",
+      "Rust",
+      "NAT",
+      "隧道",
+      "高性能"
+    ],
+    "summary": "Rathole是一个用Rust编写的轻量级高性能反向代理工具，专为NAT穿透设计，可作为frp和ngrok的替代方案。它支持HTTP协议，使用Noise协议加密，帮助开发者轻松实现内网服务的外网访问。",
+    "analyzed_at": "2025-11-06T19:19:47.291721+00:00"
+  },
+  {
+    "repo_full_name": "37MobileTeam/iAppStore-SwiftUI",
+    "owner": "37MobileTeam",
+    "html_url": "https://github.com/37MobileTeam/iAppStore-SwiftUI",
+    "description": "iAppStroe is an Apple Store tool app written in SwiftUI.",
+    "topics": [
+      "ios",
+      "swiftui"
+    ],
+    "starred_at": "2022-01-13T08:46:35Z",
+    "category": "移动应用",
+    "tags": [
+      "ios",
+      "swiftui",
+      "appstore",
+      "apple",
+      "tool"
+    ],
+    "summary": "iAppStore是一个使用SwiftUI编写的Apple Store工具应用，为iOS用户提供便捷的应用商店体验。",
+    "analyzed_at": "2025-11-06T19:19:47.291721+00:00"
   }
 ]
