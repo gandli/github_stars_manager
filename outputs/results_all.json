@@ -30843,5 +30843,1280 @@
     ],
     "summary": "iAppStore是一个使用SwiftUI编写的Apple Store工具应用，为iOS用户提供便捷的应用商店体验。",
     "analyzed_at": "2025-11-06T19:19:47.291721+00:00"
+  },
+  {
+    "repo_full_name": "friendlyarm/friendlywrt",
+    "owner": "friendlyarm",
+    "html_url": "https://github.com/friendlyarm/friendlywrt",
+    "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org",
+    "topics": [],
+    "starred_at": "2022-01-13T08:57:17Z",
+    "category": "开发工具",
+    "tags": [
+      "路由器固件",
+      "嵌入式系统",
+      "网络设备",
+      "Linux发行版",
+      "开发工具"
+    ],
+    "summary": "FriendlyWrt是OpenWrt的镜像仓库，专为嵌入式网络设备设计的开源固件平台。基于Linux，提供高度可定化的路由器操作系统，支持开发者扩展网络设备功能。",
+    "analyzed_at": "2025-11-07T19:19:48.920181+00:00"
+  },
+  {
+    "repo_full_name": "ljinkai/weekly",
+    "owner": "ljinkai",
+    "html_url": "https://github.com/ljinkai/weekly",
+    "description": "独立开发产品变现周刊，每周五发布。",
+    "topics": [],
+    "starred_at": "2022-01-13T09:19:23Z",
+    "category": "效率工具",
+    "tags": [
+      "独立开发",
+      "产品变现",
+      "周刊",
+      "资源分享",
+      "开发者资源",
+      "创业指南"
+    ],
+    "summary": "这是一份专注于独立开发产品变现的周刊，每周五定期发布。内容涵盖独立开发者的变现策略、产品案例和行业趋势，为开发者提供实用的创业指导和资源分享。",
+    "analyzed_at": "2025-11-07T19:19:48.920181+00:00"
+  },
+  {
+    "repo_full_name": "Chalarangelo/30-seconds-of-code",
+    "owner": "Chalarangelo",
+    "html_url": "https://github.com/Chalarangelo/30-seconds-of-code",
+    "description": "Coding articles to level up your development skills",
+    "topics": [
+      "astro",
+      "awesome-list",
+      "css",
+      "education",
+      "es6-javascript",
+      "git",
+      "html",
+      "javascript",
+      "learn-to-code",
+      "learning-resources",
+      "nodejs",
+      "programming",
+      "snippets"
+    ],
+    "starred_at": "2022-01-13T09:34:51Z",
+    "category": "开发工具",
+    "tags": [
+      "编程",
+      "代码片段",
+      "教程",
+      "JavaScript",
+      "学习资源",
+      "开发工具"
+    ],
+    "summary": "30秒代码是一个精选的代码片段集合，包含各种编程语言的实用代码示例，旨在帮助开发者快速提升编程技能。内容涵盖JavaScript、CSS、HTML等多种语言，是开发者的实用参考工具。",
+    "analyzed_at": "2025-11-07T19:19:48.920181+00:00"
+  },
+  {
+    "repo_full_name": "parse-community/Parse-Swift",
+    "owner": "parse-community",
+    "html_url": "https://github.com/parse-community/Parse-Swift",
+    "description": "The Swift SDK for Parse Platform (iOS, macOS, watchOS, tvOS, Linux, Android, Windows)",
+    "topics": [
+      "authentication",
+      "baas",
+      "backend",
+      "carthage",
+      "hacktoberfest",
+      "livequery-clients",
+      "livequery-server",
+      "mbaas",
+      "parse",
+      "parse-platform",
+      "query",
+      "sdk",
+      "spm",
+      "swift",
+      "swift-package-manager"
+    ],
+    "starred_at": "2022-01-13T11:54:19Z",
+    "category": "开发工具",
+    "tags": [
+      "authentication",
+      "baas",
+      "backend",
+      "sdk",
+      "swift",
+      "parse-platform"
+    ],
+    "summary": "Parse-Swift是Parse平台的Swift SDK，支持多平台应用开发。提供后端即服务(BaaS)功能，包括用户认证、数据查询等核心能力，简化移动和桌面应用的后端开发工作。",
+    "analyzed_at": "2025-11-07T19:19:48.920181+00:00"
+  },
+  {
+    "repo_full_name": "zincsearch/zincsearch",
+    "owner": "zincsearch",
+    "html_url": "https://github.com/zincsearch/zincsearch",
+    "description": "ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",
+    "topics": [
+      "elasticsearch",
+      "go",
+      "golang",
+      "modern",
+      "opensearch",
+      "search",
+      "searchengine",
+      "vuejs"
+    ],
+    "starred_at": "2022-01-14T12:50:52Z",
+    "category": "开发工具",
+    "tags": [
+      "搜索引擎",
+      "Go语言",
+      "轻量级",
+      "开源",
+      "搜索工具"
+    ],
+    "summary": "ZincSearch是一个轻量级的搜索引擎，作为Elasticsearch的替代方案，使用Go语言编写，资源消耗极低，适合资源受限的环境。",
+    "analyzed_at": "2025-11-07T19:19:48.920181+00:00"
+  },
+  {
+    "repo_full_name": "KurtBestor/Hitomi-Downloader",
+    "owner": "KurtBestor",
+    "html_url": "https://github.com/KurtBestor/Hitomi-Downloader",
+    "description": ":cake: Desktop utility to download images/videos/music/text from various websites, and more.",
+    "topics": [
+      "bilibili",
+      "downloader",
+      "exhentai",
+      "gui",
+      "hitomi",
+      "manga",
+      "nhentai",
+      "pixiv",
+      "pornhub",
+      "torrent",
+      "twitch",
+      "twitter",
+      "youtube",
+      "youtube-dl",
+      "yt-dlp"
+    ],
+    "starred_at": "2022-01-15T02:24:25Z",
+    "category": "桌面应用",
+    "tags": [
+      "下载器",
+      "图形界面",
+      "多平台下载",
+      "视频下载"
+    ],
+    "summary": "Hitomi-Downloader是一款桌面应用程序，支持从多个网站（包括B站、YouTube、Twitter等）下载图片、视频、音乐和文本内容，提供图形用户界面，支持多种下载协议。",
+    "analyzed_at": "2025-11-07T19:19:48.920181+00:00"
+  },
+  {
+    "repo_full_name": "messense/aliyundrive-webdav",
+    "owner": "messense",
+    "html_url": "https://github.com/messense/aliyundrive-webdav",
+    "description": "阿里云盘 WebDAV 服务",
+    "topics": [
+      "aliyundrive",
+      "aliyundrive-client",
+      "luci-app",
+      "openwrt-package",
+      "webdav-server"
+    ],
+    "starred_at": "2022-01-15T02:33:38Z",
+    "category": "Web应用",
+    "tags": [
+      "aliyundrive",
+      "webdav-server",
+      "cloud-storage",
+      "file-sync",
+      "openwrt"
+    ],
+    "summary": "这是一个将阿里云盘转换为WebDAV服务的项目，允许用户通过WebDAV协议访问和管理阿里云盘文件，支持OpenWRT系统部署。",
+    "analyzed_at": "2025-11-07T19:19:48.920181+00:00"
+  },
+  {
+    "repo_full_name": "docker-suite/PowershellAlias",
+    "owner": "docker-suite",
+    "html_url": "https://github.com/docker-suite/PowershellAlias",
+    "description": "Docker powershell alias",
+    "topics": [],
+    "starred_at": "2022-01-15T06:57:04Z",
+    "category": "开发工具",
+    "tags": [
+      "Docker",
+      "PowerShell",
+      "别名",
+      "命令行",
+      "效率"
+    ],
+    "summary": "为PowerShell提供的Docker命令别名集合，简化Docker在Windows环境下的使用，提高开发效率。",
+    "analyzed_at": "2025-11-07T19:19:48.920181+00:00"
+  },
+  {
+    "repo_full_name": "p0deje/Maccy",
+    "owner": "p0deje",
+    "html_url": "https://github.com/p0deje/Maccy",
+    "description": "Lightweight clipboard manager for macOS",
+    "topics": [
+      "clipboard-manager",
+      "maccy",
+      "macos"
+    ],
+    "starred_at": "2022-01-15T13:04:01Z",
+    "category": "效率工具",
+    "tags": [
+      "剪贴板管理",
+      "macOS",
+      "效率工具",
+      "轻量级"
+    ],
+    "summary": "Maccy是一款轻量级的macOS剪贴板管理工具，帮助用户高效管理和访问历史剪贴板内容，提升工作效率。",
+    "analyzed_at": "2025-11-07T19:19:48.920181+00:00"
+  },
+  {
+    "repo_full_name": "vitejs/vite",
+    "owner": "vitejs",
+    "html_url": "https://github.com/vitejs/vite",
+    "description": "Next generation frontend tooling. It's fast!",
+    "topics": [
+      "build-tool",
+      "dev-server",
+      "frontend",
+      "hmr",
+      "vite"
+    ],
+    "starred_at": "2022-01-16T03:33:16Z",
+    "category": "开发工具",
+    "tags": [
+      "前端开发",
+      "构建工具",
+      "开发服务器",
+      "热模块替换",
+      "Vite框架"
+    ],
+    "summary": "Vite是一个下一代前端构建工具，以其极快的开发服务器和热模块替换(HMR)功能著称，显著提升了前端开发体验和构建速度。",
+    "analyzed_at": "2025-11-07T19:19:48.920181+00:00"
+  },
+  {
+    "repo_full_name": "sunface/rust-course",
+    "owner": "sunface",
+    "html_url": "https://github.com/sunface/rust-course",
+    "description": "“连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石\" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book ",
+    "topics": [
+      "book",
+      "chinese",
+      "course",
+      "deno",
+      "javascript",
+      "learn",
+      "learning",
+      "programming-courses",
+      "rust",
+      "rust-book",
+      "rust-course",
+      "rust-lang",
+      "rust-learn",
+      "rust-learning",
+      "rust-study",
+      "study",
+      "wasm"
+    ],
+    "starred_at": "2022-01-16T03:33:34Z",
+    "category": "教育学习",
+    "tags": [
+      "编程语言",
+      "Rust",
+      "教程",
+      "学习资源",
+      "中文"
+    ],
+    "summary": "这是一本全面深入的Rust编程语言中文学习教程，强调Rust的高性能、安全性和无GC等特点，适合作为第二语言学习，内容生动且示例丰富。",
+    "analyzed_at": "2025-11-07T19:19:48.920181+00:00"
+  },
+  {
+    "repo_full_name": "mpv-player/mpv",
+    "owner": "mpv-player",
+    "html_url": "https://github.com/mpv-player/mpv",
+    "description": "🎥 Command line media player",
+    "topics": [
+      "audio",
+      "c",
+      "ffmpeg",
+      "mplayer",
+      "mpv",
+      "multimedia",
+      "video"
+    ],
+    "starred_at": "2022-01-16T04:29:45Z",
+    "category": "桌面应用",
+    "tags": [
+      "媒体播放",
+      "命令行工具",
+      "跨平台",
+      "轻量级",
+      "高度可定制"
+    ],
+    "summary": "mpv是一款轻量级、高度可定制的命令行媒体播放器，支持多种音视频格式，采用简洁高效的播放引擎，适合技术用户使用。",
+    "analyzed_at": "2025-11-07T19:19:48.920181+00:00"
+  },
+  {
+    "repo_full_name": "neovim/neovim",
+    "owner": "neovim",
+    "html_url": "https://github.com/neovim/neovim",
+    "description": "Vim-fork focused on extensibility and usability",
+    "topics": [
+      "api",
+      "c",
+      "lua",
+      "neovim",
+      "nvim",
+      "text-editor",
+      "vim"
+    ],
+    "starred_at": "2022-01-16T05:36:59Z",
+    "category": "开发工具",
+    "tags": [
+      "text-editor",
+      "vim",
+      "neovim",
+      "lua",
+      "api"
+    ],
+    "summary": "Neovim是Vim编辑器的一个分支，专注于可扩展性和易用性。它支持Lua脚本语言，提供了现代化的API，为开发者提供了更强大的文本编辑体验。",
+    "analyzed_at": "2025-11-07T19:19:48.920181+00:00"
+  },
+  {
+    "repo_full_name": "waydabber/BetterDisplay",
+    "owner": "waydabber",
+    "html_url": "https://github.com/waydabber/BetterDisplay",
+    "description": "Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!",
+    "topics": [
+      "4k",
+      "brightness",
+      "ddc",
+      "display",
+      "edid",
+      "flexible",
+      "hdmi",
+      "hidpi",
+      "mac",
+      "macos",
+      "override",
+      "resolution",
+      "retina",
+      "scaling",
+      "screen",
+      "virtual",
+      "xdr"
+    ],
+    "starred_at": "2022-01-16T09:31:34Z",
+    "category": "桌面应用",
+    "tags": [
+      "显示器控制",
+      "HiDPI",
+      "分辨率调整",
+      "虚拟屏幕",
+      "XDR/HDR",
+      "DDC控制"
+    ],
+    "summary": "BetterDisplay是一款Mac显示器增强工具，提供灵活的HiDPI缩放、XDR/HDR亮度控制、虚拟屏幕、DDC控制、画中画功能等，解锁Mac显示器的更多可能性。",
+    "analyzed_at": "2025-11-07T19:19:48.920181+00:00"
+  },
+  {
+    "repo_full_name": "Inokinoki/QEFIEntryManager",
+    "owner": "Inokinoki",
+    "html_url": "https://github.com/Inokinoki/QEFIEntryManager",
+    "description": "A userspace cross-platform EFI boot entry management GUI App based on Qt.",
+    "topics": [
+      "acpi",
+      "boot",
+      "bootloader",
+      "cross-platform",
+      "efi",
+      "efi-partition",
+      "firmware",
+      "freebsd",
+      "linux",
+      "qt",
+      "windows"
+    ],
+    "starred_at": "2022-01-19T01:03:50Z",
+    "category": "桌面应用",
+    "tags": [
+      "EFI",
+      "启动管理",
+      "跨平台",
+      "Qt",
+      "固件"
+    ],
+    "summary": "这是一个基于Qt的跨平台桌面应用程序，用于管理EFI启动项。它支持FreeBSD、Linux和Windows系统，提供图形界面让用户轻松管理系统启动项，无需深入底层固件设置。",
+    "analyzed_at": "2025-11-07T19:19:48.920181+00:00"
+  },
+  {
+    "repo_full_name": "easychen/pushdeer",
+    "owner": "easychen",
+    "html_url": "https://github.com/easychen/pushdeer",
+    "description": "开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备",
+    "topics": [
+      "app",
+      "clip",
+      "notification-service",
+      "push"
+    ],
+    "starred_at": "2022-01-19T10:44:19Z",
+    "category": "效率工具",
+    "tags": [
+      "推送服务",
+      "跨平台",
+      "开源",
+      "通知管理"
+    ],
+    "summary": "PushDeer是一款开源的跨平台推送服务，支持iOS、Mac、Android等多平台，无需安装App即可使用，帮助用户高效管理各类通知。",
+    "analyzed_at": "2025-11-07T19:19:48.920181+00:00"
+  },
+  {
+    "repo_full_name": "xxjwxc/uber_go_guide_cn",
+    "owner": "xxjwxc",
+    "html_url": "https://github.com/xxjwxc/uber_go_guide_cn",
+    "description": "Uber Go 语言编码规范中文版. The Uber Go Style Guide . ",
+    "topics": [
+      "chinese",
+      "cn",
+      "go",
+      "guide",
+      "style",
+      "uber"
+    ],
+    "starred_at": "2022-01-19T10:55:49Z",
+    "category": "开发工具",
+    "tags": [
+      "Go语言",
+      "编码规范",
+      "风格指南",
+      "中文版",
+      "Uber标准"
+    ],
+    "summary": "这个仓库是Uber Go语言编码规范的中文翻译版本，为Go语言开发者提供了一套标准的编码风格指南，帮助团队保持代码的一致性和可读性。",
+    "analyzed_at": "2025-11-07T19:19:48.920181+00:00"
+  },
+  {
+    "repo_full_name": "Wechat-ggGitHub/Awesome-GitHub-Repo",
+    "owner": "Wechat-ggGitHub",
+    "html_url": "https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo",
+    "description": "收集整理 GitHub 上高质量、有趣的开源项目。",
+    "topics": [],
+    "starred_at": "2022-01-19T10:56:00Z",
+    "category": "开发工具",
+    "tags": [
+      "资源整理",
+      "开源项目",
+      "GitHub",
+      "项目推荐",
+      "开发资源"
+    ],
+    "summary": "这是一个收集整理GitHub上高质量、有趣开源项目的资源库，帮助开发者快速发现和获取优质开源项目。",
+    "analyzed_at": "2025-11-07T19:19:48.920181+00:00"
+  },
+  {
+    "repo_full_name": "cnpm/cnpm",
+    "owner": "cnpm",
+    "html_url": "https://github.com/cnpm/cnpm",
+    "description": "cnpm: npm client for China mirror of npm",
+    "topics": [
+      "cnpm",
+      "npm",
+      "npminstall",
+      "tnpm"
+    ],
+    "starred_at": "2022-01-20T03:38:51Z",
+    "category": "开发工具",
+    "tags": [
+      "包管理",
+      "npm",
+      "镜像",
+      "开发工具",
+      "中国"
+    ],
+    "summary": "cnpm是npm的中国镜像客户端，提供更快的包下载速度和稳定的依赖管理服务，是中国开发者的npm替代工具。",
+    "analyzed_at": "2025-11-07T19:19:48.920181+00:00"
+  },
+  {
+    "repo_full_name": "Ash258/Scoop-Core",
+    "owner": "Ash258",
+    "html_url": "https://github.com/Ash258/Scoop-Core",
+    "description": "Shovel. Alternative, more advanced, and user-friendly implementation of windows command-line installer scoop.",
+    "topics": [
+      "command-line",
+      "installer",
+      "shovel",
+      "windows"
+    ],
+    "starred_at": "2022-01-20T03:54:32Z",
+    "category": "开发工具",
+    "tags": [
+      "command-line",
+      "installer",
+      "shovel",
+      "windows"
+    ],
+    "summary": "Shovel是Windows命令行安装器Scoop的替代实现，提供更先进和用户友好的软件安装体验，专为Windows系统设计。",
+    "analyzed_at": "2025-11-07T19:19:48.920181+00:00"
+  },
+  {
+    "repo_full_name": "dahlbyk/posh-git",
+    "owner": "dahlbyk",
+    "html_url": "https://github.com/dahlbyk/posh-git",
+    "description": "A PowerShell environment for Git",
+    "topics": [
+      "chocolatey",
+      "git",
+      "powershell",
+      "powershell-gallery",
+      "powershell-module",
+      "powershell-profile",
+      "powershell-profile-script",
+      "powershell-prompt",
+      "profile-script",
+      "prompt",
+      "psgallery"
+    ],
+    "starred_at": "2022-01-20T06:44:38Z",
+    "category": "开发工具",
+    "tags": [
+      "git",
+      "powershell",
+      "开发工具"
+    ],
+    "summary": "posh-git是一个为Git提供增强PowerShell环境的项目，它将Git的强大功能与PowerShell的命令行界面完美结合，为开发者提供更直观、更高效的Git操作体验。",
+    "analyzed_at": "2025-11-07T19:19:48.920181+00:00"
+  },
+  {
+    "repo_full_name": "docker/login-action",
+    "owner": "docker",
+    "html_url": "https://github.com/docker/login-action",
+    "description": "GitHub Action to login against a Docker registry",
+    "topics": [
+      "aws-ecr",
+      "azure",
+      "docker",
+      "docker-registry",
+      "dockerhub",
+      "ecr-registry",
+      "gcr-registry",
+      "github-actions",
+      "github-actions-docker",
+      "gitlab-registry",
+      "google-container-registry",
+      "login",
+      "registry"
+    ],
+    "starred_at": "2022-01-21T03:58:22Z",
+    "category": "开发工具",
+    "tags": [
+      "docker",
+      "github-actions",
+      "docker-registry",
+      "login",
+      "自动化"
+    ],
+    "summary": "Docker登录操作是一个GitHub Action，用于自动化登录到各种Docker注册表，包括Docker Hub、AWS ECR、Google Container Registry等，简化CI/CD流程中的容器认证过程。",
+    "analyzed_at": "2025-11-07T19:19:48.920181+00:00"
+  },
+  {
+    "repo_full_name": "easychen/docker2saas",
+    "owner": "easychen",
+    "html_url": "https://github.com/easychen/docker2saas",
+    "description": "An open source tool that lets you create a SaaS website from docker images in 10 minutes.",
+    "topics": [
+      "digitalocean",
+      "docker-compose",
+      "laravel",
+      "saas-boilerplate",
+      "stripe-api"
+    ],
+    "starred_at": "2022-01-25T11:05:49Z",
+    "category": "开发工具",
+    "tags": [
+      "Docker",
+      "SaaS",
+      "快速部署",
+      "Laravel",
+      "开发工具"
+    ],
+    "summary": "Docker2SaaS是一个开源工具，能在10分钟内将Docker镜像转换为SaaS网站。它整合了DigitalOcean、Docker Compose、Laravel和Stripe等技术，为开发者提供快速构建SaaS应用的解决方案。",
+    "analyzed_at": "2025-11-07T19:19:48.920181+00:00"
+  },
+  {
+    "repo_full_name": "inlets/inlets-pro",
+    "owner": "inlets",
+    "html_url": "https://github.com/inlets/inlets-pro",
+    "description": "Secure HTTP and TCP tunnels that just work",
+    "topics": [
+      "carrier-grade-nat",
+      "cloud-native",
+      "enterprise",
+      "gfw",
+      "hybrid-cloud",
+      "inlets",
+      "inlets-pro",
+      "kubernetes",
+      "l4",
+      "mesh",
+      "nat",
+      "networking",
+      "on-premises",
+      "proxy",
+      "service-proxy",
+      "service-tunnel",
+      "ssh",
+      "tcp",
+      "tcp-traffic",
+      "tunnel"
+    ],
+    "starred_at": "2022-01-25T11:10:34Z",
+    "category": "开发工具",
+    "tags": [
+      "网络工具",
+      "隧道",
+      "代理",
+      "云原生",
+      "Kubernetes",
+      "安全工具"
+    ],
+    "summary": "一款安全可靠的HTTP和TCP隧道工具，支持云原生和混合云环境，可帮助企业实现安全的服务暴露和远程访问，特别适用于Kubernetes部署。",
+    "analyzed_at": "2025-11-07T19:19:48.920181+00:00"
+  },
+  {
+    "repo_full_name": "privacypass/challenge-bypass-extension",
+    "owner": "privacypass",
+    "html_url": "https://github.com/privacypass/challenge-bypass-extension",
+    "description": "DEPRECATED - Client for Privacy Pass protocol providing unlinkable cryptographic tokens",
+    "topics": [
+      "browser-extension",
+      "captcha",
+      "chrome-extension",
+      "cryptography",
+      "privacy",
+      "privacy-pass",
+      "token",
+      "unlinkability",
+      "voprf"
+    ],
+    "starred_at": "2022-01-25T11:29:03Z",
+    "category": "安全工具",
+    "tags": [
+      "browser-extension",
+      "privacy",
+      "cryptography",
+      "captcha",
+      "token"
+    ],
+    "summary": "这是一个Privacy Pass协议的客户端浏览器扩展，提供不可链接的加密令牌，帮助用户绕过验证码挑战，同时保护用户隐私。该项目现已不再维护。",
+    "analyzed_at": "2025-11-07T19:19:48.920181+00:00"
+  },
+  {
+    "repo_full_name": "bclswl0827/v2ray-heroku",
+    "owner": "bclswl0827",
+    "html_url": "https://github.com/bclswl0827/v2ray-heroku",
+    "description": "用于在 Heroku 上部署 V2Ray WebSocket。",
+    "topics": [
+      "v2ray-heroku",
+      "websocket-v2ray"
+    ],
+    "starred_at": "2022-01-25T13:23:20Z",
+    "category": "开发工具",
+    "tags": [
+      "网络代理",
+      "部署工具",
+      "Heroku",
+      "V2Ray",
+      "WebSocket"
+    ],
+    "summary": "这是一个在 Heroku 平台上部署 V2Ray WebSocket 的工具，帮助用户快速搭建代理服务。",
+    "analyzed_at": "2025-11-07T19:19:48.920181+00:00"
+  },
+  {
+    "repo_full_name": "lanqiao-courses/roadmaps",
+    "owner": "lanqiao-courses",
+    "html_url": "https://github.com/lanqiao-courses/roadmaps",
+    "description": "IT 岗位学习路线图",
+    "topics": [],
+    "starred_at": "2022-01-26T14:07:22Z",
+    "category": "教育学习",
+    "tags": [
+      "学习路线",
+      "职业规划",
+      "IT学习",
+      "技能提升",
+      "教育资源"
+    ],
+    "summary": "这个仓库提供了IT行业各岗位的学习路线图，帮助学习者规划职业发展路径和技能提升方向。",
+    "analyzed_at": "2025-11-07T19:19:48.920181+00:00"
+  },
+  {
+    "repo_full_name": "hkbakke/bash-insulter",
+    "owner": "hkbakke",
+    "html_url": "https://github.com/hkbakke/bash-insulter",
+    "description": "Insults the user when typing wrong command",
+    "topics": [
+      "bash",
+      "insult-generator",
+      "wrong-command"
+    ],
+    "starred_at": "2022-01-26T15:26:26Z",
+    "category": "开发工具",
+    "tags": [
+      "bash",
+      "命令行工具",
+      "错误提示",
+      "开发辅助",
+      "幽默工具"
+    ],
+    "summary": "bash-insulter是一个有趣的bash脚本工具，当用户在终端输入错误命令时，会随机显示幽默的侮辱性消息，为枯燥的命令行操作增添趣味性。",
+    "analyzed_at": "2025-11-07T19:19:48.920181+00:00"
+  },
+  {
+    "repo_full_name": "timqian/chinese-independent-blogs",
+    "owner": "timqian",
+    "html_url": "https://github.com/timqian/chinese-independent-blogs",
+    "description": "中文独立博客列表",
+    "topics": [
+      "blog",
+      "china",
+      "rss"
+    ],
+    "starred_at": "2022-01-27T09:20:16Z",
+    "category": "Web应用",
+    "tags": [
+      "blog",
+      "china",
+      "rss",
+      "资源列表",
+      "中文内容"
+    ],
+    "summary": "这是一个收集和整理中文独立博客的开源项目，为读者提供优质的中文博客资源，支持RSS订阅功能，帮助发现和关注优秀的中文独立博客。",
+    "analyzed_at": "2025-11-07T19:19:48.920181+00:00"
+  },
+  {
+    "repo_full_name": "QIN2DIM/epic-awesome-gamer",
+    "owner": "QIN2DIM",
+    "html_url": "https://github.com/QIN2DIM/epic-awesome-gamer",
+    "description": "🍷 Gracefully claim weekly free games and monthly content from Epic Store.",
+    "topics": [
+      "epic",
+      "epic-games",
+      "epic-games-store",
+      "free-games"
+    ],
+    "starred_at": "2022-01-27T09:20:29Z",
+    "category": "游戏",
+    "tags": [
+      "epic",
+      "epic-games",
+      "epic-games-store",
+      "free-games"
+    ],
+    "summary": "Epic游戏商店免费游戏自动领取工具，可优雅地获取每周免费游戏和每月内容，帮助用户节省时间和精力。",
+    "analyzed_at": "2025-11-07T19:19:48.920181+00:00"
+  },
+  {
+    "repo_full_name": "sabrogden/Ditto",
+    "owner": "sabrogden",
+    "html_url": "https://github.com/sabrogden/Ditto",
+    "description": "Ditto is an extension to the Windows Clipboard. You copy something to the Clipboard and Ditto takes what you copied and stores it in a database to retrieve at a later time.",
+    "topics": [
+      "clipboard",
+      "clipboard-manager"
+    ],
+    "starred_at": "2022-01-27T09:50:15Z",
+    "category": "效率工具",
+    "tags": [
+      "剪贴板管理",
+      "Windows工具",
+      "效率提升",
+      "数据存储"
+    ],
+    "summary": "Ditto是Windows剪贴板扩展工具，将复制内容存储在数据库中，方便用户随时检索历史剪贴板内容，提高工作效率。",
+    "analyzed_at": "2025-11-07T19:19:48.920181+00:00"
+  },
+  {
+    "repo_full_name": "dorssel/usbipd-win",
+    "owner": "dorssel",
+    "html_url": "https://github.com/dorssel/usbipd-win",
+    "description": "Windows software for sharing locally connected USB devices to other machines, including Hyper-V guests and WSL 2.",
+    "topics": [
+      "hyper-v",
+      "usb",
+      "usbip",
+      "usbip-win",
+      "usbipd",
+      "windows",
+      "wsl",
+      "wsl2"
+    ],
+    "starred_at": "2022-01-27T13:29:26Z",
+    "category": "效率工具",
+    "tags": [
+      "USB共享",
+      "虚拟化",
+      "Windows工具",
+      "WSL支持",
+      "Hyper-V集成"
+    ],
+    "summary": "usbipd-win是一款Windows系统工具，允许用户将本地连接的USB设备共享到其他计算机，包括Hyper-V虚拟机和WSL 2环境。它简化了开发者在虚拟环境中使用USB设备的过程，提高了工作效率。",
+    "analyzed_at": "2025-11-07T19:19:48.920181+00:00"
+  },
+  {
+    "repo_full_name": "lusaxweb/vuesax-next",
+    "owner": "lusaxweb",
+    "html_url": "https://github.com/lusaxweb/vuesax-next",
+    "description": "Vuesax v4: framework components for Vuejs",
+    "topics": [
+      "alpha",
+      "framework",
+      "javascript",
+      "library",
+      "sass",
+      "typescript",
+      "vue",
+      "vuejs",
+      "vuepress",
+      "vuesax"
+    ],
+    "starred_at": "2022-01-28T03:33:58Z",
+    "category": "开发工具",
+    "tags": [
+      "Vue.js",
+      "组件库",
+      "TypeScript",
+      "前端框架"
+    ],
+    "summary": "Vuesax v4是一个Vue.js的组件框架，提供丰富的可重用UI组件，支持TypeScript和Sass，帮助开发者快速构建现代化的Vue应用程序。",
+    "analyzed_at": "2025-11-07T19:19:48.920181+00:00"
+  },
+  {
+    "repo_full_name": "xbmc/xbmc",
+    "owner": "xbmc",
+    "html_url": "https://github.com/xbmc/xbmc",
+    "description": "Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.",
+    "topics": [
+      "android",
+      "c-plus-plus",
+      "entertainment-hub",
+      "hacktoberfest",
+      "home-theater",
+      "ios",
+      "kodi",
+      "linux",
+      "macos",
+      "media-center",
+      "media-player",
+      "multimedia",
+      "python",
+      "windows-desktop",
+      "windows-uwp",
+      "xbmc",
+      "xml"
+    ],
+    "starred_at": "2022-01-28T11:47:57Z",
+    "category": "桌面应用",
+    "tags": [
+      "media-center",
+      "media-player",
+      "multimedia",
+      "home-theater",
+      "entertainment-hub",
+      "xbmc"
+    ],
+    "summary": "Kodi是一款免费开源的家庭影院和媒体中心软件，支持多平台运行，拥有美观界面和强大皮肤引擎，可作为数字媒体娱乐中心使用。",
+    "analyzed_at": "2025-11-07T19:19:48.920181+00:00"
+  },
+  {
+    "repo_full_name": "Ileriayo/markdown-badges",
+    "owner": "Ileriayo",
+    "html_url": "https://github.com/Ileriayo/markdown-badges",
+    "description": "Badges for your personal developer branding, profile, and projects.",
+    "topics": [
+      "badges-markdown",
+      "branding",
+      "developer-portfolio",
+      "github-profile",
+      "github-profile-readme",
+      "hacktoberfest",
+      "markdown"
+    ],
+    "starred_at": "2022-01-30T04:04:17Z",
+    "category": "开发工具",
+    "tags": [
+      "badges-markdown",
+      "developer-portfolio",
+      "github-profile",
+      "branding",
+      "markdown"
+    ],
+    "summary": "为开发者提供个人品牌徽章，可用于GitHub个人资料和项目README，帮助展示技能、成就和其他信息。",
+    "analyzed_at": "2025-11-07T19:19:48.920181+00:00"
+  },
+  {
+    "repo_full_name": "badges/shields",
+    "owner": "badges",
+    "html_url": "https://github.com/badges/shields",
+    "description": "Concise, consistent, and legible badges in SVG and raster format",
+    "topics": [
+      "badge",
+      "badge-maker",
+      "github",
+      "hacktoberfest",
+      "metadata",
+      "status",
+      "svg"
+    ],
+    "starred_at": "2022-01-30T04:04:50Z",
+    "category": "开发工具",
+    "tags": [
+      "badge",
+      "github",
+      "svg",
+      "status",
+      "metadata"
+    ],
+    "summary": "一个用于生成GitHub项目徽章的工具，提供SVG和光栅格式的简洁、一致且清晰的徽章，可用于显示项目状态和元数据。",
+    "analyzed_at": "2025-11-07T19:19:48.920181+00:00"
+  },
+  {
+    "repo_full_name": "DevToys-app/DevToys",
+    "owner": "DevToys-app",
+    "html_url": "https://github.com/DevToys-app/DevToys",
+    "description": "A Swiss Army knife for developers.",
+    "topics": [
+      "blazor",
+      "cross-platform",
+      "csharp",
+      "desktop",
+      "desktop-app",
+      "desktop-application",
+      "developer-tools",
+      "extensible",
+      "fluent",
+      "fluent-design",
+      "linux",
+      "macos",
+      "mica",
+      "syntax-highlighting",
+      "typescript",
+      "windows",
+      "windows-10",
+      "windows-11",
+      "winui"
+    ],
+    "starred_at": "2022-01-31T03:16:57Z",
+    "category": "开发工具",
+    "tags": [
+      "开发工具",
+      "跨平台",
+      "桌面应用",
+      "C#",
+      "语法高亮"
+    ],
+    "summary": "DevToys是一款跨平台开发者工具，提供多种实用功能，如代码格式化、JSON处理、文本转换等，支持Windows、macOS和Linux系统，采用现代化UI设计，提升开发效率。",
+    "analyzed_at": "2025-11-07T19:19:48.920181+00:00"
+  },
+  {
+    "repo_full_name": "tsejx/javascript-guidebook",
+    "owner": "tsejx",
+    "html_url": "https://github.com/tsejx/javascript-guidebook",
+    "description": ":books:JavaScript 前端知识图谱 A guidebook for the convenience of the front-end developers",
+    "topics": [
+      "awesome",
+      "browser",
+      "collection",
+      "docs",
+      "e-books",
+      "ecmascript",
+      "ecmascript6",
+      "front-end",
+      "html5",
+      "http",
+      "javascript",
+      "knowledge-sharing",
+      "map",
+      "markdown",
+      "mdn",
+      "qian-duan",
+      "road-map",
+      "web-development"
+    ],
+    "starred_at": "2022-01-31T04:09:11Z",
+    "category": "Web应用",
+    "tags": [
+      "JavaScript",
+      "前端开发",
+      "知识图谱",
+      "学习资源",
+      "Web开发"
+    ],
+    "summary": "这是一个JavaScript前端知识图谱，为前端开发者提供系统化的学习指南和知识地图，涵盖JavaScript、HTML5、HTTP等核心技术。",
+    "analyzed_at": "2025-11-07T19:19:48.920181+00:00"
+  },
+  {
+    "repo_full_name": "stephentian/33-js-concepts",
+    "owner": "stephentian",
+    "html_url": "https://github.com/stephentian/33-js-concepts",
+    "description": ":scroll: 每个 JavaScript 工程师都应懂的33个概念 @leonardomso",
+    "topics": [],
+    "starred_at": "2022-01-31T04:09:51Z",
+    "category": "开发工具",
+    "tags": [
+      "JavaScript",
+      "前端开发",
+      "编程概念",
+      "学习资源",
+      "技术教程"
+    ],
+    "summary": "这是一个JavaScript核心概念学习项目，包含33个每个JavaScript工程师都应掌握的重要知识点，适合前端开发者系统学习。",
+    "analyzed_at": "2025-11-07T19:19:48.920181+00:00"
+  },
+  {
+    "repo_full_name": "vueuse/vueuse",
+    "owner": "vueuse",
+    "html_url": "https://github.com/vueuse/vueuse",
+    "description": "Collection of essential Vue Composition Utilities for Vue 3",
+    "topics": [
+      "composable",
+      "utility-library",
+      "vue",
+      "vue3",
+      "vueuse"
+    ],
+    "starred_at": "2022-01-31T11:24:47Z",
+    "category": "开发工具",
+    "tags": [
+      "Vue",
+      "Vue3",
+      "工具库",
+      "组合式API",
+      "实用工具"
+    ],
+    "summary": "VueUse是一个Vue 3组合式API工具集合库，提供了丰富的可组合函数，帮助开发者更高效地构建Vue应用。它涵盖了状态管理、DOM操作、事件处理等多个方面，是Vue 3开发者的必备工具。",
+    "analyzed_at": "2025-11-07T19:19:48.920181+00:00"
+  },
+  {
+    "repo_full_name": "matteopuc/swiftui-navigation-stack",
+    "owner": "matteopuc",
+    "html_url": "https://github.com/matteopuc/swiftui-navigation-stack",
+    "description": "An alternative SwiftUI NavigationView implementing classic stack-based navigation giving also some more control on animations and programmatic navigation.",
+    "topics": [],
+    "starred_at": "2022-01-31T11:26:05Z",
+    "category": "开发工具",
+    "tags": [
+      "SwiftUI",
+      "导航",
+      "iOS开发",
+      "macOS开发",
+      "堆栈导航",
+      "程序化导航"
+    ],
+    "summary": "SwiftUI导航堆栈是一个替代性导航视图实现，提供基于经典堆栈的导航方式，增强了对动画和程序化导航的控制能力，适用于iOS和macOS应用开发。",
+    "analyzed_at": "2025-11-07T19:19:48.920181+00:00"
+  },
+  {
+    "repo_full_name": "pwxcoo/chinese-xinhua",
+    "owner": "pwxcoo",
+    "html_url": "https://github.com/pwxcoo/chinese-xinhua",
+    "description": ":orange_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。",
+    "topics": [
+      "chinese",
+      "chinese-characters",
+      "chinese-language",
+      "chinese-nlp",
+      "chinese-simplified",
+      "chinese-traditional",
+      "data",
+      "json",
+      "json-data",
+      "json-dataset",
+      "python3",
+      "scraper"
+    ],
+    "starred_at": "2022-02-06T05:00:26Z",
+    "category": "数据分析",
+    "tags": [
+      "中文语言",
+      "字典数据",
+      "中文NLP",
+      "数据集",
+      "Python"
+    ],
+    "summary": "这是一个中华新华字典数据库，包含歇后语、成语、词语和汉字等中文语言资源，以JSON格式存储，可用于中文语言处理和分析。",
+    "analyzed_at": "2025-11-07T19:19:48.920181+00:00"
+  },
+  {
+    "repo_full_name": "lx164/house",
+    "owner": "lx164",
+    "html_url": "https://github.com/lx164/house",
+    "description": "租房平台类微信小程序，基于Cloud Base（TCB）云开发，小程序端集成了管理后台。用户可以发布新房、二手房、租房等委托，中介机构审核发布、推荐，客户挑好房子后可以直接中介或者房源发布者。小程序带完整的管理员后台，使用云开发独特的身份鉴权方式对管理员身份进行验证。快速完成微信小程序前后端的搭建，后台完全使用微信小程序云开发，不依赖服务器，无需购买服务器即可使用。",
+    "topics": [],
+    "starred_at": "2022-02-06T05:07:32Z",
+    "category": "移动应用",
+    "tags": [
+      "租房平台",
+      "微信小程序",
+      "云开发",
+      "房地产",
+      "中介服务"
+    ],
+    "summary": "基于微信云开发的租房平台小程序，用户可发布房源，中介审核推荐，客户可直接联系。包含完整管理后台，无需独立服务器，快速搭建前后端。",
+    "analyzed_at": "2025-11-07T19:19:48.920181+00:00"
+  },
+  {
+    "repo_full_name": "sun0225SUN/Awesome-Love-Code",
+    "owner": "sun0225SUN",
+    "html_url": "https://github.com/sun0225SUN/Awesome-Love-Code",
+    "description": "表白代码收藏馆~谁说程序猿不懂浪漫❤️",
+    "topics": [],
+    "starred_at": "2022-02-13T13:22:03Z",
+    "category": "Web应用",
+    "tags": [
+      "表白",
+      "代码示例",
+      "浪漫",
+      "创意",
+      "程序员",
+      "前端"
+    ],
+    "summary": "这是一个收集各种表白代码的仓库，展示程序员如何用代码表达浪漫，包含多种创意的网页表白示例。",
+    "analyzed_at": "2025-11-07T19:19:48.920181+00:00"
+  },
+  {
+    "repo_full_name": "Anduin2017/HowToCook",
+    "owner": "Anduin2017",
+    "html_url": "https://github.com/Anduin2017/HowToCook",
+    "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).",
+    "topics": [
+      "chinese",
+      "cookbook",
+      "cooking",
+      "dishes",
+      "recipes"
+    ],
+    "starred_at": "2022-02-17T08:06:41Z",
+    "category": "教育学习",
+    "tags": [
+      "烹饪",
+      "食谱",
+      "中餐",
+      "家常菜",
+      "程序员"
+    ],
+    "summary": "这是一个专为程序员设计的中文烹饪指南，提供在家做饭的方法和技巧，包含多种中式菜肴的详细食谱，帮助忙碌的程序员学习健康饮食。",
+    "analyzed_at": "2025-11-07T19:19:48.920181+00:00"
+  },
+  {
+    "repo_full_name": "SwiftGGTeam/the-swift-programming-language-in-chinese",
+    "owner": "SwiftGGTeam",
+    "html_url": "https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese",
+    "description": "中文版 Apple 官方《Swift 编程语言》",
+    "topics": [
+      "swift"
+    ],
+    "starred_at": "2022-02-17T08:08:05Z",
+    "category": "教育学习",
+    "tags": [
+      "swift",
+      "编程语言",
+      "教材",
+      "翻译",
+      "Apple"
+    ],
+    "summary": "这是Apple官方《Swift编程语言》的中文翻译版本，由SwiftGG团队维护，为中文开发者提供Swift语言学习的本土化资源。",
+    "analyzed_at": "2025-11-07T19:19:48.920181+00:00"
+  },
+  {
+    "repo_full_name": "tonsky/FiraCode",
+    "owner": "tonsky",
+    "html_url": "https://github.com/tonsky/FiraCode",
+    "description": "Free monospaced font with programming ligatures",
+    "topics": [
+      "font",
+      "ligatures",
+      "programming-ligatures"
+    ],
+    "starred_at": "2022-02-17T08:22:43Z",
+    "category": "开发工具",
+    "tags": [
+      "font",
+      "ligatures",
+      "programming-ligatures",
+      "monospaced",
+      "code-font"
+    ],
+    "summary": "FiraCode是一款免费等宽字体，专为编程设计，支持编程连字符功能，能够将多个字符组合成单个字形，提高代码可读性和美观度，是开发者的理想选择。",
+    "analyzed_at": "2025-11-07T19:19:48.920181+00:00"
+  },
+  {
+    "repo_full_name": "ant-mini-program/mini-antui",
+    "owner": "ant-mini-program",
+    "html_url": "https://github.com/ant-mini-program/mini-antui",
+    "description": "mini-antui 停止维护，可使用 mini-ali-ui ，品牌升级，功能加强，欢迎使用！",
+    "topics": [
+      "antui",
+      "mini-program"
+    ],
+    "starred_at": "2022-02-17T08:47:14Z",
+    "category": "开发工具",
+    "tags": [
+      "小程序",
+      "UI组件",
+      "前端开发",
+      "蚂蚁金服"
+    ],
+    "summary": "mini-antui是一个已停止维护的小程序UI组件库，现推荐升级为mini-ali-ui。提供丰富的小程序界面组件，助力开发者快速构建小程序应用。",
+    "analyzed_at": "2025-11-07T19:19:48.920181+00:00"
+  },
+  {
+    "repo_full_name": "ineo6/hosts",
+    "owner": "ineo6",
+    "html_url": "https://github.com/ineo6/hosts",
+    "description": "GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。",
+    "topics": [
+      "github",
+      "hosts",
+      "hosts-file"
+    ],
+    "starred_at": "2022-02-17T09:51:08Z",
+    "category": "开发工具",
+    "tags": [
+      "hosts",
+      "GitHub",
+      "网络加速",
+      "开发工具",
+      "访问优化"
+    ],
+    "summary": "这是一个提供最新GitHub hosts文件的仓库，用于解决GitHub图片无法显示的问题，加速GitHub网页浏览，提高开发者访问GitHub的效率。",
+    "analyzed_at": "2025-11-07T19:19:48.920181+00:00"
+  },
+  {
+    "repo_full_name": "jaywcjlove/github-rank",
+    "owner": "jaywcjlove",
+    "html_url": "https://github.com/jaywcjlove/github-rank",
+    "description": "🕷️Github China/Global User Ranking, Global Warehouse Star Ranking (Github Action is automatically updated daily).",
+    "topics": [
+      "git",
+      "github",
+      "github-api",
+      "github-pages",
+      "github-rank",
+      "github-star",
+      "ranking",
+      "segmentfault"
+    ],
+    "starred_at": "2022-02-17T15:58:27Z",
+    "category": "开发工具",
+    "tags": [
+      "github",
+      "ranking",
+      "github-api"
+    ],
+    "summary": "GitHub用户和仓库排名工具，通过GitHub Action自动更新，展示GitHub中国/全球用户排名和全球仓库星标排名，帮助开发者了解GitHub生态系统的热门项目和用户。",
+    "analyzed_at": "2025-11-07T19:19:48.920181+00:00"
   }
 ]
