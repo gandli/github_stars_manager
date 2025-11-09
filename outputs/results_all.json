@@ -33399,5 +33399,1220 @@
     ],
     "summary": "这是一个为OpenCore引导加载程序和OpenCanopy界面提供主题集合的项目，帮助用户自定义系统启动界面，提升个性化体验。",
     "analyzed_at": "2025-11-08T19:17:45.014353+00:00"
+  },
+  {
+    "repo_full_name": "thegeeklab/hugo-geekdoc",
+    "owner": "thegeeklab",
+    "html_url": "https://github.com/thegeeklab/hugo-geekdoc",
+    "description": "Hugo theme made for documentation",
+    "topics": [
+      "documentation",
+      "hugo",
+      "hugo-theme",
+      "theme"
+    ],
+    "starred_at": "2022-03-02T13:17:01Z",
+    "category": "开发工具",
+    "tags": [
+      "文档",
+      "Hugo",
+      "Hugo主题",
+      "主题"
+    ],
+    "summary": "这是一个专为文档设计的Hugo主题，帮助开发者快速构建美观、功能完善的文档网站。",
+    "analyzed_at": "2025-11-09T19:17:29.841704+00:00"
+  },
+  {
+    "repo_full_name": "qqqdu/rts-cli",
+    "owner": "qqqdu",
+    "html_url": "https://github.com/qqqdu/rts-cli",
+    "description": "React typescript cli",
+    "topics": [],
+    "starred_at": "2022-03-02T14:59:27Z",
+    "category": "开发工具",
+    "tags": [
+      "React",
+      "TypeScript",
+      "CLI",
+      "开发工具"
+    ],
+    "summary": "rts-cli是一个基于React和TypeScript构建的命令行工具，旨在简化React项目的创建和开发流程。",
+    "analyzed_at": "2025-11-09T19:17:29.841704+00:00"
+  },
+  {
+    "repo_full_name": "mixn/carbon-now-cli",
+    "owner": "mixn",
+    "html_url": "https://github.com/mixn/carbon-now-cli",
+    "description": "🎨 Beautiful images of your code — from right inside your terminal.",
+    "topics": [
+      "cli",
+      "cli-app",
+      "cli-application",
+      "cli-command",
+      "cli-tool",
+      "cli-utilities",
+      "cli-utility",
+      "command-line",
+      "node",
+      "nodejs"
+    ],
+    "starred_at": "2022-03-02T15:14:57Z",
+    "category": "开发工具",
+    "tags": [
+      "CLI工具",
+      "命令行",
+      "节点.js",
+      "代码美化",
+      "终端工具"
+    ],
+    "summary": "carbon-now-cli是一个命令行工具，允许开发者直接在终端中生成代码的精美图片。它简化了代码截图过程，特别适合用于文档、演示或分享代码片段。基于Node.js构建，易于集成到开发工作流中。",
+    "analyzed_at": "2025-11-09T19:17:29.841704+00:00"
+  },
+  {
+    "repo_full_name": "mock-server/mockserver",
+    "owner": "mock-server",
+    "html_url": "https://github.com/mock-server/mockserver",
+    "description": "MockServer enables easy mocking of any system you integrate with via HTTP or HTTPS with clients written in Java, JavaScript and Ruby.  MockServer also includes a proxy that introspects all proxied traffic including encrypted SSL traffic and supports Port Forwarding, Web Proxying (i.e. HTTP proxy), HTTPS Tunneling Proxying (using HTTP CONNECT) and SOCKS Proxying (i.e. dynamic port forwarding).",
+    "topics": [
+      "grunt-plugin",
+      "homebrew",
+      "java-client",
+      "javascript-client",
+      "mock-server",
+      "node-client",
+      "node-module",
+      "proxy",
+      "ruby-client"
+    ],
+    "starred_at": "2022-03-04T11:46:55Z",
+    "category": "开发工具",
+    "tags": [
+      "mock-server",
+      "proxy",
+      "java-client",
+      "javascript-client",
+      "ruby-client"
+    ],
+    "summary": "MockServer是一个强大的HTTP/HTTPS模拟服务器和代理工具，支持Java、JavaScript和Ruby客户端。它可模拟任何系统的API响应，并提供代理功能，支持端口转发、Web代理和SOCKS代理，是开发测试的理想工具。",
+    "analyzed_at": "2025-11-09T19:17:29.841704+00:00"
+  },
+  {
+    "repo_full_name": "Homebrew/homebrew-services",
+    "owner": "Homebrew",
+    "html_url": "https://github.com/Homebrew/homebrew-services",
+    "description": "💀 Homebrew Services (deprecated)",
+    "topics": [],
+    "starred_at": "2022-03-04T11:53:44Z",
+    "category": "开发工具",
+    "tags": [
+      "包管理",
+      "服务管理",
+      "macOS",
+      "开发工具",
+      "系统工具",
+      "已弃用"
+    ],
+    "summary": "Homebrew Services是Homebrew包管理器的服务管理扩展，允许用户通过命令行管理通过Homebrew安装的服务。现已标记为已弃用，建议用户使用其他替代方案。",
+    "analyzed_at": "2025-11-09T19:17:29.841704+00:00"
+  },
+  {
+    "repo_full_name": "vdeville/ssh-login-alert-telegram",
+    "owner": "vdeville",
+    "html_url": "https://github.com/vdeville/ssh-login-alert-telegram",
+    "description": "Recieive telegram notfications when user connect to a server",
+    "topics": [
+      "alert",
+      "audit",
+      "connections",
+      "debian",
+      "linux",
+      "login",
+      "security",
+      "ssh",
+      "telegram",
+      "ubuntu"
+    ],
+    "starred_at": "2022-03-04T13:18:20Z",
+    "category": "安全工具",
+    "tags": [
+      "security",
+      "ssh",
+      "alert",
+      "audit",
+      "linux"
+    ],
+    "summary": "这个工具可以在用户通过SSH连接到服务器时发送Telegram通知，帮助管理员监控服务器登录活动，增强系统安全性。",
+    "analyzed_at": "2025-11-09T19:17:29.841704+00:00"
+  },
+  {
+    "repo_full_name": "pengfeiw/css-tutorial",
+    "owner": "pengfeiw",
+    "html_url": "https://github.com/pengfeiw/css-tutorial",
+    "description": "css 教程",
+    "topics": [
+      "css",
+      "css-tutorial",
+      "css3",
+      "tutorial"
+    ],
+    "starred_at": "2022-03-04T15:38:18Z",
+    "category": "教育学习",
+    "tags": [
+      "css",
+      "css-tutorial",
+      "css3",
+      "tutorial",
+      "web-development"
+    ],
+    "summary": "这是一个全面的CSS教程资源，涵盖CSS3基础知识与实战技巧，适合Web开发初学者和进阶者学习使用。",
+    "analyzed_at": "2025-11-09T19:17:29.841704+00:00"
+  },
+  {
+    "repo_full_name": "TryGhost/Ghost",
+    "owner": "TryGhost",
+    "html_url": "https://github.com/TryGhost/Ghost",
+    "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters.",
+    "topics": [
+      "blogging",
+      "cms",
+      "ghost",
+      "javascript",
+      "journalism",
+      "nodejs",
+      "publishing",
+      "web-application"
+    ],
+    "starred_at": "2022-03-05T09:43:05Z",
+    "category": "Web应用",
+    "tags": [
+      "博客",
+      "内容管理系统",
+      "出版",
+      "新闻",
+      "Web应用"
+    ],
+    "summary": "Ghost是一个现代化的内容发布平台，支持会员、订阅和新闻通讯功能。它基于Node.js和JavaScript构建，为博客、新闻和其他出版内容提供独立的技术解决方案。",
+    "analyzed_at": "2025-11-09T19:17:29.841704+00:00"
+  },
+  {
+    "repo_full_name": "QMHTMY/RustBook",
+    "owner": "QMHTMY",
+    "html_url": "https://github.com/QMHTMY/RustBook",
+    "description": "A book about Rust Data Structures and Algorithms.",
+    "topics": [],
+    "starred_at": "2022-03-07T02:41:51Z",
+    "category": "教育学习",
+    "tags": [
+      "Rust",
+      "数据结构",
+      "算法",
+      "编程教程"
+    ],
+    "summary": "这是一本关于Rust编程语言数据结构与算法的教程书籍，旨在帮助读者掌握Rust语言中的核心数据结构和算法实现，提升编程技能。",
+    "analyzed_at": "2025-11-09T19:17:29.841704+00:00"
+  },
+  {
+    "repo_full_name": "TrungNguyen1909/qemu-t8030",
+    "owner": "TrungNguyen1909",
+    "html_url": "https://github.com/TrungNguyen1909/qemu-t8030",
+    "description": "iPhone 11 emulated on QEMU",
+    "topics": [
+      "emulator",
+      "hypervisor",
+      "ios",
+      "qemu"
+    ],
+    "starred_at": "2022-03-07T02:42:05Z",
+    "category": "开发工具",
+    "tags": [
+      "模拟器",
+      "虚拟化",
+      "iOS",
+      "QEMU",
+      "移动开发"
+    ],
+    "summary": "这是一个在QEMU模拟器上运行iPhone 11的项目，允许开发者在非苹果硬件上测试和开发iOS应用，为移动应用开发提供了便利的测试环境。",
+    "analyzed_at": "2025-11-09T19:17:29.841704+00:00"
+  },
+  {
+    "repo_full_name": "PGYER/codefever",
+    "owner": "PGYER",
+    "html_url": "https://github.com/PGYER/codefever",
+    "description": "CodeFever 是完全免费开源的 Git 代码托管服务，支持一行命令安装到自己服务器！CodeFever Community Edition (A Self-hosted Git Services)!",
+    "topics": [
+      "docker",
+      "git",
+      "pgyer",
+      "self-hosted"
+    ],
+    "starred_at": "2022-03-07T02:52:11Z",
+    "category": "开发工具",
+    "tags": [
+      "代码托管",
+      "版本控制",
+      "自托管",
+      "Git服务",
+      "Docker部署"
+    ],
+    "summary": "CodeFever是一个开源的Git代码托管平台，支持自部署到个人服务器，提供类似GitHub的功能，适合团队协作和代码管理。",
+    "analyzed_at": "2025-11-09T19:17:29.841704+00:00"
+  },
+  {
+    "repo_full_name": "gristlabs/grist-core",
+    "owner": "gristlabs",
+    "html_url": "https://github.com/gristlabs/grist-core",
+    "description": "Grist is the evolution of spreadsheets.",
+    "topics": [
+      "awesome",
+      "database",
+      "spreadsheet"
+    ],
+    "starred_at": "2022-03-07T02:53:51Z",
+    "category": "Web应用",
+    "tags": [
+      "电子表格",
+      "数据库",
+      "在线协作",
+      "数据管理",
+      "表格处理",
+      "数据可视化"
+    ],
+    "summary": "Grist是一款革新性的电子表格应用，融合了传统电子表格的易用性和数据库的强大功能，提供在线协作和数据管理能力，让数据处理更加高效直观。",
+    "analyzed_at": "2025-11-09T19:17:29.841704+00:00"
+  },
+  {
+    "repo_full_name": "material-foundation/material-color-utilities",
+    "owner": "material-foundation",
+    "html_url": "https://github.com/material-foundation/material-color-utilities",
+    "description": "Color libraries for Material You",
+    "topics": [
+      "cpp-library",
+      "dart-library",
+      "dart-package",
+      "java-library",
+      "material-design",
+      "typescript-library"
+    ],
+    "starred_at": "2022-03-07T08:34:26Z",
+    "category": "设计工具",
+    "tags": [
+      "Material Design",
+      "颜色工具",
+      "多语言支持",
+      "UI设计",
+      "设计系统"
+    ],
+    "summary": "Material You颜色工具库，提供C++、Dart、Java和TypeScript等多语言实现，帮助开发者轻松应用Material Design的颜色系统，创建一致且美观的用户界面。",
+    "analyzed_at": "2025-11-09T19:17:29.841704+00:00"
+  },
+  {
+    "repo_full_name": "jonathontoon/manifest",
+    "owner": "jonathontoon",
+    "html_url": "https://github.com/jonathontoon/manifest",
+    "description": "An instant grid-based pinboard for note taking in your browser.",
+    "topics": [],
+    "starred_at": "2022-03-08T07:47:25Z",
+    "category": "Web应用",
+    "tags": [
+      "笔记应用",
+      "网格布局",
+      "钉板",
+      "浏览器工具",
+      "信息组织"
+    ],
+    "summary": "这是一个基于网格的即时钉板应用，专为浏览器中的笔记记录设计，提供直观的视觉组织方式。",
+    "analyzed_at": "2025-11-09T19:17:29.841704+00:00"
+  },
+  {
+    "repo_full_name": "wechaty/wechaty",
+    "owner": "wechaty",
+    "html_url": "https://github.com/wechaty/wechaty",
+    "description": "Conversational RPA SDK for Chatbot Makers. Join our Discord: https://discord.gg/7q8NBZbQzt",
+    "topics": [
+      "bot",
+      "chatbot",
+      "conversational-ai",
+      "framework",
+      "qq",
+      "robotics",
+      "wechat",
+      "wechaty",
+      "whatsapp"
+    ],
+    "starred_at": "2022-03-08T10:05:03Z",
+    "category": "AI/机器学习",
+    "tags": [
+      "聊天机器人",
+      "对话式AI",
+      "开发框架",
+      "微信机器人",
+      "自动化"
+    ],
+    "summary": "Wechaty是一个用于创建聊天机器人的对话式RPA SDK，支持微信、QQ和WhatsApp等多平台。它为开发者提供了构建智能对话机器人的完整框架，简化了聊天机器人的开发流程。",
+    "analyzed_at": "2025-11-09T19:17:29.841704+00:00"
+  },
+  {
+    "repo_full_name": "kyleneideck/BackgroundMusic",
+    "owner": "kyleneideck",
+    "html_url": "https://github.com/kyleneideck/BackgroundMusic",
+    "description": "Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.",
+    "topics": [
+      "audio",
+      "audio-utility",
+      "cpp",
+      "macos",
+      "objective-c"
+    ],
+    "starred_at": "2022-03-11T08:53:21Z",
+    "category": "效率工具",
+    "tags": [
+      "音频工具",
+      "macOS",
+      "音频"
+    ],
+    "summary": "Background Music是一款macOS音频工具，可自动暂停音乐、设置应用音量和录制系统音频，提升音频管理效率。",
+    "analyzed_at": "2025-11-09T19:17:29.841704+00:00"
+  },
+  {
+    "repo_full_name": "vasanthk/how-web-works",
+    "owner": "vasanthk",
+    "html_url": "https://github.com/vasanthk/how-web-works",
+    "description": "What happens behind the scenes when we type www.google.com in a browser?",
+    "topics": [],
+    "starred_at": "2022-03-11T10:17:48Z",
+    "category": "教育学习",
+    "tags": [
+      "Web技术",
+      "浏览器",
+      "网络",
+      "教程",
+      "前端"
+    ],
+    "summary": "该项目详细解释了当用户在浏览器中输入网址后，从DNS解析到页面渲染的完整Web工作流程，帮助开发者理解互联网底层技术原理。",
+    "analyzed_at": "2025-11-09T19:17:29.841704+00:00"
+  },
+  {
+    "repo_full_name": "kamranahmedse/developer-roadmap",
+    "owner": "kamranahmedse",
+    "html_url": "https://github.com/kamranahmedse/developer-roadmap",
+    "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+    "topics": [
+      "angular-roadmap",
+      "backend-roadmap",
+      "blockchain-roadmap",
+      "computer-science",
+      "dba-roadmap",
+      "developer-roadmap",
+      "devops-roadmap",
+      "frontend-roadmap",
+      "go-roadmap",
+      "java-roadmap",
+      "javascript-roadmap",
+      "nodejs-roadmap",
+      "python-roadmap",
+      "qa-roadmap",
+      "react-roadmap",
+      "roadmap",
+      "software-architect-roadmap",
+      "vue-roadmap"
+    ],
+    "starred_at": "2022-03-11T10:17:59Z",
+    "category": "教育学习",
+    "tags": [
+      "路线图",
+      "开发者指南",
+      "职业发展",
+      "技术学习",
+      "编程教育"
+    ],
+    "summary": "这个项目提供了交互式的技术路线图和学习指南，涵盖前端、后端、DevOps等多个领域，帮助开发者规划职业发展路径和学习路线。",
+    "analyzed_at": "2025-11-09T19:17:29.841704+00:00"
+  },
+  {
+    "repo_full_name": "microsoft/Web-Dev-For-Beginners",
+    "owner": "microsoft",
+    "html_url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "topics": [
+      "css",
+      "curriculum",
+      "education",
+      "html",
+      "javascript",
+      "learning",
+      "microsoft-for-beginners",
+      "tutorials"
+    ],
+    "starred_at": "2022-03-11T10:18:22Z",
+    "category": "教育学习",
+    "tags": [
+      "Web开发",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "教程",
+      "学习资源"
+    ],
+    "summary": "微软推出的Web开发入门教程，包含24个课程，为期12周，帮助初学者成为Web开发者。涵盖HTML、CSS、JavaScript等核心技术，适合零基础学习者。",
+    "analyzed_at": "2025-11-09T19:17:29.841704+00:00"
+  },
+  {
+    "repo_full_name": "wesbos/JavaScript30",
+    "owner": "wesbos",
+    "html_url": "https://github.com/wesbos/JavaScript30",
+    "description": "30 Day Vanilla JS Challenge",
+    "topics": [],
+    "starred_at": "2022-03-11T10:18:28Z",
+    "category": "教育学习",
+    "tags": [
+      "JavaScript",
+      "编程挑战",
+      "前端开发",
+      "学习资源",
+      "练习项目",
+      "Web开发"
+    ],
+    "summary": "JavaScript30是一个为期30天的纯JavaScript编程挑战项目，通过30个实际练习帮助开发者掌握原生JavaScript技能，提升前端开发能力。",
+    "analyzed_at": "2025-11-09T19:17:29.841704+00:00"
+  },
+  {
+    "repo_full_name": "apptension/developer-handbook",
+    "owner": "apptension",
+    "html_url": "https://github.com/apptension/developer-handbook",
+    "description": "An opinionated guide on how to become a professional Web/Mobile App Developer.",
+    "topics": [
+      "aws",
+      "career-development",
+      "career-guide",
+      "career-path",
+      "career-plan",
+      "css",
+      "databases",
+      "developer-documentation",
+      "guidebook",
+      "guidelines",
+      "handbook",
+      "javascript",
+      "js",
+      "learn-to-code",
+      "learning-js",
+      "learning-python",
+      "python",
+      "react",
+      "sql"
+    ],
+    "starred_at": "2022-03-11T10:19:26Z",
+    "category": "开发工具",
+    "tags": [
+      "职业发展",
+      "开发指南",
+      "JavaScript",
+      "Python",
+      "React",
+      "学习资源"
+    ],
+    "summary": "这是一份关于如何成为专业Web/移动应用开发者的实用指南，涵盖AWS、JavaScript、Python、React等技术栈，以及职业发展规划，为开发者提供全面的学习路径和成长建议。",
+    "analyzed_at": "2025-11-09T19:17:29.841704+00:00"
+  },
+  {
+    "repo_full_name": "dexteryy/spellbook-of-modern-webdev",
+    "owner": "dexteryy",
+    "html_url": "https://github.com/dexteryy/spellbook-of-modern-webdev",
+    "description": "A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development",
+    "topics": [
+      "awesome",
+      "css3",
+      "html5",
+      "isomorphic-javascript",
+      "javascript",
+      "learning",
+      "libraries",
+      "nodejs",
+      "universal-javascript",
+      "webapp",
+      "webplatform"
+    ],
+    "starred_at": "2022-03-11T10:19:37Z",
+    "category": "Web应用",
+    "tags": [
+      "JavaScript",
+      "Web开发",
+      "前端",
+      "学习资源",
+      "技术文档",
+      "开发工具"
+    ],
+    "summary": "现代JavaScript Web开发综合指南，包含技术概览、分类法和学习资源，涵盖JavaScript、CSS3、HTML5及同构开发等前端技术，是Web开发者的实用参考手册。",
+    "analyzed_at": "2025-11-09T19:17:29.841704+00:00"
+  },
+  {
+    "repo_full_name": "google/WebFundamentals",
+    "owner": "google",
+    "html_url": "https://github.com/google/WebFundamentals",
+    "description": "Former git repo for WebFundamentals on developers.google.com",
+    "topics": [
+      "best-practices",
+      "chrome",
+      "chrome-browser",
+      "css",
+      "html",
+      "html5",
+      "javascript",
+      "mobile-web",
+      "progressive-web-app",
+      "web",
+      "web-app"
+    ],
+    "starred_at": "2022-03-11T10:19:54Z",
+    "category": "Web应用",
+    "tags": [
+      "Web开发",
+      "前端技术",
+      "最佳实践",
+      "HTML/CSS",
+      "JavaScript",
+      "渐进式Web应用"
+    ],
+    "summary": "Google Web Fundamentals代码库，提供Web开发最佳实践、HTML/CSS/JavaScript技术指南，以及移动Web和渐进式Web应用开发知识。",
+    "analyzed_at": "2025-11-09T19:17:29.841704+00:00"
+  },
+  {
+    "repo_full_name": "airbnb/javascript",
+    "owner": "airbnb",
+    "html_url": "https://github.com/airbnb/javascript",
+    "description": "JavaScript Style Guide",
+    "topics": [
+      "arrow-functions",
+      "es2015",
+      "es2016",
+      "es2017",
+      "es2018",
+      "es6",
+      "eslint",
+      "javascript",
+      "linting",
+      "naming-conventions",
+      "style-guide",
+      "style-linter",
+      "styleguide",
+      "tc39"
+    ],
+    "starred_at": "2022-03-11T10:20:09Z",
+    "category": "开发工具",
+    "tags": [
+      "JavaScript",
+      "代码规范",
+      "ESLint",
+      "ES6+",
+      "编程指南"
+    ],
+    "summary": "Airbnb JavaScript代码风格指南，提供JavaScript编程最佳实践和规范，涵盖ES6+新特性，帮助开发者编写一致、高质量的JavaScript代码。",
+    "analyzed_at": "2025-11-09T19:17:29.841704+00:00"
+  },
+  {
+    "repo_full_name": "lin-123/javascript",
+    "owner": "lin-123",
+    "html_url": "https://github.com/lin-123/javascript",
+    "description": "eslint-config-airbnb 中文版",
+    "topics": [
+      "airbnb",
+      "chinese-translation",
+      "eslint"
+    ],
+    "starred_at": "2022-03-11T10:20:19Z",
+    "category": "开发工具",
+    "tags": [
+      "代码检查",
+      "JavaScript",
+      "ESLint",
+      "Airbnb",
+      "代码规范"
+    ],
+    "summary": "这是一个 Airbnb ESLint 配置规则的中文翻译版本，帮助开发者理解和应用 JavaScript 代码规范，提高代码质量和一致性。",
+    "analyzed_at": "2025-11-09T19:17:29.841704+00:00"
+  },
+  {
+    "repo_full_name": "donnemartin/system-design-primer",
+    "owner": "donnemartin",
+    "html_url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+    "topics": [
+      "design",
+      "design-patterns",
+      "design-system",
+      "development",
+      "interview",
+      "interview-practice",
+      "interview-questions",
+      "programming",
+      "python",
+      "system",
+      "web",
+      "web-application",
+      "webapp"
+    ],
+    "starred_at": "2022-03-11T10:20:49Z",
+    "category": "开发工具",
+    "tags": [
+      "系统设计",
+      "面试准备",
+      "设计模式",
+      "架构",
+      "开发工具",
+      "学习资源"
+    ],
+    "summary": "这是一个系统设计学习资源，帮助开发者学习大规模系统设计方法，准备系统设计面试。包含设计模式、系统架构等内容，并提供Anki闪卡辅助记忆。",
+    "analyzed_at": "2025-11-09T19:17:29.841704+00:00"
+  },
+  {
+    "repo_full_name": "samdutton/simpl",
+    "owner": "samdutton",
+    "html_url": "https://github.com/samdutton/simpl",
+    "description": "Simplest possible examples of HTML, CSS and Javascript:",
+    "topics": [
+      "css",
+      "html",
+      "javascript"
+    ],
+    "starred_at": "2022-03-11T10:21:16Z",
+    "category": "教育学习",
+    "tags": [
+      "前端开发",
+      "教程",
+      "示例代码",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "summary": "这个项目提供了HTML、CSS和JavaScript的最简单示例，是前端开发初学者的理想学习资源，通过简洁明了的代码帮助理解基础概念。",
+    "analyzed_at": "2025-11-09T19:17:29.841704+00:00"
+  },
+  {
+    "repo_full_name": "gothinkster/realworld",
+    "owner": "gothinkster",
+    "html_url": "https://github.com/gothinkster/realworld",
+    "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more",
+    "topics": [],
+    "starred_at": "2022-03-11T10:21:17Z",
+    "category": "Web应用",
+    "tags": [
+      "全栈",
+      "React",
+      "Angular",
+      "Node.js",
+      "Django",
+      "Medium克隆"
+    ],
+    "summary": "Realworld是一个全栈Web应用示例项目，被誉为'所有演示应用之母'。它是一个Medium.com的克隆版，使用React、Angular、Node.js、Django等多种技术栈构建，为开发者提供了完整的前后端实践案例。",
+    "analyzed_at": "2025-11-09T19:17:29.841704+00:00"
+  },
+  {
+    "repo_full_name": "bradtraversy/design-resources-for-developers",
+    "owner": "bradtraversy",
+    "html_url": "https://github.com/bradtraversy/design-resources-for-developers",
+    "description": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more",
+    "topics": [],
+    "starred_at": "2022-03-11T10:22:52Z",
+    "category": "开发工具",
+    "tags": [
+      "设计资源",
+      "UI工具",
+      "开发辅助",
+      "CSS框架",
+      "网页模板"
+    ],
+    "summary": "这是一个为开发者精心整理的设计和UI资源集合，包含股票图片、网页模板、CSS框架、UI库和各种实用工具，帮助开发者快速获取设计资源，提高开发效率。",
+    "analyzed_at": "2025-11-09T19:17:29.841704+00:00"
+  },
+  {
+    "repo_full_name": "cheatsheet1999/FrontEndCollection",
+    "owner": "cheatsheet1999",
+    "html_url": "https://github.com/cheatsheet1999/FrontEndCollection",
+    "description": "Notes for Software Engineers on infrastructure and distributed systems. Covers common data structure and algorithms, web concepts, and more!",
+    "topics": [
+      "backend",
+      "cloudinfrastructure",
+      "data-structures",
+      "distributed-systems",
+      "front-end",
+      "infrastructure",
+      "interview"
+    ],
+    "starred_at": "2022-03-11T10:22:56Z",
+    "category": "开发工具",
+    "tags": [
+      "前端开发",
+      "后端开发",
+      "基础设施",
+      "数据结构",
+      "算法"
+    ],
+    "summary": "这是一个面向软件工程师的前端开发资源集合，包含基础设施和分布式系统的笔记，涵盖常见数据结构、算法以及Web概念等，适合开发者学习和面试准备。",
+    "analyzed_at": "2025-11-09T19:17:29.841704+00:00"
+  },
+  {
+    "repo_full_name": "EbookFoundation/free-programming-books",
+    "owner": "EbookFoundation",
+    "html_url": "https://github.com/EbookFoundation/free-programming-books",
+    "description": ":books: Freely available programming books",
+    "topics": [
+      "books",
+      "education",
+      "hacktoberfest",
+      "list",
+      "resource"
+    ],
+    "starred_at": "2022-03-11T10:22:59Z",
+    "category": "教育学习",
+    "tags": [
+      "books",
+      "education",
+      "resource",
+      "list"
+    ],
+    "summary": "EbookFoundation/free-programming-books 是一个收集免费编程书籍的开源项目，为开发者提供丰富的学习资源，涵盖多种编程语言和技术领域。",
+    "analyzed_at": "2025-11-09T19:17:29.841704+00:00"
+  },
+  {
+    "repo_full_name": "getify/You-Dont-Know-JS",
+    "owner": "getify",
+    "html_url": "https://github.com/getify/You-Dont-Know-JS",
+    "description": "A book series (2 published editions) on the JS language.",
+    "topics": [
+      "async",
+      "book",
+      "book-series",
+      "closures",
+      "education",
+      "es2015",
+      "es6",
+      "javascript",
+      "learn-to-code",
+      "programming",
+      "prototypes",
+      "training-materials",
+      "training-providers"
+    ],
+    "starred_at": "2022-03-11T10:23:37Z",
+    "category": "教育学习",
+    "tags": [
+      "javascript",
+      "education",
+      "programming",
+      "learn-to-code",
+      "book-series",
+      "es6"
+    ],
+    "summary": "这是一套JavaScript语言书籍系列，深入讲解JS核心概念，包括闭包、原型、异步编程等，适合希望深入学习JavaScript的开发者。",
+    "analyzed_at": "2025-11-09T19:17:29.841704+00:00"
+  },
+  {
+    "repo_full_name": "Mint-green/UnlearnableWord",
+    "owner": "Mint-green",
+    "html_url": "https://github.com/Mint-green/UnlearnableWord",
+    "description": "一个背单词小程序",
+    "topics": [
+      "miniprogram",
+      "wechat-mini-program",
+      "word-learning",
+      "word-reviewing",
+      "words"
+    ],
+    "starred_at": "2022-03-11T10:25:39Z",
+    "category": "移动应用",
+    "tags": [
+      "背单词",
+      "小程序",
+      "微信小程序",
+      "单词学习",
+      "单词复习"
+    ],
+    "summary": "UnlearnableWord是一个微信背单词小程序，帮助用户高效学习与复习单词，提升语言能力。",
+    "analyzed_at": "2025-11-09T19:17:29.841704+00:00"
+  },
+  {
+    "repo_full_name": "coderpage/Mine",
+    "owner": "coderpage",
+    "html_url": "https://github.com/coderpage/Mine",
+    "description": "简单、干净的记账本应用",
+    "topics": [],
+    "starred_at": "2022-03-11T10:25:53Z",
+    "category": "效率工具",
+    "tags": [
+      "记账",
+      "财务管理",
+      "简洁界面",
+      "个人理财"
+    ],
+    "summary": "Mine是一款简洁易用的记账本应用，帮助用户轻松记录和管理日常收支，界面干净直观，适合个人财务管理。",
+    "analyzed_at": "2025-11-09T19:17:29.841704+00:00"
+  },
+  {
+    "repo_full_name": "pabueco/hue.tools",
+    "owner": "pabueco",
+    "html_url": "https://github.com/pabueco/hue.tools",
+    "description": "Simple toolbox for working with colors. Color mixing, blending, conversion, modification, detailed information, etc.",
+    "topics": [
+      "svelte",
+      "sveltekit",
+      "tailwindcss",
+      "typescript",
+      "vercel"
+    ],
+    "starred_at": "2022-03-11T10:28:22Z",
+    "category": "设计工具",
+    "tags": [
+      "颜色工具",
+      "在线工具",
+      "Svelte",
+      "TypeScript",
+      "前端"
+    ],
+    "summary": "Hue.tools是一个基于Svelte和TypeScript构建的在线颜色处理工具箱，提供颜色混合、转换、修改和详细信息等功能，使用TailwindCSS进行样式设计，部署在Vercel平台上。",
+    "analyzed_at": "2025-11-09T19:17:29.841704+00:00"
+  },
+  {
+    "repo_full_name": "mesibo/samples",
+    "owner": "mesibo",
+    "html_url": "https://github.com/mesibo/samples",
+    "description": "Mesibo Samples",
+    "topics": [],
+    "starred_at": "2022-03-11T11:27:56Z",
+    "category": "开发工具",
+    "tags": [
+      "实时通信",
+      "示例代码",
+      "API",
+      "开发资源",
+      "消息传递"
+    ],
+    "summary": "Mesibo示例代码库，包含实时通信、消息传递、视频通话等功能的API使用示例，帮助开发者快速集成Mesibo通信平台。",
+    "analyzed_at": "2025-11-09T19:17:29.841704+00:00"
+  },
+  {
+    "repo_full_name": "photoview/photoview",
+    "owner": "photoview",
+    "html_url": "https://github.com/photoview/photoview",
+    "description": "Photo gallery for self-hosted personal servers",
+    "topics": [
+      "docker",
+      "exif",
+      "gallery",
+      "hacktoberfest",
+      "nas",
+      "photo",
+      "photo-gallery",
+      "photographers",
+      "photography",
+      "raw",
+      "selfhosted"
+    ],
+    "starred_at": "2022-03-11T11:30:24Z",
+    "category": "Web应用",
+    "tags": [
+      "photo-gallery",
+      "photography",
+      "selfhosted",
+      "exif",
+      "docker"
+    ],
+    "summary": "PhotoView是一个自托管的照片画廊应用，允许用户在个人服务器上展示和组织照片。支持EXIF信息显示，兼容RAW格式，适合摄影师和摄影爱好者使用。基于Docker部署，便于搭建个人相册网站。",
+    "analyzed_at": "2025-11-09T19:17:29.841704+00:00"
+  },
+  {
+    "repo_full_name": "naaive/orange",
+    "owner": "naaive",
+    "html_url": "https://github.com/naaive/orange",
+    "description": "Cross-platform local file search engine.",
+    "topics": [
+      "filesearch",
+      "filesystem",
+      "productivity",
+      "search",
+      "search-engine",
+      "tantivy"
+    ],
+    "starred_at": "2022-03-11T11:33:12Z",
+    "category": "桌面应用",
+    "tags": [
+      "filesearch",
+      "filesystem",
+      "productivity",
+      "search"
+    ],
+    "summary": "Orange是一个跨平台的本地文件搜索引擎，能够快速在计算机文件系统中查找文件。它基于Tantivy搜索引擎构建，提高了文件检索效率，帮助用户更高效地管理文件资源。",
+    "analyzed_at": "2025-11-09T19:17:29.841704+00:00"
+  },
+  {
+    "repo_full_name": "skywind3000/z.lua",
+    "owner": "skywind3000",
+    "html_url": "https://github.com/skywind3000/z.lua",
+    "description": ":zap: A new cd command that helps you navigate faster by learning your habits.",
+    "topics": [
+      "autojump",
+      "bash",
+      "cd",
+      "fasd",
+      "fish",
+      "fishshell",
+      "fuzzy",
+      "fzf",
+      "j",
+      "jump",
+      "plugin",
+      "powershell",
+      "shell",
+      "z",
+      "zsh",
+      "zsh-plugin"
+    ],
+    "starred_at": "2022-03-11T12:54:42Z",
+    "category": "开发工具",
+    "tags": [
+      "shell",
+      "cd",
+      "autojump",
+      "fuzzy",
+      "zsh-plugin",
+      "效率提升"
+    ],
+    "summary": "这是一个智能的cd命令工具，通过学习用户习惯实现快速目录导航，支持多种shell环境，显著提升命令行操作效率。",
+    "analyzed_at": "2025-11-09T19:17:29.841704+00:00"
+  },
+  {
+    "repo_full_name": "ChristianKohler/PathIntellisense",
+    "owner": "ChristianKohler",
+    "html_url": "https://github.com/ChristianKohler/PathIntellisense",
+    "description": "Visual Studio Code plugin that autocompletes filenames",
+    "topics": [],
+    "starred_at": "2022-03-11T13:57:26Z",
+    "category": "开发工具",
+    "tags": [
+      "代码编辑器",
+      "自动补全",
+      "VS Code",
+      "文件路径",
+      "开发效率",
+      "插件"
+    ],
+    "summary": "PathIntellisense是Visual Studio Code的一款插件，提供文件名的智能自动补全功能，帮助开发者快速输入文件路径，提高编码效率。",
+    "analyzed_at": "2025-11-09T19:17:29.841704+00:00"
+  },
+  {
+    "repo_full_name": "xiangyuecn/AreaCity-JsSpider-StatsGov",
+    "owner": "xiangyuecn",
+    "html_url": "https://github.com/xiangyuecn/AreaCity-JsSpider-StatsGov",
+    "description": "省市区县乡镇三级或四级城市数据，带拼音标注、坐标、行政区域边界范围；2025年01月14日最新采集，提供csv格式文件，支持在线转成多级联动js代码、通用json格式，提供软件转成shp、geojson、sql、导入数据库；带浏览器里面运行的js采集源码，综合了中华人民共和国民政部、国家统计局、高德地图、腾讯地图行政区划数据",
+    "topics": [],
+    "starred_at": "2022-03-11T15:05:21Z",
+    "category": "数据分析",
+    "tags": [
+      "地理数据",
+      "行政区划",
+      "数据采集",
+      "数据转换",
+      "地理信息系统"
+    ],
+    "summary": "这是一个中国省市区县乡镇行政区划数据采集与处理工具，提供带拼音、坐标和边界范围的最新城市数据，支持多种格式转换和数据库导入，整合了多个官方地图数据源。",
+    "analyzed_at": "2025-11-09T19:17:29.841704+00:00"
+  },
+  {
+    "repo_full_name": "lcomplete/smart-toc",
+    "owner": "lcomplete",
+    "html_url": "https://github.com/lcomplete/smart-toc",
+    "description": "A Chrome extension for auto-generating a table of contents , support Inoreader and Feedly. 自动生成网页文章大纲的浏览器扩展，支持 Inoreader 和 Feedly。",
+    "topics": [
+      "chrome-extension"
+    ],
+    "starred_at": "2022-03-12T08:42:53Z",
+    "category": "开发工具",
+    "tags": [
+      "chrome-extension",
+      "toc",
+      "browser-extension",
+      "productivity",
+      "automation"
+    ],
+    "summary": "smart-toc是一个Chrome浏览器扩展，能够自动为网页文章生成目录结构，支持Inoreader和 Feedly等阅读平台，提升用户阅读长文的效率和体验。",
+    "analyzed_at": "2025-11-09T19:17:29.841704+00:00"
+  },
+  {
+    "repo_full_name": "freefq/free",
+    "owner": "freefq",
+    "html_url": "https://github.com/freefq/free",
+    "description": "翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子",
+    "topics": [
+      "bulink",
+      "fanqiang",
+      "freefq",
+      "gfw",
+      "lantern",
+      "shadowsocks",
+      "trojan",
+      "v2ray",
+      "vmess",
+      "vpn"
+    ],
+    "starred_at": "2022-03-13T12:36:53Z",
+    "category": "开发工具",
+    "tags": [],
+    "summary": "ZHIPU 调用异常: Error code: 400 - {'contentFilter': [{'level': 2, 'role': 'user'}], 'error': {'code': '1301', 'message': '系统检测到输入或生成内容可能包含不安全或敏感内容，请您避免输入易产生敏感内容的提示语，感谢您的配合。'}}",
+    "analyzed_at": "2025-11-09T19:17:29.841704+00:00"
+  },
+  {
+    "repo_full_name": "chen310/NeteaseCloudMusicTasks",
+    "owner": "chen310",
+    "html_url": "https://github.com/chen310/NeteaseCloudMusicTasks",
+    "description": null,
+    "topics": [
+      "cloudmusic",
+      "music163",
+      "netease",
+      "netease-cloud-music",
+      "netease-music",
+      "neteasecloudmusic",
+      "neteasemusic"
+    ],
+    "starred_at": "2022-03-13T12:37:27Z",
+    "category": "开发工具",
+    "tags": [
+      "音乐",
+      "自动化",
+      "网易云音乐",
+      "脚本",
+      "工具"
+    ],
+    "summary": "网易云音乐自动化任务工具，可能用于执行网易云音乐平台的自动化操作或脚本。",
+    "analyzed_at": "2025-11-09T19:17:29.841704+00:00"
+  },
+  {
+    "repo_full_name": "RealKai42/qwerty-learner",
+    "owner": "RealKai42",
+    "html_url": "https://github.com/RealKai42/qwerty-learner",
+    "description": "为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers",
+    "topics": [
+      "english-learning",
+      "typing",
+      "typing-game",
+      "typing-practice",
+      "typingspeedtest"
+    ],
+    "starred_at": "2022-03-14T07:14:17Z",
+    "category": "教育学习",
+    "tags": [
+      "english-learning",
+      "typing",
+      "typing-game",
+      "typing-practice"
+    ],
+    "summary": "qwerty-learner是一款专为键盘工作者设计的英语学习软件，通过打字练习和游戏化的方式帮助用户记忆单词并培养英语肌肉记忆，提高打字速度和准确性。",
+    "analyzed_at": "2025-11-09T19:17:29.841704+00:00"
+  },
+  {
+    "repo_full_name": "zhheo/work-weixin-msg-sever-api",
+    "owner": "zhheo",
+    "html_url": "https://github.com/zhheo/work-weixin-msg-sever-api",
+    "description": "可自行搭建的微信消息通知api",
+    "topics": [],
+    "starred_at": "2022-03-14T11:34:19Z",
+    "category": "开发工具",
+    "tags": [
+      "微信API",
+      "消息通知",
+      "服务器",
+      "自托管",
+      "开发工具"
+    ],
+    "summary": "这是一个可自行搭建的微信消息通知API服务，允许开发者通过自建服务器实现微信消息通知功能，提供稳定可靠的消息推送服务。",
+    "analyzed_at": "2025-11-09T19:17:29.841704+00:00"
+  },
+  {
+    "repo_full_name": "Benbinbin/TagDown",
+    "owner": "Benbinbin",
+    "html_url": "https://github.com/Benbinbin/TagDown",
+    "description": "A bookmarks manager Chrome extension.",
+    "topics": [],
+    "starred_at": "2022-03-15T15:31:38Z",
+    "category": "效率工具",
+    "tags": [
+      "书签管理",
+      "浏览器扩展",
+      "Chrome",
+      "效率工具",
+      "网页收藏"
+    ],
+    "summary": "TagDown是一款Chrome浏览器扩展，提供高效的书签管理功能，帮助用户轻松整理和访问收藏的网页，提升浏览效率。",
+    "analyzed_at": "2025-11-09T19:17:29.841704+00:00"
+  },
+  {
+    "repo_full_name": "solobat/Steward",
+    "owner": "solobat",
+    "html_url": "https://github.com/solobat/Steward",
+    "description": "A command launcher for Chrome",
+    "topics": [
+      "chrome-extension",
+      "efficiency",
+      "web"
+    ],
+    "starred_at": "2022-03-15T15:46:18Z",
+    "category": "效率工具",
+    "tags": [
+      "chrome-extension",
+      "efficiency",
+      "web",
+      "productivity",
+      "shortcuts",
+      "browser-extension"
+    ],
+    "summary": "Steward是一个Chrome浏览器的命令启动器扩展，通过快捷命令快速访问和执行浏览器功能，提高用户浏览网页的效率，简化重复操作。",
+    "analyzed_at": "2025-11-09T19:17:29.841704+00:00"
+  },
+  {
+    "repo_full_name": "lvxianchao/the-fucking-github",
+    "owner": "lvxianchao",
+    "html_url": "https://github.com/lvxianchao/the-fucking-github",
+    "description": "A Chrome extension for Github. View starred repositories, organizing stars, searching stars and searching repositories online for Github。",
+    "topics": [
+      "chrome",
+      "chrome-extensions",
+      "github",
+      "github-search-repository",
+      "github-stars"
+    ],
+    "starred_at": "2022-03-16T13:38:17Z",
+    "category": "开发工具",
+    "tags": [
+      "chrome",
+      "chrome-extensions",
+      "github",
+      "github-stars",
+      "开发工具"
+    ],
+    "summary": "这是一个Chrome浏览器扩展，用于增强GitHub功能，包括查看星标仓库、组织星标、搜索星标和在线搜索仓库，帮助开发者更高效地管理GitHub资源。",
+    "analyzed_at": "2025-11-09T19:17:29.841704+00:00"
+  },
+  {
+    "repo_full_name": "unocss/unocss",
+    "owner": "unocss",
+    "html_url": "https://github.com/unocss/unocss",
+    "description": "The instant on-demand atomic CSS engine.",
+    "topics": [
+      "atomic-css",
+      "engine",
+      "unocss",
+      "vite-plugin",
+      "windicss"
+    ],
+    "starred_at": "2022-03-16T13:38:43Z",
+    "category": "开发工具",
+    "tags": [
+      "atomic-css",
+      "engine",
+      "unocss",
+      "vite-plugin",
+      "windicss"
+    ],
+    "summary": "UnoCSS是一个即时按需原子CSS引擎，支持Vite插件，可高效生成原子CSS样式，与Windicss相关联，提供灵活的前端样式解决方案。",
+    "analyzed_at": "2025-11-09T19:17:29.841704+00:00"
   }
 ]
