@@ -35828,5 +35828,1224 @@
     ],
     "summary": "童欧巴的技术周刊项目，每周定期发布技术相关内容，为开发者提供最新的技术资讯和知识分享平台。",
     "analyzed_at": "2025-11-10T19:20:21.766233+00:00"
+  },
+  {
+    "repo_full_name": "LearnGolang/LearnGolang",
+    "owner": "LearnGolang",
+    "html_url": "https://github.com/LearnGolang/LearnGolang",
+    "description": "《Golang学习资源大全-只有Go语言才能改变世界》Only Golang Can Change The World.",
+    "topics": [
+      "0e0w",
+      "365golang",
+      "go",
+      "golang",
+      "gopher",
+      "learngolang"
+    ],
+    "starred_at": "2022-04-01T09:03:05Z",
+    "category": "教育学习",
+    "tags": [
+      "go",
+      "golang",
+      "编程语言",
+      "学习资源"
+    ],
+    "summary": "这是一个Go语言学习资源大全，汇集了Go语言的学习资料和教程，帮助开发者掌握Go语言编程技能。",
+    "analyzed_at": "2025-11-11T19:19:48.751919+00:00"
+  },
+  {
+    "repo_full_name": "xioacd99/study-is-wonderful",
+    "owner": "xioacd99",
+    "html_url": "https://github.com/xioacd99/study-is-wonderful",
+    "description": "awesome public courses and wonderful study resource",
+    "topics": [
+      "awesome-list",
+      "courses",
+      "learing",
+      "study"
+    ],
+    "starred_at": "2022-04-01T09:03:11Z",
+    "category": "教育学习",
+    "tags": [
+      "学习资源",
+      "课程集合",
+      "精选列表",
+      "教育工具"
+    ],
+    "summary": "这是一个精选的公开课程和学习资源集合，为学习者提供丰富的学习材料，涵盖多个学科领域，帮助用户找到适合自己的学习资源。",
+    "analyzed_at": "2025-11-11T19:19:48.751919+00:00"
+  },
+  {
+    "repo_full_name": "VSCodium/vscodium",
+    "owner": "VSCodium",
+    "html_url": "https://github.com/VSCodium/vscodium",
+    "description": "binary releases of VS Code without MS branding/telemetry/licensing",
+    "topics": [
+      "editor",
+      "floss",
+      "ide",
+      "open-source-licensing",
+      "vscode"
+    ],
+    "starred_at": "2022-04-01T12:50:13Z",
+    "category": "开发工具",
+    "tags": [
+      "编辑器",
+      "IDE",
+      "开源许可",
+      "VS Code",
+      "代码编辑器",
+      "开源工具"
+    ],
+    "summary": "VSCodium是VS Code的开源版本，提供不含微软品牌、遥测和许可限制的二进制发行版。它保留了VS Code的所有功能，但更加注重用户隐私和自由软件理念。",
+    "analyzed_at": "2025-11-11T19:19:48.751919+00:00"
+  },
+  {
+    "repo_full_name": "Mortennn/Dozer",
+    "owner": "Mortennn",
+    "html_url": "https://github.com/Mortennn/Dozer",
+    "description": "Hide menu bar icons on macOS",
+    "topics": [
+      "macos",
+      "minimalistic",
+      "statusbar",
+      "utility"
+    ],
+    "starred_at": "2022-04-01T12:50:47Z",
+    "category": "桌面应用",
+    "tags": [
+      "macos",
+      "minimalistic",
+      "statusbar",
+      "utility"
+    ],
+    "summary": "Dozer是一款macOS桌面工具，可隐藏系统菜单栏图标，帮助用户创建更简洁的桌面环境，支持自定义设置，提升系统界面的整洁度。",
+    "analyzed_at": "2025-11-11T19:19:48.751919+00:00"
+  },
+  {
+    "repo_full_name": "rawnly/splash-cli",
+    "owner": "rawnly",
+    "html_url": "https://github.com/rawnly/splash-cli",
+    "description": "A simple, CLI to download Unsplash wallpapers. Nothing fancy — it just works.",
+    "topics": [
+      "beautiful-photos",
+      "beautiful-wallpapers",
+      "change-wallpaper",
+      "cli",
+      "download-photos",
+      "photography",
+      "photos",
+      "splash",
+      "unsplash",
+      "wallpaper",
+      "wallpapers"
+    ],
+    "starred_at": "2022-04-01T16:07:43Z",
+    "category": "开发工具",
+    "tags": [
+      "cli",
+      "wallpaper",
+      "download-photos",
+      "unsplash",
+      "photography"
+    ],
+    "summary": "这是一个简单的命令行工具，用于从Unsplash平台下载高质量壁纸。它功能简洁实用，无需复杂配置即可快速获取精美壁纸。",
+    "analyzed_at": "2025-11-11T19:19:48.751919+00:00"
+  },
+  {
+    "repo_full_name": "macports/macports-base",
+    "owner": "macports",
+    "html_url": "https://github.com/macports/macports-base",
+    "description": "The MacPorts command-line client",
+    "topics": [
+      "command-line",
+      "macos",
+      "macosx",
+      "macports",
+      "package-manager"
+    ],
+    "starred_at": "2022-04-02T10:06:04Z",
+    "category": "开发工具",
+    "tags": [
+      "命令行",
+      "macOS",
+      "包管理器"
+    ],
+    "summary": "MacPorts是一个macOS系统下的命令行包管理工具，帮助用户轻松安装、更新和管理开源软件。",
+    "analyzed_at": "2025-11-11T19:19:48.751919+00:00"
+  },
+  {
+    "repo_full_name": "macports/macports-ports",
+    "owner": "macports",
+    "html_url": "https://github.com/macports/macports-ports",
+    "description": "The MacPorts ports tree",
+    "topics": [
+      "command-line",
+      "macos",
+      "macosx",
+      "macports",
+      "package-manager",
+      "ports"
+    ],
+    "starred_at": "2022-04-02T10:06:36Z",
+    "category": "开发工具",
+    "tags": [
+      "command-line",
+      "macos",
+      "package-manager",
+      "ports"
+    ],
+    "summary": "MacPorts是macOS系统的开源包管理器，通过命令行界面帮助用户轻松安装、更新和管理软件包。它维护着一个包含数千个软件端口（port）的集合，是macOS开发环境的重要组成部分。",
+    "analyzed_at": "2025-11-11T19:19:48.751919+00:00"
+  },
+  {
+    "repo_full_name": "svsool/memo",
+    "owner": "svsool",
+    "html_url": "https://github.com/svsool/memo",
+    "description": "Markdown knowledge base with bidirectional [[link]]s built on top of VSCode",
+    "topics": [
+      "knowledge-base",
+      "markdown",
+      "note-taking-app",
+      "notes-app",
+      "personal-knowlege-base",
+      "references",
+      "vscode-extension",
+      "wiki-links",
+      "zettelkasten"
+    ],
+    "starred_at": "2022-04-03T04:33:07Z",
+    "category": "效率工具",
+    "tags": [
+      "知识管理",
+      "Markdown",
+      "笔记应用",
+      "VSCode扩展",
+      "双向链接"
+    ],
+    "summary": "Memo是基于VSCode的Markdown知识库工具，支持双向链接功能，采用Zettelkasten方法组织知识，帮助用户构建个人知识管理系统，提高学习和工作效率。",
+    "analyzed_at": "2025-11-11T19:19:48.751919+00:00"
+  },
+  {
+    "repo_full_name": "weavejester/hiccup",
+    "owner": "weavejester",
+    "html_url": "https://github.com/weavejester/hiccup",
+    "description": "Fast library for rendering HTML in Clojure",
+    "topics": [
+      "clojure",
+      "hiccup",
+      "html"
+    ],
+    "starred_at": "2022-04-03T13:54:39Z",
+    "category": "开发工具",
+    "tags": [
+      "Clojure",
+      "HTML",
+      "渲染工具",
+      "开发库",
+      "前端工具"
+    ],
+    "summary": "Hiccup是一个Clojure语言的高效HTML渲染库，允许开发者以简洁的Clojure数据结构形式编写HTML代码，提高前端开发效率。",
+    "analyzed_at": "2025-11-11T19:19:48.751919+00:00"
+  },
+  {
+    "repo_full_name": "botman/botman",
+    "owner": "botman",
+    "html_url": "https://github.com/botman/botman",
+    "description": "A framework agnostic PHP library to build chat bots",
+    "topics": [
+      "bot",
+      "bot-framework",
+      "botman",
+      "chatbot",
+      "chatbot-framework",
+      "php"
+    ],
+    "starred_at": "2022-04-03T14:02:08Z",
+    "category": "开发工具",
+    "tags": [
+      "聊天机器人",
+      "PHP开发",
+      "框架无关",
+      "机器人框架",
+      "聊天应用"
+    ],
+    "summary": "Botman是一个与框架无关的PHP库，专为构建聊天机器人而设计。它提供了简单易用的API，使开发者能够快速创建功能丰富的聊天机器人，支持多种聊天平台。",
+    "analyzed_at": "2025-11-11T19:19:48.751919+00:00"
+  },
+  {
+    "repo_full_name": "composer/composer",
+    "owner": "composer",
+    "html_url": "https://github.com/composer/composer",
+    "description": "Dependency Manager for PHP",
+    "topics": [
+      "composer",
+      "dependency-manager",
+      "package-manager",
+      "packages",
+      "php"
+    ],
+    "starred_at": "2022-04-03T14:03:06Z",
+    "category": "开发工具",
+    "tags": [
+      "composer",
+      "dependency-manager",
+      "package-manager",
+      "packages",
+      "php"
+    ],
+    "summary": "Composer是PHP的依赖管理工具，用于管理项目所需的库和依赖关系。它允许开发者声明项目所需的依赖，并自动安装和更新这些依赖，简化了PHP项目的依赖管理流程。",
+    "analyzed_at": "2025-11-11T19:19:48.751919+00:00"
+  },
+  {
+    "repo_full_name": "wagoodman/dive",
+    "owner": "wagoodman",
+    "html_url": "https://github.com/wagoodman/dive",
+    "description": "A tool for exploring each layer in a docker image",
+    "topics": [
+      "cli",
+      "docker",
+      "docker-image",
+      "explorer",
+      "inspector",
+      "tui"
+    ],
+    "starred_at": "2022-04-03T14:20:36Z",
+    "category": "开发工具",
+    "tags": [
+      "docker",
+      "docker-image",
+      "cli",
+      "tui",
+      "explorer"
+    ],
+    "summary": "Dive是一个命令行工具，专门用于探索和分析Docker镜像的每一层结构。它通过交互式终端界面，帮助开发者深入了解镜像的组成，优化镜像大小和构建过程。",
+    "analyzed_at": "2025-11-11T19:19:48.751919+00:00"
+  },
+  {
+    "repo_full_name": "sindresorhus/np",
+    "owner": "sindresorhus",
+    "html_url": "https://github.com/sindresorhus/np",
+    "description": "A better `npm publish`",
+    "topics": [
+      "cli",
+      "cli-app",
+      "javascript",
+      "nodejs",
+      "npm",
+      "npm-package",
+      "npm-publish",
+      "publish",
+      "yarn"
+    ],
+    "starred_at": "2022-04-03T14:41:28Z",
+    "category": "开发工具",
+    "tags": [
+      "cli",
+      "javascript",
+      "nodejs",
+      "npm",
+      "npm-publish"
+    ],
+    "summary": "np是一个改进版的npm发布命令行工具，简化了JavaScript/Node.js包的发布流程，提高了开发效率。",
+    "analyzed_at": "2025-11-11T19:19:48.751919+00:00"
+  },
+  {
+    "repo_full_name": "voidcosmos/npkill",
+    "owner": "voidcosmos",
+    "html_url": "https://github.com/voidcosmos/npkill",
+    "description": "List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹",
+    "topics": [
+      "cli",
+      "command-line",
+      "developer-tools",
+      "hacktoberfest",
+      "javascript",
+      "module",
+      "node",
+      "nodejs",
+      "npm",
+      "tool",
+      "typescript"
+    ],
+    "starred_at": "2022-04-03T14:43:12Z",
+    "category": "开发工具",
+    "tags": [
+      "cli",
+      "command-line",
+      "developer-tools",
+      "nodejs",
+      "npm",
+      "tool"
+    ],
+    "summary": "npkill是一个命令行工具，用于扫描系统中的node_modules目录，显示它们占用的磁盘空间，并允许用户选择删除不需要的依赖以释放存储空间。",
+    "analyzed_at": "2025-11-11T19:19:48.751919+00:00"
+  },
+  {
+    "repo_full_name": "yonaskolb/XcodeGen",
+    "owner": "yonaskolb",
+    "html_url": "https://github.com/yonaskolb/XcodeGen",
+    "description": "A Swift command line tool for generating your Xcode project",
+    "topics": [
+      "ci",
+      "cli",
+      "generator",
+      "specification",
+      "swift",
+      "xcode",
+      "xcodeproj",
+      "xcodeproject",
+      "yaml"
+    ],
+    "starred_at": "2022-04-03T14:44:21Z",
+    "category": "开发工具",
+    "tags": [
+      "cli",
+      "generator",
+      "swift",
+      "xcode",
+      "yaml"
+    ],
+    "summary": "XcodeGen是一个Swift命令行工具，通过YAML规范自动生成Xcode项目文件，简化iOS/macOS项目的配置和管理，提高开发效率。",
+    "analyzed_at": "2025-11-11T19:19:48.751919+00:00"
+  },
+  {
+    "repo_full_name": "danburzo/percollate",
+    "owner": "danburzo",
+    "html_url": "https://github.com/danburzo/percollate",
+    "description": "A command-line tool to turn web pages into readable PDF, EPUB, HTML, or Markdown docs.",
+    "topics": [
+      "cli",
+      "epub",
+      "html",
+      "markdown",
+      "pdf",
+      "puppeteer",
+      "readability"
+    ],
+    "starred_at": "2022-04-03T14:47:35Z",
+    "category": "开发工具",
+    "tags": [
+      "命令行工具",
+      "网页转换",
+      "文档生成",
+      "PDF",
+      "EPUB",
+      "Markdown"
+    ],
+    "summary": "Percollate是一个命令行工具，可将网页转换为可读的PDF、EPUB、HTML或Markdown文档。它使用Puppeteer和Readability库来提取和清理网页内容，适合保存文章、博客或其他网页内容为离线可读格式。",
+    "analyzed_at": "2025-11-11T19:19:48.751919+00:00"
+  },
+  {
+    "repo_full_name": "feeluown/FeelUOwn",
+    "owner": "feeluown",
+    "html_url": "https://github.com/feeluown/FeelUOwn",
+    "description": "trying to be a robust, user-friendly and hackable music player",
+    "topics": [
+      "china",
+      "cross-platform",
+      "linux",
+      "mpris2",
+      "mpv",
+      "music",
+      "music-player",
+      "nowplaying",
+      "player",
+      "pyqt5",
+      "python",
+      "python3"
+    ],
+    "starred_at": "2022-04-03T14:48:52Z",
+    "category": "桌面应用",
+    "tags": [
+      "音乐播放器",
+      "跨平台",
+      "Python开发",
+      "Linux支持",
+      "MPV集成"
+    ],
+    "summary": "FeelUOwn是一个用Python开发的跨平台音乐播放器，具有用户友好和可扩展的特点。它支持MPV后端，遵循MPRIS2协议，可在Linux等系统上运行，为用户提供流畅的音乐播放体验。",
+    "analyzed_at": "2025-11-11T19:19:48.751919+00:00"
+  },
+  {
+    "repo_full_name": "chmln/sd",
+    "owner": "chmln",
+    "html_url": "https://github.com/chmln/sd",
+    "description": "Intuitive find & replace CLI (sed alternative)",
+    "topics": [
+      "cli",
+      "command-line",
+      "regex",
+      "rust",
+      "terminal",
+      "text-processing"
+    ],
+    "starred_at": "2022-04-03T14:50:38Z",
+    "category": "开发工具",
+    "tags": [
+      "命令行工具",
+      "文本处理",
+      "正则表达式",
+      "Rust",
+      "终端应用"
+    ],
+    "summary": "chmln/sd 是一个直观的命令行查找替换工具，作为sed的替代方案。使用Rust编写，支持正则表达式，专为终端文本处理而设计，提供更友好的用户体验。",
+    "analyzed_at": "2025-11-11T19:19:48.751919+00:00"
+  },
+  {
+    "repo_full_name": "cloudflare/wrangler-legacy",
+    "owner": "cloudflare",
+    "html_url": "https://github.com/cloudflare/wrangler-legacy",
+    "description": "🤠  Home to Wrangler v1 (deprecated)",
+    "topics": [
+      "cli",
+      "cloudflare-workers",
+      "rust",
+      "serverless"
+    ],
+    "starred_at": "2022-04-03T14:52:00Z",
+    "category": "开发工具",
+    "tags": [
+      "CLI工具",
+      "Cloudflare Workers",
+      "Rust",
+      "Serverless"
+    ],
+    "summary": "Wrangler Legacy是Cloudflare的官方命令行工具，用于开发和部署Cloudflare Workers无服务器应用。该工具使用Rust语言编写，现已被新版本取代。",
+    "analyzed_at": "2025-11-11T19:19:48.751919+00:00"
+  },
+  {
+    "repo_full_name": "jhawthorn/fzy",
+    "owner": "jhawthorn",
+    "html_url": "https://github.com/jhawthorn/fzy",
+    "description": ":mag: A simple, fast fuzzy finder for the terminal",
+    "topics": [
+      "c",
+      "cli",
+      "fuzzy",
+      "fuzzy-finders",
+      "fuzzy-search",
+      "fuzzyfinder",
+      "fzy",
+      "unix",
+      "vim"
+    ],
+    "starred_at": "2022-04-03T14:52:47Z",
+    "category": "开发工具",
+    "tags": [
+      "cli",
+      "fuzzy",
+      "fuzzy-finders",
+      "unix",
+      "vim"
+    ],
+    "summary": "fzy是一个简单快速的终端模糊查找器，使用C语言编写，支持Unix系统和Vim编辑器。它可以帮助开发者在命令行中快速查找和选择文件、命令等内容，提高工作效率。",
+    "analyzed_at": "2025-11-11T19:19:48.751919+00:00"
+  },
+  {
+    "repo_full_name": "ciaoca/ZenCalendar",
+    "owner": "ciaoca",
+    "html_url": "https://github.com/ciaoca/ZenCalendar",
+    "description": "使用 CSS 样式设计，制作丰富的主题日历。",
+    "topics": [],
+    "starred_at": "2022-04-04T14:32:29Z",
+    "category": "效率工具",
+    "tags": [
+      "日历",
+      "CSS",
+      "主题",
+      "时间管理",
+      "效率工具"
+    ],
+    "summary": "ZenCalendar是一个使用CSS样式设计的主题日历工具，允许用户创建和自定义各种风格的日历界面，帮助用户更好地管理时间和提高日常工作效率。",
+    "analyzed_at": "2025-11-11T19:19:48.751919+00:00"
+  },
+  {
+    "repo_full_name": "estruyf/vscode-front-matter",
+    "owner": "estruyf",
+    "html_url": "https://github.com/estruyf/vscode-front-matter",
+    "description": "Front Matter is a CMS running straight in Visual Studio Code. Can be used with static site generators like Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more...",
+    "topics": [
+      "cms",
+      "content-management",
+      "content-management-system",
+      "hacktoberfest",
+      "markdown",
+      "static-site",
+      "static-site-generator",
+      "vscode",
+      "vscode-extension"
+    ],
+    "starred_at": "2022-04-05T04:19:06Z",
+    "category": "开发工具",
+    "tags": [
+      "cms",
+      "markdown",
+      "static-site-generator",
+      "vscode-extension",
+      "content-management"
+    ],
+    "summary": "Front Matter 是一个在 VS Code 中运行的轻量级 CMS，支持 Hugo、Jekyll 等静态站点生成器，帮助开发者直接在编辑器中管理 Markdown 文件的前置元数据。",
+    "analyzed_at": "2025-11-11T19:19:48.751919+00:00"
+  },
+  {
+    "repo_full_name": "wireshark/wireshark",
+    "owner": "wireshark",
+    "html_url": "https://github.com/wireshark/wireshark",
+    "description": "Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. ⚠️ GitHub won't let us disable pull requests. ⚠️ THEY WILL BE IGNORED HERE ⚠️ Upload them at GitLab instead.",
+    "topics": [
+      "packet-capture",
+      "stratoshark",
+      "tshark",
+      "wireshark"
+    ],
+    "starred_at": "2022-04-05T14:37:36Z",
+    "category": "安全工具",
+    "tags": [
+      "网络分析",
+      "协议分析",
+      "数据包捕获",
+      "网络安全",
+      "网络诊断"
+    ],
+    "summary": "Wireshark是一款开源网络协议分析器，用于捕获、检查和交互式浏览网络数据包，是网络安全和故障排查的专业工具。",
+    "analyzed_at": "2025-11-11T19:19:48.751919+00:00"
+  },
+  {
+    "repo_full_name": "ZuodaoTech/everyone-can-use-english",
+    "owner": "ZuodaoTech",
+    "html_url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+    "description": "人人都能用英语",
+    "topics": [],
+    "starred_at": "2022-04-06T03:41:08Z",
+    "category": "教育学习",
+    "tags": [
+      "英语学习",
+      "语言学习",
+      "教育资源",
+      "自学",
+      "语言技能"
+    ],
+    "summary": "一个旨在帮助所有人提高英语能力的开源项目，提供实用的英语学习资源和教程，让英语学习变得简单易行。",
+    "analyzed_at": "2025-11-11T19:19:48.751919+00:00"
+  },
+  {
+    "repo_full_name": "raycast/extensions",
+    "owner": "raycast",
+    "html_url": "https://github.com/raycast/extensions",
+    "description": "Everything you need to extend Raycast.",
+    "topics": [],
+    "starred_at": "2022-04-06T10:36:04Z",
+    "category": "效率工具",
+    "tags": [
+      "效率工具",
+      "扩展",
+      "macOS",
+      "生产力",
+      "启动器"
+    ],
+    "summary": "Raycast扩展仓库，提供丰富的插件和功能扩展，帮助用户提升macOS系统下的工作效率和生产力。",
+    "analyzed_at": "2025-11-11T19:19:48.751919+00:00"
+  },
+  {
+    "repo_full_name": "Serendipity-Theme/windows-terminal",
+    "owner": "Serendipity-Theme",
+    "html_url": "https://github.com/Serendipity-Theme/windows-terminal",
+    "description": "Serendipity theme ported to windows terminal.",
+    "topics": [],
+    "starred_at": "2022-04-06T10:59:27Z",
+    "category": "开发工具",
+    "tags": [
+      "Windows终端",
+      "主题",
+      "终端美化",
+      "命令行",
+      "开发工具"
+    ],
+    "summary": "这是一个将Serendipity主题移植到Windows终端的项目，为开发者提供美观的终端界面定制选项。",
+    "analyzed_at": "2025-11-11T19:19:48.751919+00:00"
+  },
+  {
+    "repo_full_name": "Serendipity-Theme/vs-code",
+    "owner": "Serendipity-Theme",
+    "html_url": "https://github.com/Serendipity-Theme/vs-code",
+    "description": "Relaxed, gentle and modern.",
+    "topics": [
+      "modern",
+      "serendipity",
+      "vscode",
+      "vscode-theme"
+    ],
+    "starred_at": "2022-04-06T10:59:28Z",
+    "category": "开发工具",
+    "tags": [
+      "现代主题",
+      "VS Code",
+      "代码编辑器",
+      "界面美化",
+      "开发工具"
+    ],
+    "summary": "这是一个VS Code的代码编辑器主题，设计风格轻松、温和且现代化，旨在为开发者提供舒适的编程环境。",
+    "analyzed_at": "2025-11-11T19:19:48.751919+00:00"
+  },
+  {
+    "repo_full_name": "Serendipity-Theme/iterm",
+    "owner": "Serendipity-Theme",
+    "html_url": "https://github.com/Serendipity-Theme/iterm",
+    "description": "Serendipity ported to iTerm2 terminal",
+    "topics": [],
+    "starred_at": "2022-04-06T10:59:30Z",
+    "category": "开发工具",
+    "tags": [
+      "终端主题",
+      "iTerm2",
+      "开发工具",
+      "主题皮肤",
+      "macOS"
+    ],
+    "summary": "这是一个将Serendipity主题移植到iTerm2终端的项目，为macOS开发者提供美观的终端界面。",
+    "analyzed_at": "2025-11-11T19:19:48.751919+00:00"
+  },
+  {
+    "repo_full_name": "lanyuanxiaoyao/Mverything",
+    "owner": "lanyuanxiaoyao",
+    "html_url": "https://github.com/lanyuanxiaoyao/Mverything",
+    "description": "utools 插件, Mac 上的 Everything",
+    "topics": [
+      "element-ui",
+      "spotlight",
+      "utools",
+      "vue",
+      "vxe-table"
+    ],
+    "starred_at": "2022-04-06T12:59:32Z",
+    "category": "桌面应用",
+    "tags": [
+      "文件搜索",
+      "utools插件",
+      "Vue应用",
+      "桌面工具"
+    ],
+    "summary": "Mverything是一个基于utools平台的Mac桌面应用，灵感来源于Windows的Everything工具，提供快速文件搜索功能。使用Vue和Element UI构建，为Mac用户提供类似Spotlight但更强大的文件检索体验。",
+    "analyzed_at": "2025-11-11T19:19:48.751919+00:00"
+  },
+  {
+    "repo_full_name": "JimmyLv/telegroam",
+    "owner": "JimmyLv",
+    "html_url": "https://github.com/JimmyLv/telegroam",
+    "description": " Telegroam: a bridge between Roam and Telegram. 🤩 When Roam Research receives one message, it automatically returns a previously random note 😁, based on https://github.com/mbrock/telegroam",
+    "topics": [],
+    "starred_at": "2022-04-08T12:50:51Z",
+    "category": "开发工具",
+    "tags": [
+      "跨平台",
+      "自动化",
+      "笔记工具",
+      "即时通讯",
+      "工具集成"
+    ],
+    "summary": "Telegroam是连接Roam Research笔记应用和Telegram通讯工具的桥梁，当Roam收到消息时自动返回随机笔记，实现两个平台间的自动化交互。",
+    "analyzed_at": "2025-11-11T19:19:48.751919+00:00"
+  },
+  {
+    "repo_full_name": "the-road-to-learn-react/the-road-to-learn-react-chinese",
+    "owner": "the-road-to-learn-react",
+    "html_url": "https://github.com/the-road-to-learn-react/the-road-to-learn-react-chinese",
+    "description": "《React 学习之道》The Road to learn React (简体中文版) | 最简单，且最实用的 React 实战教程。",
+    "topics": [
+      "chinese",
+      "es6",
+      "react",
+      "react-book",
+      "redux",
+      "translation",
+      "tutorial"
+    ],
+    "starred_at": "2022-04-08T13:17:15Z",
+    "category": "教育学习",
+    "tags": [
+      "React",
+      "前端开发",
+      "教程",
+      "中文资源",
+      "Redux"
+    ],
+    "summary": "《React学习之道》中文版，是最简单实用的React实战教程，包含ES6语法和Redux知识，适合前端开发者学习React框架。",
+    "analyzed_at": "2025-11-11T19:19:48.751919+00:00"
+  },
+  {
+    "repo_full_name": "warpdotdev/Warp",
+    "owner": "warpdotdev",
+    "html_url": "https://github.com/warpdotdev/Warp",
+    "description": "Warp is the agentic development environment, built for coding with multiple AI agents.",
+    "topics": [
+      "bash",
+      "linux",
+      "macos",
+      "rust",
+      "shell",
+      "terminal",
+      "wasm",
+      "zsh"
+    ],
+    "starred_at": "2022-04-08T13:23:04Z",
+    "category": "开发工具",
+    "tags": [
+      "终端",
+      "Shell",
+      "AI辅助",
+      "命令行",
+      "Rust开发"
+    ],
+    "summary": "Warp是一个AI驱动的开发环境，专为编程设计，支持多个AI代理协作。它提供现代化的终端体验，兼容bash、zsh等shell，支持Linux和macOS系统。",
+    "analyzed_at": "2025-11-11T19:19:48.751919+00:00"
+  },
+  {
+    "repo_full_name": "bestxtools/awesome-toolbox-chinese",
+    "owner": "bestxtools",
+    "html_url": "https://github.com/bestxtools/awesome-toolbox-chinese",
+    "description": "🧰 优秀工具箱集合 - 收集，推荐好用、优秀的工具箱。工具箱大全。| https://awesome-toolbox-chinese.bestxtools.com/ | https://😎🧰.bestxtools.com/",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "awesome-toolbox",
+      "awesome-tools",
+      "bestxtools",
+      "online-tools",
+      "online-tools-websites",
+      "toolbox",
+      "toolboxes",
+      "tools"
+    ],
+    "starred_at": "2022-04-09T02:21:12Z",
+    "category": "效率工具",
+    "tags": [
+      "awesome",
+      "toolbox",
+      "online-tools",
+      "tools",
+      "awesome-list"
+    ],
+    "summary": "一个收集和推荐优秀工具箱的中文资源集合，包含各类在线工具和实用工具，帮助用户提高工作和学习效率。",
+    "analyzed_at": "2025-11-11T19:19:48.751919+00:00"
+  },
+  {
+    "repo_full_name": "Codennnn/vue-color-avatar",
+    "owner": "Codennnn",
+    "html_url": "https://github.com/Codennnn/vue-color-avatar",
+    "description": "An online avatar generator just for fun | 一个纯前端实现的头像生成网站",
+    "topics": [
+      "avatar",
+      "avatar-generator",
+      "avatar-maker",
+      "vite",
+      "vue3"
+    ],
+    "starred_at": "2022-04-09T02:58:26Z",
+    "category": "Web应用",
+    "tags": [
+      "avatar",
+      "avatar-generator",
+      "avatar-maker",
+      "vue3",
+      "vite"
+    ],
+    "summary": "这是一个基于Vue3和Vite构建的纯前端头像生成网站，用户可以在线创建个性化头像。项目简单有趣，适合作为前端开发练习或小型娱乐应用。",
+    "analyzed_at": "2025-11-11T19:19:48.751919+00:00"
+  },
+  {
+    "repo_full_name": "justjavac/awesome-wechat-weapp",
+    "owner": "justjavac",
+    "html_url": "https://github.com/justjavac/awesome-wechat-weapp",
+    "description": "微信小程序开发资源汇总 :100:",
+    "topics": [
+      "demo",
+      "minapp",
+      "miniprogram",
+      "weapp-demo",
+      "wechat",
+      "wechat-weapp",
+      "wepy",
+      "wxapp",
+      "wxml"
+    ],
+    "starred_at": "2022-04-09T05:34:24Z",
+    "category": "开发工具",
+    "tags": [
+      "微信小程序",
+      "开发资源",
+      "前端开发",
+      "移动应用开发",
+      "开发工具"
+    ],
+    "summary": "这是一个微信小程序开发资源汇总仓库，收集了大量微信小程序相关的开发工具、框架、示例和教程，为微信小程序开发者提供一站式资源参考。",
+    "analyzed_at": "2025-11-11T19:19:48.751919+00:00"
+  },
+  {
+    "repo_full_name": "icindy/wxParse",
+    "owner": "icindy",
+    "html_url": "https://github.com/icindy/wxParse",
+    "description": "wxParse-微信小程序富文本解析自定义组件，支持HTML及markdown解析",
+    "topics": [
+      "html",
+      "markdown",
+      "weapp",
+      "weixin",
+      "wxparse-html-markdown"
+    ],
+    "starred_at": "2022-04-09T06:13:00Z",
+    "category": "开发工具",
+    "tags": [
+      "微信小程序",
+      "富文本解析",
+      "HTML",
+      "Markdown"
+    ],
+    "summary": "这是一个微信小程序的富文本解析自定义组件，支持HTML和Markdown格式解析，帮助开发者在小程序中展示富文本内容。",
+    "analyzed_at": "2025-11-11T19:19:48.751919+00:00"
+  },
+  {
+    "repo_full_name": "sindresorhus/Plash",
+    "owner": "sindresorhus",
+    "html_url": "https://github.com/sindresorhus/Plash",
+    "description": "💦 Make any website your Mac desktop wallpaper",
+    "topics": [
+      "active-desktop",
+      "app",
+      "desktop-wallpaper",
+      "dynamic-wallpaper",
+      "macos",
+      "macos-app",
+      "plash",
+      "swift",
+      "swiftui",
+      "wallpaper"
+    ],
+    "starred_at": "2022-04-09T06:56:55Z",
+    "category": "桌面应用",
+    "tags": [
+      "desktop-wallpaper",
+      "macos-app",
+      "dynamic-wallpaper",
+      "swift",
+      "active-desktop"
+    ],
+    "summary": "Plash是一款Mac桌面应用，允许用户将任何网站设置为动态桌面壁纸。使用Swift和SwiftUI开发，支持活动桌面功能，为Mac用户提供个性化的桌面体验。",
+    "analyzed_at": "2025-11-11T19:19:48.751919+00:00"
+  },
+  {
+    "repo_full_name": "microsoft/vscode-loc",
+    "owner": "microsoft",
+    "html_url": "https://github.com/microsoft/vscode-loc",
+    "description": "VS Code Localization Extension",
+    "topics": [],
+    "starred_at": "2022-04-09T09:18:38Z",
+    "category": "开发工具",
+    "tags": [
+      "本地化",
+      "VS Code扩展",
+      "国际化",
+      "翻译工具",
+      "微软"
+    ],
+    "summary": "VS Code官方本地化扩展，支持将编辑器界面和文本翻译成多种语言，帮助开发者实现软件国际化。",
+    "analyzed_at": "2025-11-11T19:19:48.751919+00:00"
+  },
+  {
+    "repo_full_name": "reruin/sharelist",
+    "owner": "reruin",
+    "html_url": "https://github.com/reruin/sharelist",
+    "description": "快速分享 GoogleDrive OneDrive ",
+    "topics": [],
+    "starred_at": "2022-04-09T15:54:12Z",
+    "category": "Web应用",
+    "tags": [
+      "文件分享",
+      "云存储",
+      "Google Drive",
+      "OneDrive",
+      "在线工具",
+      "资源共享"
+    ],
+    "summary": "Sharelist是一个快速分享Google Drive和OneDrive文件的在线工具，简化云存储资源的分享流程，支持多种云存储平台，提供便捷的文件分享体验。",
+    "analyzed_at": "2025-11-11T19:19:48.751919+00:00"
+  },
+  {
+    "repo_full_name": "saltbo/zpan",
+    "owner": "saltbo",
+    "html_url": "https://github.com/saltbo/zpan",
+    "description": "A self-hosted cloud disk base on the cloud storage./ 一个基于云存储的网盘系统，用于自建私人网盘或企业网盘。",
+    "topics": [
+      "cloud",
+      "cloud-disk",
+      "cloud-storage",
+      "disk",
+      "oss",
+      "qiniuyun",
+      "s3",
+      "upyun"
+    ],
+    "starred_at": "2022-04-09T15:54:19Z",
+    "category": "Web应用",
+    "tags": [
+      "cloud",
+      "cloud-disk",
+      "cloud-storage",
+      "disk",
+      "oss"
+    ],
+    "summary": "ZPan是一个基于云存储的自托管网盘系统，可用于搭建私人或企业级云存储解决方案。支持多种云存储后端，提供安全可靠的文件存储与共享服务。",
+    "analyzed_at": "2025-11-11T19:19:48.751919+00:00"
+  },
+  {
+    "repo_full_name": "traefik/traefik",
+    "owner": "traefik",
+    "html_url": "https://github.com/traefik/traefik",
+    "description": "The Cloud Native Application Proxy",
+    "topics": [
+      "consul",
+      "docker",
+      "etcd",
+      "go",
+      "golang",
+      "kubernetes",
+      "letsencrypt",
+      "load-balancer",
+      "marathon",
+      "mesos",
+      "microservice",
+      "reverse-proxy",
+      "traefik",
+      "zookeeper"
+    ],
+    "starred_at": "2022-04-09T16:04:56Z",
+    "category": "开发工具",
+    "tags": [
+      "反向代理",
+      "负载均衡",
+      "微服务",
+      "Kubernetes",
+      "Docker",
+      "云原生"
+    ],
+    "summary": "Traefik是一个云原生应用代理，支持Docker、Kubernetes等多种平台，提供自动化的反向代理和负载均衡功能，专为微服务架构设计。",
+    "analyzed_at": "2025-11-11T19:19:48.751919+00:00"
+  },
+  {
+    "repo_full_name": "ryanoasis/nerd-fonts",
+    "owner": "ryanoasis",
+    "html_url": "https://github.com/ryanoasis/nerd-fonts",
+    "description": "Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more",
+    "topics": [
+      "font",
+      "font-awesome",
+      "fonts",
+      "hacktoberfest",
+      "icon-font",
+      "iconic-fonts",
+      "octicons",
+      "patched-fonts",
+      "patcher",
+      "powerline",
+      "python",
+      "shell",
+      "statusline"
+    ],
+    "starred_at": "2022-04-09T16:51:54Z",
+    "category": "开发工具",
+    "tags": [
+      "font",
+      "icon-font",
+      "patched-fonts",
+      "powerline",
+      "statusline"
+    ],
+    "summary": "Nerd Fonts是一个图标字体聚合器、收集器和修补工具，包含3600多个图标和50多种修补字体，如Hack、Source Code Pro等。它整合了Font Awesome、Material Design Icons、Octicons等多种字形集合，为开发终端和编辑器提供丰富的图标支持。",
+    "analyzed_at": "2025-11-11T19:19:48.751919+00:00"
+  },
+  {
+    "repo_full_name": "ineo6/mp-ci",
+    "owner": "ineo6",
+    "html_url": "https://github.com/ineo6/mp-ci",
+    "description": "微信小程序、小游戏发布助手（CI）",
+    "topics": [
+      "ci",
+      "deploy",
+      "jenkins",
+      "minigame",
+      "miniprogram",
+      "wechat"
+    ],
+    "starred_at": "2022-04-10T02:30:53Z",
+    "category": "开发工具",
+    "tags": [
+      "ci",
+      "deploy",
+      "miniprogram",
+      "wechat"
+    ],
+    "summary": "mp-ci是一个微信小程序和小游戏的持续集成发布工具，支持自动化构建和部署，帮助开发者简化发布流程，提高开发效率。",
+    "analyzed_at": "2025-11-11T19:19:48.751919+00:00"
+  },
+  {
+    "repo_full_name": "weilanwl/coloruicss",
+    "owner": "weilanwl",
+    "html_url": "https://github.com/weilanwl/coloruicss",
+    "description": "鲜亮的高饱和色彩，专注视觉的小程序组件库",
+    "topics": [
+      "css",
+      "mp-weixin",
+      "scss",
+      "uniapp",
+      "vue",
+      "vue2"
+    ],
+    "starred_at": "2022-04-10T08:29:56Z",
+    "category": "开发工具",
+    "tags": [
+      "UI组件",
+      "小程序开发",
+      "Vue框架",
+      "CSS框架",
+      "响应式设计"
+    ],
+    "summary": "ColorUI是一个鲜亮的高饱和色彩CSS组件库，专注于小程序视觉设计，支持Vue和UniApp框架，提供丰富的UI组件和样式解决方案。",
+    "analyzed_at": "2025-11-11T19:19:48.751919+00:00"
+  },
+  {
+    "repo_full_name": "Tencent/weui-wxss",
+    "owner": "Tencent",
+    "html_url": "https://github.com/Tencent/weui-wxss",
+    "description": "A UI library by WeChat official design team, includes the most useful widgets/modules.",
+    "topics": [
+      "weui",
+      "wxss"
+    ],
+    "starred_at": "2022-04-10T08:29:58Z",
+    "category": "Web应用",
+    "tags": [
+      "UI组件",
+      "微信",
+      "小程序",
+      "样式库",
+      "前端"
+    ],
+    "summary": "weui-wxss是微信官方设计团队开发的UI组件库，提供常用的小程序界面元素，帮助开发者快速构建美观一致的微信小程序界面。",
+    "analyzed_at": "2025-11-11T19:19:48.751919+00:00"
+  },
+  {
+    "repo_full_name": "wen-gang/coloruiBeta",
+    "owner": "wen-gang",
+    "html_url": "https://github.com/wen-gang/coloruiBeta",
+    "description": "Colorui先行版本",
+    "topics": [],
+    "starred_at": "2022-04-10T08:30:10Z",
+    "category": "设计工具",
+    "tags": [
+      "UI设计",
+      "前端框架",
+      "界面设计",
+      "组件库"
+    ],
+    "summary": "Colorui先行版本，一个前端UI设计框架，提供丰富的界面组件和设计资源，帮助开发者快速构建美观的Web应用。",
+    "analyzed_at": "2025-11-11T19:19:48.751919+00:00"
+  },
+  {
+    "repo_full_name": "Color-UI/MP-CU",
+    "owner": "Color-UI",
+    "html_url": "https://github.com/Color-UI/MP-CU",
+    "description": "MP-CU, colorui3.x 微信小程序原生版",
+    "topics": [
+      "color-ui",
+      "colorui",
+      "miniprogram",
+      "mp-cu",
+      "wechat",
+      "wechat-mini-program"
+    ],
+    "starred_at": "2022-04-10T08:30:23Z",
+    "category": "开发工具",
+    "tags": [
+      "微信小程序",
+      "UI框架",
+      "原生开发",
+      "组件库",
+      "前端开发"
+    ],
+    "summary": "MP-CU是ColorUI 3.x的微信小程序原生版本，提供丰富的UI组件和样式，帮助开发者快速构建美观的微信小程序界面。",
+    "analyzed_at": "2025-11-11T19:19:48.751919+00:00"
+  },
+  {
+    "repo_full_name": "TalkingData/iview-weapp",
+    "owner": "TalkingData",
+    "html_url": "https://github.com/TalkingData/iview-weapp",
+    "description": "一套高质量的微信小程序 UI 组件库",
+    "topics": [
+      "components",
+      "iview",
+      "ui-design",
+      "ui-kit",
+      "weapp",
+      "wechat",
+      "weixin"
+    ],
+    "starred_at": "2022-04-10T08:31:03Z",
+    "category": "Web应用",
+    "tags": [
+      "components",
+      "ui-design",
+      "ui-kit",
+      "weapp",
+      "wechat"
+    ],
+    "summary": "TalkingData/iview-weapp是一套高质量的微信小程序UI组件库，提供丰富的预构建界面组件，帮助开发者快速构建美观的微信小程序应用。",
+    "analyzed_at": "2025-11-11T19:19:48.751919+00:00"
+  },
+  {
+    "repo_full_name": "phonycode/wuss-weapp",
+    "owner": "phonycode",
+    "html_url": "https://github.com/phonycode/wuss-weapp",
+    "description": ":whale:wuss-weapp 一款高质量，组件齐全，高自定义的微信小程序UI组件库",
+    "topics": [
+      "calendar",
+      "components",
+      "ui",
+      "weapp",
+      "wechat",
+      "weixin",
+      "wuss",
+      "wuss-weapp",
+      "wxml",
+      "wxss"
+    ],
+    "starred_at": "2022-04-10T08:33:15Z",
+    "category": "开发工具",
+    "tags": [
+      "微信小程序",
+      "UI组件",
+      "前端框架",
+      "组件库"
+    ],
+    "summary": "wuss-weapp是一款高质量、组件齐全且高度可自定义的微信小程序UI组件库，帮助开发者快速构建美观的微信小程序界面。",
+    "analyzed_at": "2025-11-11T19:19:48.751919+00:00"
+  },
+  {
+    "repo_full_name": "uileader/touchwx",
+    "owner": "uileader",
+    "html_url": "https://github.com/uileader/touchwx",
+    "description": "小程序组件化解决方案。官网：https://www.wetouch.net/wx.html",
+    "topics": [],
+    "starred_at": "2022-04-10T08:33:17Z",
+    "category": "开发工具",
+    "tags": [
+      "小程序",
+      "组件化",
+      "开发框架",
+      "前端开发",
+      "微信小程序",
+      "UI组件"
+    ],
+    "summary": "TouchWX是一个小程序组件化解决方案，帮助开发者将小程序拆分为可重用的组件，提高开发效率和代码复用性。适用于微信小程序等平台的前端开发。",
+    "analyzed_at": "2025-11-11T19:19:48.751919+00:00"
   }
 ]
