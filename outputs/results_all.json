@@ -37047,5 +37047,1251 @@
     ],
     "summary": "TouchWX是一个小程序组件化解决方案，帮助开发者将小程序拆分为可重用的组件，提高开发效率和代码复用性。适用于微信小程序等平台的前端开发。",
     "analyzed_at": "2025-11-11T19:19:48.751919+00:00"
+  },
+  {
+    "repo_full_name": "MaxLeiter/Drift",
+    "owner": "MaxLeiter",
+    "html_url": "https://github.com/MaxLeiter/Drift",
+    "description": "Drift is a self-hostable Gist and paste service. Built with Next.js 13 and React Server Components.",
+    "topics": [
+      "drift",
+      "gist",
+      "nextjs",
+      "nextjs13",
+      "nodejs",
+      "pastebin",
+      "pastebin-service",
+      "react",
+      "self-hosted",
+      "typescript"
+    ],
+    "starred_at": "2022-04-10T10:03:18Z",
+    "category": "Web应用",
+    "tags": [
+      "gist",
+      "pastebin",
+      "nextjs",
+      "self-hosted",
+      "typescript"
+    ],
+    "summary": "Drift是一个自托管的Gist和粘贴服务，类似于GitHub Gist。它使用Next.js 13和React Server Components构建，允许用户创建和分享代码片段。支持自托管部署，使用TypeScript开发。",
+    "analyzed_at": "2025-11-12T19:21:22.386380+00:00"
+  },
+  {
+    "repo_full_name": "intel/haxm",
+    "owner": "intel",
+    "html_url": "https://github.com/intel/haxm",
+    "description": "Intel® Hardware Accelerated Execution Manager (Intel® HAXM)",
+    "topics": [],
+    "starred_at": "2022-04-11T05:52:27Z",
+    "category": "开发工具",
+    "tags": [
+      "虚拟化",
+      "硬件加速",
+      "Android开发",
+      "Intel技术",
+      "模拟器优化",
+      "系统工具"
+    ],
+    "summary": "Intel HAXM是Intel硬件加速执行管理器，用于加速Intel处理器上的虚拟化操作，特别是在Android开发环境中提高模拟器性能，是Android开发者的系统级优化工具。",
+    "analyzed_at": "2025-11-12T19:21:22.386380+00:00"
+  },
+  {
+    "repo_full_name": "kholia/OSX-KVM",
+    "owner": "kholia",
+    "html_url": "https://github.com/kholia/OSX-KVM",
+    "description": "Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.",
+    "topics": [
+      "catalina-hackinotsh",
+      "emulation",
+      "hackintosh",
+      "kernel-debugging",
+      "kvm",
+      "macos",
+      "macos-installer",
+      "osx",
+      "qemu",
+      "qemu-kvm",
+      "sonoma",
+      "sonoma-hackintosh",
+      "tahoe",
+      "tahoe-hackintosh",
+      "ventura",
+      "ventura-hackintosh",
+      "virtualization"
+    ],
+    "starred_at": "2022-04-11T13:10:58Z",
+    "category": "开发工具",
+    "tags": [
+      "虚拟化",
+      "模拟",
+      "macOS",
+      "QEMU/KVM",
+      "Hackintosh",
+      "内核调试"
+    ],
+    "summary": "OSX-KVM是一个在QEMU/KVM虚拟化平台上运行macOS的开源项目，支持Monterey、Ventura和Sonoma等版本。它允许用户在没有实际Mac硬件的情况下体验和测试macOS系统，适用于开发者和爱好者进行macOS应用测试和系统研究。",
+    "analyzed_at": "2025-11-12T19:21:22.386380+00:00"
+  },
+  {
+    "repo_full_name": "ClickHouse/ClickHouse",
+    "owner": "ClickHouse",
+    "html_url": "https://github.com/ClickHouse/ClickHouse",
+    "description": "ClickHouse® is a real-time analytics database management system",
+    "topics": [
+      "ai",
+      "analytics",
+      "big-data",
+      "clickhouse",
+      "cloud-native",
+      "cpp",
+      "database",
+      "dbms",
+      "distributed",
+      "embedded",
+      "hacktoberfest",
+      "lakehouse",
+      "mpp",
+      "olap",
+      "rust",
+      "self-hosted",
+      "sql"
+    ],
+    "starred_at": "2022-04-11T14:00:04Z",
+    "category": "数据库",
+    "tags": [
+      "database",
+      "analytics",
+      "big-data",
+      "olap",
+      "sql",
+      "distributed"
+    ],
+    "summary": "ClickHouse是一个高性能的实时分析型数据库管理系统，专为大数据分析而设计。它支持OLAP查询，具有分布式架构，能够处理海量数据并提供快速查询响应。",
+    "analyzed_at": "2025-11-12T19:21:22.386380+00:00"
+  },
+  {
+    "repo_full_name": "TranslucentTB/TranslucentTB",
+    "owner": "TranslucentTB",
+    "html_url": "https://github.com/TranslucentTB/TranslucentTB",
+    "description": "A lightweight utility that makes the Windows taskbar translucent/transparent.",
+    "topics": [
+      "acrylic",
+      "aero",
+      "blur",
+      "customization",
+      "discord",
+      "fluent-design",
+      "gitter",
+      "taskbar",
+      "undocumented",
+      "windows",
+      "windows-10"
+    ],
+    "starred_at": "2022-04-15T15:37:16Z",
+    "category": "桌面应用",
+    "tags": [
+      "taskbar",
+      "customization",
+      "acrylic",
+      "blur",
+      "windows"
+    ],
+    "summary": "TranslucentTB是一款轻量级Windows工具，可将任务栏设置为半透明或透明效果。支持亚克力、Aero等多种视觉效果，增强Windows桌面美观度，提供高度自定义选项。",
+    "analyzed_at": "2025-11-12T19:21:22.386380+00:00"
+  },
+  {
+    "repo_full_name": "jasongin/nvs",
+    "owner": "jasongin",
+    "html_url": "https://github.com/jasongin/nvs",
+    "description": "Node Version Switcher - A cross-platform tool for switching between versions and forks of Node.js",
+    "topics": [],
+    "starred_at": "2022-04-15T16:30:35Z",
+    "category": "开发工具",
+    "tags": [
+      "Node.js",
+      "版本管理",
+      "开发工具",
+      "跨平台",
+      "命令行工具"
+    ],
+    "summary": "nvs是一个跨平台的Node.js版本切换工具，允许开发者在不同版本和分支间轻松切换，简化了多版本Node.js环境的管理工作。",
+    "analyzed_at": "2025-11-12T19:21:22.386380+00:00"
+  },
+  {
+    "repo_full_name": "Quorafind/Obsidian-Thino",
+    "owner": "Quorafind",
+    "html_url": "https://github.com/Quorafind/Obsidian-Thino",
+    "description": "A quick capture plugin for Obsidian, all data from your notes.",
+    "topics": [],
+    "starred_at": "2022-04-16T16:24:09Z",
+    "category": "开发工具",
+    "tags": [
+      "笔记工具",
+      "插件",
+      "快速捕获",
+      "Obsidian",
+      "知识管理"
+    ],
+    "summary": "Obsidian-Thino是一个快速捕获插件，帮助用户从笔记中快速收集和组织信息，增强Obsidian的知识管理能力。",
+    "analyzed_at": "2025-11-12T19:21:22.386380+00:00"
+  },
+  {
+    "repo_full_name": "arco-design/arco-design-pro",
+    "owner": "arco-design",
+    "html_url": "https://github.com/arco-design/arco-design-pro",
+    "description": "An out-of-the-box solution to quickly build enterprise-level applications based on Arco Design.",
+    "topics": [
+      "arco-design",
+      "arco-design-pro",
+      "boilerplate",
+      "pro",
+      "react",
+      "template"
+    ],
+    "starred_at": "2022-04-16T16:39:20Z",
+    "category": "Web应用",
+    "tags": [
+      "企业级应用",
+      "快速开发",
+      "React模板",
+      "前端框架",
+      "开箱即用"
+    ],
+    "summary": "Arco Design Pro 是一个基于Arco Design的企业级应用快速构建解决方案，提供开箱即用的模板和组件，帮助开发者高效搭建现代化Web应用。",
+    "analyzed_at": "2025-11-12T19:21:22.386380+00:00"
+  },
+  {
+    "repo_full_name": "arco-design/arco-design-pro-vue",
+    "owner": "arco-design",
+    "html_url": "https://github.com/arco-design/arco-design-pro-vue",
+    "description": "An out-of-the-box solution to quickly build enterprise-level applications based on Arco Design.",
+    "topics": [
+      "arco-design",
+      "arco-design-pro",
+      "pro",
+      "vue",
+      "vuejs",
+      "vuejs3"
+    ],
+    "starred_at": "2022-04-16T16:39:28Z",
+    "category": "开发工具",
+    "tags": [
+      "arco-design",
+      "vue",
+      "企业级应用",
+      "前端框架",
+      "开发解决方案",
+      "快速构建"
+    ],
+    "summary": "基于Arco Design的企业级应用快速构建解决方案，专为Vue.js开发者设计，提供开箱即用的项目模板和组件库，加速企业级前端应用开发。",
+    "analyzed_at": "2025-11-12T19:21:22.386380+00:00"
+  },
+  {
+    "repo_full_name": "Buernia/Zhudou-Sans",
+    "owner": "Buernia",
+    "html_url": "https://github.com/Buernia/Zhudou-Sans",
+    "description": "煮豆黑体，Noto 风格中日韩标点符号字体。A font family for CJK symbols and punctuation, derived from Noto Sans.",
+    "topics": [
+      "cjk",
+      "font",
+      "typeface"
+    ],
+    "starred_at": "2022-04-16T16:41:03Z",
+    "category": "设计工具",
+    "tags": [
+      "字体",
+      "中日韩",
+      "设计",
+      "排版",
+      "开源字体",
+      "Noto风格"
+    ],
+    "summary": "煮豆黑体是一款基于Noto Sans风格的中日韩标点符号字体，专为中文、日文和韩文设计，提供清晰易读的排版体验。",
+    "analyzed_at": "2025-11-12T19:21:22.386380+00:00"
+  },
+  {
+    "repo_full_name": "mattermost-community/focalboard",
+    "owner": "mattermost-community",
+    "html_url": "https://github.com/mattermost-community/focalboard",
+    "description": "Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.",
+    "topics": [
+      "asana",
+      "collaboration",
+      "goal-tracking",
+      "golang",
+      "hacktoberfest",
+      "kanban-board",
+      "notion",
+      "project",
+      "project-management",
+      "trello"
+    ],
+    "starred_at": "2022-04-17T03:41:00Z",
+    "category": "Web应用",
+    "tags": [
+      "project-management",
+      "collaboration",
+      "kanban-board",
+      "notion",
+      "trello"
+    ],
+    "summary": "Focalboard是一个开源的、自托管的Web项目管理工具，可作为Trello、Notion和Asana的替代方案。它提供看板功能，支持团队协作和目标跟踪，帮助用户高效管理项目和任务。",
+    "analyzed_at": "2025-11-12T19:21:22.386380+00:00"
+  },
+  {
+    "repo_full_name": "ShravanSunder/evergreenNotesNotion",
+    "owner": "ShravanSunder",
+    "html_url": "https://github.com/ShravanSunder/evergreenNotesNotion",
+    "description": "Chrome extension for notion",
+    "topics": [
+      "chrome-extension",
+      "notion",
+      "notion-extension",
+      "notion-integrations"
+    ],
+    "starred_at": "2022-04-17T04:57:40Z",
+    "category": "开发工具",
+    "tags": [
+      "浏览器扩展",
+      "Notion增强",
+      "生产力工具",
+      "Chrome插件",
+      "笔记工具"
+    ],
+    "summary": "这是一个Chrome浏览器扩展，旨在增强Notion笔记应用的功能。用户可以通过此扩展获得更强大的笔记管理体验，提高工作效率。",
+    "analyzed_at": "2025-11-12T19:21:22.386380+00:00"
+  },
+  {
+    "repo_full_name": "freeCodeCamp/freeCodeCamp",
+    "owner": "freeCodeCamp",
+    "html_url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+    "topics": [
+      "careers",
+      "certification",
+      "community",
+      "curriculum",
+      "d3",
+      "education",
+      "freecodecamp",
+      "javascript",
+      "learn-to-code",
+      "math",
+      "nodejs",
+      "nonprofits",
+      "programming",
+      "react",
+      "teachers"
+    ],
+    "starred_at": "2022-04-18T13:15:51Z",
+    "category": "教育学习",
+    "tags": [
+      "编程学习",
+      "在线教育",
+      "开源课程",
+      "技能认证",
+      "社区学习"
+    ],
+    "summary": "freeCodeCamp是一个开源的在线学习平台，提供免费的编程、数学和计算机科学课程，包含完整的课程体系和技能认证，帮助学习者掌握实用技术并提升职业能力。",
+    "analyzed_at": "2025-11-12T19:21:22.386380+00:00"
+  },
+  {
+    "repo_full_name": "sindresorhus/awesome",
+    "owner": "sindresorhus",
+    "html_url": "https://github.com/sindresorhus/awesome",
+    "description": "😎 Awesome lists about all kinds of interesting topics",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "lists",
+      "resources",
+      "unicorns"
+    ],
+    "starred_at": "2022-04-18T13:16:23Z",
+    "category": "开发工具",
+    "tags": [
+      "awesome",
+      "awesome-list",
+      "resources",
+      "lists"
+    ],
+    "summary": "这是一个收集各种有趣主题的精选列表集合，涵盖开发、设计、科学等多个领域，为用户提供高质量的资源推荐和学习路径。",
+    "analyzed_at": "2025-11-12T19:21:22.386380+00:00"
+  },
+  {
+    "repo_full_name": "Dusk-Labs/dim",
+    "owner": "Dusk-Labs",
+    "html_url": "https://github.com/Dusk-Labs/dim",
+    "description": "Dim, a media manager fueled by dark forces.",
+    "topics": [
+      "mediamanager",
+      "reactjs",
+      "rust",
+      "rust-lang"
+    ],
+    "starred_at": "2022-04-19T10:58:02Z",
+    "category": "效率工具",
+    "tags": [
+      "媒体管理",
+      "React",
+      "Rust",
+      "多媒体"
+    ],
+    "summary": "Dim是一个由暗黑力量驱动的媒体管理器，使用React和Rust构建，帮助用户高效地组织和管理多媒体文件。",
+    "analyzed_at": "2025-11-12T19:21:22.386380+00:00"
+  },
+  {
+    "repo_full_name": "Idered/chalk.ist",
+    "owner": "Idered",
+    "html_url": "https://github.com/Idered/chalk.ist",
+    "description": "📷 Create beautiful images of your source code",
+    "topics": [],
+    "starred_at": "2022-04-19T10:58:22Z",
+    "category": "开发工具",
+    "tags": [
+      "代码高亮",
+      "代码截图",
+      "代码美化",
+      "开发工具",
+      "可视化",
+      "源码展示"
+    ],
+    "summary": "这个工具可以将源代码转换为美观的图片，适合用于文档、演示或分享代码片段。",
+    "analyzed_at": "2025-11-12T19:21:22.386380+00:00"
+  },
+  {
+    "repo_full_name": "geekan/HowToLiveLonger",
+    "owner": "geekan",
+    "html_url": "https://github.com/geekan/HowToLiveLonger",
+    "description": "程序员延寿指南 | A programmer's guide to live longer",
+    "topics": [
+      "livelonger",
+      "programmer"
+    ],
+    "starred_at": "2022-04-19T11:02:08Z",
+    "category": "教育学习",
+    "tags": [
+      "健康指南",
+      "程序员健康",
+      "生活建议",
+      "长寿方法",
+      "职业健康"
+    ],
+    "summary": "这是一份专为程序员设计的健康生活指南，旨在帮助IT从业者通过科学的生活方式、健康习惯和心态调整延长寿命，提高生活质量，缓解职业相关健康问题。",
+    "analyzed_at": "2025-11-12T19:21:22.386380+00:00"
+  },
+  {
+    "repo_full_name": "objccn/articles",
+    "owner": "objccn",
+    "html_url": "https://github.com/objccn/articles",
+    "description": "Articles for objccn.io. objc.io的完整、准确、优雅的中文翻译版本",
+    "topics": [],
+    "starred_at": "2022-04-20T11:48:39Z",
+    "category": "开发工具",
+    "tags": [
+      "开发",
+      "翻译",
+      "Objective-C",
+      "Swift",
+      "技术",
+      "学习"
+    ],
+    "summary": "objc.io文章的中文翻译项目，提供Objective-C和Swift开发技术的完整、准确、优雅的中文学习资源。",
+    "analyzed_at": "2025-11-12T19:21:22.386380+00:00"
+  },
+  {
+    "repo_full_name": "kodecocodes/swift-style-guide",
+    "owner": "kodecocodes",
+    "html_url": "https://github.com/kodecocodes/swift-style-guide",
+    "description": "The official Swift style guide for Kodeco.",
+    "topics": [],
+    "starred_at": "2022-04-20T11:51:46Z",
+    "category": "开发工具",
+    "tags": [
+      "Swift",
+      "编码规范",
+      "风格指南",
+      "开发文档",
+      "Kodeco"
+    ],
+    "summary": "Kodeco官方Swift编程语言风格指南，提供Swift代码编写的最佳实践和规范，帮助开发者保持代码一致性和可读性。",
+    "analyzed_at": "2025-11-12T19:21:22.386380+00:00"
+  },
+  {
+    "repo_full_name": "github/swift-style-guide",
+    "owner": "github",
+    "html_url": "https://github.com/github/swift-style-guide",
+    "description": "**Archived** Style guide & coding conventions for Swift projects",
+    "topics": [],
+    "starred_at": "2022-04-20T11:51:48Z",
+    "category": "开发工具",
+    "tags": [
+      "Swift",
+      "编码规范",
+      "风格指南",
+      "开发文档",
+      "GitHub"
+    ],
+    "summary": "这是一个已归档的Swift项目风格指南和编码规范，为Swift开发者提供统一的代码编写标准。",
+    "analyzed_at": "2025-11-12T19:21:22.386380+00:00"
+  },
+  {
+    "repo_full_name": "airbnb/swift",
+    "owner": "airbnb",
+    "html_url": "https://github.com/airbnb/swift",
+    "description": "Airbnb's Swift Style Guide",
+    "topics": [
+      "ios",
+      "naming-conventions",
+      "style-guide",
+      "styleguide",
+      "swift",
+      "swiftformat",
+      "swiftlint"
+    ],
+    "starred_at": "2022-04-20T11:51:51Z",
+    "category": "开发工具",
+    "tags": [
+      "swift",
+      "ios",
+      "style-guide",
+      "swiftlint",
+      "swiftformat"
+    ],
+    "summary": "Airbnb的Swift编程语言风格指南，提供iOS开发中的命名约定、代码规范和最佳实践，帮助开发者保持代码一致性和可读性。",
+    "analyzed_at": "2025-11-12T19:21:22.386380+00:00"
+  },
+  {
+    "repo_full_name": "emoacht/Monitorian",
+    "owner": "emoacht",
+    "html_url": "https://github.com/emoacht/Monitorian",
+    "description": "A Windows desktop tool to adjust the brightness of multiple monitors with ease",
+    "topics": [
+      "brightness",
+      "ddc-ci",
+      "display",
+      "luminance",
+      "monitor"
+    ],
+    "starred_at": "2022-04-21T11:08:09Z",
+    "category": "桌面应用",
+    "tags": [
+      "显示器控制",
+      "亮度调节",
+      "多显示器",
+      "桌面工具",
+      "Windows应用"
+    ],
+    "summary": "Monitorian是一款Windows桌面工具，可轻松调整多个显示器的亮度。支持DDC/CI协议，提供直观的界面让用户精确控制每个显示器的亮度设置，提升多显示器使用体验。",
+    "analyzed_at": "2025-11-12T19:21:22.386380+00:00"
+  },
+  {
+    "repo_full_name": "dengxiuqi/ChineseLyrics",
+    "owner": "dengxiuqi",
+    "html_url": "https://github.com/dengxiuqi/ChineseLyrics",
+    "description": "10W首中文歌词数据库",
+    "topics": [],
+    "starred_at": "2022-04-21T11:15:36Z",
+    "category": "数据库",
+    "tags": [
+      "歌词",
+      "中文",
+      "数据库",
+      "音乐",
+      "诗歌"
+    ],
+    "summary": "这是一个包含10万首中文歌词的数据库，为音乐爱好者和开发者提供丰富的中文歌词资源，可用于音乐应用开发、歌词研究等场景。",
+    "analyzed_at": "2025-11-12T19:21:22.386380+00:00"
+  },
+  {
+    "repo_full_name": "notable/notable",
+    "owner": "notable",
+    "html_url": "https://github.com/notable/notable",
+    "description": "The Markdown-based note-taking app that doesn't suck.",
+    "topics": [
+      "cross-platform",
+      "electron",
+      "linux",
+      "mac",
+      "markdown",
+      "note",
+      "react",
+      "windows"
+    ],
+    "starred_at": "2022-04-21T13:45:05Z",
+    "category": "效率工具",
+    "tags": [
+      "笔记应用",
+      "Markdown",
+      "跨平台",
+      "Electron",
+      "React"
+    ],
+    "summary": "Notable是一款基于Markdown的跨平台笔记应用，支持Windows、macOS和Linux系统。它采用Electron框架和React构建，提供简洁高效的笔记记录体验。",
+    "analyzed_at": "2025-11-12T19:21:22.386380+00:00"
+  },
+  {
+    "repo_full_name": "klaudiosinani/taskbook",
+    "owner": "klaudiosinani",
+    "html_url": "https://github.com/klaudiosinani/taskbook",
+    "description": "Tasks, boards & notes for the command-line habitat",
+    "topics": [
+      "board",
+      "cli",
+      "note",
+      "task",
+      "todo"
+    ],
+    "starred_at": "2022-04-21T13:48:20Z",
+    "category": "效率工具",
+    "tags": [
+      "任务管理",
+      "命令行工具",
+      "笔记应用",
+      "看板",
+      "待办事项"
+    ],
+    "summary": "Taskbook是一款命令行效率工具，帮助用户通过简洁的界面管理任务、看板和笔记。它专为命令行环境设计，提供直观的任务组织和追踪功能，适合喜欢使用终端的用户提高工作效率。",
+    "analyzed_at": "2025-11-12T19:21:22.386380+00:00"
+  },
+  {
+    "repo_full_name": "NvChad/NvChad",
+    "owner": "NvChad",
+    "html_url": "https://github.com/NvChad/NvChad",
+    "description": "Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.",
+    "topics": [
+      "dotfiles",
+      "hacktoberfest",
+      "ide",
+      "lua",
+      "neovim",
+      "neovim-config",
+      "neovim-configuration",
+      "neovim-dotfiles",
+      "neovim-lua",
+      "neovim-setup",
+      "nvchad",
+      "nvim",
+      "nvim-configs",
+      "open-source",
+      "rice",
+      "ricing",
+      "vim",
+      "vimrc",
+      "vscode"
+    ],
+    "starred_at": "2022-04-21T14:00:00Z",
+    "category": "开发工具",
+    "tags": [
+      "neovim",
+      "编辑器配置",
+      "lua",
+      "ide",
+      "vim"
+    ],
+    "summary": "NvChad是一个快速且功能强大的Neovim框架，提供默认配置和美观的UI界面，旨在提升Neovim编辑器的使用体验。基于Lua编写，适合开发者进行代码编辑和开发工作。",
+    "analyzed_at": "2025-11-12T19:21:22.386380+00:00"
+  },
+  {
+    "repo_full_name": "jekyll/jekyll",
+    "owner": "jekyll",
+    "html_url": "https://github.com/jekyll/jekyll",
+    "description": ":globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby",
+    "topics": [
+      "blog-engine",
+      "jekyll",
+      "liquid",
+      "markdown",
+      "ruby",
+      "static-site-generator"
+    ],
+    "starred_at": "2022-04-22T11:02:52Z",
+    "category": "开发工具",
+    "tags": [
+      "静态网站生成器",
+      "博客引擎",
+      "Ruby",
+      "Markdown",
+      "模板引擎"
+    ],
+    "summary": "Jekyll是一个用Ruby编写的博客感知静态网站生成器，允许开发者使用Markdown等标记语言创建静态网站，特别适合构建博客和简单网站。",
+    "analyzed_at": "2025-11-12T19:21:22.386380+00:00"
+  },
+  {
+    "repo_full_name": "httpie/cli",
+    "owner": "httpie",
+    "html_url": "https://github.com/httpie/cli",
+    "description": "🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.",
+    "topics": [
+      "api",
+      "api-client",
+      "api-testing",
+      "cli",
+      "client",
+      "curl",
+      "debugging",
+      "developer-tools",
+      "development",
+      "devops",
+      "http",
+      "http-client",
+      "httpie",
+      "json",
+      "python",
+      "rest",
+      "rest-api",
+      "terminal",
+      "usability",
+      "web"
+    ],
+    "starred_at": "2022-04-23T13:39:49Z",
+    "category": "开发工具",
+    "tags": [
+      "cli",
+      "http-client",
+      "api-testing",
+      "developer-tools",
+      "",
+      "terminal"
+    ],
+    "summary": "HTTPie是一个现代化的命令行HTTP客户端，专为API时代设计。它提供友好的用户界面，支持JSON格式、彩色输出、会话管理、下载和插件扩展等功能，是开发人员进行API测试和调试的理想工具。",
+    "analyzed_at": "2025-11-12T19:21:22.386380+00:00"
+  },
+  {
+    "repo_full_name": "doodlewind/learn-wgpu-cn",
+    "owner": "doodlewind",
+    "html_url": "https://github.com/doodlewind/learn-wgpu-cn",
+    "description": "🇨🇳 《Learn Wgpu》中文版",
+    "topics": [
+      "graphics",
+      "rust",
+      "translation",
+      "tutorial",
+      "webgl",
+      "webgpu"
+    ],
+    "starred_at": "2022-04-23T13:43:31Z",
+    "category": "开发工具",
+    "tags": [
+      "图形渲染",
+      "Rust",
+      "WebGPU",
+      "教程",
+      "翻译"
+    ],
+    "summary": "这是一个WGPU图形编程的中文学习资源，帮助开发者使用Rust语言进行WebGPU图形渲染开发。",
+    "analyzed_at": "2025-11-12T19:21:22.386380+00:00"
+  },
+  {
+    "repo_full_name": "NightFurySL2001/CJK-character-count",
+    "owner": "NightFurySL2001",
+    "html_url": "https://github.com/NightFurySL2001/CJK-character-count",
+    "description": "Program that counts the amount of CJK characters based on Unicode ranges and Chinese encoding standards 字体汉字计数软件",
+    "topics": [
+      "chinese-characters",
+      "cjk-characters",
+      "cjk-unified-ideographs",
+      "unicode"
+    ],
+    "starred_at": "2022-04-23T13:47:00Z",
+    "category": "开发工具",
+    "tags": [
+      "中文字符计数",
+      "CJK字符",
+      "Unicode",
+      "字符统计",
+      "编码工具"
+    ],
+    "summary": "这是一个基于Unicode范围和中文字符编码标准开发的中日韩(CJK)字符计数工具，可帮助开发者统计文本中的中文字符数量，支持多种编码标准。",
+    "analyzed_at": "2025-11-12T19:21:22.386380+00:00"
+  },
+  {
+    "repo_full_name": "TencentLBS/TencentMapMiniProgramDemo",
+    "owner": "TencentLBS",
+    "html_url": "https://github.com/TencentLBS/TencentMapMiniProgramDemo",
+    "description": "微信小程序-地图示例",
+    "topics": [],
+    "starred_at": "2022-04-24T10:15:04Z",
+    "category": "移动应用",
+    "tags": [
+      "微信小程序",
+      "地图",
+      "示例",
+      "腾讯地图",
+      "移动应用"
+    ],
+    "summary": "这是一个腾讯地图的微信小程序示例项目，展示了如何在微信小程序中集成和使用地图功能，为开发者提供了地图应用开发的参考实现。",
+    "analyzed_at": "2025-11-12T19:21:22.386380+00:00"
+  },
+  {
+    "repo_full_name": "wechat-miniprogram/weui-miniprogram",
+    "owner": "wechat-miniprogram",
+    "html_url": "https://github.com/wechat-miniprogram/weui-miniprogram",
+    "description": "小程序WeUI组件库",
+    "topics": [],
+    "starred_at": "2022-04-24T10:57:52Z",
+    "category": "开发工具",
+    "tags": [
+      "微信小程序",
+      "UI组件",
+      "前端开发",
+      "组件库",
+      "WeUI"
+    ],
+    "summary": "微信小程序官方UI组件库，提供丰富的界面组件，帮助开发者快速构建美观的小程序应用。",
+    "analyzed_at": "2025-11-12T19:21:22.386380+00:00"
+  },
+  {
+    "repo_full_name": "carloscuesta/gitmoji-cli",
+    "owner": "carloscuesta",
+    "html_url": "https://github.com/carloscuesta/gitmoji-cli",
+    "description": "A gitmoji interactive cli tool for using emojis on commits. 💻",
+    "topics": [
+      "cli",
+      "emoji",
+      "gitmoji",
+      "gitmoji-cli"
+    ],
+    "starred_at": "2022-04-24T13:42:43Z",
+    "category": "开发工具",
+    "tags": [
+      "cli",
+      "emoji",
+      "gitmoji",
+      "gitmoji-cli"
+    ],
+    "summary": "gitmoji-cli是一个交互式命令行工具，允许开发者在Git提交中使用表情符号，使提交信息更加生动直观。它简化了gitmoji的使用过程，提高了代码提交的可读性和趣味性。",
+    "analyzed_at": "2025-11-12T19:21:22.386380+00:00"
+  },
+  {
+    "repo_full_name": "niefy/wx-manage",
+    "owner": "niefy",
+    "html_url": "https://github.com/niefy/wx-manage",
+    "description": "🔥微信公众号管理系统，包含公众号菜单管理🗄、自动回复🗨、素材管理📂、模板消息☘、粉丝管理🤹‍♂️等功能，前后端都开源免费🛩",
+    "topics": [
+      "cms",
+      "weixin",
+      "weixin-java",
+      "weixin-mp",
+      "wx-api",
+      "wx-mp"
+    ],
+    "starred_at": "2022-04-27T05:01:31Z",
+    "category": "Web应用",
+    "tags": [
+      "微信公众号",
+      "CMS",
+      "自动回复",
+      "素材管理",
+      "粉丝管理"
+    ],
+    "summary": "这是一个开源免费的微信公众号管理系统，提供菜单管理、自动回复、素材管理、模板消息和粉丝管理等功能，前后端代码均开源。",
+    "analyzed_at": "2025-11-12T19:21:22.386380+00:00"
+  },
+  {
+    "repo_full_name": "zfdang/Android-Touch-Helper",
+    "owner": "zfdang",
+    "html_url": "https://github.com/zfdang/Android-Touch-Helper",
+    "description": "开屏跳过-安卓系统的开屏广告自动跳过助手",
+    "topics": [
+      "accessibility",
+      "activity",
+      "ad",
+      "android",
+      "auto",
+      "click",
+      "screen",
+      "skip",
+      "splash",
+      "start",
+      "startup"
+    ],
+    "starred_at": "2022-04-27T05:01:55Z",
+    "category": "移动应用",
+    "tags": [
+      "Android",
+      "广告跳过",
+      "无障碍",
+      "自动化",
+      "开屏"
+    ],
+    "summary": "一款Android无障碍工具，可自动检测并跳过应用启动时的开屏广告，提升用户体验。",
+    "analyzed_at": "2025-11-12T19:21:22.386380+00:00"
+  },
+  {
+    "repo_full_name": "YunYouJun/cook",
+    "owner": "YunYouJun",
+    "html_url": "https://github.com/YunYouJun/cook",
+    "description": "🍲 好的，今天我们来做菜！OK, Let's Cook!",
+    "topics": [
+      "cook",
+      "food",
+      "recipe"
+    ],
+    "starred_at": "2022-04-27T05:02:33Z",
+    "category": "教育学习",
+    "tags": [
+      "烹饪",
+      "食谱",
+      "美食",
+      "厨艺",
+      "料理",
+      "烹饪技巧"
+    ],
+    "summary": "这是一个专注于烹饪的仓库，收集各种美食食谱和烹饪技巧，帮助用户学习如何制作各种美味佳肴。",
+    "analyzed_at": "2025-11-12T19:21:22.386380+00:00"
+  },
+  {
+    "repo_full_name": "horizon-ui/horizon-ui-chakra",
+    "owner": "horizon-ui",
+    "html_url": "https://github.com/horizon-ui/horizon-ui-chakra",
+    "description": "Horizon UI JavaScript ⭐️ The trendiest & innovative Open Source Admin Template for Chakra UI & React!",
+    "topics": [
+      "admin",
+      "admin-dashboard",
+      "admin-panel",
+      "admin-template",
+      "admin-ui",
+      "chakra-ui",
+      "chakra-ui-react",
+      "dashboard",
+      "dashboard-template",
+      "dashboard-templates",
+      "dashboards",
+      "javascript",
+      "open-source",
+      "react",
+      "react-admin-dashboard",
+      "react-admin-template",
+      "react-dashboard",
+      "reactjs",
+      "template"
+    ],
+    "starred_at": "2022-04-27T10:23:56Z",
+    "category": "Web应用",
+    "tags": [
+      "admin-template",
+      "react",
+      "chakra-ui",
+      "dashboard",
+      "javascript",
+      "open-source"
+    ],
+    "summary": "这是一个基于Chakra UI和React的开源管理模板，提供创新的管理面板和仪表盘界面，帮助开发者快速构建现代化的Web应用后台。",
+    "analyzed_at": "2025-11-12T19:21:22.386380+00:00"
+  },
+  {
+    "repo_full_name": "CorruptedArk/did-i-take-my-meds",
+    "owner": "CorruptedArk",
+    "html_url": "https://github.com/CorruptedArk/did-i-take-my-meds",
+    "description": "A Kotlin Android app to manage medications",
+    "topics": [],
+    "starred_at": "2022-04-27T10:33:41Z",
+    "category": "移动应用",
+    "tags": [
+      "药物管理",
+      "健康",
+      "Android",
+      "Kotlin",
+      "提醒"
+    ],
+    "summary": "这是一个用Kotlin开发的Android应用，帮助用户管理药物服用情况。用户可以记录药物信息、设置提醒时间，确保按时服药，提高用药依从性，维护个人健康。",
+    "analyzed_at": "2025-11-12T19:21:22.386380+00:00"
+  },
+  {
+    "repo_full_name": "daliansky/OC-little",
+    "owner": "daliansky",
+    "html_url": "https://github.com/daliansky/OC-little",
+    "description": "ACPI Hotpatch Samples for the OpenCore Bootloader",
+    "topics": [
+      "bootloader",
+      "hackintosh",
+      "hotpatch",
+      "macos",
+      "opencore"
+    ],
+    "starred_at": "2022-04-29T11:50:33Z",
+    "category": "开发工具",
+    "tags": [
+      "引导程序",
+      "黑苹果",
+      "macOS",
+      "OpenCore"
+    ],
+    "summary": "这个项目提供了OpenCore引导加载程序的ACPI热补丁示例，主要用于Hackintosh系统配置，帮助用户在非苹果硬件上实现macOS系统的正确引导。",
+    "analyzed_at": "2025-11-12T19:21:22.386380+00:00"
+  },
+  {
+    "repo_full_name": "any86/any-rule",
+    "owner": "any86",
+    "html_url": "https://github.com/any86/any-rule",
+    "description": "🦕  常用正则大全, 支持web / vscode / idea / Alfred Workflow多平台",
+    "topics": [
+      "awsome",
+      "express",
+      "regex",
+      "regexp",
+      "zheng-ze"
+    ],
+    "starred_at": "2022-04-29T12:20:17Z",
+    "category": "开发工具",
+    "tags": [
+      "正则表达式",
+      "开发工具",
+      "多平台",
+      "代码片段"
+    ],
+    "summary": "any-rule是一个常用正则表达式大全，支持Web、VSCode、IDEA和Alfred Workflow等多平台，为开发者提供便捷的正则表达式资源库。",
+    "analyzed_at": "2025-11-12T19:21:22.386380+00:00"
+  },
+  {
+    "repo_full_name": "giscus/giscus",
+    "owner": "giscus",
+    "html_url": "https://github.com/giscus/giscus",
+    "description": "A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:",
+    "topics": [
+      "blog",
+      "comment-system",
+      "comments",
+      "comments-widget",
+      "giscus",
+      "github",
+      "github-discussions",
+      "hacktoberfest",
+      "javascript",
+      "nextjs",
+      "react",
+      "reactjs",
+      "utterances",
+      "widget"
+    ],
+    "starred_at": "2022-04-29T12:21:24Z",
+    "category": "Web应用",
+    "tags": [
+      "comment-system",
+      "blog",
+      "javascript",
+      "react",
+      "widget",
+      "github"
+    ],
+    "summary": "Giscus是一个基于GitHub Discussions的评论系统，可作为React组件集成到博客和网站中。它利用GitHub账户进行身份验证，提供现代化的评论体验，支持丰富的Markdown格式和GitHub表情符号。",
+    "analyzed_at": "2025-11-12T19:21:22.386380+00:00"
+  },
+  {
+    "repo_full_name": "youzan/vant",
+    "owner": "youzan",
+    "html_url": "https://github.com/youzan/vant",
+    "description": "A lightweight, customizable Vue UI library for mobile web apps.",
+    "topics": [
+      "components",
+      "mobile",
+      "ui-kit",
+      "ui-library",
+      "vant",
+      "vue",
+      "vue3"
+    ],
+    "starred_at": "2022-04-29T12:29:15Z",
+    "category": "Web应用",
+    "tags": [
+      "components",
+      "mobile",
+      "ui-kit",
+      "vue",
+      "ui-library"
+    ],
+    "summary": "Vant是一个轻量级、可定制的Vue UI组件库，专为移动Web应用设计，提供丰富的移动端组件，帮助开发者快速构建高质量的移动应用。",
+    "analyzed_at": "2025-11-12T19:21:22.386380+00:00"
+  },
+  {
+    "repo_full_name": "wechat-miniprogram/computed",
+    "owner": "wechat-miniprogram",
+    "html_url": "https://github.com/wechat-miniprogram/computed",
+    "description": "小程序自定义组件 computed / watch 扩展",
+    "topics": [],
+    "starred_at": "2022-04-30T05:14:33Z",
+    "category": "开发工具",
+    "tags": [
+      "微信小程序",
+      "自定义组件",
+      "computed",
+      "watch",
+      "响应式",
+      "扩展"
+    ],
+    "summary": "这是一个为微信小程序自定义组件提供computed和watch功能的扩展库，帮助开发者实现数据响应式处理，提升小程序开发效率。",
+    "analyzed_at": "2025-11-12T19:21:22.386380+00:00"
+  },
+  {
+    "repo_full_name": "shuding/tilg",
+    "owner": "shuding",
+    "html_url": "https://github.com/shuding/tilg",
+    "description": "A magical React Hook that helps you debug components.",
+    "topics": [
+      "debug",
+      "logger",
+      "react",
+      "react-hooks"
+    ],
+    "starred_at": "2022-05-01T04:49:07Z",
+    "category": "开发工具",
+    "tags": [
+      "debug",
+      "logger",
+      "react",
+      "react-hooks"
+    ],
+    "summary": "tilg是一个神奇的React Hook，帮助开发者调试React组件。它提供日志记录功能，简化了组件开发过程中的问题排查和调试工作。",
+    "analyzed_at": "2025-11-12T19:21:22.386380+00:00"
+  },
+  {
+    "repo_full_name": "mdx-js/mdx",
+    "owner": "mdx-js",
+    "html_url": "https://github.com/mdx-js/mdx",
+    "description": "Markdown for the component era",
+    "topics": [
+      "jsx",
+      "markdown",
+      "mdx",
+      "react",
+      "remark",
+      "unified",
+      "vue"
+    ],
+    "starred_at": "2022-05-02T12:52:49Z",
+    "category": "开发工具",
+    "tags": [
+      "markdown",
+      "mdx",
+      "react",
+      "jsx",
+      "组件化"
+    ],
+    "summary": "MDX是一个将Markdown与JSX结合的开发工具，允许开发者在Markdown中使用React组件，使内容创作与组件化开发无缝融合，提升文档编写体验。",
+    "analyzed_at": "2025-11-12T19:21:22.386380+00:00"
+  },
+  {
+    "repo_full_name": "appsmithorg/appsmith",
+    "owner": "appsmithorg",
+    "html_url": "https://github.com/appsmithorg/appsmith",
+    "description": "Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.",
+    "topics": [
+      "admin-dashboard",
+      "admin-panels",
+      "app-builder",
+      "automation",
+      "crud",
+      "custom-internal",
+      "developer-tools",
+      "gui",
+      "gui-application",
+      "hacktoberfest",
+      "internal-tools",
+      "java",
+      "javascript",
+      "low-code",
+      "low-code-framework",
+      "react",
+      "self-hosted",
+      "typescript",
+      "webdevelopment",
+      "workflows"
+    ],
+    "starred_at": "2022-05-03T04:46:07Z",
+    "category": "开发工具",
+    "tags": [
+      "低代码",
+      "内部工具",
+      "仪表盘",
+      "应用构建器",
+      "开发者工具",
+      "Web开发"
+    ],
+    "summary": "Appsmith是一个低代码平台，用于构建管理面板、内部工具和仪表盘。它支持与25多种数据库和任何API集成，使用React和TypeScript构建，帮助开发者快速创建自定义应用程序。",
+    "analyzed_at": "2025-11-12T19:21:22.386380+00:00"
+  },
+  {
+    "repo_full_name": "liuchengxu/git-commit-emoji-cn",
+    "owner": "liuchengxu",
+    "html_url": "https://github.com/liuchengxu/git-commit-emoji-cn",
+    "description": "😁 git commit message emoji 使用指南",
+    "topics": [
+      "emoji",
+      "git"
+    ],
+    "starred_at": "2022-05-03T13:56:21Z",
+    "category": "开发工具",
+    "tags": [
+      "Git",
+      "Emoji",
+      "版本控制",
+      "代码规范"
+    ],
+    "summary": "这个项目提供了Git提交消息中使用emoji的中文指南，帮助开发者通过emoji更直观地表达提交内容，提高团队协作效率。",
+    "analyzed_at": "2025-11-12T19:21:22.386380+00:00"
+  },
+  {
+    "repo_full_name": "lzq603/CampusEpidemicPreventionMiniProgram",
+    "owner": "lzq603",
+    "html_url": "https://github.com/lzq603/CampusEpidemicPreventionMiniProgram",
+    "description": "校园疫情防控微信小程序，统计每日学生健康状况，并生成Excel表格",
+    "topics": [
+      "epidemic",
+      "health-check",
+      "wechat-mini-program"
+    ],
+    "starred_at": "2022-05-04T05:39:49Z",
+    "category": "移动应用",
+    "tags": [
+      "校园防疫",
+      "健康统计",
+      "微信小程序",
+      "数据管理",
+      "疫情防控"
+    ],
+    "summary": "校园疫情防控微信小程序，用于统计学生每日健康状况并生成Excel报表，帮助学校高效管理疫情数据，简化健康信息收集流程。",
+    "analyzed_at": "2025-11-12T19:21:22.386380+00:00"
+  },
+  {
+    "repo_full_name": "tencentyun/wafer2-quickstart",
+    "owner": "tencentyun",
+    "html_url": "https://github.com/tencentyun/wafer2-quickstart",
+    "description": "Wafer2 腾讯云一站式小程序解决方案",
+    "topics": [],
+    "starred_at": "2022-05-04T13:33:07Z",
+    "category": "开发工具",
+    "tags": [
+      "小程序",
+      "腾讯云",
+      "快速开发",
+      "解决方案",
+      "前端开发"
+    ],
+    "summary": "Wafer2是腾讯云提供的一站式小程序解决方案，帮助开发者快速构建和部署小程序应用，简化开发流程，提高开发效率。",
+    "analyzed_at": "2025-11-12T19:21:22.386380+00:00"
+  },
+  {
+    "repo_full_name": "riskers/GithubX",
+    "owner": "riskers",
+    "html_url": "https://github.com/riskers/GithubX",
+    "description": "Chrome Extension Enhanced Github",
+    "topics": [
+      "chrome-extension",
+      "github",
+      "github-plus",
+      "react"
+    ],
+    "starred_at": "2022-05-06T14:51:23Z",
+    "category": "开发工具",
+    "tags": [
+      "chrome-extension",
+      "github",
+      "github-plus",
+      "react"
+    ],
+    "summary": "这是一个Chrome扩展程序，基于React开发，用于增强GitHub的功能和用户体验，为开发者提供更便捷的GitHub操作界面。",
+    "analyzed_at": "2025-11-12T19:21:22.386380+00:00"
   }
 ]
