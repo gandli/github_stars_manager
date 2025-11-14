@@ -39498,5 +39498,1203 @@
     ],
     "summary": "MiaoYan是一款轻量级的Markdown笔记本应用，旨在帮助用户写出优秀的句子。它采用本地优先的设计理念，支持Markdown语法，界面简洁优雅，适合日常写作和笔记记录。",
     "analyzed_at": "2025-11-13T19:20:19.300491+00:00"
+  },
+  {
+    "repo_full_name": "wallabyjs/quokka",
+    "owner": "wallabyjs",
+    "html_url": "https://github.com/wallabyjs/quokka",
+    "description": " Repository for Quokka.js questions and issues",
+    "topics": [],
+    "starred_at": "2022-06-15T16:04:04Z",
+    "category": "开发工具",
+    "tags": [
+      "JavaScript",
+      "实时编程",
+      "代码测试",
+      "调试工具"
+    ],
+    "summary": "Quokka.js是一个JavaScript/TypeScript的实时运行环境工具，允许开发者在编码过程中即时查看代码执行结果，提高开发效率和调试体验。",
+    "analyzed_at": "2025-11-14T19:19:53.151021+00:00"
+  },
+  {
+    "repo_full_name": "Louis3797/awesome-readme-template",
+    "owner": "Louis3797",
+    "html_url": "https://github.com/Louis3797/awesome-readme-template",
+    "description": "An awesome README template for your projects!",
+    "topics": [
+      "boilerplate",
+      "readme",
+      "readme-boilerplate",
+      "readme-bolierplate",
+      "readme-template",
+      "template",
+      "template-repository"
+    ],
+    "starred_at": "2022-06-19T12:34:42Z",
+    "category": "开发工具",
+    "tags": [
+      "模板",
+      "文档",
+      "开发工具",
+      "README",
+      "代码片段"
+    ],
+    "summary": "这是一个优秀的项目README模板库，为开发者提供标准化的项目说明文档模板，帮助快速创建专业、结构清晰的项目介绍页面，提升项目文档质量和专业度。",
+    "analyzed_at": "2025-11-14T19:19:53.151021+00:00"
+  },
+  {
+    "repo_full_name": "wailsapp/wails",
+    "owner": "wailsapp",
+    "html_url": "https://github.com/wailsapp/wails",
+    "description": "Create beautiful applications using Go",
+    "topics": [
+      "angular",
+      "desktop-application",
+      "go",
+      "golang",
+      "javascript",
+      "linux",
+      "macos",
+      "react",
+      "svelte",
+      "vuejs",
+      "windows"
+    ],
+    "starred_at": "2022-06-19T14:03:25Z",
+    "category": "桌面应用",
+    "tags": [
+      "Go开发",
+      "跨平台",
+      "前端集成",
+      "桌面应用"
+    ],
+    "summary": "Wails是一个使用Go语言构建桌面应用的框架，支持与多种前端框架集成，可跨平台运行，让开发者能够创建美观高效的桌面应用程序。",
+    "analyzed_at": "2025-11-14T19:19:53.151021+00:00"
+  },
+  {
+    "repo_full_name": "0xMukesh/snipli",
+    "owner": "0xMukesh",
+    "html_url": "https://github.com/0xMukesh/snipli",
+    "description": "✨ A command-line interface for quickly sharing code snippets of your local files",
+    "topics": [
+      "cli",
+      "gist",
+      "oclif",
+      "typescript"
+    ],
+    "starred_at": "2022-06-20T04:27:52Z",
+    "category": "开发工具",
+    "tags": [
+      "命令行工具",
+      "代码分享",
+      "开发效率",
+      "TypeScript",
+      "代码片段"
+    ],
+    "summary": "Snipli是一个命令行工具，允许开发者快速分享本地文件的代码片段。基于TypeScript和oclif框架构建，简化了代码分享流程，提高了开发效率。",
+    "analyzed_at": "2025-11-14T19:19:53.151021+00:00"
+  },
+  {
+    "repo_full_name": "pppscn/SmsForwarder",
+    "owner": "pppscn",
+    "html_url": "https://github.com/pppscn/SmsForwarder",
+    "description": "短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正",
+    "topics": [
+      "android",
+      "api",
+      "app",
+      "bark",
+      "call",
+      "chatgpt",
+      "dingding",
+      "forward",
+      "mqtt",
+      "pushdear",
+      "pushplus",
+      "serverchan",
+      "sms",
+      "smtp",
+      "telegram",
+      "webhook",
+      "wechatapp"
+    ],
+    "starred_at": "2022-06-22T09:01:52Z",
+    "category": "移动应用",
+    "tags": [
+      "android",
+      "sms",
+      "forward",
+      "notification",
+      "remote-control",
+      "automation"
+    ],
+    "summary": "短信转发器是一款Android应用，可监控短信、来电和通知，并根据规则转发至多种平台。支持远程控制，实现远程发短信、查通话记录等功能，提升手机信息管理效率。",
+    "analyzed_at": "2025-11-14T19:19:53.151021+00:00"
+  },
+  {
+    "repo_full_name": "lipanski/docker-static-website",
+    "owner": "lipanski",
+    "html_url": "https://github.com/lipanski/docker-static-website",
+    "description": "A very small Docker image (~80KB) to run any static website",
+    "topics": [],
+    "starred_at": "2022-06-25T13:36:05Z",
+    "category": "开发工具",
+    "tags": [
+      "Docker",
+      "静态网站",
+      "部署",
+      "轻量级",
+      "容器化"
+    ],
+    "summary": "这是一个极小的Docker镜像（约80KB），可用于快速部署任何静态网站。轻量级容器化解决方案，简化静态网站的托管流程。",
+    "analyzed_at": "2025-11-14T19:19:53.151021+00:00"
+  },
+  {
+    "repo_full_name": "BGmi/BGmi",
+    "owner": "BGmi",
+    "html_url": "https://github.com/BGmi/BGmi",
+    "description": "[looking for maintainers] BGmi is a cli tool with Web UI for subscribed bangumi.",
+    "topics": [
+      "anime",
+      "bangumi",
+      "feed",
+      "python",
+      "python3"
+    ],
+    "starred_at": "2022-06-29T13:21:30Z",
+    "category": "开发工具",
+    "tags": [
+      "动漫",
+      "番剧",
+      "订阅",
+      "命令行工具",
+      "Python"
+    ],
+    "summary": "BGmi是一个命令行工具，带有Web界面，用于订阅和追踪番剧更新。用户可以通过它管理自己关注的动漫节目，获取最新更新信息。",
+    "analyzed_at": "2025-11-14T19:19:53.151021+00:00"
+  },
+  {
+    "repo_full_name": "shfshanyue/fp-jargon-zh",
+    "owner": "shfshanyue",
+    "html_url": "https://github.com/shfshanyue/fp-jargon-zh",
+    "description": "函数式编程术语及示例。本项目译自 https://github.com/hemanth/functional-programming-jargon",
+    "topics": [
+      "fp",
+      "functional-programming"
+    ],
+    "starred_at": "2022-07-05T13:25:12Z",
+    "category": "教育学习",
+    "tags": [
+      "函数式编程",
+      "编程术语",
+      "学习资源",
+      "技术文档",
+      "编程概念"
+    ],
+    "summary": "这是一个函数式编程术语及示例的中文化项目，翻译自国外开源资源，旨在帮助中文开发者理解和掌握函数式编程的核心概念和术语。",
+    "analyzed_at": "2025-11-14T19:19:53.151021+00:00"
+  },
+  {
+    "repo_full_name": "JakHuang/form-generator",
+    "owner": "JakHuang",
+    "html_url": "https://github.com/JakHuang/form-generator",
+    "description": ":sparkles:Element UI表单设计及代码生成器",
+    "topics": [
+      "element-ui",
+      "form-designer",
+      "monaco-editor",
+      "vue",
+      "vue-jsx",
+      "vue-multipage",
+      "vue-render",
+      "vuejs"
+    ],
+    "starred_at": "2022-07-05T13:27:34Z",
+    "category": "开发工具",
+    "tags": [
+      "表单设计",
+      "代码生成",
+      "Vue.js",
+      "Element UI",
+      "前端开发"
+    ],
+    "summary": "基于Element UI的表单设计器和代码生成工具，使用Vue.js开发。提供可视化表单设计界面，可快速生成表单代码，提高前端开发效率。",
+    "analyzed_at": "2025-11-14T19:19:53.151021+00:00"
+  },
+  {
+    "repo_full_name": "githubocto/repo-visualizer",
+    "owner": "githubocto",
+    "html_url": "https://github.com/githubocto/repo-visualizer",
+    "description": null,
+    "topics": [],
+    "starred_at": "2022-07-08T04:59:54Z",
+    "category": "开发工具",
+    "tags": [
+      "可视化",
+      "仓库",
+      "GitHub",
+      "开发工具"
+    ],
+    "summary": "一个用于可视化GitHub仓库结构的工具，帮助开发者直观理解代码组织和依赖关系。",
+    "analyzed_at": "2025-11-14T19:19:53.151021+00:00"
+  },
+  {
+    "repo_full_name": "vuejs/core",
+    "owner": "vuejs",
+    "html_url": "https://github.com/vuejs/core",
+    "description": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "topics": [],
+    "starred_at": "2022-07-08T05:01:52Z",
+    "category": "Web应用",
+    "tags": [
+      "JavaScript框架",
+      "前端开发",
+      "渐进式框架",
+      "UI构建",
+      "组件化",
+      "MVVM"
+    ],
+    "summary": "Vue.js是一个渐进式、可增量采用的JavaScript框架，专注于构建Web用户界面。它允许开发者根据项目需求逐步采用，核心库轻量且灵活，适合各种规模的Web应用开发。",
+    "analyzed_at": "2025-11-14T19:19:53.151021+00:00"
+  },
+  {
+    "repo_full_name": "Finb/bark-server",
+    "owner": "Finb",
+    "html_url": "https://github.com/Finb/bark-server",
+    "description": "Backend of Bark",
+    "topics": [
+      "push-notifications",
+      "self-hosted",
+      "tools"
+    ],
+    "starred_at": "2022-07-11T05:11:35Z",
+    "category": "Web应用",
+    "tags": [
+      "push-notifications",
+      "self-hosted",
+      "notifications",
+      "backend",
+      "server"
+    ],
+    "summary": "Bark是一个推送通知服务的后端实现，支持自托管部署，可用于向iOS设备发送通知。它提供了一个简单高效的服务器端解决方案，帮助开发者实现消息推送功能。",
+    "analyzed_at": "2025-11-14T19:19:53.151021+00:00"
+  },
+  {
+    "repo_full_name": "howie6879/liuli",
+    "owner": "howie6879",
+    "html_url": "https://github.com/howie6879/liuli",
+    "description": "一站式构建多源、干净、个性化的阅读环境(Build a multi-source, clean and personalized reading environment in one stop.)",
+    "topics": [
+      "liuli",
+      "notes",
+      "novel",
+      "wechat"
+    ],
+    "starred_at": "2022-07-11T05:11:39Z",
+    "category": "效率工具",
+    "tags": [
+      "阅读工具",
+      "内容聚合",
+      "多源整合",
+      "个性化",
+      "微信内容"
+    ],
+    "summary": "liuli是一个一站式阅读环境构建工具，可整合多源内容(包括小说、笔记和微信等)，提供干净、个性化的阅读体验，帮助用户高效管理各类阅读材料。",
+    "analyzed_at": "2025-11-14T19:19:53.151021+00:00"
+  },
+  {
+    "repo_full_name": "Finb/Bark",
+    "owner": "Finb",
+    "html_url": "https://github.com/Finb/Bark",
+    "description": "Bark is an iOS App which allows you to push custom notifications to your iPhone",
+    "topics": [
+      "ios",
+      "ios-app",
+      "ios-swift",
+      "mvvm",
+      "mvvm-architecture",
+      "push-notifications",
+      "rxcocoa",
+      "rxdatasources",
+      "rxswift"
+    ],
+    "starred_at": "2022-07-11T05:14:08Z",
+    "category": "移动应用",
+    "tags": [
+      "iOS",
+      "通知推送",
+      "Swift",
+      "MVVM架构"
+    ],
+    "summary": "Bark是一款iOS应用程序，允许用户向iPhone推送自定义通知。该应用使用Swift开发，采用MVVM架构设计，支持通过API或命令行发送个性化通知，适用于各种提醒和通知场景。",
+    "analyzed_at": "2025-11-14T19:19:53.151021+00:00"
+  },
+  {
+    "repo_full_name": "ninxsoft/Mist",
+    "owner": "ninxsoft",
+    "html_url": "https://github.com/ninxsoft/Mist",
+    "description": "A Mac utility that automatically downloads macOS Firmwares / Installers.",
+    "topics": [],
+    "starred_at": "2022-07-11T06:31:37Z",
+    "category": "桌面应用",
+    "tags": [
+      "macOS工具",
+      "固件下载",
+      "系统管理",
+      "安装程序",
+      "Mac应用"
+    ],
+    "summary": "Mist是一款Mac系统工具，可自动下载macOS固件和安装程序。它简化了macOS系统更新和重装过程，帮助用户轻松获取所需的系统安装文件，提高系统管理效率。",
+    "analyzed_at": "2025-11-14T19:19:53.151021+00:00"
+  },
+  {
+    "repo_full_name": "MoshiCoCo/docker-compose-hub",
+    "owner": "MoshiCoCo",
+    "html_url": "https://github.com/MoshiCoCo/docker-compose-hub",
+    "description": "常用docker容器快速启动仓库，帮你使用docker完成搭建云环境的搭建。",
+    "topics": [
+      "docker",
+      "docker-compose",
+      "linux",
+      "redis"
+    ],
+    "starred_at": "2022-07-11T11:59:18Z",
+    "category": "开发工具",
+    "tags": [
+      "docker",
+      "docker-compose",
+      "容器化",
+      "云环境",
+      "开发工具"
+    ],
+    "summary": "这是一个Docker Compose常用容器集合，提供快速启动各种服务的配置文件，帮助开发者使用Docker轻松搭建云环境，简化部署流程。",
+    "analyzed_at": "2025-11-14T19:19:53.151021+00:00"
+  },
+  {
+    "repo_full_name": "massCodeIO/massCode",
+    "owner": "massCodeIO",
+    "html_url": "https://github.com/massCodeIO/massCode",
+    "description": "A free and open source code snippet manager for developers",
+    "topics": [
+      "developer-tools",
+      "electron",
+      "linux",
+      "macos",
+      "notes",
+      "productivity",
+      "snippets",
+      "snippets-manager",
+      "vite",
+      "vue",
+      "windows"
+    ],
+    "starred_at": "2022-07-11T11:59:55Z",
+    "category": "开发工具",
+    "tags": [
+      "developer-tools",
+      "snippets",
+      "snippets-manager",
+      "productivity",
+      "electron"
+    ],
+    "summary": "massCode是一款免费开源的代码片段管理工具，专为开发者设计。它帮助开发者高效管理和重用代码片段，提高开发效率。支持多平台，包括Windows、macOS和Linux。",
+    "analyzed_at": "2025-11-14T19:19:53.151021+00:00"
+  },
+  {
+    "repo_full_name": "luolongfei/freenom",
+    "owner": "luolongfei",
+    "html_url": "https://github.com/luolongfei/freenom",
+    "description": "Freenom 域名自动续期。Freenom domain name renews automatically.",
+    "topics": [
+      "auto-renewal",
+      "bot",
+      "docker",
+      "domain",
+      "freenom",
+      "php",
+      "php8",
+      "renew",
+      "telegram",
+      "telegram-bot"
+    ],
+    "starred_at": "2022-07-11T12:24:32Z",
+    "category": "效率工具",
+    "tags": [
+      "域名管理",
+      "自动化",
+      "续期工具",
+      "PHP工具",
+      "Telegram集成",
+      "Docker支持"
+    ],
+    "summary": "这是一个自动续期Freenom免费域名的工具，使用PHP开发，支持Docker部署和Telegram bot操作，帮助用户轻松管理域名，避免因忘记续期而丢失免费域名。",
+    "analyzed_at": "2025-11-14T19:19:53.151021+00:00"
+  },
+  {
+    "repo_full_name": "qier222/YesPlayMusic",
+    "owner": "qier222",
+    "html_url": "https://github.com/qier222/YesPlayMusic",
+    "description": "高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron: ",
+    "topics": [
+      "electron",
+      "javascript",
+      "linux",
+      "mac",
+      "macos",
+      "music",
+      "music-player",
+      "netease-music",
+      "player",
+      "progressive-web-app",
+      "pwa",
+      "pwa-apps",
+      "vue",
+      "vue-cli",
+      "vue-router",
+      "vuex",
+      "web-music-player",
+      "windows"
+    ],
+    "starred_at": "2022-07-11T13:35:40Z",
+    "category": "桌面应用",
+    "tags": [
+      "音乐播放器",
+      "网易云音乐",
+      "Electron",
+      "跨平台",
+      "Vue.js",
+      "第三方客户端"
+    ],
+    "summary": "高颜值的第三方网易云播放器，支持Windows/macOS/Linux多平台，基于Electron和Vue.js构建，提供美观的界面和完整的音乐播放功能。",
+    "analyzed_at": "2025-11-14T19:19:53.151021+00:00"
+  },
+  {
+    "repo_full_name": "WeNeedHome/SummaryOfLoanSuspension",
+    "owner": "WeNeedHome",
+    "html_url": "https://github.com/WeNeedHome/SummaryOfLoanSuspension",
+    "description": "全国各省市停贷通知汇总",
+    "topics": [],
+    "starred_at": "2022-07-13T11:50:20Z",
+    "category": "数据分析",
+    "tags": [
+      "房地产",
+      "贷款",
+      "数据汇总",
+      "政策通知",
+      "信息整理"
+    ],
+    "summary": "这是一个全国各省市停贷通知的汇总项目，收集整理了全国各地关于贷款暂停的相关通知信息，为关注房地产市场和贷款政策的人士提供参考。",
+    "analyzed_at": "2025-11-14T19:19:53.151021+00:00"
+  },
+  {
+    "repo_full_name": "coder/coder",
+    "owner": "coder",
+    "html_url": "https://github.com/coder/coder",
+    "description": "Secure environments for developers and their agents",
+    "topics": [
+      "agents",
+      "dev-tools",
+      "development-environment",
+      "go",
+      "golang",
+      "ide",
+      "jetbrains",
+      "remote-development",
+      "terraform",
+      "vscode"
+    ],
+    "starred_at": "2022-07-13T11:52:31Z",
+    "category": "开发工具",
+    "tags": [
+      "dev-tools",
+      "development-environment",
+      "remote-development",
+      "ide"
+    ],
+    "summary": "Coder是一个为开发者和其代理提供安全环境的工具。它支持远程开发环境，可与VSCode、JetBrains等IDE集成，使用Go语言开发，帮助开发者在安全的环境中构建和部署应用程序。",
+    "analyzed_at": "2025-11-14T19:19:53.151021+00:00"
+  },
+  {
+    "repo_full_name": "sbfkcel/towxml",
+    "owner": "sbfkcel",
+    "html_url": "https://github.com/sbfkcel/towxml",
+    "description": "微信小程序HTML、Markdown渲染库",
+    "topics": [],
+    "starred_at": "2022-07-14T11:27:43Z",
+    "category": "开发工具",
+    "tags": [
+      "微信小程序",
+      "HTML渲染",
+      "Markdown",
+      "前端工具",
+      "转换工具"
+    ],
+    "summary": "towxml是一个微信小程序HTML和Markdown渲染库，帮助开发者将网页内容转换为小程序可渲染格式，简化内容展示开发流程。",
+    "analyzed_at": "2025-11-14T19:19:53.151021+00:00"
+  },
+  {
+    "repo_full_name": "jin-yufeng/mp-html",
+    "owner": "jin-yufeng",
+    "html_url": "https://github.com/jin-yufeng/mp-html",
+    "description": "小程序富文本组件，支持渲染和编辑 html，支持在微信、QQ、百度、支付宝、头条和 uni-app 平台使用",
+    "topics": [
+      "editor",
+      "html",
+      "miniprogram",
+      "rich-text",
+      "uni-app",
+      "wx"
+    ],
+    "starred_at": "2022-07-14T13:52:21Z",
+    "category": "开发工具",
+    "tags": [
+      "小程序开发",
+      "富文本",
+      "HTML",
+      "跨平台",
+      "组件"
+    ],
+    "summary": "mp-html是一个跨平台小程序富文本组件，支持在微信、QQ、百度、支付宝、头条和uni-app等平台使用，提供HTML渲染和编辑功能，帮助开发者轻松在小程序中实现富文本展示。",
+    "analyzed_at": "2025-11-14T19:19:53.151021+00:00"
+  },
+  {
+    "repo_full_name": "DIYgod/DIYgod-Obsidian-Starter",
+    "owner": "DIYgod",
+    "html_url": "https://github.com/DIYgod/DIYgod-Obsidian-Starter",
+    "description": "https://diygod.me/obsidian/",
+    "topics": [],
+    "starred_at": "2022-07-14T14:09:24Z",
+    "category": "效率工具",
+    "tags": [
+      "知识管理",
+      "笔记工具",
+      "Markdown",
+      "个人知识库"
+    ],
+    "summary": "这是一个Obsidian笔记应用的启动模板，帮助用户快速搭建个人知识管理系统，支持Markdown笔记和双向链接功能。",
+    "analyzed_at": "2025-11-14T19:19:53.151021+00:00"
+  },
+  {
+    "repo_full_name": "dracula/zsh",
+    "owner": "dracula",
+    "html_url": "https://github.com/dracula/zsh",
+    "description": "🧛🏻‍♂️ Dark theme for ZSH",
+    "topics": [
+      "dark-theme",
+      "dracula",
+      "theme",
+      "zsh"
+    ],
+    "starred_at": "2022-07-15T11:32:54Z",
+    "category": "开发工具",
+    "tags": [
+      "暗色主题",
+      "Dracula",
+      "主题",
+      "ZSH",
+      "终端"
+    ],
+    "summary": "Dracula ZSH主题是一个为ZSH shell设计的暗色主题，提供优雅的配色方案，提升终端开发体验。适合喜欢暗色界面的开发者使用。",
+    "analyzed_at": "2025-11-14T19:19:53.151021+00:00"
+  },
+  {
+    "repo_full_name": "vexip-ui/vexip-ui",
+    "owner": "vexip-ui",
+    "html_url": "https://github.com/vexip-ui/vexip-ui",
+    "description": "A Vue 3 UI library, highly customizability, full TypeScript, performance pretty good.",
+    "topics": [
+      "config",
+      "css",
+      "html",
+      "javascript",
+      "typescript",
+      "ui-components",
+      "vexipui",
+      "vitejs",
+      "vue",
+      "vue-components"
+    ],
+    "starred_at": "2022-07-15T11:44:37Z",
+    "category": "开发工具",
+    "tags": [
+      "Vue",
+      "UI组件",
+      "TypeScript",
+      "前端开发",
+      "自定义化"
+    ],
+    "summary": "Vexip UI是一个基于Vue 3的高度可定制化UI组件库，完全使用TypeScript开发，性能优异。它提供了丰富的UI组件，支持灵活配置，适合构建现代化的Web应用界面。",
+    "analyzed_at": "2025-11-14T19:19:53.151021+00:00"
+  },
+  {
+    "repo_full_name": "frinyvonnick/gitmoji-changelog",
+    "owner": "frinyvonnick",
+    "html_url": "https://github.com/frinyvonnick/gitmoji-changelog",
+    "description": "A changelog generator for gitmoji 😜",
+    "topics": [
+      "changelog",
+      "cli",
+      "commit",
+      "commit-conventions",
+      "emoji",
+      "gitmoji",
+      "hacktoberfest",
+      "javascript",
+      "nantes",
+      "node",
+      "semver"
+    ],
+    "starred_at": "2022-07-18T11:09:37Z",
+    "category": "开发工具",
+    "tags": [
+      "变更日志",
+      "命令行工具",
+      "Git工具",
+      "代码规范",
+      "JavaScript工具"
+    ],
+    "summary": "gitmoji-changelog是一个基于gitmoji表情符号的变更日志生成工具，帮助开发者按照规范格式生成项目变更记录，支持语义化版本，简化版本更新流程。",
+    "analyzed_at": "2025-11-14T19:19:53.151021+00:00"
+  },
+  {
+    "repo_full_name": "TencentCloudBase/cloudbase-extension-cms",
+    "owner": "TencentCloudBase",
+    "html_url": "https://github.com/TencentCloudBase/cloudbase-extension-cms",
+    "description": "🚀 一站式云端内容管理系统 - An open source Node.js headless cms based on CloudBase",
+    "topics": [
+      "cloudbase",
+      "cms",
+      "nestjs",
+      "nodejs",
+      "react"
+    ],
+    "starred_at": "2022-07-20T05:29:04Z",
+    "category": "Web应用",
+    "tags": [
+      "cloudbase",
+      "cms",
+      "nodejs",
+      "react"
+    ],
+    "summary": "腾讯云开发的一站式云端内容管理系统，基于Node.js和React构建的无头CMS，提供云端内容管理解决方案。",
+    "analyzed_at": "2025-11-14T19:19:53.151021+00:00"
+  },
+  {
+    "repo_full_name": "TencentCloudBase/cloudbase-action",
+    "owner": "TencentCloudBase",
+    "html_url": "https://github.com/TencentCloudBase/cloudbase-action",
+    "description": "云开发 Tencent CloudBase Github Action 可以将 Github 项目自动部署到云开发环境，基于 CloudBase Framework，支持静态网站、云函数、云托管、小程序等项目",
+    "topics": [
+      "actions",
+      "cloudbase",
+      "cloudbase-action",
+      "continuous-deployment",
+      "continuous-integration",
+      "deployment",
+      "gh-pages",
+      "github",
+      "pages",
+      "static-site",
+      "tcb",
+      "tencent"
+    ],
+    "starred_at": "2022-07-20T06:01:28Z",
+    "category": "开发工具",
+    "tags": [
+      "部署",
+      "持续集成",
+      "云开发",
+      "自动化",
+      "静态网站"
+    ],
+    "summary": "腾讯云开发Github Action工具，支持将GitHub项目自动部署到云开发环境，基于CloudBase Framework，可部署静态网站、云函数、云托管和小程序等项目，实现持续集成与部署。",
+    "analyzed_at": "2025-11-14T19:19:53.151021+00:00"
+  },
+  {
+    "repo_full_name": "responsively-org/responsively-app",
+    "owner": "responsively-org",
+    "html_url": "https://github.com/responsively-org/responsively-app",
+    "description": "A modified web browser that helps in responsive web development. A web developer's must have dev-tool.",
+    "topics": [
+      "contributions-welcome",
+      "desktop-app",
+      "developer-tools",
+      "electron",
+      "good-first-issue",
+      "hacktoberfest",
+      "javascript",
+      "opensource-alternative",
+      "react",
+      "redux",
+      "responsive",
+      "responsive-web-design",
+      "web-development"
+    ],
+    "starred_at": "2022-07-21T11:43:27Z",
+    "category": "开发工具",
+    "tags": [
+      "开发工具",
+      "桌面应用",
+      "响应式设计",
+      "Web开发",
+      "JavaScript",
+      "Electron"
+    ],
+    "summary": "Responsively App是一款专为响应式网页开发设计的修改版浏览器。作为Web开发者的必备工具，它提供了实时预览不同设备尺寸下的网页效果，大大提高了响应式开发的效率。基于Electron构建，支持React和Redux技术栈。",
+    "analyzed_at": "2025-11-14T19:19:53.151021+00:00"
+  },
+  {
+    "repo_full_name": "ResponsiveBP/Responsive",
+    "owner": "ResponsiveBP",
+    "html_url": "https://github.com/ResponsiveBP/Responsive",
+    "description": ":iphone: A super lightweight HTML, Sass, CSS, and JavaScript framework for building responsive websites",
+    "topics": [
+      "accessibility",
+      "css",
+      "html5",
+      "javascript",
+      "responsive-grid",
+      "rwd",
+      "sass"
+    ],
+    "starred_at": "2022-07-21T11:49:06Z",
+    "category": "Web应用",
+    "tags": [
+      "responsive-grid",
+      "css",
+      "html5",
+      "javascript",
+      "sass"
+    ],
+    "summary": "这是一个轻量级的HTML、Sass、CSS和JavaScript框架，专门用于构建响应式网站，使内容在各种设备上都能完美展示。",
+    "analyzed_at": "2025-11-14T19:19:53.151021+00:00"
+  },
+  {
+    "repo_full_name": "oteam-sources/watch-todolist",
+    "owner": "oteam-sources",
+    "html_url": "https://github.com/oteam-sources/watch-todolist",
+    "description": "云开发数据库实时推送demo示例。",
+    "topics": [],
+    "starred_at": "2022-07-22T05:08:55Z",
+    "category": "开发工具",
+    "tags": [
+      "云开发",
+      "数据库",
+      "实时推送",
+      "示例代码",
+      "数据同步"
+    ],
+    "summary": "这是一个云开发数据库实时推送的示例项目，展示了如何实现数据的实时同步功能。",
+    "analyzed_at": "2025-11-14T19:19:53.151021+00:00"
+  },
+  {
+    "repo_full_name": "TCloudBase/WXAPP-WEB-ShowMess",
+    "owner": "TCloudBase",
+    "html_url": "https://github.com/TCloudBase/WXAPP-WEB-ShowMess",
+    "description": "采用云开发后端服务打造的实时消息展板程序，使用小程序的客服消息能力发送消息，实时在WEB展板页面中展示，用于现场互动等多种玩法场景。",
+    "topics": [],
+    "starred_at": "2022-07-22T15:59:48Z",
+    "category": "Web应用",
+    "tags": [
+      "实时消息",
+      "小程序",
+      "云开发",
+      "互动展板",
+      "现场互动"
+    ],
+    "summary": "这是一个基于云开发的实时消息展板应用，通过小程序客服消息发送消息，实时在WEB页面展示，适用于现场互动、活动展示等多种场景。",
+    "analyzed_at": "2025-11-14T19:19:53.151021+00:00"
+  },
+  {
+    "repo_full_name": "hi-our/hi-face",
+    "owner": "hi-our",
+    "html_url": "https://github.com/hi-our/hi-face",
+    "description": "Hi头像——让头像有趣一点。",
+    "topics": [],
+    "starred_at": "2022-07-22T16:11:26Z",
+    "category": "Web应用",
+    "tags": [
+      "头像",
+      "头像生成",
+      "头像编辑",
+      "趣味头像",
+      "个人形象",
+      "在线工具"
+    ],
+    "summary": "Hi头像是一个让头像变得有趣的在线工具，可能提供头像生成、编辑或个性化服务，帮助用户创建独特的个人形象。",
+    "analyzed_at": "2025-11-14T19:19:53.151021+00:00"
+  },
+  {
+    "repo_full_name": "remaxjs/remax",
+    "owner": "remaxjs",
+    "html_url": "https://github.com/remaxjs/remax",
+    "description": "使用真正的 React 构建跨平台小程序",
+    "topics": [
+      "alipay-mini-program",
+      "mini-program",
+      "miniprogram",
+      "react",
+      "reactjs",
+      "toutiao-miniprogram",
+      "wechat-mini-program"
+    ],
+    "starred_at": "2022-07-25T16:23:14Z",
+    "category": "开发工具",
+    "tags": [
+      "React",
+      "小程序开发",
+      "跨平台",
+      "微信小程序",
+      "支付宝小程序"
+    ],
+    "summary": "Remax是一个使用真实React构建跨平台小程序的开发框架，支持微信、支付宝和今日头条等多个小程序平台，让开发者可以用熟悉的React语法开发小程序应用。",
+    "analyzed_at": "2025-11-14T19:19:53.151021+00:00"
+  },
+  {
+    "repo_full_name": "BlackCloud37/thucats",
+    "owner": "BlackCloud37",
+    "html_url": "https://github.com/BlackCloud37/thucats",
+    "description": "清华大学猫咪图鉴小程序",
+    "topics": [
+      "miniprogram",
+      "remax",
+      "wxapp"
+    ],
+    "starred_at": "2022-07-25T16:23:24Z",
+    "category": "移动应用",
+    "tags": [
+      "小程序",
+      "校园",
+      "猫咪",
+      "图鉴",
+      "微信应用"
+    ],
+    "summary": "清华大学猫咪图鉴小程序是一个展示校园内猫咪信息的移动应用，帮助师生了解校园猫咪的基本情况，促进人与动物的和谐共处。",
+    "analyzed_at": "2025-11-14T19:19:53.151021+00:00"
+  },
+  {
+    "repo_full_name": "nocalhost/nocalhost",
+    "owner": "nocalhost",
+    "html_url": "https://github.com/nocalhost/nocalhost",
+    "description": "Nocalhost is Cloud Native Dev Environment.",
+    "topics": [
+      "cloud-environment",
+      "cloudnative",
+      "kubernetes",
+      "microservices"
+    ],
+    "starred_at": "2022-07-26T11:09:06Z",
+    "category": "开发工具",
+    "tags": [
+      "云原生开发",
+      "Kubernetes",
+      "微服务",
+      "开发环境",
+      "云环境"
+    ],
+    "summary": "Nocalhost 是一个云原生开发环境，专为 Kubernetes 和微服务应用设计，提供便捷的云端开发体验，简化开发流程，提高开发效率。",
+    "analyzed_at": "2025-11-14T19:19:53.151021+00:00"
+  },
+  {
+    "repo_full_name": "cobaltdisco/Google-Chinese-Results-Blocklist",
+    "owner": "cobaltdisco",
+    "html_url": "https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist",
+    "description": "我终于能用谷歌搜中文了……",
+    "topics": [
+      "blacklist",
+      "search-results",
+      "search-results-blocker",
+      "spam-sites"
+    ],
+    "starred_at": "2022-07-31T07:43:11Z",
+    "category": "Web应用",
+    "tags": [],
+    "summary": "",
+    "analyzed_at": "2025-11-14T19:19:53.151021+00:00"
+  },
+  {
+    "repo_full_name": "yingye/weapp-qrcode",
+    "owner": "yingye",
+    "html_url": "https://github.com/yingye/weapp-qrcode",
+    "description": "weapp.qrcode.js 在 微信小程序 中，快速生成二维码",
+    "topics": [
+      "qrcode",
+      "weapp",
+      "wechat",
+      "wechat-mini-program",
+      "wepy"
+    ],
+    "starred_at": "2022-08-02T01:17:36Z",
+    "category": "开发工具",
+    "tags": [
+      "微信小程序",
+      "二维码",
+      "开发工具",
+      "JavaScript"
+    ],
+    "summary": "weapp-qrcode是一个专为微信小程序设计的二维码生成工具，基于JavaScript实现，帮助开发者快速在小程序中集成二维码功能，简化开发流程。",
+    "analyzed_at": "2025-11-14T19:19:53.151021+00:00"
+  },
+  {
+    "repo_full_name": "jasondu/wxa-plugin-canvas",
+    "owner": "jasondu",
+    "html_url": "https://github.com/jasondu/wxa-plugin-canvas",
+    "description": "小程序海报组件-生成朋友圈分享海报并生成图片",
+    "topics": [
+      "canvas",
+      "weapp",
+      "weixin",
+      "wxapp"
+    ],
+    "starred_at": "2022-08-02T01:17:37Z",
+    "category": "Web应用",
+    "tags": [
+      "canvas",
+      "小程序",
+      "微信",
+      "海报生成",
+      "图片生成"
+    ],
+    "summary": "这是一个微信小程序海报组件，可以帮助开发者快速生成朋友圈分享海报并导出为图片。基于Canvas技术实现，适用于各种营销场景。",
+    "analyzed_at": "2025-11-14T19:19:53.151021+00:00"
+  },
+  {
+    "repo_full_name": "wechat-miniprogram/miniprogram-component-plus",
+    "owner": "wechat-miniprogram",
+    "html_url": "https://github.com/wechat-miniprogram/miniprogram-component-plus",
+    "description": null,
+    "topics": [],
+    "starred_at": "2022-08-02T13:31:39Z",
+    "category": "Web应用",
+    "tags": [
+      "微信小程序",
+      "组件库",
+      "前端开发",
+      "UI组件",
+      "小程序扩展"
+    ],
+    "summary": "微信小程序增强组件库，提供丰富的UI组件和功能扩展，助力开发者快速构建高质量的小程序应用。",
+    "analyzed_at": "2025-11-14T19:19:53.151021+00:00"
+  },
+  {
+    "repo_full_name": "manycore-maas/Painter",
+    "owner": "manycore-maas",
+    "html_url": "https://github.com/manycore-maas/Painter",
+    "description": "小程序生成图片库，轻松通过 json 方式绘制一张可以发到朋友圈的图片",
+    "topics": [],
+    "starred_at": "2022-08-02T14:53:36Z",
+    "category": "设计工具",
+    "tags": [
+      "图片生成",
+      "小程序",
+      "JSON",
+      "社交媒体",
+      "设计工具"
+    ],
+    "summary": "Painter是一个基于JSON的小程序图片生成库，开发者可以通过简单的JSON配置快速创建适合朋友圈分享的精美图片，简化了社交媒体内容制作流程。",
+    "analyzed_at": "2025-11-14T19:19:53.151021+00:00"
+  },
+  {
+    "repo_full_name": "kuckboy1994/mp_canvas_drawer",
+    "owner": "kuckboy1994",
+    "html_url": "https://github.com/kuckboy1994/mp_canvas_drawer",
+    "description": ":rocket: 微信小程序上canvas绘制图片助手，一个json就制作分享朋友圈图片",
+    "topics": [
+      "canvas",
+      "drawer",
+      "mp",
+      "mpvue",
+      "wepy",
+      "wxapp",
+      "xiaochengxu"
+    ],
+    "starred_at": "2022-08-02T14:53:38Z",
+    "category": "开发工具",
+    "tags": [
+      "canvas",
+      "小程序",
+      "绘图",
+      "微信",
+      "开发工具"
+    ],
+    "summary": "微信小程序Canvas绘图助手，通过JSON配置快速生成分享朋友圈的图片，简化小程序中的canvas绘图开发流程。",
+    "analyzed_at": "2025-11-14T19:19:53.151021+00:00"
+  },
+  {
+    "repo_full_name": "Bowen7/regex-vis",
+    "owner": "Bowen7",
+    "html_url": "https://github.com/Bowen7/regex-vis",
+    "description": "🎨 Regex visualizer & editor",
+    "topics": [
+      "editor",
+      "react",
+      "reactjs",
+      "regex",
+      "regexp",
+      "tsx",
+      "typescript",
+      "visualizer"
+    ],
+    "starred_at": "2022-08-04T11:48:55Z",
+    "category": "开发工具",
+    "tags": [
+      "regex",
+      "visualizer",
+      "editor",
+      "typescript"
+    ],
+    "summary": "这是一个基于React和TypeScript开发的开源正则表达式可视化编辑器。它提供了直观的界面，帮助开发者创建、编辑和测试正则表达式，提高开发效率。",
+    "analyzed_at": "2025-11-14T19:19:53.151021+00:00"
+  },
+  {
+    "repo_full_name": "Dashibase/lotion",
+    "owner": "Dashibase",
+    "html_url": "https://github.com/Dashibase/lotion",
+    "description": "An open-source Notion UI built with Vue 3 ",
+    "topics": [
+      "editorjs",
+      "hacktoberfest",
+      "markdown",
+      "notion",
+      "vue"
+    ],
+    "starred_at": "2022-08-04T11:49:01Z",
+    "category": "Web应用",
+    "tags": [
+      "notion",
+      "vue",
+      "markdown",
+      "editorjs",
+      "开源"
+    ],
+    "summary": "这是一个基于Vue 3构建的开源Notion风格UI界面，支持Markdown和EditorJS编辑器，提供类似Notion的文档编辑体验。",
+    "analyzed_at": "2025-11-14T19:19:53.151021+00:00"
+  },
+  {
+    "repo_full_name": "Mayandev/ikea-low-price",
+    "owner": "Mayandev",
+    "html_url": "https://github.com/Mayandev/ikea-low-price",
+    "description": "🧾 Showcasing IKEA's low-priced items ｜ 宜家折扣价商品｜宜家低价好物",
+    "topics": [
+      "netlify",
+      "next"
+    ],
+    "starred_at": "2022-08-04T11:52:24Z",
+    "category": "Web应用",
+    "tags": [
+      "宜家",
+      "价格比较",
+      "商品展示",
+      "Next.js",
+      "Netlify",
+      "电商"
+    ],
+    "summary": "一个基于Next.js和Netlify构建的Web应用，专门展示宜家商店的低价商品和折扣信息，帮助消费者找到性价比高的家居产品。",
+    "analyzed_at": "2025-11-14T19:19:53.151021+00:00"
+  },
+  {
+    "repo_full_name": "yume-chan/ya-webadb",
+    "owner": "yume-chan",
+    "html_url": "https://github.com/yume-chan/ya-webadb",
+    "description": "ADB in your browser",
+    "topics": [
+      "adb",
+      "android",
+      "android-debug-bridge",
+      "android-phone",
+      "scrcpy",
+      "webadb",
+      "webusb-api"
+    ],
+    "starred_at": "2022-08-04T11:57:09Z",
+    "category": "开发工具",
+    "tags": [
+      "android",
+      "adb",
+      "调试",
+      "webusb",
+      "开发工具"
+    ],
+    "summary": "ya-webadb是一个在浏览器中运行的Android调试桥接工具，通过WebUSB API直接连接Android设备，无需安装额外软件即可进行调试操作。",
+    "analyzed_at": "2025-11-14T19:19:53.151021+00:00"
+  },
+  {
+    "repo_full_name": "datreks/codetime-vscode",
+    "owner": "datreks",
+    "html_url": "https://github.com/datreks/codetime-vscode",
+    "description": "The Codetime extension for Visual Studio Code.",
+    "topics": [
+      "vscode",
+      "vscode-extension"
+    ],
+    "starred_at": "2022-08-04T13:35:34Z",
+    "category": "开发工具",
+    "tags": [
+      "vscode",
+      "vscode-extension",
+      "代码分析",
+      "开发效率",
+      "时间追踪"
+    ],
+    "summary": "CodeTime VS Code扩展是一款开发效率工具，帮助开发者追踪和分析编码时间，提供生产力洞察和代码统计功能。",
+    "analyzed_at": "2025-11-14T19:19:53.151021+00:00"
+  },
+  {
+    "repo_full_name": "adrianmg/github-pewpew",
+    "owner": "adrianmg",
+    "html_url": "https://github.com/adrianmg/github-pewpew",
+    "description": "🔫 Pew pew needless GitHub repos from your CLI!",
+    "topics": [
+      "cli",
+      "delete",
+      "github",
+      "javascript",
+      "nodejs",
+      "package",
+      "pewpew",
+      "repositories",
+      "terminal",
+      "utility"
+    ],
+    "starred_at": "2022-08-05T13:35:11Z",
+    "category": "开发工具",
+    "tags": [
+      "cli",
+      "github",
+      "terminal",
+      "utility",
+      "delete",
+      "repositories"
+    ],
+    "summary": "一个命令行工具，帮助开发者从GitHub中批量删除不需要的仓库。",
+    "analyzed_at": "2025-11-14T19:19:53.151021+00:00"
+  },
+  {
+    "repo_full_name": "bestxtools/weekly-cn",
+    "owner": "bestxtools",
+    "html_url": "https://github.com/bestxtools/weekly-cn",
+    "description": "发现并分享有趣，有创意，免费、好用的工具，每周四发布。",
+    "topics": [
+      "awesome-tools",
+      "best-tools",
+      "bestxtools",
+      "bestxtools-weekly",
+      "free-tools",
+      "newsletter",
+      "online-tools",
+      "tools",
+      "weekly"
+    ],
+    "starred_at": "2022-08-05T14:35:00Z",
+    "category": "效率工具",
+    "tags": [
+      "工具推荐",
+      "免费工具",
+      "每周更新",
+      "在线工具",
+      "效率提升"
+    ],
+    "summary": "这是一个每周更新的中文工具推荐仓库，分享有趣、创意且免费的实用工具，帮助用户发现提高工作效率和生活品质的各类在线资源。",
+    "analyzed_at": "2025-11-14T19:19:53.151021+00:00"
   }
 ]
