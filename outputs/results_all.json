@@ -40696,5 +40696,1235 @@
     ],
     "summary": "这是一个每周更新的中文工具推荐仓库，分享有趣、创意且免费的实用工具，帮助用户发现提高工作效率和生活品质的各类在线资源。",
     "analyzed_at": "2025-11-14T19:19:53.151021+00:00"
+  },
+  {
+    "repo_full_name": "webfansplz/vuejs-challenges",
+    "owner": "webfansplz",
+    "html_url": "https://github.com/webfansplz/vuejs-challenges",
+    "description": "Collection of Vue.js challenges",
+    "topics": [
+      "challenges",
+      "vuejs",
+      "vuejs-challeges"
+    ],
+    "starred_at": "2022-08-05T14:47:21Z",
+    "category": "开发工具",
+    "tags": [
+      "challenges",
+      "vuejs",
+      "前端开发",
+      "JavaScript",
+      "练习项目",
+      "学习资源"
+    ],
+    "summary": "Vue.js挑战集合，提供一系列实践练习帮助开发者掌握Vue.js框架。适合不同水平的开发者通过实际项目提升Vue.js技能。",
+    "analyzed_at": "2025-11-15T19:17:22.645875+00:00"
+  },
+  {
+    "repo_full_name": "hydescarf/Obsidian-Theme-Mado-Miniflow",
+    "owner": "hydescarf",
+    "html_url": "https://github.com/hydescarf/Obsidian-Theme-Mado-Miniflow",
+    "description": "A beautiful minimalism theme for Obsidian.",
+    "topics": [
+      "dark-mode",
+      "dark-theme",
+      "light-mode",
+      "light-theme",
+      "obsidian",
+      "obsidian-md",
+      "obsidian-theme",
+      "theme"
+    ],
+    "starred_at": "2022-08-08T11:00:34Z",
+    "category": "桌面应用",
+    "tags": [
+      "obsidian",
+      "obsidian-theme",
+      "dark-theme",
+      "light-theme",
+      "minimalism"
+    ],
+    "summary": "这是一个为Obsidian笔记应用设计的极简主义主题，支持深色和浅色模式，提供美观简洁的用户界面，提升知识管理体验。",
+    "analyzed_at": "2025-11-15T19:17:22.645875+00:00"
+  },
+  {
+    "repo_full_name": "tabler/tabler-icons",
+    "owner": "tabler",
+    "html_url": "https://github.com/tabler/tabler-icons",
+    "description": "A set of over 5800 free MIT-licensed high-quality SVG icons for you to use in your web projects.",
+    "topics": [
+      "bootstrap-icons",
+      "components",
+      "css",
+      "icon",
+      "icon-pack",
+      "icons",
+      "icons-pack",
+      "iconset",
+      "quality-svg-icons",
+      "react",
+      "svelte",
+      "svg",
+      "svg-icons",
+      "tabler-icons"
+    ],
+    "starred_at": "2022-08-08T12:30:25Z",
+    "category": "Web应用",
+    "tags": [
+      "图标",
+      "SVG",
+      "组件",
+      "图标集",
+      "图标包",
+      "高质量SVG图标"
+    ],
+    "summary": "Tabler Icons是一个包含5800多个免费MIT许可的高质量SVG图标集合，适用于Web项目。提供React、Svelte等多种框架支持，是开发者的理想图标资源。",
+    "analyzed_at": "2025-11-15T19:17:22.645875+00:00"
+  },
+  {
+    "repo_full_name": "DrXie/OSFCC",
+    "owner": "DrXie",
+    "html_url": "https://github.com/DrXie/OSFCC",
+    "description": "一个收集可用于中文字体排印的开源字体集合。",
+    "topics": [
+      "chinese",
+      "fonts",
+      "typography"
+    ],
+    "starred_at": "2022-08-08T12:31:24Z",
+    "category": "设计工具",
+    "tags": [
+      "chinese",
+      "fonts",
+      "typography",
+      "design",
+      "open-source",
+      "typography-resources"
+    ],
+    "summary": "OSFCC是一个专注于中文字体排印的开源字体集合项目，为设计师和开发者提供丰富的中文字体资源，助力中文排版设计工作。",
+    "analyzed_at": "2025-11-15T19:17:22.645875+00:00"
+  },
+  {
+    "repo_full_name": "Ziv-Barber/officegen",
+    "owner": "Ziv-Barber",
+    "html_url": "https://github.com/Ziv-Barber/officegen",
+    "description": "Standalone Office Open XML files (Microsoft Office 2007 and later) generator for Word (docx), PowerPoint (pptx) and Excell (xlsx) in javascript. The output is a stream.",
+    "topics": [],
+    "starred_at": "2022-08-11T16:21:25Z",
+    "category": "开发工具",
+    "tags": [
+      "Office文档生成",
+      "JavaScript库",
+      "docx",
+      "pptx",
+      "xlsx",
+      "文件处理"
+    ],
+    "summary": "officegen是一个JavaScript库，用于生成Office Open XML格式的文档，包括Word(docx)、PowerPoint(pptx)和Excel(xlsx)文件。它以流形式输出，适用于需要在服务器端动态生成Office文档的应用场景。",
+    "analyzed_at": "2025-11-15T19:17:22.645875+00:00"
+  },
+  {
+    "repo_full_name": "bimohxh/uiset",
+    "owner": "bimohxh",
+    "html_url": "https://github.com/bimohxh/uiset",
+    "description": ":fire:Collect free high-quality UI resources.",
+    "topics": [
+      "avatar",
+      "color",
+      "icon",
+      "illustration",
+      "pattern",
+      "ui"
+    ],
+    "starred_at": "2022-08-13T00:48:15Z",
+    "category": "设计工具",
+    "tags": [
+      "UI资源",
+      "设计素材",
+      "图标",
+      "插图",
+      "颜色",
+      "图案"
+    ],
+    "summary": "uiset是一个收集免费高质量UI资源的开源项目，提供头像、图标、插图、图案等多种设计素材，帮助设计师和开发者快速获取所需的UI元素。",
+    "analyzed_at": "2025-11-15T19:17:22.645875+00:00"
+  },
+  {
+    "repo_full_name": "eryajf/vdoing-template",
+    "owner": "eryajf",
+    "html_url": "https://github.com/eryajf/vdoing-template",
+    "description": "Vdoing主题博客模板",
+    "topics": [
+      "blog",
+      "eryajf",
+      "github-pages",
+      "template"
+    ],
+    "starred_at": "2022-08-13T00:48:54Z",
+    "category": "Web应用",
+    "tags": [
+      "blog",
+      "template",
+      "github-pages",
+      "静态网站",
+      "主题"
+    ],
+    "summary": "Vdoing主题博客模板是一个基于GitHub Pages的静态博客模板，适合开发者搭建个人技术博客，提供简洁优雅的界面和丰富的功能。",
+    "analyzed_at": "2025-11-15T19:17:22.645875+00:00"
+  },
+  {
+    "repo_full_name": "webfansplz/temir",
+    "owner": "webfansplz",
+    "html_url": "https://github.com/webfansplz/temir",
+    "description": "Vue for interactive command-line apps",
+    "topics": [
+      "cli",
+      "command-line",
+      "flexbox",
+      "interactive",
+      "reactivity",
+      "vue"
+    ],
+    "starred_at": "2022-08-13T00:50:40Z",
+    "category": "开发工具",
+    "tags": [
+      "CLI",
+      "命令行",
+      "Vue",
+      "交互式",
+      "响应式"
+    ],
+    "summary": "Temir是一个基于Vue.js的交互式命令行应用开发框架，利用Vue的响应式系统和Flexbox布局，帮助开发者构建现代化的命令行界面工具。",
+    "analyzed_at": "2025-11-15T19:17:22.645875+00:00"
+  },
+  {
+    "repo_full_name": "guigrpa/docx-templates",
+    "owner": "guigrpa",
+    "html_url": "https://github.com/guigrpa/docx-templates",
+    "description": "Template-based docx report creation",
+    "topics": [
+      "docx",
+      "docx-file",
+      "docx-generator",
+      "ms-word",
+      "reporting",
+      "template"
+    ],
+    "starred_at": "2022-08-14T13:50:48Z",
+    "category": "开发工具",
+    "tags": [
+      "docx",
+      "docx-generator",
+      "ms-word",
+      "reporting",
+      "template"
+    ],
+    "summary": "这是一个基于模板的docx报告创建工具，允许用户通过模板生成Microsoft Word文档，简化报告生成流程。",
+    "analyzed_at": "2025-11-15T19:17:22.645875+00:00"
+  },
+  {
+    "repo_full_name": "HcySunYang/code-for-vue-3-book",
+    "owner": "HcySunYang",
+    "html_url": "https://github.com/HcySunYang/code-for-vue-3-book",
+    "description": null,
+    "topics": [],
+    "starred_at": "2022-08-19T10:06:55Z",
+    "category": "教育学习",
+    "tags": [
+      "Vue3",
+      "前端开发",
+      "教程",
+      "代码示例",
+      "JavaScript"
+    ],
+    "summary": "这是一个关于Vue 3的代码仓库，很可能是配套书籍的示例代码，适合学习Vue 3框架的开发者参考和实践。",
+    "analyzed_at": "2025-11-15T19:17:22.645875+00:00"
+  },
+  {
+    "repo_full_name": "evilc0des/docxtemplater-image-module-free",
+    "owner": "evilc0des",
+    "html_url": "https://github.com/evilc0des/docxtemplater-image-module-free",
+    "description": "Open Source Image Module for docxtemplater",
+    "topics": [],
+    "starred_at": "2022-08-22T13:55:02Z",
+    "category": "开发工具",
+    "tags": [
+      "文档处理",
+      "Word",
+      "图像处理",
+      "模块",
+      "docxtemplater"
+    ],
+    "summary": "这是一个为docxtemplater提供图像处理功能的开源模块。它允许开发者在Word文档(.docx)中插入和处理图像，是docxtemplater库的扩展组件，适用于需要生成包含图像的Word文档的应用场景。",
+    "analyzed_at": "2025-11-15T19:17:22.645875+00:00"
+  },
+  {
+    "repo_full_name": "mwilliamson/mammoth.js",
+    "owner": "mwilliamson",
+    "html_url": "https://github.com/mwilliamson/mammoth.js",
+    "description": "Convert Word documents (.docx files) to HTML",
+    "topics": [],
+    "starred_at": "2022-08-23T00:34:16Z",
+    "category": "开发工具",
+    "tags": [
+      "文档转换",
+      "Word",
+      "HTML",
+      "JavaScript",
+      "文档处理"
+    ],
+    "summary": "Mammoth.js是一个JavaScript库，专门用于将Word文档(.docx格式)转换为HTML。它设计简洁，专注于处理.docx文件中的内容和格式，适合在Web应用中集成文档转换功能。",
+    "analyzed_at": "2025-11-15T19:17:22.645875+00:00"
+  },
+  {
+    "repo_full_name": "facebookexperimental/Recoil",
+    "owner": "facebookexperimental",
+    "html_url": "https://github.com/facebookexperimental/Recoil",
+    "description": "Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.",
+    "topics": [],
+    "starred_at": "2022-08-25T12:00:56Z",
+    "category": "开发工具",
+    "tags": [
+      "React",
+      "状态管理",
+      "前端开发",
+      "JavaScript",
+      "实验性",
+      "组件化"
+    ],
+    "summary": "Recoil是Facebook开发的React实验性状态管理库，提供React难以单独实现的功能，同时兼容React最新特性，帮助开发者更高效地管理应用状态。",
+    "analyzed_at": "2025-11-15T19:17:22.645875+00:00"
+  },
+  {
+    "repo_full_name": "Qiu-Jun/wx_lovers",
+    "owner": "Qiu-Jun",
+    "html_url": "https://github.com/Qiu-Jun/wx_lovers",
+    "description": "基于nodejs的微信公众号消息推送，用于情侣之间消息推送. main分支是基于github action的计划任务，而server分支是node的计划任务",
+    "topics": [
+      "eggjs",
+      "nodejs"
+    ],
+    "starred_at": "2022-08-26T07:22:49Z",
+    "category": "社交网络",
+    "tags": [
+      "微信公众号",
+      "消息推送",
+      "情侣应用",
+      "Node.js",
+      "定时任务"
+    ],
+    "summary": "基于Node.js和Egg.js的微信公众号消息推送应用，专为情侣设计，支持通过GitHub Actions和Node.js计划任务实现定时消息推送功能。",
+    "analyzed_at": "2025-11-15T19:17:22.645875+00:00"
+  },
+  {
+    "repo_full_name": "qianxi0410/gossip",
+    "owner": "qianxi0410",
+    "html_url": "https://github.com/qianxi0410/gossip",
+    "description": "A serverless static blog engine based on GitHub Issue System.",
+    "topics": [
+      "blog-engine",
+      "nextjs",
+      "react",
+      "serverless",
+      "static-site-generator"
+    ],
+    "starred_at": "2022-08-26T07:41:46Z",
+    "category": "Web应用",
+    "tags": [
+      "blog-engine",
+      "nextjs",
+      "react",
+      "serverless",
+      "static-site-generator"
+    ],
+    "summary": "Gossip是一个基于GitHub Issue系统的无服务器静态博客引擎，使用Next.js和React构建。它允许开发者通过GitHub Issues来管理博客内容，生成静态网站，无需服务器支持。",
+    "analyzed_at": "2025-11-15T19:17:22.645875+00:00"
+  },
+  {
+    "repo_full_name": "yenche123/podcast-together",
+    "owner": "yenche123",
+    "html_url": "https://github.com/yenche123/podcast-together",
+    "description": "跟你的好友一起实时在线听播客！",
+    "topics": [
+      "audioplayer",
+      "cloudfunctions",
+      "laf",
+      "podcast",
+      "realtime",
+      "serverless",
+      "typescript",
+      "vite",
+      "vue",
+      "vue-router4",
+      "vue3",
+      "vue3-typescript",
+      "websocket"
+    ],
+    "starred_at": "2022-08-26T07:53:08Z",
+    "category": "Web应用",
+    "tags": [
+      "播客",
+      "实时同步",
+      "社交",
+      "在线协作"
+    ],
+    "summary": "podcast-together是一个实时在线播客共享平台，允许用户与好友同步收听播客内容，通过WebSocket技术实现实时播放控制，创造社交化的音频体验。",
+    "analyzed_at": "2025-11-15T19:17:22.645875+00:00"
+  },
+  {
+    "repo_full_name": "antfu/drauu",
+    "owner": "antfu",
+    "html_url": "https://github.com/antfu/drauu",
+    "description": "Headless SVG-based drawboard in browser.",
+    "topics": [
+      "drawboard"
+    ],
+    "starred_at": "2022-08-26T08:08:10Z",
+    "category": "设计工具",
+    "tags": [
+      "绘图",
+      "SVG",
+      "设计工具",
+      "浏览器应用",
+      "无头"
+    ],
+    "summary": "drauu是一个基于SVG的无头绘图板工具，专为浏览器环境设计。它提供了轻量级的绘图功能，适合在网页应用中集成使用。",
+    "analyzed_at": "2025-11-15T19:17:22.645875+00:00"
+  },
+  {
+    "repo_full_name": "Rich-Harris/degit",
+    "owner": "Rich-Harris",
+    "html_url": "https://github.com/Rich-Harris/degit",
+    "description": "Straightforward project scaffolding",
+    "topics": [],
+    "starred_at": "2022-08-26T10:11:02Z",
+    "category": "开发工具",
+    "tags": [
+      "脚手架",
+      "项目初始化",
+      "开发工具",
+      "模板",
+      "快速搭建"
+    ],
+    "summary": "degit是一个简单直接的项目脚手架工具，帮助开发者快速克隆和初始化项目模板，简化项目创建流程。",
+    "analyzed_at": "2025-11-15T19:17:22.645875+00:00"
+  },
+  {
+    "repo_full_name": "antfu-collective/vitesse-lite",
+    "owner": "antfu-collective",
+    "html_url": "https://github.com/antfu-collective/vitesse-lite",
+    "description": "⛺️ Lightweight version of Vitesse",
+    "topics": [
+      "vite",
+      "vitesse",
+      "vue",
+      "vue-composition-api"
+    ],
+    "starred_at": "2022-08-26T10:21:54Z",
+    "category": "开发工具",
+    "tags": [
+      "vite",
+      "vitesse",
+      "vue",
+      "vue-composition-api",
+      "脚手架",
+      "前端"
+    ],
+    "summary": "Vitesse 的轻量级版本，基于 Vue 和 Vite 构建的现代化前端开发模板，支持 Vue Composition API，帮助开发者快速启动 Web 项目。",
+    "analyzed_at": "2025-11-15T19:17:22.645875+00:00"
+  },
+  {
+    "repo_full_name": "pnpm/pnpm",
+    "owner": "pnpm",
+    "html_url": "https://github.com/pnpm/pnpm",
+    "description": "Fast, disk space efficient package manager",
+    "topics": [
+      "dependency-manager",
+      "install",
+      "javascript",
+      "modules",
+      "node",
+      "nodejs",
+      "npm",
+      "package-manager"
+    ],
+    "starred_at": "2022-08-26T10:53:08Z",
+    "category": "开发工具",
+    "tags": [
+      "包管理器",
+      "依赖管理",
+      "JavaScript",
+      "Node.js",
+      "模块",
+      "安装"
+    ],
+    "summary": "pnpm是一个快速且磁盘空间高效的JavaScript包管理器，作为npm的替代品，它通过硬链接和内容可寻址存储来优化依赖项的安装和管理，显著减少磁盘空间使用并提高安装速度。",
+    "analyzed_at": "2025-11-15T19:17:22.645875+00:00"
+  },
+  {
+    "repo_full_name": "oven-sh/bun",
+    "owner": "oven-sh",
+    "html_url": "https://github.com/oven-sh/bun",
+    "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+    "topics": [
+      "bun",
+      "bundler",
+      "javascript",
+      "javascriptcore",
+      "jsx",
+      "nodejs",
+      "npm",
+      "react",
+      "transpiler",
+      "typescript",
+      "zig",
+      "ziglang"
+    ],
+    "starred_at": "2022-08-27T07:19:04Z",
+    "category": "开发工具",
+    "tags": [
+      "JavaScript",
+      "运行时",
+      "打包器",
+      "测试运行器",
+      "包管理器",
+      "TypeScript"
+    ],
+    "summary": "Bun是一个极快的JavaScript运行时，集成了打包器、测试运行器和包管理器功能。它使用JavaScriptCore引擎和Zig语言构建，旨在替代Node.js，提供更高效的JavaScript开发体验。",
+    "analyzed_at": "2025-11-15T19:17:22.645875+00:00"
+  },
+  {
+    "repo_full_name": "microsoft/vscode-remote-try-node",
+    "owner": "microsoft",
+    "html_url": "https://github.com/microsoft/vscode-remote-try-node",
+    "description": "Node.js sample project for trying out Dev Containers",
+    "topics": [],
+    "starred_at": "2022-08-27T10:45:20Z",
+    "category": "开发工具",
+    "tags": [
+      "VS Code",
+      "远程开发",
+      "容器",
+      "Node.js",
+      "开发环境"
+    ],
+    "summary": "微软VS Code远程开发示例项目，展示如何在容器中设置Node.js开发环境。帮助开发者快速上手Dev Containers功能，实现一致的远程开发体验。",
+    "analyzed_at": "2025-11-15T19:17:22.645875+00:00"
+  },
+  {
+    "repo_full_name": "l-hammer/You-need-to-know-css",
+    "owner": "l-hammer",
+    "html_url": "https://github.com/l-hammer/You-need-to-know-css",
+    "description": "💄CSS tricks for web developers~",
+    "topics": [
+      "css",
+      "css-animations",
+      "css-center",
+      "css-effects",
+      "css-experiment",
+      "css-flexbox",
+      "css-layout",
+      "css-properties",
+      "css-scrollbar",
+      "css-shadow-parts",
+      "css-shapes",
+      "css-snippets",
+      "css-transitions",
+      "css-tricks",
+      "css-variables",
+      "css3",
+      "cssnext",
+      "docsify",
+      "pseudo-elements"
+    ],
+    "starred_at": "2022-08-27T11:09:45Z",
+    "category": "Web应用",
+    "tags": [
+      "CSS",
+      "Web开发",
+      "前端",
+      "技巧",
+      "教程"
+    ],
+    "summary": "这个仓库收集了Web开发者需要知道的CSS技巧，包括动画、布局、过渡、变量等，是前端开发者的实用参考资源。",
+    "analyzed_at": "2025-11-15T19:17:22.645875+00:00"
+  },
+  {
+    "repo_full_name": "BlueMatthew/WechatExporter",
+    "owner": "BlueMatthew",
+    "html_url": "https://github.com/BlueMatthew/WechatExporter",
+    "description": "Wechat Chat History Exporter 微信聊天记录导出备份程序",
+    "topics": [
+      "backup",
+      "chat",
+      "dump",
+      "export",
+      "friend",
+      "history",
+      "itunes",
+      "libmp3lame",
+      "libplist",
+      "silk",
+      "wechat"
+    ],
+    "starred_at": "2022-08-27T11:11:01Z",
+    "category": "效率工具",
+    "tags": [
+      "微信",
+      "聊天记录",
+      "备份",
+      "导出",
+      "数据管理"
+    ],
+    "summary": "这是一个微信聊天记录导出备份程序，可以帮助用户将微信聊天记录导出并备份，方便用户管理和保存重要的聊天内容。",
+    "analyzed_at": "2025-11-15T19:17:22.645875+00:00"
+  },
+  {
+    "repo_full_name": "Sweet-KK/css-layout",
+    "owner": "Sweet-KK",
+    "html_url": "https://github.com/Sweet-KK/css-layout",
+    "description": "各种常见布局CSS实现,知名网站布局分析,相关阅读推荐",
+    "topics": [],
+    "starred_at": "2022-08-27T11:11:59Z",
+    "category": "开发工具",
+    "tags": [
+      "CSS",
+      "布局",
+      "前端",
+      "开发资源",
+      "网页设计"
+    ],
+    "summary": "这个仓库收集了各种常见CSS布局的实现方法，分析了知名网站的布局技术，并提供了相关学习资源，是前端开发者的实用参考。",
+    "analyzed_at": "2025-11-15T19:17:22.645875+00:00"
+  },
+  {
+    "repo_full_name": "subframe7536/maple-font",
+    "owner": "subframe7536",
+    "html_url": "https://github.com/subframe7536/maple-font",
+    "description": "Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项",
+    "topics": [
+      "coding-font",
+      "font",
+      "ligatures",
+      "monospace",
+      "monospace-font",
+      "opentype",
+      "programming-font",
+      "programming-ligatures",
+      "typeface",
+      "typography",
+      "variable-font"
+    ],
+    "starred_at": "2022-08-27T11:15:58Z",
+    "category": "设计工具",
+    "tags": [
+      "font",
+      "monospace-font",
+      "programming-font",
+      "ligatures",
+      "typography",
+      "coding-font"
+    ],
+    "summary": "Maple Mono是一款开源的圆角等宽字体，专为IDE和终端设计，支持连字和Nerd-Font图标，中英文宽度比例完美2:1，提供细粒度自定义选项，提升编程体验。",
+    "analyzed_at": "2025-11-15T19:17:22.645875+00:00"
+  },
+  {
+    "repo_full_name": "vitest-dev/vitest",
+    "owner": "vitest-dev",
+    "html_url": "https://github.com/vitest-dev/vitest",
+    "description": "Next generation testing framework powered by Vite.",
+    "topics": [
+      "test",
+      "testing-tools",
+      "vite"
+    ],
+    "starred_at": "2022-08-27T14:49:59Z",
+    "category": "开发工具",
+    "tags": [
+      "测试框架",
+      "Vite",
+      "JavaScript",
+      "单元测试",
+      "开发工具"
+    ],
+    "summary": "Vitest是基于Vite构建的下一代前端测试框架，提供快速测试执行和与Vite生态系统的无缝集成，支持现代JavaScript特性。",
+    "analyzed_at": "2025-11-15T19:17:22.645875+00:00"
+  },
+  {
+    "repo_full_name": "hannoeru/vite-plugin-pages",
+    "owner": "hannoeru",
+    "html_url": "https://github.com/hannoeru/vite-plugin-pages",
+    "description": "File system based route generator for ⚡️Vite",
+    "topics": [],
+    "starred_at": "2022-08-28T17:25:05Z",
+    "category": "开发工具",
+    "tags": [
+      "路由生成",
+      "Vite插件",
+      "文件系统",
+      "前端开发",
+      "自动化"
+    ],
+    "summary": "这是一个Vite插件，通过文件系统自动生成路由，简化前端应用的路由配置，提高开发效率。",
+    "analyzed_at": "2025-11-15T19:17:22.645875+00:00"
+  },
+  {
+    "repo_full_name": "yoav-lavi/melody",
+    "owner": "yoav-lavi",
+    "html_url": "https://github.com/yoav-lavi/melody",
+    "description": "Melody is a language that compiles to regular expressions and aims to be more readable and maintainable",
+    "topics": [
+      "compiler",
+      "language",
+      "melody",
+      "melodylang",
+      "regex",
+      "regexp",
+      "regular-expression",
+      "rust"
+    ],
+    "starred_at": "2022-08-29T02:00:20Z",
+    "category": "开发工具",
+    "tags": [
+      "编程语言",
+      "正则表达式",
+      "编译器",
+      "Rust",
+      "可读性"
+    ],
+    "summary": "Melody是一种专门设计用于编写正则表达式的编程语言，它将代码编译成正则表达式，旨在提高正则表达式的可读性和可维护性。",
+    "analyzed_at": "2025-11-15T19:17:22.645875+00:00"
+  },
+  {
+    "repo_full_name": "marvinx-x/cursors-emitter",
+    "owner": "marvinx-x",
+    "html_url": "https://github.com/marvinx-x/cursors-emitter",
+    "description": null,
+    "topics": [],
+    "starred_at": "2022-08-29T10:41:52Z",
+    "category": "开发工具",
+    "tags": [
+      "事件发射器",
+      "光标",
+      "前端开发",
+      "工具库"
+    ],
+    "summary": "一个用于处理光标相关事件的前端工具库，提供事件发射器功能。",
+    "analyzed_at": "2025-11-15T19:17:22.645875+00:00"
+  },
+  {
+    "repo_full_name": "openai/DALL-E",
+    "owner": "openai",
+    "html_url": "https://github.com/openai/DALL-E",
+    "description": "PyTorch package for the discrete VAE used for DALL·E.",
+    "topics": [],
+    "starred_at": "2022-08-29T10:51:55Z",
+    "category": "AI/机器学习",
+    "tags": [
+      "图像生成",
+      "深度学习",
+      "PyTorch",
+      "变分自编码器",
+      "AI模型",
+      "OpenAI"
+    ],
+    "summary": "这是一个OpenAI的DALL-E图像生成模型的PyTorch实现，提供了离散变分自编码器的实现，用于从文本描述生成图像。",
+    "analyzed_at": "2025-11-15T19:17:22.645875+00:00"
+  },
+  {
+    "repo_full_name": "rutikwankhade/CoverView",
+    "owner": "rutikwankhade",
+    "html_url": "https://github.com/rutikwankhade/CoverView",
+    "description": "🛠 Create awesome cover images for your blog posts quickly.",
+    "topics": [
+      "blogging",
+      "create-react-app",
+      "react"
+    ],
+    "starred_at": "2022-08-29T12:09:29Z",
+    "category": "Web应用",
+    "tags": [
+      "博客封面",
+      "图像生成",
+      "React工具",
+      "设计辅助",
+      "内容创作"
+    ],
+    "summary": "CoverView是一个基于React的Web应用，帮助用户快速为博客文章创建精美的封面图像。它提供了简单易用的界面，让内容创作者无需专业设计技能也能制作出吸引人的博客封面，提升文章的视觉吸引力。",
+    "analyzed_at": "2025-11-15T19:17:22.645875+00:00"
+  },
+  {
+    "repo_full_name": "microsoft/vscode-dev-containers",
+    "owner": "microsoft",
+    "html_url": "https://github.com/microsoft/vscode-dev-containers",
+    "description": "NOTE: Most of the contents of this repository have been migrated to the new devcontainers GitHub org (https://github.com/devcontainers). See https://github.com/devcontainers/template-starter and https://github.com/devcontainers/feature-starter for information on creating your own!",
+    "topics": [
+      "codespaces",
+      "containers",
+      "dev-containers",
+      "devcontainer",
+      "devcontainers",
+      "docker",
+      "github",
+      "github-codespaces",
+      "remote",
+      "remote-development",
+      "visual-studio-code",
+      "visual-studio-codespaces",
+      "vs",
+      "vscode"
+    ],
+    "starred_at": "2022-08-29T16:20:33Z",
+    "category": "开发工具",
+    "tags": [
+      "开发容器",
+      "远程开发",
+      "Docker",
+      "VS Code",
+      "GitHub Codespaces"
+    ],
+    "summary": "这是一个微软维护的VS Code开发容器仓库，提供预配置的开发环境模板，支持Docker容器化，便于远程开发和GitHub Codespaces使用，帮助开发者快速搭建一致的开发环境。",
+    "analyzed_at": "2025-11-15T19:17:22.645875+00:00"
+  },
+  {
+    "repo_full_name": "IceWhaleTech/CasaOS",
+    "owner": "IceWhaleTech",
+    "html_url": "https://github.com/IceWhaleTech/CasaOS",
+    "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+    "topics": [
+      "casaos",
+      "docker",
+      "golang",
+      "home-automation",
+      "home-cloud",
+      "home-server",
+      "iot",
+      "raspberry",
+      "self-hosted",
+      "vuejs"
+    ],
+    "starred_at": "2022-08-30T04:43:16Z",
+    "category": "Web应用",
+    "tags": [
+      "个人云",
+      "家庭自动化",
+      "自托管",
+      "家庭服务器",
+      "IoT"
+    ],
+    "summary": "CasaOS是一个简单、易用、优雅的开源个人云系统，支持家庭自动化和IoT设备管理。基于Docker和Golang开发，可在树莓派等设备上运行，提供自托管的家庭云服务。",
+    "analyzed_at": "2025-11-15T19:17:22.645875+00:00"
+  },
+  {
+    "repo_full_name": "koodo-reader/koodo-reader",
+    "owner": "koodo-reader",
+    "html_url": "https://github.com/koodo-reader/koodo-reader",
+    "description": "A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web",
+    "topics": [
+      "book",
+      "cb7",
+      "cbr",
+      "cbt",
+      "cbz",
+      "comic",
+      "docx",
+      "ebook",
+      "epub",
+      "fb2",
+      "html",
+      "markdown",
+      "mobi",
+      "pdf",
+      "reader",
+      "rtf",
+      "txt",
+      "xml"
+    ],
+    "starred_at": "2022-08-30T05:21:27Z",
+    "category": "效率工具",
+    "tags": [
+      "电子书",
+      "阅读器",
+      "跨平台",
+      "同步",
+      "备份",
+      "多格式支持"
+    ],
+    "summary": "Koodo Reader是一款现代化的电子书管理器和阅读器，支持多平台，具备同步和备份功能，兼容多种电子书格式。",
+    "analyzed_at": "2025-11-15T19:17:22.645875+00:00"
+  },
+  {
+    "repo_full_name": "refined-github/refined-github",
+    "owner": "refined-github",
+    "html_url": "https://github.com/refined-github/refined-github",
+    "description": ":octocat: Browser extension that simplifies the GitHub interface and adds useful features",
+    "topics": [
+      "browser-extension",
+      "chrome-extension",
+      "firefox-addon",
+      "github",
+      "github-extension",
+      "safari-extension",
+      "userstyle"
+    ],
+    "starred_at": "2022-08-30T14:31:07Z",
+    "category": "开发工具",
+    "tags": [
+      "GitHub增强",
+      "浏览器扩展",
+      "开发效率",
+      "界面优化",
+      "代码协作"
+    ],
+    "summary": "Refined GitHub是一款浏览器扩展，为GitHub界面添加多项实用功能，简化操作流程，提升开发体验。支持Chrome、Firefox和Safari等主流浏览器，帮助开发者更高效地使用GitHub进行代码管理和协作。",
+    "analyzed_at": "2025-11-15T19:17:22.645875+00:00"
+  },
+  {
+    "repo_full_name": "bilibili-helper/bilibili-helper-o",
+    "owner": "bilibili-helper",
+    "html_url": "https://github.com/bilibili-helper/bilibili-helper-o",
+    "description": "哔哩哔哩 (bilibili.com) 辅助工具，可以替换播放器、推送通知并进行一些快捷操作",
+    "topics": [
+      "bilibili",
+      "bilibili-helper",
+      "chrome",
+      "chrome-extension",
+      "extension",
+      "javascript"
+    ],
+    "starred_at": "2022-08-30T14:42:08Z",
+    "category": "开发工具",
+    "tags": [
+      "bilibili",
+      "chrome-extension",
+      "extension",
+      "javascript"
+    ],
+    "summary": "哔哩哔哩网站的浏览器扩展工具，提供播放器替换、推送通知和快捷操作等功能，增强用户观看体验。",
+    "analyzed_at": "2025-11-15T19:17:22.645875+00:00"
+  },
+  {
+    "repo_full_name": "WorldBrain/Memex",
+    "owner": "WorldBrain",
+    "html_url": "https://github.com/WorldBrain/Memex",
+    "description": "Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.",
+    "topics": [
+      "annotate",
+      "annotation",
+      "annotations",
+      "browser-extension",
+      "chrome-extension",
+      "firefox-addon",
+      "full-text-search",
+      "javascript",
+      "note-taking",
+      "research",
+      "typescript",
+      "web-extension"
+    ],
+    "starred_at": "2022-08-30T14:44:00Z",
+    "category": "Web应用",
+    "tags": [
+      "浏览器扩展",
+      "内容注释",
+      "笔记工具",
+      "研究助手",
+      "全文搜索"
+    ],
+    "summary": "Memex是一款浏览器扩展，帮助用户策划、注释和讨论网络上有价值的内容和想法。支持个人、团队和社区使用，提供全文搜索功能，是研究和知识管理的得力助手。",
+    "analyzed_at": "2025-11-15T19:17:22.645875+00:00"
+  },
+  {
+    "repo_full_name": "typicode/husky",
+    "owner": "typicode",
+    "html_url": "https://github.com/typicode/husky",
+    "description": "Git hooks made easy 🐶 woof!",
+    "topics": [
+      "commit",
+      "git",
+      "hooks",
+      "pre-commit"
+    ],
+    "starred_at": "2022-08-31T13:46:48Z",
+    "category": "开发工具",
+    "tags": [
+      "git",
+      "hooks",
+      "pre-commit",
+      "代码质量"
+    ],
+    "summary": "Husky是一个简化Git hooks使用的工具，帮助开发者轻松管理pre-commit等钩子，提升代码质量和开发效率。",
+    "analyzed_at": "2025-11-15T19:17:22.645875+00:00"
+  },
+  {
+    "repo_full_name": "dortania/OpenCore-Legacy-Patcher",
+    "owner": "dortania",
+    "html_url": "https://github.com/dortania/OpenCore-Legacy-Patcher",
+    "description": "Experience macOS just like before",
+    "topics": [
+      "big-sur",
+      "macos",
+      "opencore",
+      "patcher"
+    ],
+    "starred_at": "2022-09-01T11:21:35Z",
+    "category": "开发工具",
+    "tags": [
+      "macOS",
+      "OpenCore",
+      "补丁工具",
+      "系统引导"
+    ],
+    "summary": "OpenCore-Legacy-Patcher是一个macOS系统引导补丁工具，帮助用户在旧硬件上体验macOS系统，通过OpenCore引导加载程序实现类似原生macOS的使用体验。",
+    "analyzed_at": "2025-11-15T19:17:22.645875+00:00"
+  },
+  {
+    "repo_full_name": "toeverything/AFFiNE",
+    "owner": "toeverything",
+    "html_url": "https://github.com/toeverything/AFFiNE",
+    "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. ",
+    "topics": [
+      "app",
+      "crdt",
+      "editor",
+      "electron",
+      "knowledge-base",
+      "markdown",
+      "miro",
+      "notes",
+      "notion",
+      "notion-alternative",
+      "rust",
+      "rust-lang",
+      "rust-language",
+      "table",
+      "tableview",
+      "whiteboard",
+      "wiki",
+      "workspace"
+    ],
+    "starred_at": "2022-09-01T11:37:17Z",
+    "category": "效率工具",
+    "tags": [
+      "知识库",
+      "笔记工具",
+      "白板",
+      "开源",
+      "Notion替代品"
+    ],
+    "summary": "AFFiNE是一款开源的下一代知识库工具，融合笔记、白板和表格功能，注重隐私保护，可高度定制，是Notion和Miro的理想替代方案。",
+    "analyzed_at": "2025-11-15T19:17:22.645875+00:00"
+  },
+  {
+    "repo_full_name": "HuangRunHua/FilerApp",
+    "owner": "HuangRunHua",
+    "html_url": "https://github.com/HuangRunHua/FilerApp",
+    "description": "A Finder extension for your Mac which enables you to easily create files in supported formats anywhere on the system",
+    "topics": [
+      "macos",
+      "macos-app",
+      "swift"
+    ],
+    "starred_at": "2022-09-01T11:40:23Z",
+    "category": "桌面应用",
+    "tags": [
+      "文件管理",
+      "扩展工具",
+      "macOS",
+      "Swift"
+    ],
+    "summary": "这是一个macOS的Finder扩展，允许用户在任何系统位置轻松创建支持格式的文件，提高文件创建效率。",
+    "analyzed_at": "2025-11-15T19:17:22.645875+00:00"
+  },
+  {
+    "repo_full_name": "solidjs/solid",
+    "owner": "solidjs",
+    "html_url": "https://github.com/solidjs/solid",
+    "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "topics": [
+      "declarative",
+      "fine-grained",
+      "javascript",
+      "jsx",
+      "performance",
+      "proxies",
+      "reactive",
+      "solid"
+    ],
+    "starred_at": "2022-09-01T11:52:00Z",
+    "category": "Web应用",
+    "tags": [
+      "JavaScript",
+      "前端框架",
+      "响应式",
+      "高性能",
+      "JSX"
+    ],
+    "summary": "Solid是一个声明式、高效的JavaScript UI库，采用细粒度响应式系统，提供卓越性能。支持JSX语法，使用代理技术实现精确更新，适合构建现代Web应用。",
+    "analyzed_at": "2025-11-15T19:17:22.645875+00:00"
+  },
+  {
+    "repo_full_name": "nodeca/js-yaml",
+    "owner": "nodeca",
+    "html_url": "https://github.com/nodeca/js-yaml",
+    "description": "JavaScript YAML parser and dumper. Very fast.",
+    "topics": [],
+    "starred_at": "2022-09-01T12:52:48Z",
+    "category": "开发工具",
+    "tags": [
+      "YAML",
+      "JavaScript",
+      "解析器",
+      "数据格式",
+      "配置文件"
+    ],
+    "summary": "js-yaml是一个高性能的JavaScript YAML解析器和转储工具，能够快速处理YAML格式的数据，适用于JavaScript项目中配置文件的读写和数据处理。",
+    "analyzed_at": "2025-11-15T19:17:22.645875+00:00"
+  },
+  {
+    "repo_full_name": "PacktPublishing/Learning-JavaScript-Data-Structures-and-Algorithms-Third-Edition",
+    "owner": "PacktPublishing",
+    "html_url": "https://github.com/PacktPublishing/Learning-JavaScript-Data-Structures-and-Algorithms-Third-Edition",
+    "description": "Learning JavaScript Data Structures and Algorithms (Third Edition), published by Packt",
+    "topics": [],
+    "starred_at": "2022-09-02T03:14:16Z",
+    "category": "教育学习",
+    "tags": [
+      "JavaScript",
+      "数据结构",
+      "算法",
+      "编程",
+      "教程"
+    ],
+    "summary": "这是一个由Packt出版的JavaScript数据结构与算法第三版学习资源，适合希望深入学习JavaScript编程核心概念的读者。",
+    "analyzed_at": "2025-11-15T19:17:22.645875+00:00"
+  },
+  {
+    "repo_full_name": "antfu/vscode-settings",
+    "owner": "antfu",
+    "html_url": "https://github.com/antfu/vscode-settings",
+    "description": "My VS Code settings and extensions ",
+    "topics": [
+      "vscode",
+      "vscode-extension",
+      "vscode-settings",
+      "vscode-settings-json"
+    ],
+    "starred_at": "2022-09-03T07:01:57Z",
+    "category": "开发工具",
+    "tags": [
+      "vscode",
+      "vscode-extension",
+      "vscode-settings",
+      "vscode-settings-"
+    ],
+    "summary": "这是一个VS Code的配置和扩展集合，包含了作者的个人设置和推荐的扩展，旨在提高开发效率和代码编辑体验。",
+    "analyzed_at": "2025-11-15T19:17:22.645875+00:00"
+  },
+  {
+    "repo_full_name": "AbdBarho/stable-diffusion-webui-docker",
+    "owner": "AbdBarho",
+    "html_url": "https://github.com/AbdBarho/stable-diffusion-webui-docker",
+    "description": "Easy Docker setup for Stable Diffusion with user-friendly UI",
+    "topics": [
+      "docker",
+      "docker-compse",
+      "gradio",
+      "pytorch",
+      "stable-diffusion"
+    ],
+    "starred_at": "2022-09-05T11:52:58Z",
+    "category": "AI/机器学习",
+    "tags": [
+      "docker",
+      "docker-compose",
+      "gradio",
+      "pytorch",
+      "stable-diffusion"
+    ],
+    "summary": "这是一个为Stable Diffusion（AI图像生成模型）提供的Docker容器化解决方案，包含用户友好的Web界面，简化了AI模型的部署和使用过程。",
+    "analyzed_at": "2025-11-15T19:17:22.645875+00:00"
+  },
+  {
+    "repo_full_name": "F9y4ng/GreasyFork-Scripts",
+    "owner": "F9y4ng",
+    "html_url": "https://github.com/F9y4ng/GreasyFork-Scripts",
+    "description": "The open source code of this project is used for userscripts (油猴脚本) for desktop browsers, including Font Rendering (Customized) (字体渲染（自用脚本）- Font Rendering.user.js), and Search Engine Assistant (优雅的搜索引擎助手 - Google & Baidu Switcher.user.js), etc.",
+    "topics": [
+      "font-rendering",
+      "greasemonkey",
+      "greasyfork",
+      "javascript",
+      "redirect",
+      "search-engine",
+      "tampermonkey",
+      "userscript",
+      "violentmonkey"
+    ],
+    "starred_at": "2022-09-06T05:59:45Z",
+    "category": "开发工具",
+    "tags": [
+      "浏览器增强",
+      "脚本工具",
+      "网页定制",
+      "搜索优化",
+      "字体美化"
+    ],
+    "summary": "这个项目收集了用于桌面浏览器的油猴脚本，包括字体渲染自定义和搜索引擎助手等功能，帮助用户优化浏览体验。",
+    "analyzed_at": "2025-11-15T19:17:22.645875+00:00"
+  },
+  {
+    "repo_full_name": "iovxw/rssbot",
+    "owner": "iovxw",
+    "html_url": "https://github.com/iovxw/rssbot",
+    "description": "Lightweight Telegram RSS notification bot. 用于消息通知的轻量级 Telegram RSS 机器人",
+    "topics": [
+      "bot",
+      "chinese",
+      "feed",
+      "rss",
+      "rssbot",
+      "telegram",
+      "telegram-bot",
+      "telegram-rss"
+    ],
+    "starred_at": "2022-09-06T06:01:47Z",
+    "category": "效率工具",
+    "tags": [
+      "RSS",
+      "Telegram",
+      "机器人",
+      "订阅",
+      "通知",
+      "轻量级"
+    ],
+    "summary": "这是一个轻量级的Telegram RSS通知机器人，能够自动监控RSS源并通过Telegram发送更新通知，帮助用户高效获取订阅内容。",
+    "analyzed_at": "2025-11-15T19:17:22.645875+00:00"
+  },
+  {
+    "repo_full_name": "easychen/rsspush",
+    "owner": "easychen",
+    "html_url": "https://github.com/easychen/rsspush",
+    "description": "监测RSS变动，并发送最新内容到微信、Webhook 和 Telegram, Discord, Slack, Amazon SNS, Gotify 等数十个消息通道。",
+    "topics": [
+      "apprise",
+      "docker",
+      "docker-compose",
+      "rss",
+      "rsshub",
+      "serverchan"
+    ],
+    "starred_at": "2022-09-06T06:01:57Z",
+    "category": "开发工具",
+    "tags": [
+      "RSS",
+      "消息推送",
+      "自动化",
+      "Docker",
+      "Webhook",
+      "服务器集成"
+    ],
+    "summary": "rsspush是一个RSS监测与消息推送工具，可自动检测RSS源更新并将内容发送到微信、Telegram、Discord等多种平台，支持Docker部署，适合需要自动化内容分发流程的用户。",
+    "analyzed_at": "2025-11-15T19:17:22.645875+00:00"
   }
 ]
