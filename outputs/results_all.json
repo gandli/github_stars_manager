@@ -41926,5 +41926,1185 @@
     ],
     "summary": "rsspush是一个RSS监测与消息推送工具，可自动检测RSS源更新并将内容发送到微信、Telegram、Discord等多种平台，支持Docker部署，适合需要自动化内容分发流程的用户。",
     "analyzed_at": "2025-11-15T19:17:22.645875+00:00"
+  },
+  {
+    "repo_full_name": "koolshare/armsoft",
+    "owner": "koolshare",
+    "html_url": "https://github.com/koolshare/armsoft",
+    "description": "梅林384软件中心 for armv7l架构机型",
+    "topics": [],
+    "starred_at": "2022-09-06T13:27:02Z",
+    "category": "效率工具",
+    "tags": [
+      "路由器固件",
+      "软件中心",
+      "梅林固件",
+      "armv7l架构",
+      "华硕路由器",
+      "系统工具"
+    ],
+    "summary": "梅林384软件中心项目，专为armv7l架构的路由器提供软件管理功能。用户可通过此中心安装和管理各种插件，扩展路由器功能，提升网络管理效率。",
+    "analyzed_at": "2025-11-16T19:18:30.639845+00:00"
+  },
+  {
+    "repo_full_name": "tokyo-night/tokyo-night-vscode-theme",
+    "owner": "tokyo-night",
+    "html_url": "https://github.com/tokyo-night/tokyo-night-vscode-theme",
+    "description": "A clean, dark Visual Studio Code theme that celebrates the lights of Downtown Tokyo at night.",
+    "topics": [],
+    "starred_at": "2022-09-11T08:13:30Z",
+    "category": "设计工具",
+    "tags": [
+      "VSCode主题",
+      "暗色主题",
+      "设计工具",
+      "主题",
+      "东京风格"
+    ],
+    "summary": "一个简洁的暗色VSCode主题，灵感来自东京夜晚的城市灯光，提供舒适的编码体验。",
+    "analyzed_at": "2025-11-16T19:18:30.639845+00:00"
+  },
+  {
+    "repo_full_name": "loonywizard/js-confetti",
+    "owner": "loonywizard",
+    "html_url": "https://github.com/loonywizard/js-confetti",
+    "description": "JS Confetti library that supports emojis 🦄 🎉 ⚡️",
+    "topics": [
+      "animation",
+      "canvas",
+      "canvas-confetti",
+      "confetti",
+      "js-confetti"
+    ],
+    "starred_at": "2022-09-11T08:27:07Z",
+    "category": "开发工具",
+    "tags": [
+      "animation",
+      "canvas",
+      "confetti",
+      "js-confetti"
+    ],
+    "summary": "JS Confetti是一个轻量级JavaScript库，用于在网页中创建彩纸动画效果，支持emoji表情，可轻松集成到各种Web项目中。",
+    "analyzed_at": "2025-11-16T19:18:30.639845+00:00"
+  },
+  {
+    "repo_full_name": "NervJS/taro-project-templates",
+    "owner": "NervJS",
+    "html_url": "https://github.com/NervJS/taro-project-templates",
+    "description": "Templates for `taro init`",
+    "topics": [],
+    "starred_at": "2022-09-12T14:48:42Z",
+    "category": "开发工具",
+    "tags": [
+      "模板",
+      "Taro",
+      "React",
+      "多端开发",
+      "初始化"
+    ],
+    "summary": "Taro项目模板库，提供多种初始化模板，帮助开发者快速创建跨平台应用项目，支持微信小程序、H5、React Native等多端开发。",
+    "analyzed_at": "2025-11-16T19:18:30.639845+00:00"
+  },
+  {
+    "repo_full_name": "imlinhanchao/vsc-markdown-image",
+    "owner": "imlinhanchao",
+    "html_url": "https://github.com/imlinhanchao/vsc-markdown-image",
+    "description": "Easy to insert a image to markdown",
+    "topics": [
+      "cdn",
+      "image",
+      "imgur",
+      "markdown",
+      "vscode",
+      "vscode-extension"
+    ],
+    "starred_at": "2022-09-13T06:04:15Z",
+    "category": "开发工具",
+    "tags": [
+      "markdown",
+      "vscode",
+      "image",
+      "cdn",
+      "vscode-extension"
+    ],
+    "summary": "这个VS Code扩展简化了在Markdown文件中插入图片的过程，支持CDN和Imgur等图片托管服务，提高开发者编写Markdown文档的效率。",
+    "analyzed_at": "2025-11-16T19:18:30.639845+00:00"
+  },
+  {
+    "repo_full_name": "Hello-hao/Tbed",
+    "owner": "Hello-hao",
+    "html_url": "https://github.com/Hello-hao/Tbed",
+    "description": "Hellohao图床 | 图像托管 | 云相册，分享/水印、存储源分发、图像管理、前后端分离。",
+    "topics": [
+      "clouddisk",
+      "hellohao",
+      "image-hosting",
+      "image-storage",
+      "images",
+      "java",
+      "photo-gallery"
+    ],
+    "starred_at": "2022-09-13T06:05:15Z",
+    "category": "Web应用",
+    "tags": [
+      "图像托管",
+      "云相册",
+      "图像管理",
+      "Java开发",
+      "前后端分离"
+    ],
+    "summary": "Hellohao图床是一个功能丰富的图像托管和云相册平台，支持图片分享、水印添加、存储源分发等功能，采用前后端分离架构开发。",
+    "analyzed_at": "2025-11-16T19:18:30.639845+00:00"
+  },
+  {
+    "repo_full_name": "onblog/BlogHelper",
+    "owner": "onblog",
+    "html_url": "https://github.com/onblog/BlogHelper",
+    "description": "帮助国内用户写作的托盘助手，一键发布本地文章到主流博客平台（知乎、简书、博客园、CSDN、SegmentFault、掘金、开源中国），剪贴板图片一键上传至图床（新浪、Github、图壳、腾讯云、阿里云、又拍云、七牛云）（欢迎Star，🚫禁止Fork）",
+    "topics": [
+      "blog",
+      "cnblogs",
+      "csdn",
+      "electron",
+      "jianshu",
+      "juejin",
+      "oschina",
+      "segmentfault",
+      "zhihu"
+    ],
+    "starred_at": "2022-09-13T06:13:58Z",
+    "category": "效率工具",
+    "tags": [
+      "博客工具",
+      "发布助手",
+      "多平台",
+      "图片上传",
+      "Electron应用"
+    ],
+    "summary": "这是一个基于Electron开发的桌面托盘应用，帮助国内用户一键将文章发布到多个主流博客平台，并支持剪贴板图片快速上传至各种图床服务，极大提升博客写作效率。",
+    "analyzed_at": "2025-11-16T19:18:30.639845+00:00"
+  },
+  {
+    "repo_full_name": "jdf2e/nutui-templates",
+    "owner": "jdf2e",
+    "html_url": "https://github.com/jdf2e/nutui-templates",
+    "description": "NutUI 示例项目",
+    "topics": [],
+    "starred_at": "2022-09-17T03:22:11Z",
+    "category": "开发工具",
+    "tags": [
+      "UI模板",
+      "示例项目",
+      "前端开发",
+      "NutUI"
+    ],
+    "summary": "NutUI示例项目，提供各种UI组件的使用示例和模板，帮助开发者快速上手NutUI UI库。",
+    "analyzed_at": "2025-11-16T19:18:30.639845+00:00"
+  },
+  {
+    "repo_full_name": "apify/crawlee",
+    "owner": "apify",
+    "html_url": "https://github.com/apify/crawlee",
+    "description": "Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.",
+    "topics": [
+      "apify",
+      "automation",
+      "crawler",
+      "crawling",
+      "headless",
+      "headless-chrome",
+      "javascript",
+      "nodejs",
+      "npm",
+      "playwright",
+      "puppeteer",
+      "scraper",
+      "scraping",
+      "typescript",
+      "web-crawler",
+      "web-crawling",
+      "web-scraping"
+    ],
+    "starred_at": "2022-09-17T10:32:16Z",
+    "category": "开发工具",
+    "tags": [
+      "爬虫",
+      "网络爬取",
+      "自动化",
+      "Node.js",
+      "浏览器自动化",
+      "数据提取"
+    ],
+    "summary": "Crawlee是一个Node.js网络爬虫和浏览器自动化库，支持JavaScript和TypeScript。可用于构建可靠的爬虫，提取AI、LLMs所需数据，下载网站文件。兼容Puppeteer、Playwright等工具，支持有头/无头模式及代理轮换。",
+    "analyzed_at": "2025-11-16T19:18:30.639845+00:00"
+  },
+  {
+    "repo_full_name": "LokerL/tts-vue",
+    "owner": "LokerL",
+    "html_url": "https://github.com/LokerL/tts-vue",
+    "description": "🎤 微软语音合成工具，使用 Electron + Vue + ElementPlus + Vite 构建。",
+    "topics": [
+      "electron",
+      "element-plus",
+      "tts",
+      "vue"
+    ],
+    "starred_at": "2022-09-17T10:33:25Z",
+    "category": "桌面应用",
+    "tags": [
+      "electron",
+      "vue",
+      "tts",
+      "element-plus"
+    ],
+    "summary": "这是一个基于微软语音合成技术的桌面应用，使用Electron框架结合Vue.js和ElementPlus组件库构建，提供文本转语音功能。",
+    "analyzed_at": "2025-11-16T19:18:30.639845+00:00"
+  },
+  {
+    "repo_full_name": "wuba/taro-playground",
+    "owner": "wuba",
+    "html_url": "https://github.com/wuba/taro-playground",
+    "description": "The Taro Playground App is a cross-platform application developed using Taro, to help developers develop and debug Taro applications. ",
+    "topics": [
+      "android",
+      "app",
+      "developer-tools",
+      "expo",
+      "fastlane",
+      "ios",
+      "javascript",
+      "metro",
+      "miniprogram",
+      "playground",
+      "react",
+      "react-native",
+      "react-native-app",
+      "taro",
+      "typescript"
+    ],
+    "starred_at": "2022-09-19T04:48:09Z",
+    "category": "开发工具",
+    "tags": [
+      "developer-tools",
+      "taro",
+      "javascript",
+      "react",
+      "typescript",
+      "cross-platform"
+    ],
+    "summary": "Taro Playground是一个基于Taro框架开发的跨平台应用，专为开发者设计，用于帮助开发者便捷地开发和调试Taro应用程序。支持Android和iOS平台，使用JavaScript和TypeScript编写。",
+    "analyzed_at": "2025-11-16T19:18:30.639845+00:00"
+  },
+  {
+    "repo_full_name": "radix-ui/icons",
+    "owner": "radix-ui",
+    "html_url": "https://github.com/radix-ui/icons",
+    "description": "A crisp set of 15×15 icons designed by the @workos team.",
+    "topics": [
+      "design",
+      "icons",
+      "iconset",
+      "react",
+      "svg"
+    ],
+    "starred_at": "2022-09-19T11:31:51Z",
+    "category": "设计工具",
+    "tags": [
+      "design",
+      "icons",
+      "iconset",
+      "react",
+      "svg"
+    ],
+    "summary": "Radix UI Icons 是一套由 WorkOS 团队设计的15×15像素精美图标集合，提供SVG格式，专为React应用优化，包含多种常用图标，帮助开发者快速构建美观的用户界面。",
+    "analyzed_at": "2025-11-16T19:18:30.639845+00:00"
+  },
+  {
+    "repo_full_name": "ScoopInstaller/Install",
+    "owner": "ScoopInstaller",
+    "html_url": "https://github.com/ScoopInstaller/Install",
+    "description": "📥 Next-generation Scoop (un)installer",
+    "topics": [],
+    "starred_at": "2022-09-19T12:20:41Z",
+    "category": "开发工具",
+    "tags": [
+      "包管理器",
+      "Windows",
+      "命令行",
+      "安装程序",
+      "Scoop",
+      "软件管理"
+    ],
+    "summary": "ScoopInstaller/Install是Scoop包管理器的下一代安装程序，专为Windows系统设计。它为开发者提供简洁高效的软件安装与管理方式，通过命令行界面快速安装、更新和卸载各种开发工具和应用。",
+    "analyzed_at": "2025-11-16T19:18:30.639845+00:00"
+  },
+  {
+    "repo_full_name": "raineorshine/npm-check-updates",
+    "owner": "raineorshine",
+    "html_url": "https://github.com/raineorshine/npm-check-updates",
+    "description": "Find newer versions of package dependencies than what your package.json allows",
+    "topics": [
+      "npm",
+      "npm-check-updates"
+    ],
+    "starred_at": "2022-09-22T09:05:41Z",
+    "category": "开发工具",
+    "tags": [
+      "npm",
+      "包管理",
+      "依赖更新",
+      "版本控制",
+      "前端开发"
+    ],
+    "summary": "npm-check-updates是一个npm包管理工具，可帮助开发者查找并更新package.中依赖项的最新版本，保持项目依赖始终为最新状态，提升项目安全性和功能。",
+    "analyzed_at": "2025-11-16T19:18:30.639845+00:00"
+  },
+  {
+    "repo_full_name": "devcontainers/images",
+    "owner": "devcontainers",
+    "html_url": "https://github.com/devcontainers/images",
+    "description": "Repository for pre-built dev container images published under mcr.microsoft.com/devcontainers",
+    "topics": [
+      "containers",
+      "devcontainers"
+    ],
+    "starred_at": "2022-09-23T09:37:15Z",
+    "category": "开发工具",
+    "tags": [
+      "容器",
+      "开发容器",
+      "微软",
+      "镜像",
+      "开发环境"
+    ],
+    "summary": "微软官方提供的预构建开发容器镜像库，支持开发者快速搭建一致的开发环境，简化容器化开发流程。",
+    "analyzed_at": "2025-11-16T19:18:30.639845+00:00"
+  },
+  {
+    "repo_full_name": "erikwiffin/0.30000000000000004",
+    "owner": "erikwiffin",
+    "html_url": "https://github.com/erikwiffin/0.30000000000000004",
+    "description": "Floating Point Math Examples",
+    "topics": [],
+    "starred_at": "2022-09-23T12:56:02Z",
+    "category": "开发工具",
+    "tags": [
+      "浮点数",
+      "数学计算",
+      "数值精度",
+      "开发示例",
+      "计算机科学",
+      "数值分析"
+    ],
+    "summary": "这是一个关于浮点数数学计算的示例项目，展示了计算机中浮点数运算的精度问题和常见陷阱，帮助开发者理解和处理浮点数计算中的精度损失。",
+    "analyzed_at": "2025-11-16T19:18:30.639845+00:00"
+  },
+  {
+    "repo_full_name": "AykutSarac/jsoncrack.com",
+    "owner": "AykutSarac",
+    "html_url": "https://github.com/AykutSarac/jsoncrack.com",
+    "description": "✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.",
+    "topics": [
+      "csv",
+      "diagrams",
+      "graph",
+      "json",
+      "nextjs",
+      "react",
+      "tool",
+      "visualization",
+      "yaml"
+    ],
+    "starred_at": "2022-09-23T13:02:41Z",
+    "category": "开发工具",
+    "tags": [
+      "数据可视化",
+      "JSON",
+      "图表",
+      "开发工具",
+      "数据转换"
+    ],
+    "summary": "JSONCrack是一款创新的开源可视化工具，可将JSON、YAML、XML、CSV等多种数据格式转换为交互式图表。基于Next.js和React构建，帮助开发者直观地理解和复杂数据结构。",
+    "analyzed_at": "2025-11-16T19:18:30.639845+00:00"
+  },
+  {
+    "repo_full_name": "kiliman/operator-mono-lig",
+    "owner": "kiliman",
+    "html_url": "https://github.com/kiliman/operator-mono-lig",
+    "description": "Add ligatures to Operator Mono similar to Fira Code",
+    "topics": [
+      "font",
+      "glyphs",
+      "ligature",
+      "ligatures",
+      "operator-mono"
+    ],
+    "starred_at": "2022-09-23T15:45:59Z",
+    "category": "设计工具",
+    "tags": [
+      "字体",
+      "字符",
+      "连字",
+      "Operator Mono"
+    ],
+    "summary": "这是一个为Operator Mono字体添加连字效果的项目，类似于Fira Code的连字功能。通过修改字体字形，使特定字符组合显示为更美观的连字形式，提升代码和文本的视觉体验。",
+    "analyzed_at": "2025-11-16T19:18:30.639845+00:00"
+  },
+  {
+    "repo_full_name": "zed-industries/zed-fonts",
+    "owner": "zed-industries",
+    "html_url": "https://github.com/zed-industries/zed-fonts",
+    "description": "The Zed Mono and Sans typefaces, custom built from Iosevka",
+    "topics": [],
+    "starred_at": "2022-09-23T16:21:05Z",
+    "category": "设计工具",
+    "tags": [
+      "字体",
+      "设计",
+      "开发",
+      "Iosevka",
+      "Zed",
+      "类型"
+    ],
+    "summary": "Zed字体项目包含Zed Mono和Sans两种字体，基于Iosevka定制构建，为开发者和设计师提供高质量的编程字体选择。",
+    "analyzed_at": "2025-11-16T19:18:30.639845+00:00"
+  },
+  {
+    "repo_full_name": "MilenaCarecho/30diasDeCSS",
+    "owner": "MilenaCarecho",
+    "html_url": "https://github.com/MilenaCarecho/30diasDeCSS",
+    "description": "Desafio criar 30 mini projetos utilizando HTML e CSS em 30 dias",
+    "topics": [
+      "css",
+      "css3",
+      "css3-animations",
+      "css3-flexbox",
+      "css3-transitions",
+      "html5"
+    ],
+    "starred_at": "2022-09-29T01:52:41Z",
+    "category": "教育学习",
+    "tags": [
+      "CSS",
+      "HTML",
+      "前端开发",
+      "学习项目",
+      "编程挑战",
+      "网页设计"
+    ],
+    "summary": "这是一个30天CSS挑战项目，参与者通过在30天内完成30个使用HTML和CSS的小型项目来提升前端开发技能。项目涵盖CSS3动画、弹性布局和过渡效果等现代CSS技术，适合初学者和希望提高CSS技能的开发者。",
+    "analyzed_at": "2025-11-16T19:18:30.639845+00:00"
+  },
+  {
+    "repo_full_name": "abiosoft/colima",
+    "owner": "abiosoft",
+    "html_url": "https://github.com/abiosoft/colima",
+    "description": "Container runtimes on macOS (and Linux) with minimal setup",
+    "topics": [
+      "containerd",
+      "containerd-compose",
+      "containers",
+      "docker",
+      "docker-compose",
+      "incus",
+      "k3s",
+      "k8s",
+      "kubernetes",
+      "lima",
+      "macos",
+      "nerdctl"
+    ],
+    "starred_at": "2022-10-01T05:54:22Z",
+    "category": "开发工具",
+    "tags": [
+      "容器",
+      "Docker",
+      "Kubernetes",
+      "开发工具",
+      "macOS"
+    ],
+    "summary": "Colima是一个在macOS和Linux上简化容器运行时设置的工具，支持Docker和Kubernetes，让开发者能轻松使用容器技术。",
+    "analyzed_at": "2025-11-16T19:18:30.639845+00:00"
+  },
+  {
+    "repo_full_name": "zonemeen/musicn",
+    "owner": "zonemeen",
+    "html_url": "https://github.com/zonemeen/musicn",
+    "description": "🎵 一个可播放及下载音乐的 Node.js 命令行工具",
+    "topics": [
+      "163music",
+      "cli",
+      "cli-tools",
+      "command-line",
+      "command-line-tool",
+      "free",
+      "free-download",
+      "music",
+      "music-download",
+      "music-downloader",
+      "netease-cloud-music",
+      "netease-music",
+      "node-tool",
+      "nodejs"
+    ],
+    "starred_at": "2022-10-01T05:56:40Z",
+    "category": "开发工具",
+    "tags": [
+      "音乐下载",
+      "命令行工具",
+      "Node.js",
+      "网易云音乐",
+      "音乐播放器"
+    ],
+    "summary": "MusicN是一个基于Node.js开发的命令行音乐工具，支持播放和下载网易云音乐等平台音乐，提供简洁的命令行界面，让用户无需图形界面即可轻松管理和获取音乐资源。",
+    "analyzed_at": "2025-11-16T19:18:30.639845+00:00"
+  },
+  {
+    "repo_full_name": "lydrainbowcat/tedukuri",
+    "owner": "lydrainbowcat",
+    "html_url": "https://github.com/lydrainbowcat/tedukuri",
+    "description": "《算法竞赛进阶指南》资源社区",
+    "topics": [],
+    "starred_at": "2022-10-08T15:27:50Z",
+    "category": "教育学习",
+    "tags": [
+      "算法竞赛",
+      "编程学习",
+      "资源分享",
+      "算法",
+      "程序员",
+      "计算机科学"
+    ],
+    "summary": "《算法竞赛进阶指南》资源社区，提供算法竞赛相关的学习资料、题目解析和讨论，帮助编程爱好者提升算法能力，备战各类编程竞赛。",
+    "analyzed_at": "2025-11-16T19:18:30.639845+00:00"
+  },
+  {
+    "repo_full_name": "shadowsocks/shadowsocks-rust",
+    "owner": "shadowsocks",
+    "html_url": "https://github.com/shadowsocks/shadowsocks-rust",
+    "description": "A Rust port of shadowsocks",
+    "topics": [
+      "http-proxy",
+      "rust",
+      "security",
+      "shadowsocks",
+      "socks4",
+      "socks5",
+      "transparent-proxy"
+    ],
+    "starred_at": "2022-10-08T15:35:08Z",
+    "category": "Web应用",
+    "tags": [],
+    "summary": "ZHIPU 调用异常: Error code: 400 - {'contentFilter': [{'level': 2, 'role': 'assistant'}], 'error': {'code': '1301', 'message': '系统检测到输入或生成内容可能包含不安全或敏感内容，请您避免输入易产生敏感内容的提示语，感谢您的配合。'}}",
+    "analyzed_at": "2025-11-16T19:18:30.639845+00:00"
+  },
+  {
+    "repo_full_name": "immerjs/immer",
+    "owner": "immerjs",
+    "html_url": "https://github.com/immerjs/immer",
+    "description": "Create the next immutable state by mutating the current one",
+    "topics": [
+      "immutable",
+      "immutables",
+      "reducer",
+      "redux",
+      "state-tree"
+    ],
+    "starred_at": "2022-10-08T15:41:13Z",
+    "category": "开发工具",
+    "tags": [
+      "immutable",
+      "state-management",
+      "redux",
+      "react",
+      "javascript"
+    ],
+    "summary": "Immer是一个JavaScript库，允许开发者通过直接修改状态来创建不可变状态，简化React和Redux应用的状态管理。",
+    "analyzed_at": "2025-11-16T19:18:30.639845+00:00"
+  },
+  {
+    "repo_full_name": "dvajs/dva",
+    "owner": "dvajs",
+    "html_url": "https://github.com/dvajs/dva",
+    "description": "🌱 React and redux based, lightweight and elm-style framework. (Inspired by elm and choo)",
+    "topics": [
+      "dva",
+      "elm",
+      "framework",
+      "redux",
+      "redux-saga"
+    ],
+    "starred_at": "2022-10-08T15:44:37Z",
+    "category": "开发工具",
+    "tags": [
+      "framework",
+      "react",
+      "redux",
+      "elm",
+      "dva"
+    ],
+    "summary": "这是一个基于React和Redux的轻量级前端框架，采用Elm风格架构，简化了状态管理，适合构建现代化的Web应用。",
+    "analyzed_at": "2025-11-16T19:18:30.639845+00:00"
+  },
+  {
+    "repo_full_name": "expo/expo",
+    "owner": "expo",
+    "html_url": "https://github.com/expo/expo",
+    "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+    "topics": [
+      "android",
+      "app-framework",
+      "expo",
+      "framework",
+      "frontend",
+      "ios",
+      "javascript",
+      "mobile",
+      "native",
+      "native-apps",
+      "react",
+      "react-native",
+      "typescript",
+      "universal",
+      "web",
+      "web-framework"
+    ],
+    "starred_at": "2022-10-10T11:24:40Z",
+    "category": "移动应用",
+    "tags": [
+      "移动应用开发",
+      "React Native",
+      "跨平台",
+      "前端框架",
+      "JavaScript",
+      "原生应用"
+    ],
+    "summary": "Expo是一个开源框架，允许开发者使用React构建跨平台原生应用，支持Android、iOS和Web平台，简化了移动应用开发流程。",
+    "analyzed_at": "2025-11-16T19:18:30.639845+00:00"
+  },
+  {
+    "repo_full_name": "QL-Win/QuickLook",
+    "owner": "QL-Win",
+    "html_url": "https://github.com/QL-Win/QuickLook",
+    "description": "Bring macOS “Quick Look” feature to Windows",
+    "topics": [
+      "quicklook"
+    ],
+    "starred_at": "2022-10-12T15:54:01Z",
+    "category": "桌面应用",
+    "tags": [
+      "文件预览",
+      "桌面增强",
+      "Windows工具",
+      "macOS功能移植",
+      "快速查看",
+      "效率工具"
+    ],
+    "summary": "QuickLook for Windows是一款将macOS的快速预览功能移植到Windows的工具，使用户无需打开应用程序即可快速预览各类文件内容，显著提升文件浏览效率。",
+    "analyzed_at": "2025-11-16T19:18:30.639845+00:00"
+  },
+  {
+    "repo_full_name": "SKHon/koa-book-code",
+    "owner": "SKHon",
+    "html_url": "https://github.com/SKHon/koa-book-code",
+    "description": "《koa开发入门、进阶与实战》书中的源码",
+    "topics": [],
+    "starred_at": "2022-10-13T16:44:47Z",
+    "category": "教育学习",
+    "tags": [
+      "Web开发",
+      "Node.js",
+      "框架",
+      "教程",
+      "实战"
+    ],
+    "summary": "《koa开发入门、进阶与实战》书籍源码，提供Koa框架从基础到高级的实践示例，适合Node.js开发者学习Web应用开发。",
+    "analyzed_at": "2025-11-16T19:18:30.639845+00:00"
+  },
+  {
+    "repo_full_name": "TheJoeFin/Text-Grab",
+    "owner": "TheJoeFin",
+    "html_url": "https://github.com/TheJoeFin/Text-Grab",
+    "description": "Use OCR in Windows quickly and easily with Text Grab. With optional background process and notifications.",
+    "topics": [
+      "dotnet",
+      "msix",
+      "ocr",
+      "window-10",
+      "windows",
+      "windows-11",
+      "wpf"
+    ],
+    "starred_at": "2022-10-17T08:58:50Z",
+    "category": "桌面应用",
+    "tags": [
+      "OCR",
+      "Windows",
+      "效率工具",
+      "文本提取",
+      "桌面工具"
+    ],
+    "summary": "Text Grab是一个Windows平台上的OCR文本抓取工具，使用.NET和WPF开发。它允许用户快速轻松地从屏幕上提取文本，支持后台运行和通知功能，提高工作效率。",
+    "analyzed_at": "2025-11-16T19:18:30.639845+00:00"
+  },
+  {
+    "repo_full_name": "sudoskys/StableDiffusionBook",
+    "owner": "sudoskys",
+    "html_url": "https://github.com/sudoskys/StableDiffusionBook",
+    "description": "How do we integrate AI generation tools into actual work? | 关于 Ai 绘画的Wiki | Wiki about Ai painting | Prompts Engineering| 指南 Guide | Seeking Maintainer&Translator🙌",
+    "topics": [
+      "aiart",
+      "stable-diffusion",
+      "stable-diffusion-tutorial",
+      "stable-diffusion-webui",
+      "stablediffusion"
+    ],
+    "starred_at": "2022-10-17T10:20:36Z",
+    "category": "AI/机器学习",
+    "tags": [
+      "AI绘画",
+      "Stable Diffusion",
+      "提示工程",
+      "AI生成工具",
+      "教程指南"
+    ],
+    "summary": "这是一个关于Stable Diffusion AI绘画工具的Wiki项目，提供集成AI生成工具到实际工作中的指南、教程和提示工程知识。",
+    "analyzed_at": "2025-11-16T19:18:30.639845+00:00"
+  },
+  {
+    "repo_full_name": "awesome-starter/create-preset",
+    "owner": "awesome-starter",
+    "html_url": "https://github.com/awesome-starter/create-preset",
+    "description": "Provides the ability to quickly create preset projects.",
+    "topics": [],
+    "starred_at": "2022-10-20T06:58:47Z",
+    "category": "开发工具",
+    "tags": [
+      "项目初始化",
+      "脚手架",
+      "快速开发",
+      "项目模板",
+      "代码生成器"
+    ],
+    "summary": "create-preset是一个快速创建预设项目的开发工具，帮助开发者一键初始化项目结构，提高开发效率，支持多种项目模板的生成与应用。",
+    "analyzed_at": "2025-11-16T19:18:30.639845+00:00"
+  },
+  {
+    "repo_full_name": "LearnGolang/365Golang",
+    "owner": "LearnGolang",
+    "html_url": "https://github.com/LearnGolang/365Golang",
+    "description": "《365天深入理解Go语言》Deep understanding of Golang.",
+    "topics": [
+      "0e0w",
+      "365golang",
+      "go",
+      "golang",
+      "gopher",
+      "learngolang"
+    ],
+    "starred_at": "2022-10-22T02:35:38Z",
+    "category": "教育学习",
+    "tags": [
+      "Go语言",
+      "编程学习",
+      "技术教程",
+      "365天计划",
+      "Gopher"
+    ],
+    "summary": "这是一个为期365天的Go语言学习项目，旨在帮助开发者深入理解Go语言的核心概念和最佳实践。通过每日学习内容，系统性地掌握Go语言编程技能。",
+    "analyzed_at": "2025-11-16T19:18:30.639845+00:00"
+  },
+  {
+    "repo_full_name": "lucide-icons/lucide",
+    "owner": "lucide-icons",
+    "html_url": "https://github.com/lucide-icons/lucide",
+    "description": "Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.",
+    "topics": [
+      "feather-icons",
+      "figma",
+      "icons",
+      "react",
+      "svg",
+      "svg-icons",
+      "svgs",
+      "ui-components",
+      "ui-design",
+      "vue"
+    ],
+    "starred_at": "2022-10-25T11:59:40Z",
+    "category": "设计工具",
+    "tags": [
+      "图标",
+      "UI设计",
+      "SVG",
+      "React",
+      "Vue"
+    ],
+    "summary": "Lucide是一个开源的图标工具包，由社区创建，是Feather Icons的分支。提供美观一致的SVG图标，支持React、Vue等前端框架，适用于UI设计和开发。",
+    "analyzed_at": "2025-11-16T19:18:30.639845+00:00"
+  },
+  {
+    "repo_full_name": "antfu-collective/icones",
+    "owner": "antfu-collective",
+    "html_url": "https://github.com/antfu-collective/icones",
+    "description": "⚡️ Icon Explorer with Instant searching, powered by Iconify",
+    "topics": [
+      "icon-collections",
+      "icons",
+      "iconsets",
+      "searching",
+      "vite",
+      "vue3"
+    ],
+    "starred_at": "2022-10-25T11:59:43Z",
+    "category": "开发工具",
+    "tags": [
+      "图标集合",
+      "图标",
+      "搜索",
+      "Vite",
+      "Vue3"
+    ],
+    "summary": "Icones是一个基于Iconify的图标浏览器，提供即时搜索功能，帮助开发者快速查找和使用各种图标集合。支持Vite和Vue3技术栈，提升开发效率。",
+    "analyzed_at": "2025-11-16T19:18:30.639845+00:00"
+  },
+  {
+    "repo_full_name": "planetabhi/sargam-icons",
+    "owner": "planetabhi",
+    "html_url": "https://github.com/planetabhi/sargam-icons",
+    "description": "Beautiful, handcrafted 1200+ open-source icons for your exquisite designs",
+    "topics": [
+      "design",
+      "duotone",
+      "figma",
+      "fill",
+      "icons",
+      "line-icons",
+      "optimized",
+      "react",
+      "svg"
+    ],
+    "starred_at": "2022-10-25T11:59:47Z",
+    "category": "设计工具",
+    "tags": [
+      "design",
+      "icons",
+      "svg",
+      "figma",
+      "react"
+    ],
+    "summary": "这是一个包含1200多个精美开源图标的设计资源库，提供双色、填充和线条等多种样式，图标为SVG格式，针对React进行了优化，可用于各种设计项目。",
+    "analyzed_at": "2025-11-16T19:18:30.639845+00:00"
+  },
+  {
+    "repo_full_name": "wxy1343/MagiskOnWSALocal",
+    "owner": "wxy1343",
+    "html_url": "https://github.com/wxy1343/MagiskOnWSALocal",
+    "description": null,
+    "topics": [],
+    "starred_at": "2022-10-25T13:17:08Z",
+    "category": "开发工具",
+    "tags": [
+      "Android",
+      "Root",
+      "WSA",
+      "Windows",
+      "系统工具"
+    ],
+    "summary": "这是一个在Windows子系统上运行Magisk的工具，允许用户在Windows环境下使用root权限的Android应用。",
+    "analyzed_at": "2025-11-16T19:18:30.639845+00:00"
+  },
+  {
+    "repo_full_name": "openneno/neno",
+    "owner": "openneno",
+    "html_url": "https://github.com/openneno/neno",
+    "description": "使用svelte+tailwindcss 仿照 浮墨 写的pwa应用",
+    "topics": [
+      "flomo",
+      "sveltejs",
+      "tailwindcss"
+    ],
+    "starred_at": "2022-10-26T10:02:11Z",
+    "category": "Web应用",
+    "tags": [
+      "flomo",
+      "sveltejs",
+      "tailwindcss",
+      "笔记应用",
+      "知识管理",
+      "PWA"
+    ],
+    "summary": "这是一个使用Svelte和TailwindCSS构建的PWA应用，仿照浮墨笔记应用设计，提供灵感和知识记录功能，支持渐进式网页应用特性。",
+    "analyzed_at": "2025-11-16T19:18:30.639845+00:00"
+  },
+  {
+    "repo_full_name": "vercel/turborepo",
+    "owner": "vercel",
+    "html_url": "https://github.com/vercel/turborepo",
+    "description": "Build system optimized for JavaScript and TypeScript, written in Rust",
+    "topics": [
+      "build-system",
+      "build-tool",
+      "javascript",
+      "monorepo",
+      "typescript"
+    ],
+    "starred_at": "2022-10-26T10:07:30Z",
+    "category": "开发工具",
+    "tags": [
+      "构建系统",
+      "构建工具",
+      "JavaScript",
+      "TypeScript",
+      "单一代码仓库"
+    ],
+    "summary": "Turborepo是一个使用Rust编写的JavaScript和TypeScript优化构建系统，专为单一代码仓库(monorepo)项目设计，提供高效的构建缓存和执行能力，加速大型项目的开发流程。",
+    "analyzed_at": "2025-11-16T19:18:30.639845+00:00"
+  },
+  {
+    "repo_full_name": "bumingbaipod/podcast",
+    "owner": "bumingbaipod",
+    "html_url": "https://github.com/bumingbaipod/podcast",
+    "description": "此 GitHub 作为《不明白播客》官网的备份站，用于分享文字版播客。  版权所有 ©️ 不明白播客 bumingbai.net",
+    "topics": [],
+    "starred_at": "2022-10-26T10:09:22Z",
+    "category": "教育学习",
+    "tags": [
+      "播客",
+      "内容分享",
+      "媒体",
+      "备份站",
+      "文字版",
+      "知识分享"
+    ],
+    "summary": "《不明白播客》的GitHub备份站，用于分享文字版播客内容，为听众提供另一种获取播客内容的渠道。",
+    "analyzed_at": "2025-11-16T19:18:30.639845+00:00"
+  },
+  {
+    "repo_full_name": "mozilla/pdf.js",
+    "owner": "mozilla",
+    "html_url": "https://github.com/mozilla/pdf.js",
+    "description": "PDF Reader in JavaScript",
+    "topics": [],
+    "starred_at": "2022-10-26T13:16:18Z",
+    "category": "Web应用",
+    "tags": [
+      "PDF",
+      "JavaScript",
+      "阅读器",
+      "浏览器",
+      "Mozilla"
+    ],
+    "summary": "这是一个用JavaScript实现的PDF阅读器，可以在浏览器中直接显示和操作PDF文件，无需插件支持。",
+    "analyzed_at": "2025-11-16T19:18:30.639845+00:00"
+  },
+  {
+    "repo_full_name": "1Remote/1Remote",
+    "owner": "1Remote",
+    "html_url": "https://github.com/1Remote/1Remote",
+    "description": "One Remote Access Manager to Rule Them All",
+    "topics": [
+      "rdp",
+      "remote-control",
+      "remote-desktop",
+      "sftp",
+      "ssh",
+      "vnc",
+      "windows",
+      "windows-app",
+      "wpf-application"
+    ],
+    "starred_at": "2022-10-28T08:29:50Z",
+    "category": "桌面应用",
+    "tags": [
+      "远程控制",
+      "远程桌面",
+      "多协议支持",
+      "Windows应用",
+      "访问管理"
+    ],
+    "summary": "1Remote是一款综合性的远程访问管理工具，支持RDP、SSH、VCP、SFTP等多种远程连接协议，专为Windows平台设计，提供统一的远程桌面管理解决方案。",
+    "analyzed_at": "2025-11-16T19:18:30.639845+00:00"
+  },
+  {
+    "repo_full_name": "studyzy/imewlconverter",
+    "owner": "studyzy",
+    "html_url": "https://github.com/studyzy/imewlconverter",
+    "description": "”深蓝词库转换“ 一款开源免费的输入法词库转换程序",
+    "topics": [
+      "c-sharp",
+      "chinese-characters",
+      "converter",
+      "dotnet",
+      "dotnet-core",
+      "ime"
+    ],
+    "starred_at": "2022-10-28T08:35:24Z",
+    "category": "开发工具",
+    "tags": [
+      "输入法",
+      "词库转换",
+      "中文处理",
+      "开源工具",
+      "C#应用"
+    ],
+    "summary": "深蓝词库转换是一款开源免费的输入法词库转换程序，支持多种输入法词库格式之间的转换，方便用户自定义和扩展输入法词库。",
+    "analyzed_at": "2025-11-16T19:18:30.639845+00:00"
+  },
+  {
+    "repo_full_name": "minbrowser/min",
+    "owner": "minbrowser",
+    "html_url": "https://github.com/minbrowser/min",
+    "description": "A fast, minimal browser that protects your privacy",
+    "topics": [],
+    "starred_at": "2022-10-28T08:35:59Z",
+    "category": "Web应用",
+    "tags": [
+      "浏览器",
+      "隐私保护",
+      "简约设计",
+      "快速浏览",
+      "轻量级"
+    ],
+    "summary": "Min是一款快速、简约的浏览器，专注于保护用户隐私。它提供轻量级浏览体验，同时注重安全性，让用户能够安心上网。",
+    "analyzed_at": "2025-11-16T19:18:30.639845+00:00"
+  },
+  {
+    "repo_full_name": "hediet/vscode-debug-visualizer",
+    "owner": "hediet",
+    "html_url": "https://github.com/hediet/vscode-debug-visualizer",
+    "description": "An extension for VS Code that visualizes data during debugging.",
+    "topics": [
+      "hacktoberfest",
+      "visualization",
+      "vscode-extension"
+    ],
+    "starred_at": "2022-11-01T12:59:26Z",
+    "category": "开发工具",
+    "tags": [
+      "可视化",
+      "VS Code扩展",
+      "调试",
+      "开发工具"
+    ],
+    "summary": "VS Code调试可视化扩展，帮助开发者在调试过程中直观地查看和理解数据结构，提升调试效率。",
+    "analyzed_at": "2025-11-16T19:18:30.639845+00:00"
+  },
+  {
+    "repo_full_name": "oldboyxx/jira_clone",
+    "owner": "oldboyxx",
+    "html_url": "https://github.com/oldboyxx/jira_clone",
+    "description": "A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.",
+    "topics": [],
+    "starred_at": "2022-11-01T13:01:18Z",
+    "category": "Web应用",
+    "tags": [
+      "项目管理",
+      "任务跟踪",
+      "React",
+      "TypeScript",
+      "敏捷开发"
+    ],
+    "summary": "这是一个简化的Jira克隆版本，使用React/Babel构建前端，Node/TypeScript构建API，提供项目管理和任务跟踪功能。",
+    "analyzed_at": "2025-11-16T19:18:30.639845+00:00"
+  },
+  {
+    "repo_full_name": "woltapp/blurhash",
+    "owner": "woltapp",
+    "html_url": "https://github.com/woltapp/blurhash",
+    "description": "A very compact representation of a placeholder for an image.",
+    "topics": [],
+    "starred_at": "2022-11-01T13:08:29Z",
+    "category": "开发工具",
+    "tags": [
+      "图像处理",
+      "占位符",
+      "性能优化",
+      "前端开发",
+      "JavaScript库"
+    ],
+    "summary": "BlurHash是一个轻量级图像占位符生成库，通过紧凑的字符串表示图像的模糊预览，提升Web和移动应用中图片加载的用户体验，减少布局偏移问题。",
+    "analyzed_at": "2025-11-16T19:18:30.639845+00:00"
+  },
+  {
+    "repo_full_name": "willdoescode/nat",
+    "owner": "willdoescode",
+    "html_url": "https://github.com/willdoescode/nat",
+    "description": "`ls` alternative with useful info and a splash of color 🎨",
+    "topics": [
+      "cargo",
+      "cli",
+      "command-line-tool",
+      "easy-to-use",
+      "hacktoberfest",
+      "ls",
+      "nat",
+      "open-source",
+      "rust",
+      "rust-lang",
+      "stargazers",
+      "zshrc"
+    ],
+    "starred_at": "2022-11-01T13:13:02Z",
+    "category": "开发工具",
+    "tags": [
+      "cli",
+      "command-line-tool",
+      "ls",
+      "rust",
+      "easy-to-use"
+    ],
+    "summary": "Nat是一个用Rust编写的命令行工具，作为`ls`命令的增强版，提供更丰富的文件信息和彩色输出，提升开发者查看文件列表的体验。",
+    "analyzed_at": "2025-11-16T19:18:30.639845+00:00"
+  },
+  {
+    "repo_full_name": "orf/gping",
+    "owner": "orf",
+    "html_url": "https://github.com/orf/gping",
+    "description": "Ping, but with a graph",
+    "topics": [
+      "cli",
+      "command-line",
+      "graph",
+      "linux",
+      "network-monitoring",
+      "ping",
+      "rust",
+      "shell"
+    ],
+    "starred_at": "2022-11-01T13:16:42Z",
+    "category": "开发工具",
+    "tags": [
+      "网络监控",
+      "命令行工具",
+      "系统工具",
+      "网络诊断",
+      "可视化工具"
+    ],
+    "summary": "gping是一个增强版的ping命令行工具，用Rust编写。它不仅显示ping结果，还提供实时图表可视化，帮助用户直观地监控网络延迟和稳定性。",
+    "analyzed_at": "2025-11-16T19:18:30.639845+00:00"
+  },
+  {
+    "repo_full_name": "NateScarlet/holiday-cn",
+    "owner": "NateScarlet",
+    "html_url": "https://github.com/NateScarlet/holiday-cn",
+    "description": "📅🇨🇳中国法定节假日数据 自动每日抓取国务院公告",
+    "topics": [
+      "china",
+      "crawling",
+      "data",
+      "holiday",
+      "natural-language-processing"
+    ],
+    "starred_at": "2022-11-01T13:16:58Z",
+    "category": "数据分析",
+    "tags": [
+      "中国",
+      "数据",
+      "节假日",
+      "爬虫"
+    ],
+    "summary": "提供中国法定节假日数据，自动每日抓取国务院公告，为开发者提供准确的中国节假日信息API。",
+    "analyzed_at": "2025-11-16T19:18:30.639845+00:00"
   }
 ]
