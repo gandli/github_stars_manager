@@ -43106,5 +43106,1209 @@
     ],
     "summary": "提供中国法定节假日数据，自动每日抓取国务院公告，为开发者提供准确的中国节假日信息API。",
     "analyzed_at": "2025-11-16T19:18:30.639845+00:00"
+  },
+  {
+    "repo_full_name": "rxhanson/Rectangle",
+    "owner": "rxhanson",
+    "html_url": "https://github.com/rxhanson/Rectangle",
+    "description": "Move and resize windows on macOS with keyboard shortcuts and snap areas",
+    "topics": [],
+    "starred_at": "2022-11-01T13:17:39Z",
+    "category": "桌面应用",
+    "tags": [
+      "窗口管理",
+      "键盘快捷键",
+      "macOS",
+      "窗口调整",
+      "吸附区域",
+      "效率工具"
+    ],
+    "summary": "Rectangle是一款macOS桌面应用，允许用户通过键盘快捷键和吸附区域来移动和调整窗口大小，提高工作效率。",
+    "analyzed_at": "2025-11-17T19:19:58.400978+00:00"
+  },
+  {
+    "repo_full_name": "zthxxx/react-dev-inspector",
+    "owner": "zthxxx",
+    "html_url": "https://github.com/zthxxx/react-dev-inspector",
+    "description": "jump to local IDE code directly from browser React component by just a simple click",
+    "topics": [
+      "dev",
+      "fiber",
+      "inspector",
+      "react",
+      "react-inspector"
+    ],
+    "starred_at": "2022-11-01T13:18:18Z",
+    "category": "开发工具",
+    "tags": [
+      "React开发",
+      "代码跳转",
+      "IDE集成",
+      "开发工具",
+      "调试工具"
+    ],
+    "summary": "React开发工具，允许开发者通过点击浏览器中的React组件直接跳转到本地IDE的对应代码位置，提高开发调试效率。",
+    "analyzed_at": "2025-11-17T19:19:58.400978+00:00"
+  },
+  {
+    "repo_full_name": "xuebinqin/U-2-Net",
+    "owner": "xuebinqin",
+    "html_url": "https://github.com/xuebinqin/U-2-Net",
+    "description": "The code for our newly accepted paper in Pattern Recognition 2020: \"U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection.\"",
+    "topics": [
+      "computer-vision",
+      "deep-learning",
+      "image-background-removal",
+      "image-processing",
+      "image-segmentation",
+      "u-2-net",
+      "u2net"
+    ],
+    "starred_at": "2022-11-01T13:18:26Z",
+    "category": "AI/机器学习",
+    "tags": [
+      "计算机视觉",
+      "深度学习",
+      "图像处理",
+      "图像分割"
+    ],
+    "summary": "这是一个基于深度学习的图像处理项目，实现了U^2-Net架构，主要用于显著物体检测、图像背景移除和图像分割任务。",
+    "analyzed_at": "2025-11-17T19:19:58.400978+00:00"
+  },
+  {
+    "repo_full_name": "dominikwilkowski/cfonts",
+    "owner": "dominikwilkowski",
+    "html_url": "https://github.com/dominikwilkowski/cfonts",
+    "description": "Sexy fonts for the console",
+    "topics": [
+      "ansi",
+      "ascii",
+      "ascii-art",
+      "chalk",
+      "cli",
+      "font",
+      "generator",
+      "nodejs",
+      "sexy",
+      "sexy-fonts",
+      "shell"
+    ],
+    "starred_at": "2022-11-01T13:20:17Z",
+    "category": "开发工具",
+    "tags": [
+      "CLI工具",
+      "字体生成",
+      "终端美化",
+      "Node.js",
+      "ASCII艺术",
+      "控制台"
+    ],
+    "summary": "cfonts是一个Node.js开发的命令行工具，用于在控制台中生成艺术字体和ASCII艺术。它支持多种样式和颜色，可以帮助开发者美化终端输出，提升命令行界面的视觉效果。",
+    "analyzed_at": "2025-11-17T19:19:58.400978+00:00"
+  },
+  {
+    "repo_full_name": "ImageOptim/ImageOptim",
+    "owner": "ImageOptim",
+    "html_url": "https://github.com/ImageOptim/ImageOptim",
+    "description": "GUI image optimizer for Mac",
+    "topics": [
+      "accelerator",
+      "gui",
+      "image-optimization",
+      "imageoptim",
+      "mac-app",
+      "minification",
+      "performace"
+    ],
+    "starred_at": "2022-11-01T13:21:11Z",
+    "category": "桌面应用",
+    "tags": [
+      "image-optimization",
+      "gui",
+      "mac-app",
+      "minification"
+    ],
+    "summary": "ImageOptim是一款Mac平台上的图形界面图像优化工具，能够有效压缩和优化图片文件大小，提升网页加载速度和存储效率。",
+    "analyzed_at": "2025-11-17T19:19:58.400978+00:00"
+  },
+  {
+    "repo_full_name": "SnapDrop/snapdrop",
+    "owner": "SnapDrop",
+    "html_url": "https://github.com/SnapDrop/snapdrop",
+    "description": "A Progressive Web App for local file sharing ",
+    "topics": [
+      "pwa",
+      "snapdrop",
+      "webrtc"
+    ],
+    "starred_at": "2022-11-01T13:21:37Z",
+    "category": "Web应用",
+    "tags": [
+      "pwa",
+      "webrtc",
+      "文件共享",
+      "本地传输",
+      "跨平台"
+    ],
+    "summary": "SnapDrop是一个渐进式Web应用，利用WebRTC技术实现本地设备间的文件传输。无需安装，支持跨平台使用，为用户提供简单便捷的局域网文件共享解决方案。",
+    "analyzed_at": "2025-11-17T19:19:58.400978+00:00"
+  },
+  {
+    "repo_full_name": "saurabhdaware/text-to-handwriting",
+    "owner": "saurabhdaware",
+    "html_url": "https://github.com/saurabhdaware/text-to-handwriting",
+    "description": "So your teacher asked you to upload written assignments? Hate writing assigments? This tool will help you convert your text to handwriting xD",
+    "topics": [
+      "assignments",
+      "projects",
+      "text-to-handwriting",
+      "txt-to-handwriting"
+    ],
+    "starred_at": "2022-11-01T13:25:08Z",
+    "category": "效率工具",
+    "tags": [
+      "作业",
+      "文本转手写",
+      "学习辅助",
+      "时间节省",
+      "自动化"
+    ],
+    "summary": "这是一个文本转手写工具，能将文本内容转换成手写样式，帮助学生快速完成需要手写提交的作业，节省时间并提高效率。",
+    "analyzed_at": "2025-11-17T19:19:58.400978+00:00"
+  },
+  {
+    "repo_full_name": "Remix-Design/Sogou-Input-Skin",
+    "owner": "Remix-Design",
+    "html_url": "https://github.com/Remix-Design/Sogou-Input-Skin",
+    "description": "搜狗拼音输入法的几款极简风格皮肤",
+    "topics": [
+      "input-method",
+      "osx",
+      "sogou-pinyin",
+      "theme"
+    ],
+    "starred_at": "2022-11-01T13:26:13Z",
+    "category": "桌面应用",
+    "tags": [
+      "输入法",
+      "极简风格",
+      "皮肤主题",
+      "macOS"
+    ],
+    "summary": "搜狗拼音输入法的极简风格皮肤集合，提供多种简洁美观的界面选择，适用于macOS系统，提升输入法使用体验。",
+    "analyzed_at": "2025-11-17T19:19:58.400978+00:00"
+  },
+  {
+    "repo_full_name": "pd4d10/hashmd",
+    "owner": "pd4d10",
+    "html_url": "https://github.com/pd4d10/hashmd",
+    "description": "Hackable Markdown Editor and Viewer (WIP)",
+    "topics": [
+      "markdown",
+      "markdown-editor",
+      "markdown-viewer",
+      "svelte"
+    ],
+    "starred_at": "2022-11-01T13:32:38Z",
+    "category": "开发工具",
+    "tags": [
+      "markdown",
+      "markdown-editor",
+      "markdown-viewer",
+      "svelte"
+    ],
+    "summary": "这是一个可定制的Markdown编辑器和查看器，支持实时预览，使用Svelte框架构建，适合开发者进行Markdown文档的编写和查看。",
+    "analyzed_at": "2025-11-17T19:19:58.400978+00:00"
+  },
+  {
+    "repo_full_name": "mac-cleanup/mac-cleanup-sh",
+    "owner": "mac-cleanup",
+    "html_url": "https://github.com/mac-cleanup/mac-cleanup-sh",
+    "description": "🗑️ Cleanup script for macOS (DEPRECATED)",
+    "topics": [
+      "bash",
+      "cleaning",
+      "cleanup",
+      "cleanup-docker-images",
+      "cleanup-script",
+      "homebrew",
+      "mac-cleanup",
+      "macos",
+      "osx"
+    ],
+    "starred_at": "2022-11-01T13:33:23Z",
+    "category": "效率工具",
+    "tags": [
+      "系统清理",
+      "macOS优化",
+      "脚本工具",
+      "系统维护"
+    ],
+    "summary": "这是一个已弃用的macOS系统清理脚本，使用bash编写，可帮助用户清理系统文件、Docker镜像和Homebrew包，提高Mac运行效率。",
+    "analyzed_at": "2025-11-17T19:19:58.400978+00:00"
+  },
+  {
+    "repo_full_name": "chanify/chanify",
+    "owner": "chanify",
+    "html_url": "https://github.com/chanify/chanify",
+    "description": "Chanify is a safe and simple notification tools. This repository is command line tools for Chanify.",
+    "topics": [
+      "anonymous",
+      "apns",
+      "docker",
+      "docker-image",
+      "golang",
+      "ios",
+      "macos",
+      "message-workflow",
+      "notification-api",
+      "notification-service",
+      "notifications",
+      "notifications-alert",
+      "open-source",
+      "push-notifications",
+      "rest-api",
+      "server",
+      "webhook"
+    ],
+    "starred_at": "2022-11-01T13:36:44Z",
+    "category": "开发工具",
+    "tags": [
+      "notification-api",
+      "push-notifications",
+      "command-line-tools",
+      "notification-service",
+      "rest-api",
+      "webhook"
+    ],
+    "summary": "Chanify是一个安全简单的通知工具，提供命令行接口。支持iOS和macOS平台，可通过REST API、webhook和APNS实现推送通知，适用于各种消息工作流场景。",
+    "analyzed_at": "2025-11-17T19:19:58.400978+00:00"
+  },
+  {
+    "repo_full_name": "automizer/mobile-app-automizer",
+    "owner": "automizer",
+    "html_url": "https://github.com/automizer/mobile-app-automizer",
+    "description": "You can automize iOS and Android app's build, upload and versioning processes via Mobile App Automizer CLI tool.",
+    "topics": [],
+    "starred_at": "2022-11-01T13:38:17Z",
+    "category": "开发工具",
+    "tags": [
+      "移动开发",
+      "自动化",
+      "CI/CD",
+      "版本控制",
+      "CLI工具",
+      "跨平台"
+    ],
+    "summary": "Mobile App Automizer是一个命令行工具，可自动化iOS和Android应用的构建、上传和版本控制流程，帮助开发者提高移动应用开发效率。",
+    "analyzed_at": "2025-11-17T19:19:58.400978+00:00"
+  },
+  {
+    "repo_full_name": "a327ex/SNKRX",
+    "owner": "a327ex",
+    "html_url": "https://github.com/a327ex/SNKRX",
+    "description": "A replayable arcade shooter where you control a snake of heroes.",
+    "topics": [
+      "2d",
+      "game",
+      "gamedev",
+      "indie",
+      "indiedev",
+      "love2d",
+      "lua",
+      "rpg",
+      "shooter"
+    ],
+    "starred_at": "2022-11-01T13:39:13Z",
+    "category": "游戏",
+    "tags": [
+      "射击游戏",
+      "独立游戏",
+      "2D游戏",
+      "RPG元素",
+      "街机风格"
+    ],
+    "summary": "SNKRX是一款可重复玩的街机射击游戏，玩家控制一条由英雄组成的蛇，在游戏中进行战斗。采用Love2D引擎和Lua语言开发，融合了RPG元素和街机风格的游戏体验。",
+    "analyzed_at": "2025-11-17T19:19:58.400978+00:00"
+  },
+  {
+    "repo_full_name": "MustangYM/WeChatExtension-ForMac",
+    "owner": "MustangYM",
+    "html_url": "https://github.com/MustangYM/WeChatExtension-ForMac",
+    "description": "A plugin for Mac WeChat",
+    "topics": [
+      "alfred",
+      "macos",
+      "wechat",
+      "wechat-macos",
+      "wechat-plugin",
+      "weixin-plugin"
+    ],
+    "starred_at": "2022-11-01T13:40:03Z",
+    "category": "开发工具",
+    "tags": [
+      "微信插件",
+      "macOS",
+      "Alfred",
+      "扩展工具",
+      "生产力工具"
+    ],
+    "summary": "这是一个Mac版微信的插件，可以扩展微信功能，提升用户体验，支持Alfred工作流集成，增强Mac用户的微信使用体验。",
+    "analyzed_at": "2025-11-17T19:19:58.400978+00:00"
+  },
+  {
+    "repo_full_name": "itsuhane/SwitchKey",
+    "owner": "itsuhane",
+    "html_url": "https://github.com/itsuhane/SwitchKey",
+    "description": "Automatically activate the correct input source.",
+    "topics": [
+      "input-method",
+      "macos",
+      "macos-app",
+      "productivity",
+      "tool"
+    ],
+    "starred_at": "2022-11-01T13:41:31Z",
+    "category": "桌面应用",
+    "tags": [
+      "输入法",
+      "macOS",
+      "生产力工具"
+    ],
+    "summary": "SwitchKey是一个macOS桌面应用，能够自动激活正确的输入源，提高用户在不同输入法之间切换的效率，提升生产力。",
+    "analyzed_at": "2025-11-17T19:19:58.400978+00:00"
+  },
+  {
+    "repo_full_name": "alangpierce/sucrase",
+    "owner": "alangpierce",
+    "html_url": "https://github.com/alangpierce/sucrase",
+    "description": "Super-fast alternative to Babel for when you can target modern JS runtimes",
+    "topics": [
+      "compiler",
+      "es-modules",
+      "javascript",
+      "jsx",
+      "typescript"
+    ],
+    "starred_at": "2022-11-01T13:47:25Z",
+    "category": "开发工具",
+    "tags": [
+      "编译器",
+      "JavaScript",
+      "TypeScript",
+      "JSX",
+      "ES模块",
+      "开发工具"
+    ],
+    "summary": "Sucrase 是一个超快的 Babel 替代品，专为现代 JavaScript 运行时设计。它支持 JavaScript、JSX 和 TypeScript 的快速编译，帮助开发者提高构建效率。",
+    "analyzed_at": "2025-11-17T19:19:58.400978+00:00"
+  },
+  {
+    "repo_full_name": "Turing-Project/WriteGPT",
+    "owner": "Turing-Project",
+    "html_url": "https://github.com/Turing-Project/WriteGPT",
+    "description": "由图灵的猫开发，基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化",
+    "topics": [],
+    "starred_at": "2022-11-01T13:47:45Z",
+    "category": "AI/机器学习",
+    "tags": [
+      "AI",
+      "GPT",
+      "创作型AI",
+      "自然语言处理",
+      "文本生成"
+    ],
+    "summary": "WriteGPT是由图灵的猫开发的一款基于开源GPT2.0的创作型人工智能项目，具有可扩展和可进化的特点，专注于文本创作和生成。",
+    "analyzed_at": "2025-11-17T19:19:58.400978+00:00"
+  },
+  {
+    "repo_full_name": "brunophilipe/Cakebrew",
+    "owner": "brunophilipe",
+    "html_url": "https://github.com/brunophilipe/Cakebrew",
+    "description": "Manage your Homebrew formulas with style using Cakebrew.",
+    "topics": [],
+    "starred_at": "2022-11-01T13:52:59Z",
+    "category": "开发工具",
+    "tags": [
+      "Homebrew",
+      "包管理",
+      "macOS",
+      "图形界面",
+      "开发工具",
+      "软件管理"
+    ],
+    "summary": "Cakebrew是一个macOS平台上的图形化工具，用于以直观美观的方式管理Homebrew软件包。它简化了开发者在macOS上安装、更新和卸载软件的过程，提高了开发环境管理的效率。",
+    "analyzed_at": "2025-11-17T19:19:58.400978+00:00"
+  },
+  {
+    "repo_full_name": "nihaojob/markdown-css-smartisan",
+    "owner": "nihaojob",
+    "html_url": "https://github.com/nihaojob/markdown-css-smartisan",
+    "description": "按照锤子便签调整的markdown-css 主题。",
+    "topics": [
+      "markdown-css",
+      "markdown-theme"
+    ],
+    "starred_at": "2022-11-01T13:56:19Z",
+    "category": "设计工具",
+    "tags": [
+      "markdown",
+      "css",
+      "主题",
+      "样式",
+      "锤子便签"
+    ],
+    "summary": "这是一个基于锤子便签风格设计的Markdown CSS主题，用于美化Markdown文档的显示效果，提供简洁优雅的阅读体验。",
+    "analyzed_at": "2025-11-17T19:19:58.400978+00:00"
+  },
+  {
+    "repo_full_name": "iperov/DeepFaceLab",
+    "owner": "iperov",
+    "html_url": "https://github.com/iperov/DeepFaceLab",
+    "description": "DeepFaceLab is the leading software for creating deepfakes.",
+    "topics": [
+      "arxiv",
+      "creating-deepfakes",
+      "deep-face-swap",
+      "deep-learning",
+      "deep-neural-networks",
+      "deepface",
+      "deepfacelab",
+      "deepfakes",
+      "deeplearning",
+      "face-swap",
+      "faceswap",
+      "fakeapp",
+      "machine-learning",
+      "neural-nets",
+      "neural-networks"
+    ],
+    "starred_at": "2022-11-01T13:59:06Z",
+    "category": "AI/机器学习",
+    "tags": [
+      "深度学习",
+      "人脸交换",
+      "深度伪造",
+      "神经网络",
+      "机器学习"
+    ],
+    "summary": "DeepFaceLab是领先的深度伪造软件，利用深度学习和神经网络技术实现人脸替换和交换。该项目专注于创建逼真的深度伪造内容，是AI生成内容领域的代表性工具。",
+    "analyzed_at": "2025-11-17T19:19:58.400978+00:00"
+  },
+  {
+    "repo_full_name": "microsoft/IoT-For-Beginners",
+    "owner": "microsoft",
+    "html_url": "https://github.com/microsoft/IoT-For-Beginners",
+    "description": "12 Weeks, 24 Lessons, IoT for All!",
+    "topics": [
+      "cpp",
+      "hacktoberfest",
+      "iot",
+      "iot-device",
+      "iot-edge",
+      "microcontroller",
+      "microsoft-for-beginners",
+      "python",
+      "raspberry-pi",
+      "rpi"
+    ],
+    "starred_at": "2022-11-01T13:59:25Z",
+    "category": "教育学习",
+    "tags": [
+      "物联网",
+      "入门教程",
+      "树莓派",
+      "微控制器",
+      "边缘计算"
+    ],
+    "summary": "微软推出的物联网入门教程，包含24节课，为期12周，面向所有初学者。项目涵盖C++、Python编程，树莓派应用，微控制器和边缘计算等物联网基础知识，帮助学习者全面了解物联网技术。",
+    "analyzed_at": "2025-11-17T19:19:58.400978+00:00"
+  },
+  {
+    "repo_full_name": "mitmproxy/mitmproxy",
+    "owner": "mitmproxy",
+    "html_url": "https://github.com/mitmproxy/mitmproxy",
+    "description": "An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.",
+    "topics": [
+      "debugging",
+      "http",
+      "http2",
+      "man-in-the-middle",
+      "mitmproxy",
+      "proxy",
+      "python",
+      "security",
+      "ssl",
+      "tls",
+      "websocket"
+    ],
+    "starred_at": "2022-11-01T13:59:53Z",
+    "category": "安全工具",
+    "tags": [
+      "proxy",
+      "security",
+      "debugging",
+      "tls",
+      "man-in-the-middle"
+    ],
+    "summary": "mitmproxy是一个交互式的HTTP代理工具，支持TLS/SSL，专为渗透测试人员和软件开发人员设计。它可以拦截和检查HTTP/HTTPS流量，帮助调试网络问题和安全测试。",
+    "analyzed_at": "2025-11-17T19:19:58.400978+00:00"
+  },
+  {
+    "repo_full_name": "tw93/cz-emoji-chinese",
+    "owner": "tw93",
+    "html_url": "https://github.com/tw93/cz-emoji-chinese",
+    "description": "🚴 炫酷的中文版本的 git commit emoji  🐛🎨✨ 🔥💄📝 🎉 命令行",
+    "topics": [
+      "git",
+      "git-emoji",
+      "github"
+    ],
+    "starred_at": "2022-11-01T14:04:03Z",
+    "category": "开发工具",
+    "tags": [
+      "git",
+      "emoji",
+      "命令行工具",
+      "开发辅助"
+    ],
+    "summary": "这是一个中文版的git commit emoji命令行工具，让开发者可以使用中文emoji来丰富git提交信息，提升开发体验的趣味性。",
+    "analyzed_at": "2025-11-17T19:19:58.400978+00:00"
+  },
+  {
+    "repo_full_name": "virtualvivek/react-windows-ui",
+    "owner": "virtualvivek",
+    "html_url": "https://github.com/virtualvivek/react-windows-ui",
+    "description": "Build Windows native look & feel apps using ReactJS. Provides a set of accessible, reusable and composable react components that make it super easy to create websites and apps.",
+    "topics": [
+      "component-library",
+      "components",
+      "fluent-design",
+      "npm-package",
+      "react",
+      "react-component",
+      "reactjs",
+      "ui-design",
+      "webapp",
+      "windows",
+      "windows-11",
+      "windows-app"
+    ],
+    "starred_at": "2022-11-01T14:07:36Z",
+    "category": "开发工具",
+    "tags": [
+      "React组件",
+      "Windows UI",
+      "组件库",
+      "Fluent设计",
+      "Web应用"
+    ],
+    "summary": "这是一个基于React的Windows原生UI组件库，提供可访问、可重用和可组合的React组件，帮助开发者轻松构建具有Windows原生外观和感觉的网站和应用程序。",
+    "analyzed_at": "2025-11-17T19:19:58.400978+00:00"
+  },
+  {
+    "repo_full_name": "facebook/flipper",
+    "owner": "facebook",
+    "html_url": "https://github.com/facebook/flipper",
+    "description": "A desktop debugging platform for mobile developers.",
+    "topics": [],
+    "starred_at": "2022-11-01T14:08:19Z",
+    "category": "桌面应用",
+    "tags": [
+      "调试工具",
+      "移动开发",
+      "开发工具",
+      "桌面应用"
+    ],
+    "summary": "Flipper是一款面向移动开发者的桌面调试平台，提供强大的移动应用调试功能，帮助开发者更高效地定位和解决问题。",
+    "analyzed_at": "2025-11-17T19:19:58.400978+00:00"
+  },
+  {
+    "repo_full_name": "kentcdodds/cloc",
+    "owner": "kentcdodds",
+    "html_url": "https://github.com/kentcdodds/cloc",
+    "description": "An npm module for distributing cloc by Al Danial",
+    "topics": [],
+    "starred_at": "2022-11-01T14:09:19Z",
+    "category": "开发工具",
+    "tags": [
+      "代码计数",
+      "开发工具",
+      "npm包",
+      "代码分析",
+      "多语言支持",
+      "代码统计"
+    ],
+    "summary": "cloc是一个流行的代码行计数工具，通过npm包分发，支持多种编程语言，帮助开发者快速统计项目代码行数，提高代码审查效率。",
+    "analyzed_at": "2025-11-17T19:19:58.400978+00:00"
+  },
+  {
+    "repo_full_name": "wuchangming/spy-debugger",
+    "owner": "wuchangming",
+    "html_url": "https://github.com/wuchangming/spy-debugger",
+    "description": "微信调试，各种WebView样式调试、手机浏览器的页面真机调试。便捷的远程调试手机页面、抓包工具，支持：HTTP/HTTPS，无需USB连接设备。",
+    "topics": [
+      "debug",
+      "spy-debugger",
+      "wechat",
+      "weinre"
+    ],
+    "starred_at": "2022-11-01T14:09:54Z",
+    "category": "开发工具",
+    "tags": [
+      "debug",
+      "spy-debugger",
+      "微信调试",
+      "远程调试",
+      "抓包工具"
+    ],
+    "summary": "一款便捷的微信和手机浏览器页面调试工具，支持远程调试、样式调试和HTTP/HTTPS抓包，无需USB连接设备，提高移动端开发调试效率。",
+    "analyzed_at": "2025-11-17T19:19:58.400978+00:00"
+  },
+  {
+    "repo_full_name": "jgthms/bulma",
+    "owner": "jgthms",
+    "html_url": "https://github.com/jgthms/bulma",
+    "description": "Modern CSS framework based on Flexbox",
+    "topics": [
+      "css",
+      "css-framework",
+      "design",
+      "flexbox",
+      "html"
+    ],
+    "starred_at": "2022-11-01T14:12:08Z",
+    "category": "开发工具",
+    "tags": [
+      "css",
+      "css-framework",
+      "design",
+      "flexbox",
+      "html"
+    ],
+    "summary": "Bulma是一个基于Flexbox的现代CSS框架，提供响应式、模块化的组件，帮助开发者快速构建美观的网页界面。它不依赖JavaScript，专注于样式设计，易于定制和使用。",
+    "analyzed_at": "2025-11-17T19:19:58.400978+00:00"
+  },
+  {
+    "repo_full_name": "Tyriar/vscode-theme-generator",
+    "owner": "Tyriar",
+    "html_url": "https://github.com/Tyriar/vscode-theme-generator",
+    "description": "Easily generate themes for VS Code with only a few colors",
+    "topics": [
+      "theme-development",
+      "themes",
+      "vscode",
+      "vscode-theme"
+    ],
+    "starred_at": "2022-11-01T14:12:41Z",
+    "category": "开发工具",
+    "tags": [
+      "主题生成",
+      "VS Code",
+      "开发工具",
+      "界面定制",
+      "颜色配置"
+    ],
+    "summary": "VS Code主题生成器，允许开发者仅通过选择几种颜色即可快速创建自定义主题，简化主题开发流程，提高工作效率。",
+    "analyzed_at": "2025-11-17T19:19:58.400978+00:00"
+  },
+  {
+    "repo_full_name": "sml2h3/ddddocr",
+    "owner": "sml2h3",
+    "html_url": "https://github.com/sml2h3/ddddocr",
+    "description": "带带弟弟 通用验证码识别OCR pypi版",
+    "topics": [
+      "captcha",
+      "ddddocr",
+      "ocr"
+    ],
+    "starred_at": "2022-11-01T14:25:06Z",
+    "category": "AI/机器学习",
+    "tags": [
+      "captcha",
+      "ocr",
+      "图像识别",
+      "验证码破解",
+      "自动化"
+    ],
+    "summary": "ddddocr是一个通用的验证码识别OCR工具，支持多种验证码类型的识别。该项目基于深度学习技术，提供简单易用的API接口，可用于自动化处理验证码识别任务，提高工作效率。",
+    "analyzed_at": "2025-11-17T19:19:58.400978+00:00"
+  },
+  {
+    "repo_full_name": "markmap/markmap",
+    "owner": "markmap",
+    "html_url": "https://github.com/markmap/markmap",
+    "description": "Build mindmaps with plain text",
+    "topics": [
+      "markmap",
+      "mindmap"
+    ],
+    "starred_at": "2022-11-01T14:26:00Z",
+    "category": "设计工具",
+    "tags": [
+      "思维导图",
+      "可视化",
+      "文本转换",
+      "Markdown",
+      "图形化",
+      "规划工具"
+    ],
+    "summary": "markmap是一款基于纯文本构建思维导图的工具，支持将Markdown等文本格式自动转换为可视化思维导图，帮助用户更好地组织和展示信息。",
+    "analyzed_at": "2025-11-17T19:19:58.400978+00:00"
+  },
+  {
+    "repo_full_name": "ant-design/ant-design-mini",
+    "owner": "ant-design",
+    "html_url": "https://github.com/ant-design/ant-design-mini",
+    "description": "Ant Design Mini is a UI component library for Alipay mini programs that is also compatible with WeChat mini programs, it follows the Ant Design specifications. ",
+    "topics": [
+      "alipay-mini-program",
+      "ant-design",
+      "antd",
+      "antd-mini",
+      "javascript",
+      "mini-ali-ui",
+      "mini-antui",
+      "miniprogram",
+      "typescript",
+      "wechat-mini-program"
+    ],
+    "starred_at": "2022-11-01T14:26:53Z",
+    "category": "Web应用",
+    "tags": [
+      "小程序",
+      "UI组件库",
+      "JavaScript",
+      "TypeScript",
+      "Ant Design",
+      "跨平台"
+    ],
+    "summary": "Ant Design Mini是一个遵循Ant Design规范的UI组件库，专为支付宝小程序设计，同时兼容微信小程序，使用JavaScript和TypeScript开发，提供跨平台小程序开发解决方案。",
+    "analyzed_at": "2025-11-17T19:19:58.400978+00:00"
+  },
+  {
+    "repo_full_name": "rehype-pretty/rehype-pretty-code",
+    "owner": "rehype-pretty",
+    "html_url": "https://github.com/rehype-pretty/rehype-pretty-code",
+    "description": "Beautiful code blocks for Markdown or MDX.",
+    "topics": [
+      "markdown",
+      "mdx",
+      "shiki",
+      "syntax-highlighting",
+      "vscode"
+    ],
+    "starred_at": "2022-11-01T14:32:47Z",
+    "category": "开发工具",
+    "tags": [
+      "代码高亮",
+      "Markdown",
+      "MDX",
+      "语法高亮",
+      "开发工具"
+    ],
+    "summary": "这是一个用于Markdown或MDX的代码块美化工具，提供语法高亮功能，使代码在文档中更加美观易读。",
+    "analyzed_at": "2025-11-17T19:19:58.400978+00:00"
+  },
+  {
+    "repo_full_name": "evilmartians/mono",
+    "owner": "evilmartians",
+    "html_url": "https://github.com/evilmartians/mono",
+    "description": "Free and open-source monospaced font from Evil Martians",
+    "topics": [],
+    "starred_at": "2022-11-01T14:35:22Z",
+    "category": "设计工具",
+    "tags": [
+      "字体",
+      "等宽字体",
+      "开源字体",
+      "编程字体"
+    ],
+    "summary": "Evil Martians开发的开源等宽字体，适合编程和代码编辑，提供清晰一致的字符宽度。",
+    "analyzed_at": "2025-11-17T19:19:58.400978+00:00"
+  },
+  {
+    "repo_full_name": "vercel/pkg",
+    "owner": "vercel",
+    "html_url": "https://github.com/vercel/pkg",
+    "description": "Package your Node.js project into an executable",
+    "topics": [
+      "binaries",
+      "cli",
+      "compiler",
+      "nodejs"
+    ],
+    "starred_at": "2022-11-01T14:35:35Z",
+    "category": "开发工具",
+    "tags": [
+      "Node.js",
+      "打包工具",
+      "命令行工具",
+      "编译器",
+      "可执行文件"
+    ],
+    "summary": "Vercel的pkg工具是一个Node.js项目打包器，可以将Node.js应用程序转换为独立的可执行文件，无需安装Node.js运行环境即可运行。它支持跨平台生成二进制文件，简化了应用的分发和部署。",
+    "analyzed_at": "2025-11-17T19:19:58.400978+00:00"
+  },
+  {
+    "repo_full_name": "withastro/astro",
+    "owner": "withastro",
+    "html_url": "https://github.com/withastro/astro",
+    "description": "The web framework for content-driven websites. ⭐️ Star to support our work!",
+    "topics": [
+      "astro",
+      "blog",
+      "browser",
+      "components",
+      "hybrid",
+      "islands",
+      "node",
+      "server",
+      "static",
+      "static-site-generator",
+      "universal"
+    ],
+    "starred_at": "2022-11-01T14:37:29Z",
+    "category": "Web应用",
+    "tags": [
+      "static-site-generator",
+      "components",
+      "hybrid",
+      "server",
+      "browser",
+      "node"
+    ],
+    "summary": "Astro是一个现代化的Web框架，专为内容驱动的网站设计。它支持静态站点生成、混合应用和组件化开发，可在Node.js服务器上运行，提供出色的浏览器性能。",
+    "analyzed_at": "2025-11-17T19:19:58.400978+00:00"
+  },
+  {
+    "repo_full_name": "wulkano/Kap",
+    "owner": "wulkano",
+    "html_url": "https://github.com/wulkano/Kap",
+    "description": "An open-source screen recorder built with web technology",
+    "topics": [
+      "aperture",
+      "app",
+      "capture",
+      "communication",
+      "electron",
+      "javascript",
+      "kap",
+      "mac",
+      "macos",
+      "nextjs",
+      "open-source",
+      "oss",
+      "productivity",
+      "record",
+      "screen-capture",
+      "screen-recorder"
+    ],
+    "starred_at": "2022-11-01T14:38:00Z",
+    "category": "桌面应用",
+    "tags": [
+      "屏幕录制",
+      "屏幕捕获",
+      "效率工具",
+      "macOS",
+      "开源",
+      "Electron"
+    ],
+    "summary": "Kap是一个基于web技术构建的开源屏幕录制工具，专为macOS设计。它使用Electron框架，提供简洁高效的屏幕捕获功能，帮助用户轻松录制屏幕内容。",
+    "analyzed_at": "2025-11-17T19:19:58.400978+00:00"
+  },
+  {
+    "repo_full_name": "lit/lit",
+    "owner": "lit",
+    "html_url": "https://github.com/lit/lit",
+    "description": "Lit is a simple library for building fast, lightweight web components.",
+    "topics": [
+      "html-templates",
+      "lit",
+      "lit-element",
+      "lit-html"
+    ],
+    "starred_at": "2022-11-01T14:40:43Z",
+    "category": "Web应用",
+    "tags": [
+      "html-templates",
+      "lit",
+      "lit-element",
+      "lit-html"
+    ],
+    "summary": "Lit是一个简单易用的库，用于构建快速、轻量级的Web组件。它提供了HTML模板和元素功能，帮助开发者高效创建可重用的Web组件。",
+    "analyzed_at": "2025-11-17T19:19:58.400978+00:00"
+  },
+  {
+    "repo_full_name": "futurepress/epub.js",
+    "owner": "futurepress",
+    "html_url": "https://github.com/futurepress/epub.js",
+    "description": "Enhanced eBooks in the browser.",
+    "topics": [
+      "epub"
+    ],
+    "starred_at": "2022-11-01T14:41:39Z",
+    "category": "Web应用",
+    "tags": [
+      "电子书",
+      "浏览器应用",
+      "电子阅读",
+      "Web出版",
+      "内容展示"
+    ],
+    "summary": "EPUB.js是一个开源的JavaScript库，用于在浏览器中展示和交互电子书。它支持EPUB格式的电子书，提供丰富的阅读体验和交互功能，使开发者能够轻松创建基于Web的电子阅读应用。",
+    "analyzed_at": "2025-11-17T19:19:58.400978+00:00"
+  },
+  {
+    "repo_full_name": "FelixKratz/SketchyBar",
+    "owner": "FelixKratz",
+    "html_url": "https://github.com/FelixKratz/SketchyBar",
+    "description": "A highly customizable macOS status bar replacement",
+    "topics": [
+      "bar",
+      "customization",
+      "darwin",
+      "macos",
+      "ricing",
+      "shell-scripts",
+      "sketchybar",
+      "status",
+      "statusbar",
+      "tiling-window-manager",
+      "ui",
+      "yabai"
+    ],
+    "starred_at": "2022-11-01T14:44:08Z",
+    "category": "桌面应用",
+    "tags": [
+      "statusbar",
+      "customization",
+      "macos",
+      "ui",
+      "bar"
+    ],
+    "summary": "SketchyBar是一个高度可定制的macOS状态栏替换工具，允许用户通过脚本和配置完全自定义系统状态栏的外观和功能，提升macOS系统的个性化体验。",
+    "analyzed_at": "2025-11-17T19:19:58.400978+00:00"
+  },
+  {
+    "repo_full_name": "pretty-clean/pretty-clean.github.io",
+    "owner": "pretty-clean",
+    "html_url": "https://github.com/pretty-clean/pretty-clean.github.io",
+    "description": null,
+    "topics": [],
+    "starred_at": "2022-11-01T14:47:20Z",
+    "category": "开发工具",
+    "tags": [
+      "代码格式化",
+      "代码美化",
+      "开发工具",
+      "GitHub Pages"
+    ],
+    "summary": "一个用于代码清洁和格式化的开发工具，通过GitHub Pages提供在线服务，帮助开发者美化代码结构。",
+    "analyzed_at": "2025-11-17T19:19:58.400978+00:00"
+  },
+  {
+    "repo_full_name": "sudoaugustin/vslook",
+    "owner": "sudoaugustin",
+    "html_url": "https://github.com/sudoaugustin/vslook",
+    "description": "Create custom VSCode themes",
+    "topics": [
+      "javascript",
+      "theme-customizer",
+      "vscode",
+      "vscode-extension",
+      "vscode-theme"
+    ],
+    "starred_at": "2022-11-01T14:51:24Z",
+    "category": "开发工具",
+    "tags": [
+      "javascript",
+      "vscode",
+      "theme-customizer",
+      "vscode-theme"
+    ],
+    "summary": "vslook是一个VSCode扩展，允许开发者创建和自定义VSCode编辑器主题，提供个性化的代码编辑体验。",
+    "analyzed_at": "2025-11-17T19:19:58.400978+00:00"
+  },
+  {
+    "repo_full_name": "Tencent/lemon-cleaner",
+    "owner": "Tencent",
+    "html_url": "https://github.com/Tencent/lemon-cleaner",
+    "description": "腾讯柠檬清理是针对macOS系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。",
+    "topics": [],
+    "starred_at": "2022-11-01T14:53:49Z",
+    "category": "效率工具",
+    "tags": [
+      "系统清理",
+      "磁盘管理",
+      "重复文件检测",
+      "隐私保护",
+      "一键清理"
+    ],
+    "summary": "腾讯柠檬清理是macOS专用清理工具，可识别重复文件和相似照片，提供软件定制化垃圾扫描，全盘空间分析，内存释放和浏览器隐私清理等功能，帮助用户一键式清理系统垃圾。",
+    "analyzed_at": "2025-11-17T19:19:58.400978+00:00"
+  },
+  {
+    "repo_full_name": "greycodee/wechat-backup",
+    "owner": "greycodee",
+    "html_url": "https://github.com/greycodee/wechat-backup",
+    "description": "微信聊天记录持久化备份本地硬盘，释放手机存储空间。",
+    "topics": [],
+    "starred_at": "2022-11-01T14:54:54Z",
+    "category": "效率工具",
+    "tags": [
+      "微信备份",
+      "数据管理",
+      "存储优化",
+      "聊天记录",
+      "手机工具"
+    ],
+    "summary": "微信聊天记录备份工具，可将聊天记录持久化保存到本地硬盘，有效释放手机存储空间，方便用户管理重要对话内容。",
+    "analyzed_at": "2025-11-17T19:19:58.400978+00:00"
+  },
+  {
+    "repo_full_name": "dip/cmdk",
+    "owner": "dip",
+    "html_url": "https://github.com/dip/cmdk",
+    "description": "Fast, unstyled command menu React component.",
+    "topics": [
+      "combobox",
+      "command-menu",
+      "command-palette",
+      "radix-ui",
+      "react"
+    ],
+    "starred_at": "2022-11-01T14:59:43Z",
+    "category": "开发工具",
+    "tags": [
+      "命令菜单",
+      "命令面板",
+      "组合框",
+      "React",
+      "Radix UI"
+    ],
+    "summary": "这是一个快速、无样式的命令菜单React组件，基于Radix UI构建。开发者可以轻松将其集成到应用中，提供类似VS Code的命令面板功能，提升用户体验。",
+    "analyzed_at": "2025-11-17T19:19:58.400978+00:00"
+  },
+  {
+    "repo_full_name": "turkyden/lizhi",
+    "owner": "turkyden",
+    "html_url": "https://github.com/turkyden/lizhi",
+    "description": "🎸 李志音乐播放器，跨平台支持 Web / Mac / Windows / Linux",
+    "topics": [
+      "lizhi",
+      "music",
+      "music-player",
+      "song"
+    ],
+    "starred_at": "2022-11-01T15:00:19Z",
+    "category": "桌面应用",
+    "tags": [
+      "音乐播放器",
+      "跨平台",
+      "李志",
+      "桌面应用"
+    ],
+    "summary": "李志音乐播放器，支持Web、Mac、Windows和Linux等多平台，专为李志音乐爱好者打造的音乐播放软件。",
+    "analyzed_at": "2025-11-17T19:19:58.400978+00:00"
+  },
+  {
+    "repo_full_name": "danielgatis/rembg",
+    "owner": "danielgatis",
+    "html_url": "https://github.com/danielgatis/rembg",
+    "description": "Rembg is a tool to remove images background",
+    "topics": [
+      "background-removal",
+      "image-processing",
+      "python"
+    ],
+    "starred_at": "2022-11-01T15:01:24Z",
+    "category": "开发工具",
+    "tags": [
+      "background-removal",
+      "image-processing",
+      "python",
+      "computer-vision",
+      "image-editing"
+    ],
+    "summary": "Rembg是一个基于Python的图像处理工具，能够自动移除图像背景，适用于各种图像编辑和计算机视觉应用。",
+    "analyzed_at": "2025-11-17T19:19:58.400978+00:00"
+  },
+  {
+    "repo_full_name": "upscayl/upscayl",
+    "owner": "upscayl",
+    "html_url": "https://github.com/upscayl/upscayl",
+    "description": "🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.",
+    "topics": [
+      "ai",
+      "electron",
+      "esrgan",
+      "gigapixel",
+      "gigapixel-images",
+      "image",
+      "image-upscaling",
+      "topaz",
+      "upscale",
+      "upscalerimage",
+      "upscayl"
+    ],
+    "starred_at": "2022-11-01T15:02:26Z",
+    "category": "AI/机器学习",
+    "tags": [
+      "ai",
+      "image-upscaling",
+      "image",
+      "upscale",
+      "esrgan"
+    ],
+    "summary": "Upscayl是一款免费开源的AI图像放大工具，支持Linux、MacOS和Windows系统。它使用AI技术（如ESRGAN）将低分辨率图像放大为高分辨率图像，类似于Topaz Gigapixel的功能，但完全免费开源。",
+    "analyzed_at": "2025-11-17T19:19:58.400978+00:00"
+  },
+  {
+    "repo_full_name": "NginxProxyManager/nginx-proxy-manager",
+    "owner": "NginxProxyManager",
+    "html_url": "https://github.com/NginxProxyManager/nginx-proxy-manager",
+    "description": "Docker container for managing Nginx proxy hosts with a simple, powerful interface",
+    "topics": [
+      "nginx",
+      "nginx-proxy"
+    ],
+    "starred_at": "2022-11-01T15:03:43Z",
+    "category": "开发工具",
+    "tags": [
+      "网络代理",
+      "服务器管理",
+      "Docker",
+      "Nginx",
+      "反向代理"
+    ],
+    "summary": "这是一个基于Docker的Nginx代理管理工具，提供简单而强大的界面来管理代理主机，简化服务器配置过程。",
+    "analyzed_at": "2025-11-17T19:19:58.400978+00:00"
+  },
+  {
+    "repo_full_name": "gethomepage/homepage",
+    "owner": "gethomepage",
+    "html_url": "https://github.com/gethomepage/homepage",
+    "description": "A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.",
+    "topics": [
+      "docker",
+      "homepage",
+      "nextjs",
+      "node",
+      "react",
+      "self-hosted",
+      "startpage"
+    ],
+    "starred_at": "2022-11-01T15:04:29Z",
+    "category": "Web应用",
+    "tags": [
+      "自托管",
+      "Docker",
+      "仪表板",
+      "起始页",
+      "Next.js"
+    ],
+    "summary": "Homepage是一个高度可定制的主页/起始页/应用程序仪表板，支持Docker和服务API集成，可作为个人或团队的应用中心，方便访问和管理各种在线服务。",
+    "analyzed_at": "2025-11-17T19:19:58.400978+00:00"
   }
 ]
