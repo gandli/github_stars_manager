@@ -38635,6 +38635,39 @@
     "analyzed_at": "2025-11-13T19:20:19.300491+00:00"
   },
   {
+    "repo_full_name": "rzashakeri/beautify-github-profile",
+    "owner": "rzashakeri",
+    "html_url": "https://github.com/rzashakeri/beautify-github-profile",
+    "description": "This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.  🪄 ⭐  ",
+    "topics": [
+      "awsome",
+      "awsome-profile",
+      "beautifygithubprofile",
+      "github",
+      "github-api",
+      "github-profile",
+      "github-profile-readme",
+      "githubprofile",
+      "markdown",
+      "profile",
+      "profile-readme",
+      "readme",
+      "readme-profile"
+    ],
+    "starred_at": "2022-05-17T05:05:48Z",
+    "category": "开发工具",
+    "tags": [
+      "GitHub",
+      "个人资料",
+      "美化",
+      "Markdown",
+      "教程",
+      "开发工具"
+    ],
+    "summary": "这是一个帮助开发者美化GitHub个人资料页面的开源项目，提供各种工具和教程，包括Markdown模板和设计元素，让你的GitHub资料更加吸引人。",
+    "analyzed_at": "2025-11-18T19:20:30.111235+00:00"
+  },
+  {
     "repo_full_name": "TencentCloud/tencentcloud-sdk-nodejs",
     "owner": "TencentCloud",
     "html_url": "https://github.com/TencentCloud/tencentcloud-sdk-nodejs",
@@ -44310,5 +44343,1207 @@
     ],
     "summary": "Homepage是一个高度可定制的主页/起始页/应用程序仪表板，支持Docker和服务API集成，可作为个人或团队的应用中心，方便访问和管理各种在线服务。",
     "analyzed_at": "2025-11-17T19:19:58.400978+00:00"
+  },
+  {
+    "repo_full_name": "tabdeck/tabdeck.so",
+    "owner": "tabdeck",
+    "html_url": "https://github.com/tabdeck/tabdeck.so",
+    "description": "This repo just to collect user feedback.",
+    "topics": [
+      "chrome-extension",
+      "tab-manager"
+    ],
+    "starred_at": "2022-11-02T04:58:31Z",
+    "category": "效率工具",
+    "tags": [
+      "chrome-extension",
+      "tab-manager",
+      "浏览器工具",
+      "效率工具",
+      "用户反馈"
+    ],
+    "summary": "TabDeck是一个Chrome浏览器扩展，专注于标签页管理，帮助用户更高效地组织浏览器标签。该仓库主要用于收集用户反馈以改进功能。",
+    "analyzed_at": "2025-11-18T19:20:30.111235+00:00"
+  },
+  {
+    "repo_full_name": "Buernia/Tiejili",
+    "owner": "Buernia",
+    "html_url": "https://github.com/Buernia/Tiejili",
+    "description": "铁蒺藜体，基于 Reggae One 的开源中文字体。An open-source font that extends Fontworks’ Reggae One to Chinese.",
+    "topics": [
+      "chinese",
+      "font",
+      "typeface"
+    ],
+    "starred_at": "2022-11-02T05:16:13Z",
+    "category": "设计工具",
+    "tags": [
+      "字体设计",
+      "中文字体",
+      "开源字体",
+      "字体扩展"
+    ],
+    "summary": "铁蒺藜体是基于 Reggae One 的开源中文字体项目，扩展了原字体的中文支持，为中文用户提供了一种独特的字体选择。",
+    "analyzed_at": "2025-11-18T19:20:30.111235+00:00"
+  },
+  {
+    "repo_full_name": "tw93/Weekly",
+    "owner": "tw93",
+    "html_url": "https://github.com/tw93/Weekly",
+    "description": "🩴 Trendy Weekly records my non-boring life. 潮流周刊记录我的不枯燥生活",
+    "topics": [
+      "github",
+      "ios",
+      "javascript",
+      "notes",
+      "tools",
+      "weekly"
+    ],
+    "starred_at": "2022-11-02T07:45:53Z",
+    "category": "效率工具",
+    "tags": [
+      "周刊",
+      "工具",
+      "笔记",
+      "iOS",
+      "JavaScript"
+    ],
+    "summary": "这是一个潮流周刊，记录作者的不枯燥生活，包含各种工具推荐、技术笔记和生活分享，帮助读者提高生活效率。",
+    "analyzed_at": "2025-11-18T19:20:30.111235+00:00"
+  },
+  {
+    "repo_full_name": "peazip/PeaZip",
+    "owner": "peazip",
+    "html_url": "https://github.com/peazip/PeaZip",
+    "description": "Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ2, CAB, CHM, CPIO, DEB, GZ, ISO, JAR, LHA/LZH, NSIS, OOo, PAQ/LPAQ, PEA, QUAD, RAR, RPM, split, TAR, Z, ZIP, ZIPX, Zstandard.",
+    "topics": [
+      "archiver",
+      "brotli",
+      "compression",
+      "encryption",
+      "extractor",
+      "paq",
+      "peazip",
+      "rar",
+      "zip",
+      "zstandard"
+    ],
+    "starred_at": "2022-11-02T08:13:10Z",
+    "category": "桌面应用",
+    "tags": [
+      "压缩工具",
+      "归档管理器",
+      "文件提取器",
+      "加密",
+      "跨平台"
+    ],
+    "summary": "PeaZip是一款免费的跨平台文件压缩与解压缩工具，支持多种压缩格式，具有加密功能，可创建和管理压缩文件，是实用的桌面效率工具。",
+    "analyzed_at": "2025-11-18T19:20:30.111235+00:00"
+  },
+  {
+    "repo_full_name": "vernesong/OpenClash",
+    "owner": "vernesong",
+    "html_url": "https://github.com/vernesong/OpenClash",
+    "description": "A Clash Client For OpenWrt",
+    "topics": [
+      "clash",
+      "luci",
+      "mihomo",
+      "openclash",
+      "openwrt",
+      "shadowsocks",
+      "snell",
+      "v2ray",
+      "vmess"
+    ],
+    "starred_at": "2022-11-02T13:58:44Z",
+    "category": "开发工具",
+    "tags": [],
+    "summary": "ZHIPU 调用异常: Error code: 400 - {'contentFilter': [{'level': 1, 'role': 'assistant'}], 'error': {'code': '1301', 'message': '系统检测到输入或生成内容可能包含不安全或敏感内容，请您避免输入易产生敏感内容的提示语，感谢您的配合。'}}",
+    "analyzed_at": "2025-11-18T19:20:30.111235+00:00"
+  },
+  {
+    "repo_full_name": "xiaorouji/openwrt-passwall",
+    "owner": "xiaorouji",
+    "html_url": "https://github.com/xiaorouji/openwrt-passwall",
+    "description": null,
+    "topics": [],
+    "starred_at": "2022-11-02T13:58:46Z",
+    "category": "开发工具",
+    "tags": [
+      "网络代理",
+      "OpenWrt",
+      "网络工具",
+      "隧道",
+      "防火墙"
+    ],
+    "summary": "OpenWrt系统的网络代理工具，提供多种代理协议支持和网络隧道功能。",
+    "analyzed_at": "2025-11-18T19:20:30.111235+00:00"
+  },
+  {
+    "repo_full_name": "kenzok8/openwrt-packages",
+    "owner": "kenzok8",
+    "html_url": "https://github.com/kenzok8/openwrt-packages",
+    "description": "openwrt常用软件包",
+    "topics": [
+      "alist",
+      "ddnsto",
+      "homeproxy",
+      "luci-app-adguardhome",
+      "luci-app-aliddns",
+      "luci-app-eqos",
+      "luci-app-gost",
+      "luci-app-homeproxy",
+      "luci-app-mihomo",
+      "luci-app-mosdns",
+      "luci-app-openclash",
+      "luci-app-passwall",
+      "luci-app-smartdns",
+      "luci-app-ssr-plus",
+      "luci-app-store",
+      "luci-theme-argon",
+      "luci-theme-atmaterial",
+      "mihomo",
+      "mosdns",
+      "passwall"
+    ],
+    "starred_at": "2022-11-02T13:59:04Z",
+    "category": "开发工具",
+    "tags": [
+      "OpenWrt",
+      "网络工具",
+      "代理工具",
+      "路由器",
+      "系统工具",
+      "主题"
+    ],
+    "summary": "OpenWrt常用软件包集合，包含网络代理、DNS、主题等多种工具，适用于路由器等网络设备的系统扩展。",
+    "analyzed_at": "2025-11-18T19:20:30.111235+00:00"
+  },
+  {
+    "repo_full_name": "fw876/helloworld",
+    "owner": "fw876",
+    "html_url": "https://github.com/fw876/helloworld",
+    "description": null,
+    "topics": [],
+    "starred_at": "2022-11-02T14:01:07Z",
+    "category": "开发工具",
+    "tags": [
+      "示例",
+      "入门",
+      "测试",
+      "基础"
+    ],
+    "summary": "一个简单的Hello World示例项目，适合编程入门或测试开发环境。",
+    "analyzed_at": "2025-11-18T19:20:30.111235+00:00"
+  },
+  {
+    "repo_full_name": "openwrt/luci",
+    "owner": "openwrt",
+    "html_url": "https://github.com/openwrt/luci",
+    "description": "LuCI - OpenWrt Configuration Interface",
+    "topics": [],
+    "starred_at": "2022-11-02T16:02:03Z",
+    "category": "Web应用",
+    "tags": [
+      "路由器配置",
+      "Web界面",
+      "网络管理",
+      "OpenWrt",
+      "嵌入式系统"
+    ],
+    "summary": "LuCI是OpenWrt路由器系统的Web配置界面，提供直观的图形化管理工具，使用户能够轻松配置网络设置、系统参数和各种服务。",
+    "analyzed_at": "2025-11-18T19:20:30.111235+00:00"
+  },
+  {
+    "repo_full_name": "openwrt/openwrt",
+    "owner": "openwrt",
+    "html_url": "https://github.com/openwrt/openwrt",
+    "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+    "topics": [],
+    "starred_at": "2022-11-02T16:04:33Z",
+    "category": "开发工具",
+    "tags": [
+      "路由器固件",
+      "网络设备",
+      "嵌入式系统",
+      "Linux发行版",
+      "网络工具"
+    ],
+    "summary": "OpenWrt是一个开源的嵌入式Linux操作系统，专为路由器和其他网络设备设计，提供高度可定制的固件解决方案，支持各种网络硬件平台。",
+    "analyzed_at": "2025-11-18T19:20:30.111235+00:00"
+  },
+  {
+    "repo_full_name": "vChewing/vChewing-macOS",
+    "owner": "vChewing",
+    "html_url": "https://github.com/vChewing/vChewing-macOS",
+    "description": "威注音輸入法 macOS 版，恐怕是截至目前為止在功能多樣性方面最強的第三方免費 macOS 系統專用輸入法，採純 Swift 語言寫就。威注音的著力點是盡可能在力所能及的範圍內將整個產品的功能做得更好用，搭配特製的簡體中文與繁體中文專用辭庫。是純粹的簡體中文注音輸入法（也內贈原生繁體中文輸入模式），更具諸多威注音特色功能。目前研發管理工作均在 CSDN GitCode 進行。",
+    "topics": [
+      "ime",
+      "macos"
+    ],
+    "starred_at": "2022-11-21T12:54:03Z",
+    "category": "桌面应用",
+    "tags": [
+      "输入法",
+      "中文输入",
+      "macOS",
+      "注音",
+      "Swift",
+      "免费软件"
+    ],
+    "summary": "威注音macOS版是一款功能强大的免费第三方输入法，采用纯Swift开发，支持简繁体中文注音输入，拥有多样特色功能，专为macOS系统优化。",
+    "analyzed_at": "2025-11-18T19:20:30.111235+00:00"
+  },
+  {
+    "repo_full_name": "krzysztofzablocki/Inject",
+    "owner": "krzysztofzablocki",
+    "html_url": "https://github.com/krzysztofzablocki/Inject",
+    "description": "Hot Reloading for Swift applications! ",
+    "topics": [
+      "hot-reload",
+      "ios",
+      "swift",
+      "swiftui"
+    ],
+    "starred_at": "2022-11-21T12:55:08Z",
+    "category": "开发工具",
+    "tags": [
+      "热重载",
+      "iOS开发",
+      "Swift编程",
+      "SwiftUI框架"
+    ],
+    "summary": "Inject是一个为Swift应用程序提供热重载功能的开发工具，支持iOS平台和SwiftUI框架。开发者无需重新编译即可实时查看代码更改效果，显著提升iOS应用开发效率。",
+    "analyzed_at": "2025-11-18T19:20:30.111235+00:00"
+  },
+  {
+    "repo_full_name": "markmead/hyperui",
+    "owner": "markmead",
+    "html_url": "https://github.com/markmead/hyperui",
+    "description": "Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀",
+    "topics": [
+      "accessibility",
+      "components",
+      "css",
+      "design-system",
+      "frontend",
+      "html",
+      "tailwind",
+      "tailwindcss",
+      "tailwindui",
+      "templates",
+      "ui"
+    ],
+    "starred_at": "2022-11-21T12:56:01Z",
+    "category": "Web应用",
+    "tags": [
+      "组件",
+      "CSS",
+      "前端",
+      "Tailwind CSS",
+      "UI设计",
+      "模板"
+    ],
+    "summary": "HyperUI是一个免费的Tailwind CSS v4组件库，为Web开发项目提供最新的UI组件和样式，帮助开发者快速构建现代化的用户界面，支持无障碍访问和设计系统。",
+    "analyzed_at": "2025-11-18T19:20:30.111235+00:00"
+  },
+  {
+    "repo_full_name": "hluk/CopyQ",
+    "owner": "hluk",
+    "html_url": "https://github.com/hluk/CopyQ",
+    "description": "Clipboard manager with advanced features",
+    "topics": [
+      "clipboard",
+      "clipboard-manager",
+      "copyq",
+      "cross-platform",
+      "scripting",
+      "tray"
+    ],
+    "starred_at": "2022-11-22T00:50:33Z",
+    "category": "效率工具",
+    "tags": [
+      "剪贴板管理",
+      "跨平台",
+      "脚本支持",
+      "托盘工具"
+    ],
+    "summary": "CopyQ是一款功能强大的剪贴板管理工具，支持跨平台使用。它不仅能管理剪贴板历史记录，还提供脚本支持和托盘功能，帮助用户更高效地处理复制粘贴操作。",
+    "analyzed_at": "2025-11-18T19:20:30.111235+00:00"
+  },
+  {
+    "repo_full_name": "yuk7/ArchWSL",
+    "owner": "yuk7",
+    "html_url": "https://github.com/yuk7/ArchWSL",
+    "description": "ArchLinux based WSL Distribution. Supports multiple install.",
+    "topics": [
+      "archlinux",
+      "uwp-apps",
+      "windows-10",
+      "windows-subsystem-linux",
+      "windows-terminal",
+      "wsl",
+      "wsldl"
+    ],
+    "starred_at": "2022-11-22T11:57:37Z",
+    "category": "开发工具",
+    "tags": [
+      "wsl",
+      "windows-subsystem-linux",
+      "archlinux",
+      "windows-terminal",
+      "uwp-apps"
+    ],
+    "summary": "ArchWSL是一个基于Arch Linux的WSL发行版，支持多种安装方式，为Windows用户提供完整的Linux环境，便于开发者在Windows系统上使用Linux工具和命令。",
+    "analyzed_at": "2025-11-18T19:20:30.111235+00:00"
+  },
+  {
+    "repo_full_name": "atuinsh/atuin",
+    "owner": "atuinsh",
+    "html_url": "https://github.com/atuinsh/atuin",
+    "description": "✨ Magical shell history",
+    "topics": [
+      "bash",
+      "fish",
+      "history",
+      "rust",
+      "shell",
+      "zsh"
+    ],
+    "starred_at": "2022-11-23T01:11:02Z",
+    "category": "开发工具",
+    "tags": [
+      "shell",
+      "history",
+      "bash",
+      "zsh",
+      "rust"
+    ],
+    "summary": "这是一个增强shell历史记录的神奇工具，支持多种shell(bash, zsh, fish)，使用Rust开发，提供更强大的命令历史搜索和管理功能。",
+    "analyzed_at": "2025-11-18T19:20:30.111235+00:00"
+  },
+  {
+    "repo_full_name": "dail8859/NotepadNext",
+    "owner": "dail8859",
+    "html_url": "https://github.com/dail8859/NotepadNext",
+    "description": "A cross-platform, reimplementation of Notepad++",
+    "topics": [
+      "desktop",
+      "editor",
+      "linux",
+      "macos",
+      "notepad",
+      "notepad-plus-plus",
+      "qt",
+      "qt6"
+    ],
+    "starred_at": "2022-11-23T01:25:48Z",
+    "category": "桌面应用",
+    "tags": [
+      "文本编辑器",
+      "跨平台",
+      "Qt",
+      "Notepad++",
+      "开发工具"
+    ],
+    "summary": "NotepadNext是一款跨平台桌面文本编辑器，是Notepad++的重新实现版本。基于Qt6框架开发，支持Linux、macOS等操作系统，为开发者提供轻量级但功能丰富的代码编辑体验。",
+    "analyzed_at": "2025-11-18T19:20:30.111235+00:00"
+  },
+  {
+    "repo_full_name": "timc1/kbar",
+    "owner": "timc1",
+    "html_url": "https://github.com/timc1/kbar",
+    "description": "fast, portable, and extensible cmd+k interface for your site",
+    "topics": [
+      "command-palette",
+      "hooks",
+      "javascript",
+      "react",
+      "shortcuts",
+      "typescript"
+    ],
+    "starred_at": "2022-11-23T01:26:38Z",
+    "category": "开发工具",
+    "tags": [
+      "命令面板",
+      "快捷键",
+      "React组件",
+      "JavaScript库",
+      "TypeScript"
+    ],
+    "summary": "kbar是一个快速、可移植且可扩展的网站命令面板(cmd+k界面)工具，支持React和TypeScript，帮助开发者轻松为网站添加类似IDE的快捷命令功能。",
+    "analyzed_at": "2025-11-18T19:20:30.111235+00:00"
+  },
+  {
+    "repo_full_name": "TheTumultuousUnicornOfDarkness/CPU-X",
+    "owner": "TheTumultuousUnicornOfDarkness",
+    "html_url": "https://github.com/TheTumultuousUnicornOfDarkness/CPU-X",
+    "description": "CPU-X is a Free software that gathers information on CPU, motherboard and more",
+    "topics": [
+      "benchmark",
+      "bsd-app",
+      "cpu",
+      "gpu",
+      "gtk3",
+      "linux-app",
+      "motherboard",
+      "ncurses",
+      "portable",
+      "ram"
+    ],
+    "starred_at": "2022-11-23T01:28:51Z",
+    "category": "开发工具",
+    "tags": [
+      "系统监控",
+      "硬件信息",
+      "跨平台",
+      "开发工具",
+      "性能分析"
+    ],
+    "summary": "CPU-X是一款免费软件，用于收集CPU、主板、GPU和RAM等硬件信息。它支持Linux系统，提供GTK3和ncurses两种界面，是开发者和系统管理员了解系统硬件配置的实用工具。",
+    "analyzed_at": "2025-11-18T19:20:30.111235+00:00"
+  },
+  {
+    "repo_full_name": "atelier-anchor/smiley-sans",
+    "owner": "atelier-anchor",
+    "html_url": "https://github.com/atelier-anchor/smiley-sans",
+    "description": "得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体",
+    "topics": [
+      "cjk",
+      "cjk-font",
+      "font",
+      "typeface"
+    ],
+    "starred_at": "2022-11-23T01:37:52Z",
+    "category": "设计工具",
+    "tags": [
+      "字体设计",
+      "中文排版",
+      "黑体",
+      "开源字体",
+      "CJK字体"
+    ],
+    "summary": "得意黑Smiley Sans是一款开源的中文黑体字体，在人文观感和几何特征间寻求平衡，适合中文排版设计。",
+    "analyzed_at": "2025-11-18T19:20:30.111235+00:00"
+  },
+  {
+    "repo_full_name": "air-controller/air-controller-desktop",
+    "owner": "air-controller",
+    "html_url": "https://github.com/air-controller/air-controller-desktop",
+    "description": "A new handy and powerful Android phone assistant， powered by Flutter.",
+    "topics": [
+      "android",
+      "assistant",
+      "cross-platform",
+      "dart",
+      "desktop",
+      "flutter",
+      "ios",
+      "macos",
+      "ubuntu",
+      "windows"
+    ],
+    "starred_at": "2022-11-30T14:24:34Z",
+    "category": "桌面应用",
+    "tags": [
+      "android",
+      "assistant",
+      "cross-platform",
+      "flutter",
+      "desktop"
+    ],
+    "summary": "一款基于Flutter开发的跨平台桌面应用，可作为Android手机的强大助手，提供便捷的手机管理功能。",
+    "analyzed_at": "2025-11-18T19:20:30.111235+00:00"
+  },
+  {
+    "repo_full_name": "SpriteOvO/AirPodsDesktop",
+    "owner": "SpriteOvO",
+    "html_url": "https://github.com/SpriteOvO/AirPodsDesktop",
+    "description": "☄️ AirPods desktop user experience enhancement program, for Windows and Linux (WIP)",
+    "topics": [
+      "airpods",
+      "battery",
+      "bluetooth",
+      "desktop",
+      "helper",
+      "media-control",
+      "monitor",
+      "power",
+      "tool",
+      "windows"
+    ],
+    "starred_at": "2022-11-30T14:54:15Z",
+    "category": "桌面应用",
+    "tags": [
+      "airpods",
+      "bluetooth",
+      "desktop",
+      "media-control",
+      "tool"
+    ],
+    "summary": "AirPodsDesktop是一款桌面增强工具，专为Windows和Linux系统设计，用于提升AirPods在桌面环境中的使用体验，包括电池监控、媒体控制等功能。",
+    "analyzed_at": "2025-11-18T19:20:30.111235+00:00"
+  },
+  {
+    "repo_full_name": "wangrongding/wechat-bot",
+    "owner": "wangrongding",
+    "html_url": "https://github.com/wangrongding/wechat-bot",
+    "description": "🤖一个基于 WeChaty 结合 DeepSeek / ChatGPT / Kimi / 讯飞等Ai服务实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...",
+    "topics": [
+      "chatgpt",
+      "openai",
+      "wechat",
+      "wechatbot",
+      "wechaty"
+    ],
+    "starred_at": "2022-12-08T09:53:37Z",
+    "category": "开发工具",
+    "tags": [
+      "微信机器人",
+      "AI助手",
+      "自动回复",
+      "群管理",
+      "僵尸粉检测"
+    ],
+    "summary": "基于WeChaty框架开发的微信机器人，集成DeepSeek、ChatGPT等多种AI服务，可实现自动回复消息、管理微信群/好友、检测僵尸粉等功能，提升微信使用效率。",
+    "analyzed_at": "2025-11-18T19:20:30.111235+00:00"
+  },
+  {
+    "repo_full_name": "eason-dev/awesome-chatgpt",
+    "owner": "eason-dev",
+    "html_url": "https://github.com/eason-dev/awesome-chatgpt",
+    "description": "Curated list of ChatGPT related resource, tools, prompts, apps / ChatGPT 相關優質資源、工具、應用的精選清單。",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "chatgpt",
+      "chinese",
+      "gpt",
+      "gpt-3",
+      "openai"
+    ],
+    "starred_at": "2022-12-10T01:15:05Z",
+    "category": "AI/机器学习",
+    "tags": [
+      "资源列表",
+      "ChatGPT",
+      "中文",
+      "GPT",
+      "OpenAI"
+    ],
+    "summary": "这是一个ChatGPT相关资源、工具和应用的精选列表，包含各种优质资源、提示词和应用，主要面向中文用户，帮助开发者更好地利用ChatGPT技术。",
+    "analyzed_at": "2025-11-18T19:20:30.111235+00:00"
+  },
+  {
+    "repo_full_name": "fuergaosi233/wechat-chatgpt",
+    "owner": "fuergaosi233",
+    "html_url": "https://github.com/fuergaosi233/wechat-chatgpt",
+    "description": "Use ChatGPT On Wechat via wechaty",
+    "topics": [],
+    "starred_at": "2022-12-10T01:16:41Z",
+    "category": "AI/机器学习",
+    "tags": [
+      "微信集成",
+      "ChatGPT",
+      "AI助手",
+      "聊天机器人",
+      "wechaty"
+    ],
+    "summary": "这是一个通过wechaty库实现在微信上使用ChatGPT的项目，让用户可以在微信中直接与AI助手对话。",
+    "analyzed_at": "2025-11-18T19:20:30.111235+00:00"
+  },
+  {
+    "repo_full_name": "thebaselab/codeapp",
+    "owner": "thebaselab",
+    "html_url": "https://github.com/thebaselab/codeapp",
+    "description": "Building a full-fledged code editor for iPad",
+    "topics": [
+      "ios",
+      "monaco-editor",
+      "swiftui"
+    ],
+    "starred_at": "2022-12-12T05:16:48Z",
+    "category": "移动应用",
+    "tags": [
+      "iPad开发",
+      "代码编辑器",
+      "SwiftUI",
+      "Monaco编辑器"
+    ],
+    "summary": "这是一个为iPad设计的全功能代码编辑器应用，使用SwiftUI构建并集成了Monaco编辑器，为iPad开发者提供完整的代码编写环境。",
+    "analyzed_at": "2025-11-18T19:20:30.111235+00:00"
+  },
+  {
+    "repo_full_name": "tw93/Pake",
+    "owner": "tw93",
+    "html_url": "https://github.com/tw93/Pake",
+    "description": "🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用",
+    "topics": [
+      "chatgpt",
+      "claude",
+      "desktop",
+      "gemini",
+      "hight-performance",
+      "linux",
+      "macos",
+      "no-electron",
+      "package",
+      "rust",
+      "tauri",
+      "windows",
+      "youtube"
+    ],
+    "starred_at": "2022-12-12T05:16:51Z",
+    "category": "桌面应用",
+    "tags": [
+      "desktop",
+      "package",
+      "rust",
+      "tauri",
+      "no-electron"
+    ],
+    "summary": "Pake是一个将任何网页一键打包成轻量级桌面应用的工具，使用Rust和Tauri构建，支持多平台，不依赖Electron，性能优异。",
+    "analyzed_at": "2025-11-18T19:20:30.111235+00:00"
+  },
+  {
+    "repo_full_name": "oleeskild/obsidian-digital-garden",
+    "owner": "oleeskild",
+    "html_url": "https://github.com/oleeskild/obsidian-digital-garden",
+    "description": null,
+    "topics": [],
+    "starred_at": "2022-12-15T09:41:20Z",
+    "category": "效率工具",
+    "tags": [
+      "知识管理",
+      "笔记应用",
+      "数字花园",
+      "Obsidian插件",
+      "思维导图"
+    ],
+    "summary": "Obsidian数字花园插件，帮助用户构建和管理个人知识网络，将笔记转化为互联的数字花园，促进知识生长与连接。",
+    "analyzed_at": "2025-11-18T19:20:30.111235+00:00"
+  },
+  {
+    "repo_full_name": "Planshit/Tai",
+    "owner": "Planshit",
+    "html_url": "https://github.com/Planshit/Tai",
+    "description": "👻 在Windows上统计软件使用时长和网站浏览时长",
+    "topics": [
+      "csharp",
+      "tai",
+      "wpf"
+    ],
+    "starred_at": "2023-01-03T12:29:15Z",
+    "category": "桌面应用",
+    "tags": [
+      "Windows",
+      "时间统计",
+      "使用分析",
+      "C#",
+      "WPF"
+    ],
+    "summary": "Tai是一个Windows桌面应用，使用C#和WPF开发，用于统计用户软件使用时长和网站浏览时长，帮助用户了解自己的电脑使用习惯。",
+    "analyzed_at": "2025-11-18T19:20:30.111235+00:00"
+  },
+  {
+    "repo_full_name": "lovefc/china_school_badge",
+    "owner": "lovefc",
+    "html_url": "https://github.com/lovefc/china_school_badge",
+    "description": "全国高校校徽字体图标库",
+    "topics": [
+      "badge",
+      "font-icon",
+      "school",
+      "school-badge",
+      "school-project"
+    ],
+    "starred_at": "2023-01-03T12:29:32Z",
+    "category": "设计工具",
+    "tags": [
+      "校徽图标",
+      "字体图标",
+      "高校资源",
+      "设计素材",
+      "教育资源"
+    ],
+    "summary": "这是一个收集中国各高校校徽的字体图标库，为设计师和教育工作者提供便捷的校徽资源，可用于教育网站、学校宣传材料等场景的设计工作。",
+    "analyzed_at": "2025-11-18T19:20:30.111235+00:00"
+  },
+  {
+    "repo_full_name": "maaslalani/nap",
+    "owner": "maaslalani",
+    "html_url": "https://github.com/maaslalani/nap",
+    "description": "Code snippets in your terminal",
+    "topics": [],
+    "starred_at": "2023-01-03T12:29:39Z",
+    "category": "开发工具",
+    "tags": [
+      "终端工具",
+      "代码片段",
+      "开发效率",
+      "命令行工具",
+      "快速引用"
+    ],
+    "summary": "nap是一个终端内的代码片段管理工具，帮助开发者快速存储和检索常用代码片段，提高编程效率。通过简单的命令即可访问和管理个人代码库，无需离开终端环境。",
+    "analyzed_at": "2025-11-18T19:20:30.111235+00:00"
+  },
+  {
+    "repo_full_name": "AveYo/MediaCreationTool.bat",
+    "owner": "AveYo",
+    "html_url": "https://github.com/AveYo/MediaCreationTool.bat",
+    "description": "Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!",
+    "topics": [
+      "iso",
+      "tpm-bypass",
+      "windows",
+      "windows10",
+      "windows11"
+    ],
+    "starred_at": "2023-01-04T11:09:01Z",
+    "category": "开发工具",
+    "tags": [
+      "Windows工具",
+      "批处理脚本",
+      "ISO创建",
+      "系统工具",
+      "TPM绕过",
+      "媒体创建"
+    ],
+    "summary": "这是一个Windows 10/11的通用媒体创建工具包装脚本，支持所有版本，可创建ISO镜像并绕过TPM要求，简化系统安装介质制作过程。",
+    "analyzed_at": "2025-11-18T19:20:30.111235+00:00"
+  },
+  {
+    "repo_full_name": "Gerrnperl/outline-map",
+    "owner": "Gerrnperl",
+    "html_url": "https://github.com/Gerrnperl/outline-map",
+    "description": "A visual, interactive outline map that combines the clarity of the outline with the intuitive overview of the minimap. Alternative Minimap.",
+    "topics": [
+      "extension",
+      "outline",
+      "tool",
+      "vscode",
+      "vscode-extension"
+    ],
+    "starred_at": "2023-01-04T11:35:50Z",
+    "category": "开发工具",
+    "tags": [
+      "extension",
+      "vscode",
+      "outline",
+      "tool",
+      "minimap"
+    ],
+    "summary": "一个VS Code扩展，提供可视化的交互式轮廓地图，结合了轮廓清晰性和小地图直观性，作为小地图的替代方案。",
+    "analyzed_at": "2025-11-18T19:20:30.111235+00:00"
+  },
+  {
+    "repo_full_name": "moegi-design/vscode-theme",
+    "owner": "moegi-design",
+    "html_url": "https://github.com/moegi-design/vscode-theme",
+    "description": "🌸 An elegant theme for VS Code.",
+    "topics": [
+      "theme",
+      "vscode",
+      "vscode-extension",
+      "vscode-theme"
+    ],
+    "starred_at": "2023-01-04T11:48:22Z",
+    "category": "开发工具",
+    "tags": [
+      "主题",
+      "VS Code",
+      "开发工具",
+      "界面美化"
+    ],
+    "summary": "这是一个优雅的VS Code代码编辑器主题，提供美观的界面和舒适的编码体验。",
+    "analyzed_at": "2025-11-18T19:20:30.111235+00:00"
+  },
+  {
+    "repo_full_name": "AZeC4/TelegramGroup",
+    "owner": "AZeC4",
+    "html_url": "https://github.com/AZeC4/TelegramGroup",
+    "description": "2025最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】",
+    "topics": [
+      "telegram",
+      "telegram-api",
+      "telegram-bot",
+      "telegram-bot-api",
+      "telegram-bots",
+      "telegram-channel",
+      "telegramgroups"
+    ],
+    "starred_at": "2023-01-06T04:30:43Z",
+    "category": "社交网络",
+    "tags": [
+      "telegram",
+      "telegram-bot",
+      "telegram-groups",
+      "社交工具",
+      "资源合集"
+    ],
+    "summary": "这是一个2025年最新收集的Telegram群组资源库，包含10000+个群组和有趣的机器人，为Telegram用户提供丰富的社交资源。",
+    "analyzed_at": "2025-11-18T19:20:30.111235+00:00"
+  },
+  {
+    "repo_full_name": "AlistGo/alist",
+    "owner": "AlistGo",
+    "html_url": "https://github.com/AlistGo/alist",
+    "description": "🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。",
+    "topics": [
+      "file-server",
+      "gin",
+      "golang",
+      "onedrive",
+      "solidjs",
+      "webdav"
+    ],
+    "starred_at": "2023-01-11T15:08:12Z",
+    "category": "Web应用",
+    "tags": [
+      "文件服务器",
+      "WebDAV",
+      "多存储支持",
+      "Go语言",
+      "前端框架"
+    ],
+    "summary": "Alist是一个支持多存储的文件列表/WebDAV程序，使用Go语言(Gin框架)和Solidjs构建。它可以作为文件服务器使用，支持多种云存储服务，提供Web界面和WebDAV访问方式。",
+    "analyzed_at": "2025-11-18T19:20:30.111235+00:00"
+  },
+  {
+    "repo_full_name": "cheeriojs/cheerio",
+    "owner": "cheeriojs",
+    "html_url": "https://github.com/cheeriojs/cheerio",
+    "description": "The fast, flexible, and elegant library for parsing and manipulating HTML and XML.",
+    "topics": [
+      "cheerio",
+      "dom",
+      "hacktoberfest",
+      "html",
+      "htmlparser",
+      "htmlparser2",
+      "jquery",
+      "parser",
+      "scraper",
+      "selector"
+    ],
+    "starred_at": "2023-01-23T12:57:39Z",
+    "category": "开发工具",
+    "tags": [
+      "HTML解析",
+      "DOM操作",
+      "网页抓取",
+      "jQuery风格",
+      "XML处理"
+    ],
+    "summary": "Cheerio是一个快速、灵活且优雅的HTML和XML解析库，提供了类似jQuery的API，使开发者能够轻松地解析、操作和提取网页数据。它适用于服务器端网页抓取和数据提取任务。",
+    "analyzed_at": "2025-11-18T19:20:30.111235+00:00"
+  },
+  {
+    "repo_full_name": "winpax/sfsu",
+    "owner": "winpax",
+    "html_url": "https://github.com/winpax/sfsu",
+    "description": "(WIP) A modern, and very very fast, implementation of Scoop",
+    "topics": [
+      "rust",
+      "scoop"
+    ],
+    "starred_at": "2023-01-27T01:49:00Z",
+    "category": "开发工具",
+    "tags": [
+      "rust",
+      "scoop",
+      "包管理器",
+      "Windows",
+      "软件安装"
+    ],
+    "summary": "sfsu是一个使用Rust语言开发的现代化Windows包管理器，作为Scoop的快速实现。该项目仍在开发中，旨在提供比原版Scoop更快的软件包安装和管理体验。",
+    "analyzed_at": "2025-11-18T19:20:30.111235+00:00"
+  },
+  {
+    "repo_full_name": "juanfont/headscale",
+    "owner": "juanfont",
+    "html_url": "https://github.com/juanfont/headscale",
+    "description": "An open source, self-hosted implementation of the Tailscale control server",
+    "topics": [
+      "tailscale",
+      "tailscale-control-server",
+      "tailscale-server",
+      "wireguard"
+    ],
+    "starred_at": "2023-01-27T08:38:34Z",
+    "category": "开发工具",
+    "tags": [
+      "网络工具",
+      "VPN",
+      "WireGuard",
+      "自托管",
+      "网络安全"
+    ],
+    "summary": "Headscale是Tailscale控制服务器的开源自托管实现，基于WireGuard技术，提供简单安全的网络连接解决方案，适用于需要私有VPN服务的开发者和企业。",
+    "analyzed_at": "2025-11-18T19:20:30.111235+00:00"
+  },
+  {
+    "repo_full_name": "Baiyuetribe/paper2gui",
+    "owner": "Baiyuetribe",
+    "html_url": "https://github.com/Baiyuetribe/paper2gui",
+    "description": "Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术",
+    "topics": [
+      "animegan2",
+      "codeformer-gui",
+      "dain",
+      "dain-gui",
+      "gfpgan",
+      "huoshan-tts",
+      "microsoft-tts",
+      "ncnn",
+      "ncnn-model",
+      "noveria",
+      "realcugan-gui",
+      "realcugan-pro",
+      "realesrganv2-gu",
+      "rife-gui",
+      "stable-diffusion",
+      "waifu2x-gui"
+    ],
+    "starred_at": "2023-01-31T04:31:49Z",
+    "category": "AI/机器学习",
+    "tags": [
+      "AI工具",
+      "图像处理",
+      "GUI界面",
+      "机器学习",
+      "研究工具"
+    ],
+    "summary": "paper2gui是一个将AI研究论文转化为图形界面的工具，让普通用户也能轻松使用前沿AI技术。它集成了图像处理、语音合成等多种AI模型，降低了AI技术的使用门槛。",
+    "analyzed_at": "2025-11-18T19:20:30.111235+00:00"
+  },
+  {
+    "repo_full_name": "Sanster/IOPaint",
+    "owner": "Sanster",
+    "html_url": "https://github.com/Sanster/IOPaint",
+    "description": "Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.",
+    "topics": [
+      "inpainting",
+      "lama",
+      "latent-diffusion",
+      "mat",
+      "pytorch",
+      "stable-diffusion",
+      "zits"
+    ],
+    "starred_at": "2023-01-31T04:33:00Z",
+    "category": "AI/机器学习",
+    "tags": [
+      "图像修复",
+      "AI绘画",
+      "深度学习",
+      "图像处理"
+    ],
+    "summary": "这是一个基于最先进AI模型的图像修复工具，可以移除图片中的不需要对象或替换内容，支持stable diffusion技术。",
+    "analyzed_at": "2025-11-18T19:20:30.111235+00:00"
+  },
+  {
+    "repo_full_name": "BerriAI/clerkie-cli",
+    "owner": "BerriAI",
+    "html_url": "https://github.com/BerriAI/clerkie-cli",
+    "description": "Clerkie-cli is a terminal tool that uses an LLM to help debug and troubleshoot coding errors in any programming language. It offers explanations, suggested fixes, guidance, alternative approaches, and code examples. It is useful for developers of all skill levels.",
+    "topics": [],
+    "starred_at": "2023-01-31T08:27:17Z",
+    "category": "开发工具",
+    "tags": [
+      "终端工具",
+      "LLM",
+      "调试",
+      "代码修复",
+      "开发辅助"
+    ],
+    "summary": "Clerkie-cli是一个基于大语言模型的终端调试工具，可帮助开发者诊断和解决各种编程语言中的错误。它提供问题解释、修复建议、指导方案和代码示例，适用于各技能水平的开发者。",
+    "analyzed_at": "2025-11-18T19:20:30.111235+00:00"
+  },
+  {
+    "repo_full_name": "topjohnwu/Magisk",
+    "owner": "topjohnwu",
+    "html_url": "https://github.com/topjohnwu/Magisk",
+    "description": "The Magic Mask for Android",
+    "topics": [],
+    "starred_at": "2023-01-31T10:09:03Z",
+    "category": "开发工具",
+    "tags": [
+      "Android",
+      "Root",
+      "系统修改",
+      "模块化",
+      "开发工具"
+    ],
+    "summary": "Magisk是一款Android系统级修改工具，通过'Magic Mask'技术实现无需修改系统分区的root权限获取和模块安装，是Android开发者和高级用户的必备工具。",
+    "analyzed_at": "2025-11-18T19:20:30.111235+00:00"
+  },
+  {
+    "repo_full_name": "apitable/apitable",
+    "owner": "apitable",
+    "html_url": "https://github.com/apitable/apitable",
+    "description": "🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. ",
+    "topics": [
+      "admin-dashboard",
+      "airtable",
+      "airtable-alternative",
+      "api",
+      "automatic-api",
+      "embed",
+      "hacktoberfest",
+      "internal-tool",
+      "javascript",
+      "low-code",
+      "nestjs",
+      "nextjs",
+      "no-code",
+      "nocodb",
+      "notion",
+      "react",
+      "spreadsheet",
+      "spring",
+      "typescript"
+    ],
+    "starred_at": "2023-01-31T14:13:05Z",
+    "category": "Web应用",
+    "tags": [
+      "低代码",
+      "电子表格",
+      "API",
+      "协作工具",
+      "开源替代品",
+      "内部工具"
+    ],
+    "summary": "APITable是一个面向API的低代码平台，用于构建协作应用，是Airtable的优秀开源替代品。它提供电子表格界面，支持自动API生成，可嵌入其他应用，适合构建内部工具和管理面板。",
+    "analyzed_at": "2025-11-18T19:20:30.111235+00:00"
+  },
+  {
+    "repo_full_name": "SheetJS/sheetjs",
+    "owner": "SheetJS",
+    "html_url": "https://github.com/SheetJS/sheetjs",
+    "description": "📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs",
+    "topics": [
+      "angular",
+      "bun",
+      "csv",
+      "data",
+      "database",
+      "deno",
+      "excel",
+      "grid",
+      "html",
+      "html5",
+      "ios",
+      "javascript",
+      "json",
+      "nodejs",
+      "react",
+      "spreadsheet",
+      "table",
+      "vue",
+      "xlsx",
+      "xml"
+    ],
+    "starred_at": "2023-02-01T11:20:25Z",
+    "category": "开发工具",
+    "tags": [
+      "spreadsheet",
+      "excel",
+      "data",
+      "javascript",
+      "csv",
+      ""
+    ],
+    "summary": "SheetJS是一个功能强大的电子表格数据处理工具包，支持Excel、CSV、JSON等多种格式，可在JavaScript环境中运行，兼容Angular、React、Vue等主流框架，方便开发者进行表格数据的读取、转换和导出操作。",
+    "analyzed_at": "2025-11-18T19:20:30.111235+00:00"
+  },
+  {
+    "repo_full_name": "moment/moment",
+    "owner": "moment",
+    "html_url": "https://github.com/moment/moment",
+    "description": "Parse, validate, manipulate, and display dates in javascript.",
+    "topics": [],
+    "starred_at": "2023-02-01T15:20:42Z",
+    "category": "开发工具",
+    "tags": [
+      "JavaScript",
+      "日期处理",
+      "时间库",
+      "日期解析",
+      "日期格式化"
+    ],
+    "summary": "Moment.js是一个轻量级的JavaScript日期处理库，可以解析、验证、操作和显示日期。它提供了强大的日期功能，是前端开发中处理日期时间的常用工具。",
+    "analyzed_at": "2025-11-18T19:20:30.111235+00:00"
+  },
+  {
+    "repo_full_name": "sun0day/dns-detector",
+    "owner": "sun0day",
+    "html_url": "https://github.com/sun0day/dns-detector",
+    "description": "A nodejs cli tool to resolve host's IPs",
+    "topics": [
+      "cli",
+      "dns",
+      "ip",
+      "nodejs",
+      "ping"
+    ],
+    "starred_at": "2023-02-06T01:07:05Z",
+    "category": "开发工具",
+    "tags": [
+      "CLI工具",
+      "网络工具",
+      "DNS解析",
+      "开发辅助",
+      "Node.js"
+    ],
+    "summary": "这是一个基于Node.js的命令行工具，用于解析主机IP地址。它可以帮助开发者快速查询域名对应的IP地址，进行网络诊断和连通性测试，是网络开发和调试的实用辅助工具。",
+    "analyzed_at": "2025-11-18T19:20:30.111235+00:00"
+  },
+  {
+    "repo_full_name": "BlinkDL/ChatRWKV",
+    "owner": "BlinkDL",
+    "html_url": "https://github.com/BlinkDL/ChatRWKV",
+    "description": "ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.",
+    "topics": [
+      "chatbot",
+      "chatgpt",
+      "language-model",
+      "pytorch",
+      "rnn",
+      "rwkv"
+    ],
+    "starred_at": "2023-02-06T01:08:39Z",
+    "category": "AI/机器学习",
+    "tags": [
+      "chatbot",
+      "language-model",
+      "rwkv",
+      "pytorch"
+    ],
+    "summary": "ChatRWKV是一个开源的聊天机器人项目，类似于ChatGPT，但使用RWKV（100% RNN）语言模型构建。它基于Pytorch实现，提供了一个可替代ChatGPT的开源AI对话解决方案。",
+    "analyzed_at": "2025-11-18T19:20:30.111235+00:00"
+  },
+  {
+    "repo_full_name": "chinanf-boy/tokei-zh",
+    "owner": "chinanf-boy",
+    "html_url": "https://github.com/chinanf-boy/tokei-zh",
+    "description": "🇨🇳翻译: <tokei> 代码信息的统计程序 ❤️ 校对 ✅",
+    "topics": [
+      "code-counter",
+      "docs",
+      "rust",
+      "zh"
+    ],
+    "starred_at": "2023-02-07T04:24:43Z",
+    "category": "开发工具",
+    "tags": [
+      "代码统计",
+      "翻译",
+      "Rust",
+      "文档"
+    ],
+    "summary": "tokei-zh是代码统计工具tokei的中文翻译项目，帮助开发者统计代码行数、文件数量等信息，支持多种编程语言分析。",
+    "analyzed_at": "2025-11-18T19:20:30.111235+00:00"
   }
 ]
